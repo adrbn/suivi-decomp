@@ -1,6 +1,144 @@
 {
 "history": [
 {
+"sha": "cb44d9b8ed514614a013c057332244eefa7c6069",
+"time": "2026-08-23T20:30:05Z",
+"message": "ObjectManager and SceneImpl progress",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "48128ac251dc9359e2742c02cc37a35d031a560c",
+"time": "2026-08-24T06:32:10Z",
+"message": "Merge pull request #7 from SephDB/namespaced-functions-from-SceneSpecializerPark",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "e75d1703d9bbd8d7b1b2c51fc502201f27157916",
+"time": "2026-08-24T18:09:21Z",
+"message": "Marked a ton of Module(Impl) constructors and vtables",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "276d96c360edfcdab921038d50e5a111e47a9475",
 "time": "2026-08-24T21:04:52Z",
 "message": "Named ModuleCache functions",

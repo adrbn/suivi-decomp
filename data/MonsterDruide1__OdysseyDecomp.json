@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "b244d2941f2fc8226501c95d7ccaf00b0b04bcb8",
+"time": "2026-09-22T18:58:45Z",
+"message": "workflow: Update `ubuntu` to `26.04` (#1372)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "0334e7a1a06e99702e453149d3472528d55de42b",
+"time": "2026-09-22T19:27:59Z",
+"message": "Library/Camera: Fix using `deg2rad` instead of `rad2deg` (#1375)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "57f61a5686e027017b2f32a0d5530c8fdba87a36",
+"time": "2026-09-22T20:17:29Z",
+"message": "workflow: Fix checking user on new PR (#1377)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "487bb082573209ff89e29b1520daffd5526381c2",
 "time": "2026-09-22T21:34:04Z",
 "message": "workflow: fix check for user on new PR (again) (#1380)",

@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "b6c7def3c9b3115664c10d368b0aa7ce67d3d4aa",
+"time": "2026-08-04T18:29:27Z",
+"message": "Merge pull request #60 from cristian64/go2d",
+"measures": {
+"matched_code_percent": 46.1376,
+"complete_code_percent": 40.4965,
+"matched_data_percent": 23.9835,
+"complete_data_percent": 31.2788,
+"total_code": 3222748.0,
+"matched_code": 1486900.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8596.0,
+"total_units": 807.0,
+"complete_units": 502.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.3241,
+"complete_code_percent": 32.9288,
+"matched_data_percent": 38.5606,
+"complete_data_percent": 46.427,
+"total_code": 2086116.0,
+"matched_code": 778624.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5349.0,
+"total_units": 371.0,
+"complete_units": 211.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "48900f216f59e522718f47f639c08d22142c338a",
+"time": "2026-08-04T18:31:21Z",
+"message": "Merge pull request #54 from joakim-d/reverse_k2dpicture",
+"measures": {
+"matched_code_percent": 46.2012,
+"complete_code_percent": 40.56,
+"matched_data_percent": 23.9852,
+"complete_data_percent": 31.2806,
+"total_code": 3222748.0,
+"matched_code": 1488948.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8600.0,
+"total_units": 807.0,
+"complete_units": 503.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.4223,
+"complete_code_percent": 33.0269,
+"matched_data_percent": 38.5645,
+"complete_data_percent": 46.4309,
+"total_code": 2086116.0,
+"matched_code": 780672.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5353.0,
+"total_units": 371.0,
+"complete_units": 212.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "fd0a5bcd05462b6513b852b4517abe861415ae70",
+"time": "2026-08-04T19:26:33Z",
+"message": "remove remainders from ppcdis era",
+"measures": {
+"matched_code_percent": 46.2089,
+"complete_code_percent": 40.7867,
+"matched_data_percent": 23.9844,
+"complete_data_percent": 31.3033,
+"total_code": 3222748.0,
+"matched_code": 1489196.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8601.0,
+"total_units": 807.0,
+"complete_units": 504.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.4342,
+"complete_code_percent": 33.3771,
+"matched_data_percent": 38.5626,
+"complete_data_percent": 46.4824,
+"total_code": 2086116.0,
+"matched_code": 780920.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5354.0,
+"total_units": 371.0,
+"complete_units": 213.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "7a53e8d57fc8c01467d95227f6fe8aae4ccbbaaf",
 "time": "2026-08-04T19:41:18Z",
 "message": "Use correct asser macro in JugemVoidRod",

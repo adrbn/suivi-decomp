@@ -1,6 +1,144 @@
 {
 "history": [
 {
+"sha": "2e495c0b344ff59056fa683d198248a476c791e9",
+"time": "2026-08-23T23:24:55Z",
+"message": "Match and link `dEnBoss_c` (#107)",
+"measures": {
+"matched_code_percent": 8.4896,
+"complete_code_percent": 8.503,
+"matched_data_percent": 2.1986,
+"complete_data_percent": 3.7965,
+"total_code": 6263212.0,
+"matched_code": 531720.0,
+"total_data": 2210852.0,
+"total_functions": 39971.0,
+"matched_functions": 3836.0,
+"total_units": 1809.0,
+"complete_units": 129.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 16.2861,
+"complete_code_percent": 16.3147,
+"matched_data_percent": 2.816,
+"complete_data_percent": 5.0896,
+"total_code": 2953440.0,
+"matched_code": 481000.0,
+"total_data": 1319472.0,
+"total_functions": 16467.0,
+"matched_functions": 3446.0,
+"total_units": 734.0,
+"complete_units": 105.0
+},
+"modules": {
+"matched_code_percent": 1.5324,
+"complete_code_percent": 1.5324,
+"matched_data_percent": 1.2847,
+"complete_data_percent": 1.8825,
+"total_code": 3309772.0,
+"matched_code": 50720.0,
+"total_data": 891380.0,
+"total_functions": 23504.0,
+"matched_functions": 390.0,
+"total_units": 1075.0,
+"complete_units": 24.0
+}
+}
+},
+{
+"sha": "549105aeec1adda64044c35bc22efad8bba69f27",
+"time": "2026-08-25T04:28:24Z",
+"message": "Decompile `dCollectionCoinBase_c` (#119)",
+"measures": {
+"matched_code_percent": 8.5057,
+"complete_code_percent": 8.5191,
+"matched_data_percent": 2.2163,
+"complete_data_percent": 3.8146,
+"total_code": 6263212.0,
+"matched_code": 532728.0,
+"total_data": 2210852.0,
+"total_functions": 39971.0,
+"matched_functions": 3846.0,
+"total_units": 1813.0,
+"complete_units": 130.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 16.2861,
+"complete_code_percent": 16.3147,
+"matched_data_percent": 2.816,
+"complete_data_percent": 5.0896,
+"total_code": 2953440.0,
+"matched_code": 481000.0,
+"total_data": 1319472.0,
+"total_functions": 16467.0,
+"matched_functions": 3446.0,
+"total_units": 734.0,
+"complete_units": 105.0
+},
+"modules": {
+"matched_code_percent": 1.5629,
+"complete_code_percent": 1.5629,
+"matched_data_percent": 1.3287,
+"complete_data_percent": 1.9273,
+"total_code": 3309772.0,
+"matched_code": 51728.0,
+"total_data": 891380.0,
+"total_functions": 23504.0,
+"matched_functions": 400.0,
+"total_units": 1079.0,
+"complete_units": 25.0
+}
+}
+},
+{
+"sha": "e38f90d66e8bbfa73488c7b4ea15c2c2b2a7ec1f",
+"time": "2026-08-25T15:11:30Z",
+"message": "Decompile `daBullet_c` (#118)",
+"measures": {
+"matched_code_percent": 8.6139,
+"complete_code_percent": 8.6273,
+"matched_data_percent": 2.2426,
+"complete_data_percent": 3.8876,
+"total_code": 6263204.0,
+"matched_code": 539504.0,
+"total_data": 2210852.0,
+"total_functions": 39970.0,
+"matched_functions": 3918.0,
+"total_units": 1816.0,
+"complete_units": 131.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 16.5156,
+"complete_code_percent": 16.5441,
+"matched_data_percent": 2.8599,
+"complete_data_percent": 5.2118,
+"total_code": 2953432.0,
+"matched_code": 487776.0,
+"total_data": 1319472.0,
+"total_functions": 16466.0,
+"matched_functions": 3518.0,
+"total_units": 737.0,
+"complete_units": 106.0
+},
+"modules": {
+"matched_code_percent": 1.5629,
+"complete_code_percent": 1.5629,
+"matched_data_percent": 1.3287,
+"complete_data_percent": 1.9273,
+"total_code": 3309772.0,
+"matched_code": 51728.0,
+"total_data": 891380.0,
+"total_functions": 23504.0,
+"matched_functions": 400.0,
+"total_units": 1079.0,
+"complete_units": 25.0
+}
+}
+},
+{
 "sha": "2e010f8708d8232c736b1ece507400dfd76aaa9c",
 "time": "2026-08-26T10:54:55Z",
 "message": "Decompile `dScRestartCrsin_c` (#120)",

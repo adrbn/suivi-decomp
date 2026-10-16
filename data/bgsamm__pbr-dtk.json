@@ -1,6 +1,150 @@
 {
 "history": [
 {
+"sha": "4c5597ba34b60296db70ca8cf21af4a64e63c3ad",
+"time": "2026-08-25T23:13:36Z",
+"message": "Clean-up, formatting, & GSrender progress",
+"measures": {
+"matched_code_percent": 1.5308,
+"complete_code_percent": 0.7432,
+"matched_data_percent": 0.2684,
+"complete_data_percent": 0.1346,
+"total_code": 4045236.0,
+"matched_code": 61924.0,
+"total_data": 2495956.0,
+"total_functions": 13890.0,
+"matched_functions": 420.0,
+"total_units": 317.0,
+"complete_units": 24.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 34.2074,
+"complete_code_percent": 16.8038,
+"matched_data_percent": 89.9341,
+"complete_data_percent": 72.4365,
+"total_code": 148728.0,
+"matched_code": 50876.0,
+"total_data": 4252.0,
+"total_functions": 819.0,
+"matched_functions": 366.0,
+"total_units": 51.0,
+"complete_units": 20.0
+},
+"runtime": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 112.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 2.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 45.9088,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 11048.0,
+"matched_code": 11048.0,
+"total_data": 2872.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 5.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.2028,
+"complete_data_percent": 0.0,
+"total_code": 3851416.0,
+"matched_code": 0.0,
+"total_data": 1972.0,
+"total_functions": 12810.0,
+"matched_functions": 0.0,
+"total_units": 218.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "51aa7ad69edc6e9d874aaa2c8377c601e145487e",
+"time": "2026-08-25T23:41:21Z",
+"message": "Fixing some broken matches",
+"measures": {
+"matched_code_percent": 1.5737,
+"complete_code_percent": 0.7432,
+"matched_data_percent": 0.2684,
+"complete_data_percent": 0.1346,
+"total_code": 4045236.0,
+"matched_code": 63660.0,
+"total_data": 2495956.0,
+"total_functions": 13890.0,
+"matched_functions": 432.0,
+"total_units": 317.0,
+"complete_units": 24.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.3746,
+"complete_code_percent": 16.8038,
+"matched_data_percent": 89.9341,
+"complete_data_percent": 72.4365,
+"total_code": 148728.0,
+"matched_code": 52612.0,
+"total_data": 4252.0,
+"total_functions": 819.0,
+"matched_functions": 378.0,
+"total_units": 51.0,
+"complete_units": 20.0
+},
+"runtime": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 112.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 2.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 45.9088,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 11048.0,
+"matched_code": 11048.0,
+"total_data": 2872.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 5.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.2028,
+"complete_data_percent": 0.0,
+"total_code": 3851416.0,
+"matched_code": 0.0,
+"total_data": 1972.0,
+"total_functions": 12810.0,
+"matched_functions": 0.0,
+"total_units": 218.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "6615b84829621fb7977ba11e625946ce62388d0d",
 "time": "2026-09-06T16:12:40Z",
 "message": "Substantial progress on GSnull & related TUs",

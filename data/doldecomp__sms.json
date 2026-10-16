@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "aa6b68878eb410aa356e60aeb15041a94a9e4044",
+"time": "2026-10-15T14:00:12Z",
+"message": "MoveBG+MSound: fix rail block, fruit and watermelon conditions and sound port reset (#339)",
+"measures": {
+"matched_code_percent": 46.6563,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.4278,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1681352.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9755.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2048,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.1034,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1002512.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5957.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
+"sha": "916a0f55bbae1ecd0e7d339cfe04411656638a3b",
+"time": "2026-10-15T14:03:40Z",
+"message": "Camera+GC2D: fix notice angles, console panes, select menu and cameralib (#340)",
+"measures": {
+"matched_code_percent": 46.6563,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.4927,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1681352.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9755.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2048,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.1779,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1002512.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5957.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
+"sha": "84bca82fd92a3f77035079d1c86a4d58becd903d",
+"time": "2026-10-15T14:05:03Z",
+"message": "Enemy: fix base enemy, graph web, walker, shadow Mario and FeetInv logic (#341)",
+"measures": {
+"matched_code_percent": 46.6563,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.7735,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1681352.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9755.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2048,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.5003,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1002512.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5957.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
 "sha": "48944d4c5ade20805732ce0fb4db587af2e3c8a5",
 "time": "2026-10-15T16:04:37Z",
 "message": "Enemy: fix BossGesso, BossManta, BossEel, BossPakkun and BossHanachan (#343)",

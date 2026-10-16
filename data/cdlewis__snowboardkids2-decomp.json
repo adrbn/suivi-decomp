@@ -1,6 +1,72 @@
 {
 "history": [
 {
+"sha": "bdf19958c12a19f409259da884f54d0def1ec863",
+"time": "2026-07-21T04:47:44Z",
+"message": "Clarify Player struct layout and fields",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "342ce706f3794d8a23c4d352b17457a477a28ea8",
+"time": "2026-07-31T04:15:18Z",
+"message": "Consolidate model transition task structs",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "eaede997ac7847d860890bf587937db964fe9549",
 "time": "2026-08-03T17:52:17Z",
 "message": "Extract editable menu UI sprite sheet",

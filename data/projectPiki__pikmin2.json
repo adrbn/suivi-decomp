@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "077a94bc3cfec67f3d9f6892a84dc002ad95f44d",
+"time": "2026-09-27T12:32:55Z",
+"message": "link Ebisawa, pelletMgr",
+"measures": {
+"matched_code_percent": 97.0938,
+"complete_code_percent": 86.067,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 85.8581,
+"total_code": 4651476.0,
+"matched_code": 4516296.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24863.0,
+"total_units": 1153.0,
+"complete_units": 1104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.8504,
+"complete_code_percent": 84.0522,
+"matched_data_percent": 99.55,
+"complete_data_percent": 83.1628,
+"total_code": 3619576.0,
+"matched_code": 3505572.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19292.0,
+"total_units": 737.0,
+"complete_units": 697.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "e3e6f6f3b5e67bbcf052a170ffb085e511565c0a",
+"time": "2026-09-28T03:21:11Z",
+"message": "matched: routeMgr (#276)",
+"measures": {
+"matched_code_percent": 97.1385,
+"complete_code_percent": 86.2844,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 85.941,
+"total_code": 4651476.0,
+"matched_code": 4518372.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24864.0,
+"total_units": 1153.0,
+"complete_units": 1105.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.9077,
+"complete_code_percent": 84.3315,
+"matched_data_percent": 99.55,
+"complete_data_percent": 83.2641,
+"total_code": 3619576.0,
+"matched_code": 3507648.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19293.0,
+"total_units": 737.0,
+"complete_units": 698.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "d896d75129bfb5f38754c96fb3fc2ab5970aca3d",
+"time": "2026-09-29T02:06:23Z",
+"message": "geometry 58/59, linked: aiPrimitives, matMath (#277)",
+"measures": {
+"matched_code_percent": 97.3435,
+"complete_code_percent": 86.8531,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 86.0939,
+"total_code": 4651476.0,
+"matched_code": 4527908.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24874.0,
+"total_units": 1153.0,
+"complete_units": 1107.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 97.1712,
+"complete_code_percent": 85.0623,
+"matched_data_percent": 99.55,
+"complete_data_percent": 83.4511,
+"total_code": 3619576.0,
+"matched_code": 3517184.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19303.0,
+"total_units": 737.0,
+"complete_units": 700.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
 "sha": "1ad24f4e7e95442c32842c932a17acd609573304",
 "time": "2026-09-29T09:18:16Z",
 "message": "link JAudio, utilityU, geometry, others",
