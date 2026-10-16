@@ -1,0 +1,105 @@
+{
+"history": [
+{
+"sha": "6f19b732ff0d0568e5d9c7661547eed391948fce",
+"time": "2026-09-23T23:19:45Z",
+"message": "Library/Camera: Fix calls within `CameraPoseUpdater` (#1376)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "ab928805652554f949d0a07ee0e31392779ced3b",
+"time": "2026-09-24T12:21:10Z",
+"message": "tools: Update binary cache to `v1.2.6` (#1271)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "eaa97f554c6e04ba69a4bc9fa267a034a5ee770e",
+"time": "2026-09-24T14:07:34Z",
+"message": "workflow: Skip `curl` headers for `test-compile` (#1382)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "b24002564be3cff69e708fa7625276910fa31333",
+"time": "2026-09-29T08:37:14Z",
+"message": "MapObj: Implement `RiseMapPartsOld` (#1177)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "696db2ff5ed558b053c753de420504b8682f24b0",
+"time": "2026-09-29T21:17:14Z",
+"message": "MapObj: Implement `MoonWorldBell` (#1210)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+}
+],
+"branch": "master",
+"artifact": "1.0_report",
+"category_names": {},
+"units_time": "2026-09-29T21:17:14Z",
+"units": [],
+"workflow": 175908681
+}

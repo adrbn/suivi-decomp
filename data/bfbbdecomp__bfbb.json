@@ -1,0 +1,5843 @@
+{
+"history": [
+{
+"sha": "3e85465583a3cac35a23e949b618bcf6b6a61862",
+"time": "2026-07-29T01:54:45Z",
+"message": "zNPCTypeKingJelly: Additional Function and Data Matching (#767)",
+"measures": {
+"matched_code_percent": 37.4799,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 906644.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6394.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.9213,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 704940.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5448.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "9ae977bee87f1f34d961a7c4d1b832e23a2a30bf",
+"time": "2026-08-03T17:02:28Z",
+"message": "iSnd work (#769)",
+"measures": {
+"matched_code_percent": 37.5285,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 907820.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6400.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.9929,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 706116.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5454.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "d226f0aef52661a4eac30dd5436141d7afd39c3e",
+"time": "2026-08-03T17:41:38Z",
+"message": "zNPCTypeAmbient: make zNPCAmbient::PhysicsFlags const (#771)",
+"measures": {
+"matched_code_percent": 37.5288,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 907828.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6401.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.9934,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 706124.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5455.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8219bd8a4b02369cdb74910a73794a5f74e4fdb1",
+"time": "2026-08-04T17:07:51Z",
+"message": "Some small corrections  (#773)",
+"measures": {
+"matched_code_percent": 37.5463,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 908252.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6402.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.0192,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 706548.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5456.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "3e4d4582b31475d84fda0f7b455df86e3851876c",
+"time": "2026-08-04T18:25:38Z",
+"message": "Add missing `const`s to various method signatures (#772)",
+"measures": {
+"matched_code_percent": 37.55,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 908340.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6403.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.0246,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 706636.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5457.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "62fb3f636e7a6a85919c5bda0344442eeb937d2a",
+"time": "2026-08-07T00:05:03Z",
+"message": "Some bungee_state matches (#775)",
+"measures": {
+"matched_code_percent": 37.5573,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 908516.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6406.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.0353,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 706812.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5460.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "263b63f263435c5189f9cb48b13dba9ef64db3eb",
+"time": "2026-08-07T21:51:26Z",
+"message": "zEntTeleportBox: zEntTeleportBox_Init (#777)",
+"measures": {
+"matched_code_percent": 37.6621,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 911052.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6407.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.1897,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 709348.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5461.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "24d388c4d4f96c12efa339765a3f0afd31bdb0bf",
+"time": "2026-08-07T21:57:15Z",
+"message": "xShadow progress (#778)",
+"measures": {
+"matched_code_percent": 37.6671,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 911172.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6408.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.197,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 709468.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5462.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8563145379b431385aacc50da787f01dd450c685",
+"time": "2026-08-25T18:33:42Z",
+"message": "Some cleanup of zTalkBox before I moved on (#785)",
+"measures": {
+"matched_code_percent": 37.7021,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 912020.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6414.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.2487,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 710316.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5468.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8cd9e83c49a783eb99f1a591c0d84a87e24dc7fe",
+"time": "2026-08-26T19:34:30Z",
+"message": "zMainReadINI() 100% (#787)",
+"measures": {
+"matched_code_percent": 37.737,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4298,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 912864.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6415.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.3,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4383,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 711160.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5469.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "b623e476323b31f641657b0948e4680853d3c07a",
+"time": "2026-08-27T00:42:00Z",
+"message": "Boss Patrick (#781)",
+"measures": {
+"matched_code_percent": 38.0614,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.7053,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 920712.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6420.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.7779,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.7837,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 719008.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5474.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8fb1c232addcacf44932c10c4cede41b43f98f40",
+"time": "2026-08-29T14:10:37Z",
+"message": "Getting in some fun changes before the AIpocalypse (#789)",
+"measures": {
+"matched_code_percent": 38.0614,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.7053,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 920712.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6420.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.7779,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.7837,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 719008.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5474.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "GQPE78_report",
+"category_names": {
+"game": "Game Code",
+"sdk": "SDK Code",
+"msl": "MSL",
+"RW": "Renderware SDK",
+"bink": "Bink SDK"
+},
+"units_time": "2026-08-29T14:10:37Z",
+"units": [
+[
+"main/SB/Core/x/xAnim",
+15136,
+96.85,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xBase",
+356,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xbinio",
+4036,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xBound",
+3464,
+98.03,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCamera",
+14012,
+95.9,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xClimate",
+1772,
+81.79,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCollide",
+27004,
+95.92,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCollideFast",
+360,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCounter",
+872,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCutscene",
+7832,
+34.7,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xDebug",
+808,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEnt",
+15088,
+99.64,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEntDrive",
+3380,
+99.93,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEntMotion",
+11184,
+99.54,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEnv",
+236,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEvent",
+920,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xFFX",
+1280,
+94.3,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xFog",
+500,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xFont",
+26392,
+89.31,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xFX",
+25560,
+29.81,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xGroup",
+1232,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xhipio",
+2588,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHud",
+5756,
+93.04,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHudFontMeter",
+1396,
+52.89,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHudMeter",
+1804,
+76.62,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHudModel",
+760,
+98.95,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHudUnitMeter",
+1728,
+83.79,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xIni",
+1476,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xMath",
+3252,
+98.11,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xMath3",
+7324,
+96.13,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xMemMgr",
+2264,
+99.31,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xModel",
+4616,
+97.91,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xMorph",
+1120,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xMovePoint",
+1388,
+99.86,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xordarray",
+1136,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xPad",
+2780,
+68.8,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xPar",
+576,
+85.52,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParCmd",
+6300,
+81.63,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParGroup",
+1708,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParMgr",
+196,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xPartition",
+1800,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xpkrsvc",
+12792,
+98.76,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xQuickCull",
+1972,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xsavegame",
+10072,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xScene",
+9596,
+97.84,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xScrFx",
+5196,
+84.44,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xserializer",
+4428,
+88.33,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xSFX",
+2240,
+93.8,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xShadow",
+14648,
+19.78,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xSnd",
+6452,
+49.5,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xSpline",
+5924,
+79.0,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xstransvc",
+4364,
+99.5,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xString",
+3648,
+38.98,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xSurface",
+412,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xTimer",
+1212,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xTRC",
+1436,
+78.48,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xutil",
+1704,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xVec3",
+544,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zActionLine",
+720,
+82.36,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zAnimList",
+1036,
+95.73,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zAssetTypes",
+4112,
+98.22,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCamera",
+10588,
+57.29,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zConditional",
+796,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCutsceneMgr",
+3184,
+96.55,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zDispatcher",
+3356,
+96.16,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEGenerator",
+2556,
+97.4,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEnt",
+6384,
+99.87,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntButton",
+3360,
+98.47,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntCruiseBubble",
+38824,
+76.1,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntDestructObj",
+3672,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntHangable",
+4032,
+98.95,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntPickup",
+14916,
+61.73,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntPlayer",
+175224,
+60.96,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntSimpleObj",
+4588,
+78.74,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntTrigger",
+1708,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEnv",
+984,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEvent",
+20,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zFeet",
+224,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zFMV",
+304,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zFX",
+18316,
+58.56,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGame",
+8664,
+67.67,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGameExtras",
+4772,
+97.72,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGameState",
+1068,
+98.5,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGust",
+2356,
+92.8,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zHud",
+2428,
+84.84,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zLasso",
+8236,
+46.73,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zLight",
+2116,
+96.38,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zLightEffect",
+1032,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zLightning",
+12448,
+48.97,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zLOD",
+2440,
+68.22,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zMain",
+14688,
+72.3,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zMenu",
+3064,
+96.78,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zMovePoint",
+676,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zMusic",
+3624,
+93.08,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zParCmd",
+2856,
+94.53,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zParEmitter",
+124,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zPendulum",
+1416,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zPickupTable",
+216,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zPlatform",
+14808,
+99.52,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zPortal",
+328,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zRenderState",
+1016,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zRumble",
+1068,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zSaveLoad",
+14364,
+98.05,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zScene",
+18432,
+98.34,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zScript",
+968,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zSurface",
+4920,
+99.48,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zThrown",
+11664,
+10.93,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zUI",
+11936,
+96.56,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zUIFont",
+3160,
+97.46,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zVar",
+4800,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zVolume",
+1412,
+93.34,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iAnim",
+1996,
+99.61,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iAnimSKB",
+3960,
+35.3,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/iCamera",
+3048,
+65.22,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iCollide",
+8472,
+95.05,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iCollideFast",
+4,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iDraw",
+112,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iEnv",
+1108,
+98.88,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iFile",
+1688,
+92.87,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iFMV",
+3556,
+96.42,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iFX",
+888,
+0.63,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iLight",
+856,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iMath",
+204,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iMath3",
+5192,
+96.04,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iMemMgr",
+328,
+73.57,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iMix",
+5148,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iModel",
+7532,
+94.34,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iMorph",
+4848,
+94.22,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iPad",
+1484,
+99.08,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iParMgr",
+5884,
+12.92,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/isavegame",
+11620,
+99.36,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iScrFX",
+1504,
+97.52,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iSnd",
+14216,
+40.77,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iSystem",
+6256,
+99.58,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iTime",
+240,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/ngcrad3d",
+1704,
+14.64,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoals",
+88,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalCommon",
+876,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalStd",
+15916,
+78.06,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalRobo",
+80208,
+62.12,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalTiki",
+1508,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCMessenger",
+4332,
+98.46,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCMgr",
+2728,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypes",
+216,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeCommon",
+23584,
+98.8,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeRobot",
+57792,
+36.58,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeVillager",
+19316,
+98.61,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeAmbient",
+7656,
+65.91,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeTiki",
+14492,
+97.32,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xBehaveMgr",
+7280,
+96.45,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xBehaviour",
+256,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xBehaveGoalSimple",
+836,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xSkyDome",
+632,
+95.25,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xRMemData",
+384,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xFactory",
+1372,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xNPCBasic",
+2700,
+99.74,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntPlayerBungeeState",
+25296,
+47.65,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCollGeom",
+868,
+99.91,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParSys",
+3492,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParEmitter",
+4772,
+74.53,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xVolume",
+208,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xParEmitterType",
+7996,
+33.54,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xRenderState",
+176,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntPlayerOOBState",
+11124,
+90.99,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xClumpColl",
+6996,
+98.21,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xEntBoulder",
+11604,
+99.03,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xGrid",
+3576,
+94.28,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xJSP",
+1572,
+98.47,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xLightKit",
+1040,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCamMarker",
+264,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGoo",
+988,
+98.38,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zGrid",
+2744,
+93.31,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalScript",
+1296,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCSndTable",
+1752,
+89.5,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeDuplotron",
+4612,
+96.11,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xModelBucket",
+3924,
+97.02,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zShrapnel",
+11424,
+46.05,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalDuplotron",
+1908,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCSpawner",
+6528,
+90.21,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zEntTeleportBox",
+6112,
+83.74,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zBusStop",
+1244,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCSupport",
+10392,
+70.84,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zTalkBox",
+14396,
+99.09,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zTextBox",
+2916,
+95.35,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zTaskBox",
+2312,
+99.35,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iCutscene",
+2088,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeTest",
+980,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeSubBoss",
+652,
+97.65,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBoss",
+1180,
+98.37,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalVillager",
+9944,
+99.22,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalSubBoss",
+1400,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xShadowSimple",
+5048,
+48.36,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xUpdateCull",
+2452,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zDiscoFloor",
+8432,
+84.73,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBossSandy",
+38312,
+41.89,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeKingJelly",
+34432,
+46.53,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalBoss",
+2800,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypePrawn",
+22124,
+40.8,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBossSB1",
+8128,
+99.14,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBossSB2",
+37320,
+44.07,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xJaw",
+484,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBossPatrick",
+35152,
+98.79,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeBossPlankton",
+31208,
+48.52,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zParPTank",
+7096,
+96.58,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zTaxi",
+1584,
+99.63,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCTypeDutchman",
+39484,
+42.52,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCameraFly",
+532,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCurveAsset",
+364,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xDecal",
+4388,
+91.23,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xLaserBolt",
+6496,
+73.9,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCameraTweak",
+1852,
+77.84,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xPtankPool",
+2648,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/SB/Core/gc/iTRC",
+3356,
+99.86,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCSupplement",
+21784,
+36.09,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGlyph",
+5060,
+98.47,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCHazard",
+34708,
+51.68,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCGoalAmbient",
+4540,
+49.44,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zNPCFXCinematic",
+17576,
+23.57,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xHudText",
+1252,
+99.36,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Game/zCombo",
+1756,
+94.27,
+0,
+[
+"game"
+]
+],
+[
+"main/SB/Core/x/xCM",
+2200,
+91.31,
+0,
+[
+"game"
+]
+],
+[
+"main/bink/src/sdk/decode/ngc/binkngc",
+1268,
+35.96,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/ngc/ngcsnd",
+5340,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/binkread",
+16732,
+7.87,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/ngc/ngcfile",
+2784,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/yuv",
+29376,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/binkacd",
+3300,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/shared/time/radcb",
+1764,
+63.04,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/expand",
+13964,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/popmal",
+408,
+3.92,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/ngc/ngcrgb",
+12100,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/decode/ngc/ngcyuy2",
+3340,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/varbits",
+484,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/fft",
+17124,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/dct",
+4308,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/bink/src/sdk/bitplane",
+13356,
+0.0,
+0,
+[
+"bink"
+]
+],
+[
+"main/dolphin/src/ai/ai",
+2276,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/amcstubs/AmcExi2Stubs",
+48,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ar/ar",
+6976,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ar/arq",
+1212,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AX",
+164,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXAlloc",
+1224,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXAux",
+1160,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXCL",
+1820,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXOut",
+2000,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXSPB",
+1224,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXVPB",
+4640,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/ax/AXProf",
+72,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/base/PPCArch",
+276,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDBios",
+5104,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDUnlock",
+4704,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDRdwr",
+664,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDBlock",
+1028,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDDir",
+612,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDCheck",
+4036,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDMount",
+2752,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDFormat",
+2104,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDOpen",
+1776,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDCreate",
+920,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDRead",
+1140,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDWrite",
+820,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDDelete",
+508,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDStat",
+1224,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDStatEx",
+832,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/card/CARDNet",
+300,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/db/db",
+236,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dsp/dsp",
+656,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dsp/dsp_debug",
+80,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dsp/dsp_task",
+2180,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvdlow",
+3652,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvdfs",
+2468,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvd",
+10776,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvdqueue",
+504,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvderror",
+408,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvdidutils",
+248,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/dvdFatal",
+48,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/dvd/emu_level2/fstload",
+576,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/exi/EXIBios",
+6620,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/exi/EXIUart",
+1492,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXInit",
+4984,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXFifo",
+2044,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXAttr",
+3412,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXMisc",
+1768,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXGeometry",
+896,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXFrameBuf",
+2972,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXLight",
+1556,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXTexture",
+4612,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXBump",
+1192,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXTev",
+1892,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXPixel",
+1608,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXDisplayList",
+112,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXTransform",
+1428,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/gx/GXPerf",
+2136,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/mtx/mtx",
+288,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/mtx/mtx44",
+152,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/odenotstub/odenotstub",
+8,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OS",
+2796,
+99.99,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSAlarm",
+1836,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSAlloc",
+784,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSArena",
+32,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSAudioSystem",
+660,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSCache",
+1080,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSContext",
+1972,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSError",
+1708,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSFont",
+3424,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSInterrupt",
+2156,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSLink",
+24,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSMemory",
+728,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSMutex",
+112,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSReboot",
+860,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSReset",
+1060,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSResetSW",
+908,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSRtc",
+2976,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSSync",
+132,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSThread",
+3904,
+99.99,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/OSTime",
+1148,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/init/__start",
+772,
+0.52,
+0,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/os/init/__ppc_eabi_init",
+236,
+62.71,
+0,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/pad/Padclamp",
+580,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/pad/Pad",
+6864,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/si/SIBios",
+5872,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/si/SISamplingRate",
+264,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/src/vi/vi",
+7696,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/PPC_EABI/abort_exit",
+396,
+80.39,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/alloc",
+5676,
+6.84,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/ansi_files",
+784,
+32.04,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/ansi_fp",
+13788,
+17.61,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/arith",
+16,
+55.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/buffer_io",
+812,
+19.98,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/char_io",
+1184,
+0.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/PPC_EABI/critical_regions.gamecube",
+12,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/ctype",
+60,
+11.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/direct_io",
+1876,
+39.63,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/file_io",
+1728,
+24.19,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/FILE_POS",
+848,
+63.47,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/mbstring",
+804,
+49.58,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/mem",
+368,
+29.91,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/mem_funcs",
+720,
+78.71,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/misc_io",
+40,
+60.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/printf",
+8512,
+76.3,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/qsort",
+364,
+0.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/rand",
+32,
+85.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/scanf",
+4168,
+73.71,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/signal",
+192,
+70.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/string",
+1228,
+32.46,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/strtold",
+4248,
+30.97,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/strtoul",
+2116,
+68.24,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/uart_console_io_gcn",
+204,
+69.61,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/wchar_io",
+136,
+56.88,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_acos",
+784,
+55.07,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_asin",
+612,
+61.69,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_atan2",
+656,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_exp",
+548,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_fmod",
+828,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log",
+636,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_pow",
+2228,
+94.06,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_rem_pio2",
+928,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_cos",
+244,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_rem_pio2",
+3668,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_sin",
+160,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_tan",
+532,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_atan",
+536,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ceil",
+324,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign",
+40,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_cos",
+212,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_floor",
+328,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_frexp",
+140,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ldexp",
+452,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf",
+252,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_sin",
+216,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_tan",
+120,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_acos",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_asin",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_atan2",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_exp",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_fmod",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_log",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_pow",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/PPC_EABI/math_ppc",
+244,
+100.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/MSL_C/MSL_Common/extras",
+280,
+51.43,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/__va_arg",
+200,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/Runtime/global_destructor_chain",
+72,
+100.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/CPlusLibPPC",
+48,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/Runtime/New",
+204,
+0.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/NMWException",
+1140,
+13.46,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/runtime",
+1936,
+99.17,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/__init_cpp_exceptions",
+124,
+100.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/Gecko_ExceptionPPC",
+5176,
+80.59,
+0,
+[
+"msl"
+]
+],
+[
+"main/Runtime/GCN_mem_alloc",
+368,
+50.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/mainloop",
+248,
+95.81,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/nubevent",
+552,
+100.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/nubinit",
+388,
+69.35,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/msg",
+476,
+8.24,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/msgbuf",
+3036,
+77.77,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/serpoll",
+972,
+30.21,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Os/dolphin/usr_put",
+140,
+5.71,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/dispatch",
+156,
+87.69,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/msghndlr",
+10336,
+94.86,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/support",
+2240,
+50.2,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/mutex_TRK",
+24,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/notify",
+216,
+99.87,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Processor/ppc/Generic/flush_cache",
+56,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/Runtime/__mem",
+312,
+0.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/mem_TRK",
+268,
+68.66,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Processor/ppc/Generic/targimpl",
+7032,
+65.04,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Processor/ppc/Export/targsupp",
+32,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Processor/ppc/Generic/__exception",
+7988,
+100.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk",
+636,
+46.16,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Processor/ppc/Generic/mpc_7xx_603e",
+888,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Portable/main_TRK",
+68,
+81.18,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk_glue",
+1296,
+62.68,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Os/dolphin/targcont",
+52,
+100.0,
+1,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Os/dolphin/target_options",
+28,
+0.0,
+0,
+[
+"msl"
+]
+],
+[
+"main/debugger/embedded/MetroTRK/Export/mslsupp",
+1436,
+16.14,
+0,
+[
+"msl"
+]
+],
+[
+"main/dolphin/src/OdemuExi2/DebuggerDriver",
+2688,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctgeom",
+5372,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctworld",
+5252,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctbsp",
+3468,
+0.12,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/collis/rpcollis",
+1260,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/hanim/stdkey",
+3340,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/hanim/rphanim",
+2620,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/effectPipesGcn",
+10240,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcnData",
+3024,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcnPipe",
+9344,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcn",
+104,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/multiTex",
+2640,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/multiTexEffect",
+2796,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/matfx/rpmatfx",
+9732,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/rpptank",
+4096,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn",
+268,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcncallbacks",
+1528,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcnrender",
+1264,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_ppm",
+964,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_ppm",
+964,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_cs_nr",
+968,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_cs_nr",
+1036,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_pps_nr",
+984,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_pps_nr",
+1020,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_cs_ppr",
+1132,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_cs_ppr",
+1128,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_pps_ppr",
+1092,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_pps_ppr",
+1120,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/bsplit",
+820,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/rpskin",
+4556,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcn",
+5596,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skinstream",
+1680,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/instance/instanceskin",
+7776,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skinmatrixblend",
+508,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcnasm",
+2096,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcng",
+184,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/plugin/userdata/rpusrdat",
+4596,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/babinwor",
+5232,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/baclump",
+12316,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/bageomet",
+8760,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/balight",
+1996,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/bamateri",
+2612,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/bamatlst",
+2828,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/bamesh",
+2772,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/bameshop",
+10120,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/basector",
+220,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/baworld",
+5772,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/baworobj",
+7048,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/bapipew",
+256,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gcpipe",
+688,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/vtxfmt",
+1372,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/wrldpipe",
+564,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/nodeGameCubeAtomicAllInOne",
+2308,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/nodeGameCubeWorldSectorAllInOne",
+992,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gclights",
+1628,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gcmorph",
+640,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/native",
+2092,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/setup",
+2640,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/geomcond",
+3144,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/geominst",
+17188,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/ibuffer",
+1108,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/instancegeom",
+4976,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/instanceworld",
+5052,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/itools",
+5564,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/vbuffer",
+2112,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/vtools",
+1352,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/instance/vtxdesc",
+2136,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/tool/anim/rtanim",
+504,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/tool/intsec/rtintsec",
+5596,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/tool/slerp/rtslerp",
+1016,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/babinary",
+2980,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bacolor",
+40,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/baerr",
+348,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bafsys",
+296,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/baimmedi",
+296,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bamatrix",
+6228,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bamemory",
+2824,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/baresour",
+2132,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bastream",
+2524,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/batkbin",
+1456,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/batkreg",
+1552,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/bavector",
+2132,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/resmem",
+588,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/plcore/rwstring",
+704,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/os/gcn/osintf",
+88,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/babbox",
+348,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/babincam",
+408,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/babinfrm",
+1008,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/babintex",
+5296,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/bacamera",
+6492,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/badevice",
+2944,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/baframe",
+3380,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/baimage",
+8000,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/baimras",
+388,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/baraster",
+1408,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/baresamp",
+3248,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/basync",
+2252,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/batextur",
+8352,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/batypehf",
+156,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/common/palquant",
+10084,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dl2drend",
+5752,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlconvrt",
+8028,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dldevice",
+6664,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlraster",
+7552,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlrendst",
+3280,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlsprite",
+5572,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltexdic",
+1532,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltextur",
+3060,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltoken",
+160,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/baim3d",
+2220,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/bapipe",
+128,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2altmdl",
+172,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2core",
+1720,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2define",
+6952,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2dep",
+5668,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2heap",
+2128,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2renderstate",
+736,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2resort",
+1204,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/gcn/im3dpipe",
+592,
+0.0,
+0,
+[
+"RW"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/gcn/nodeDolphinSubmitNoLight",
+3184,
+0.0,
+0,
+[
+"RW"
+]
+]
+],
+"workflow": 4672088
+}

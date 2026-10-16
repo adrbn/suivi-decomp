@@ -1,0 +1,2252 @@
+{
+"history": [
+{
+"sha": "86e5db8ed38843a90344a69d0318bb5e64e99ca4",
+"time": "2026-08-10T17:42:38Z",
+"message": "Match more SDK functions",
+"measures": {
+"matched_code_percent": 31.8685,
+"complete_code_percent": 7.6754,
+"matched_data_percent": 1.5284,
+"complete_data_percent": 0.1471,
+"total_code": 816480.0,
+"matched_code": 260200.0,
+"total_data": 7143468.0,
+"total_functions": 2265.0,
+"matched_functions": 1259.0,
+"total_units": 277.0,
+"complete_units": 55.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 53.6727,
+"complete_code_percent": 14.3347,
+"matched_data_percent": 5.7353,
+"complete_data_percent": 0.4183,
+"total_code": 418872.0,
+"matched_code": 224820.0,
+"total_data": 1854116.0,
+"total_functions": 1585.0,
+"matched_functions": 1043.0,
+"total_units": 222.0,
+"complete_units": 52.0
+},
+"modules": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.0537,
+"complete_data_percent": 0.052,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 5289352.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 55.0,
+"complete_units": 3.0
+},
+"game": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.5347,
+"complete_data_percent": 0.5181,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 531128.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 33.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 79.8844,
+"complete_code_percent": 29.5405,
+"matched_data_percent": 31.7491,
+"complete_data_percent": 19.0412,
+"total_code": 163992.0,
+"matched_code": 131004.0,
+"total_data": 19358.0,
+"total_functions": 705.0,
+"matched_functions": 585.0,
+"total_units": 86.0,
+"complete_units": 44.0
+},
+"musyx": {
+"matched_code_percent": 64.2241,
+"complete_code_percent": 0.0,
+"matched_data_percent": 53.7931,
+"complete_data_percent": 1.058,
+"total_code": 113160.0,
+"matched_code": 72676.0,
+"total_data": 182224.0,
+"total_functions": 343.0,
+"matched_functions": 309.0,
+"total_units": 30.0,
+"complete_units": 1.0
+}
+}
+},
+{
+"sha": "afd27c57976339452bb4810d2c6d6c299956b726",
+"time": "2026-08-10T20:32:35Z",
+"message": "Match AI, DEMO, DB, PAD",
+"measures": {
+"matched_code_percent": 31.1929,
+"complete_code_percent": 7.6754,
+"matched_data_percent": 1.5866,
+"complete_data_percent": 0.1471,
+"total_code": 816480.0,
+"matched_code": 254684.0,
+"total_data": 7143468.0,
+"total_functions": 2264.0,
+"matched_functions": 1227.0,
+"total_units": 272.0,
+"complete_units": 55.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 52.3558,
+"complete_code_percent": 14.3347,
+"matched_data_percent": 5.9595,
+"complete_data_percent": 0.4183,
+"total_code": 418872.0,
+"matched_code": 219304.0,
+"total_data": 1854116.0,
+"total_functions": 1584.0,
+"matched_functions": 1011.0,
+"total_units": 217.0,
+"complete_units": 52.0
+},
+"modules": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.0537,
+"complete_data_percent": 0.052,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 5289352.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 55.0,
+"complete_units": 3.0
+},
+"game": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.5347,
+"complete_data_percent": 0.5181,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 531128.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 33.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 76.0083,
+"complete_code_percent": 29.3885,
+"matched_data_percent": 30.7071,
+"complete_data_percent": 18.3804,
+"total_code": 164840.0,
+"matched_code": 125292.0,
+"total_data": 20054.0,
+"total_functions": 712.0,
+"matched_functions": 553.0,
+"total_units": 88.0,
+"complete_units": 44.0
+},
+"musyx": {
+"matched_code_percent": 64.3973,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.0476,
+"complete_data_percent": 1.0577,
+"total_code": 113160.0,
+"matched_code": 72872.0,
+"total_data": 182288.0,
+"total_functions": 342.0,
+"matched_functions": 309.0,
+"total_units": 30.0,
+"complete_units": 1.0
+}
+}
+},
+{
+"sha": "82289b50d1aef179e8eaf94cf3b798e9732f9add",
+"time": "2026-08-10T22:21:47Z",
+"message": "Match more GX",
+"measures": {
+"matched_code_percent": 32.841,
+"complete_code_percent": 7.6754,
+"matched_data_percent": 1.5968,
+"complete_data_percent": 0.1471,
+"total_code": 816480.0,
+"matched_code": 268140.0,
+"total_data": 7143468.0,
+"total_functions": 2264.0,
+"matched_functions": 1296.0,
+"total_units": 272.0,
+"complete_units": 55.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 55.5683,
+"complete_code_percent": 14.3347,
+"matched_data_percent": 5.9988,
+"complete_data_percent": 0.4183,
+"total_code": 418872.0,
+"matched_code": 232760.0,
+"total_data": 1854116.0,
+"total_functions": 1584.0,
+"matched_functions": 1080.0,
+"total_units": 217.0,
+"complete_units": 52.0
+},
+"modules": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.0537,
+"complete_data_percent": 0.052,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 5289352.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 55.0,
+"complete_units": 3.0
+},
+"game": {
+"matched_code_percent": 8.8982,
+"complete_code_percent": 0.6599,
+"matched_data_percent": 0.5347,
+"complete_data_percent": 0.5181,
+"total_code": 397608.0,
+"matched_code": 35380.0,
+"total_data": 531128.0,
+"total_functions": 680.0,
+"matched_functions": 216.0,
+"total_units": 33.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 84.1713,
+"complete_code_percent": 29.3885,
+"matched_data_percent": 33.7913,
+"complete_data_percent": 18.0881,
+"total_code": 164840.0,
+"matched_code": 138748.0,
+"total_data": 20378.0,
+"total_functions": 712.0,
+"matched_functions": 622.0,
+"total_units": 89.0,
+"complete_units": 44.0
+},
+"musyx": {
+"matched_code_percent": 64.3973,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.0476,
+"complete_data_percent": 1.0577,
+"total_code": 113160.0,
+"matched_code": 72872.0,
+"total_data": 182288.0,
+"total_functions": 342.0,
+"matched_functions": 309.0,
+"total_units": 30.0,
+"complete_units": 1.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "GPZJ01_report",
+"category_names": {
+"dol": "DOL",
+"modules": "Modules",
+"game": "Game Code",
+"sdk": "SDK Code",
+"musyx": "MusyX"
+},
+"units_time": "2026-08-10T22:21:47Z",
+"units": [
+[
+"main/game/main",
+1684,
+47.94,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_80006E14_text",
+2104,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/ticktimer",
+124,
+69.94,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_800076C8_text",
+12048,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/n642Dolphin",
+64,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8000A618_text",
+5160,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/texture",
+1656,
+8.16,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8000C0B8_text",
+960,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/nu/nusys",
+19116,
+9.72,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/coss",
+36,
+100.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_80010F48_text",
+956,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/mtxcatl",
+104,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/mtxcatf",
+612,
+72.78,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/mtxutil",
+1328,
+63.54,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/normalize",
+208,
+16.62,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/ortho",
+464,
+53.08,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/perspective",
+476,
+56.15,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/rotate",
+456,
+63.89,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/rotaterpy",
+300,
+86.27,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/scale",
+124,
+40.97,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/sins",
+92,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/translate",
+108,
+42.41,
+0,
+[
+"dol"
+]
+],
+[
+"main/libultra/gu/us2dex_emu",
+72,
+100.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/memory",
+164,
+99.15,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/sys",
+13348,
+11.61,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/sys2",
+15632,
+43.27,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/GCGBA",
+68,
+100.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/GCGBA2",
+244,
+100.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/gc2",
+1524,
+48.61,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/gc3",
+2048,
+19.5,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8001A500_text",
+304,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/util",
+288,
+71.4,
+0,
+[
+"dol"
+]
+],
+[
+"main/game/unzip",
+688,
+3.8,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8001AA00_text",
+4724,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/musyx/runtime/seq",
+14036,
+93.18,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synth",
+12644,
+99.92,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/seq_api",
+552,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd_synthapi",
+1992,
+99.8,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/stream",
+2836,
+88.24,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synthdata",
+7592,
+99.76,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synthmacros",
+15272,
+99.4,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synthvoice",
+6500,
+99.96,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synth_ac",
+300,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synth_adsr",
+1708,
+99.63,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/synth_vsamples",
+1896,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/s_data",
+2100,
+88.17,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hw_dspctrl",
+14240,
+99.31,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hw_volconv",
+1944,
+83.56,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd3d",
+6024,
+99.78,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd_init",
+304,
+99.97,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd_math",
+352,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd_midictrl",
+6988,
+89.9,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/snd_service",
+388,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hardware",
+3988,
+99.89,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hw_aramdma",
+1828,
+97.14,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hw_dolphin",
+1168,
+99.98,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/hw_memory",
+84,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/CheapReverb/creverb_fx",
+188,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/CheapReverb/creverb",
+2224,
+98.96,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/StdReverb/reverb_fx",
+192,
+100.0,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/StdReverb/reverb",
+3396,
+60.88,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/musyx/runtime/Chorus/chorus_fx",
+2424,
+96.5,
+0,
+[
+"dol",
+"musyx"
+]
+],
+[
+"main/Runtime/__va_arg",
+244,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/Runtime/global_destructor_chain",
+72,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/auto_03_800377B8_text",
+448,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/Runtime/runtime",
+1692,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/Runtime/__init_cpp_exceptions",
+124,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/auto_03_80038090_text",
+3200,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/Runtime/__mem",
+324,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/mem_TRK",
+272,
+30.88,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_80038DCC_text",
+4,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/MSL_C.PPCEABI.bare.H/printf",
+6864,
+27.04,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8003A8A0_text",
+4516,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_fn_8003BA44_text",
+48,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8003BA74_text",
+1856,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/mainloop",
+360,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/nubevent",
+320,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/nubinit",
+532,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8003C670_text",
+9088,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/flush_cache",
+56,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/auto_03_8003EA28_text",
+196,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/targimpl",
+5596,
+99.98,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/__exception",
+7988,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/dolphin_trk",
+608,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/auto_03_80040308_text",
+888,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/main_TRK",
+72,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/dolphin_trk_glue",
+192,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/auto_03_80040788_text",
+716,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/dolphin/GBA/GBA",
+608,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBAGetProcessStatus",
+372,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBAJoyBoot",
+3780,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBARead",
+352,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBAWrite",
+392,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBAXfer",
+824,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/GBA/GBAKey",
+616,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/auto_03_80042574_text",
+228,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/dolphin/os/OS",
+2376,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSAlarm",
+3380,
+50.65,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSArena",
+32,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSAudioSystem",
+660,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSCache",
+1124,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSContext",
+2160,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSError",
+1708,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSFont",
+3424,
+32.77,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSInterrupt",
+2156,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSLink",
+2540,
+99.69,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSMemory",
+736,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSMutex",
+112,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSReboot",
+860,
+35.43,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSReset",
+996,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSResetSW",
+908,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/OSRtc",
+2896,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/auto_03_80048C2C_text",
+6352,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/dolphin/os/__start",
+596,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/os/__ppc_eabi_init",
+232,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/exi/EXIBios",
+6508,
+66.65,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/exi/EXIUart",
+660,
+98.39,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/si/SIBios",
+6224,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/si/SISamplingRate",
+264,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/db",
+236,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/mtx/mtx",
+1352,
+93.54,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/mtx/mtx44vec",
+516,
+0.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/mtx/vec",
+128,
+0.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvdlow",
+3648,
+98.52,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvdfs",
+2164,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvd",
+10336,
+95.81,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvdqueue",
+504,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvderror",
+408,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvdidutils",
+248,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/dvdfatal",
+48,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dvd/fstload",
+576,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/vi",
+7936,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/demo/DEMOInit",
+2172,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/demo/DEMOPuts",
+1532,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/demo/DEMOPad",
+612,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/demo/DEMOStats",
+3416,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/pad/PadClamp",
+580,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/pad/pad",
+6700,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/ai",
+2252,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/ar/ar",
+6876,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/ar/arq",
+932,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dsp/dsp",
+384,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dsp/dsp_debug",
+80,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/dsp/dsp_task",
+2180,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDBios",
+4788,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDUnlock",
+4704,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDRdwr",
+640,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDBlock",
+1028,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDDir",
+612,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDCheck",
+3944,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDMount",
+2752,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDFormat",
+2032,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDOpen",
+1108,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDCreate",
+920,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDRead",
+1144,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDWrite",
+892,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDDelete",
+508,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/card/CARDStat",
+1248,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXInit",
+4560,
+99.77,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXFifo",
+2332,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXAttr",
+4464,
+99.13,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXMisc",
+1524,
+98.94,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXGeometry",
+944,
+98.33,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXFrameBuf",
+3356,
+91.26,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXLight",
+1520,
+93.99,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXTexture",
+4024,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXBump",
+888,
+91.58,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXTev",
+1788,
+88.83,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXPixel",
+1596,
+83.4,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXDisplayList",
+112,
+100.0,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXTransform",
+1444,
+93.4,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/dolphin/gx/GXPerf",
+4152,
+98.84,
+0,
+[
+"dol",
+"sdk"
+]
+],
+[
+"main/auto_03_80069B80_text",
+500,
+0.0,
+0,
+[
+"dol"
+]
+],
+[
+"main/OdemuExi2/DebuggerDriver",
+2688,
+100.0,
+1,
+[
+"dol"
+]
+],
+[
+"main/dolphin/amcstubs/AmcExi2Stubs",
+48,
+100.0,
+1,
+[
+"dol",
+"sdk"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/drmario_gc",
+584,
+25.35,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/drmario_gc_gc",
+904,
+76.95,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/main_story",
+21172,
+67.68,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/tex_func",
+1004,
+35.87,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/common/drmario_tex_func",
+17332,
+68.92,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/calcsub",
+2968,
+17.9,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/dm_title_main",
+2104,
+66.13,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/main",
+448,
+92.38,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/lws",
+1696,
+66.71,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/calc",
+952,
+100.0,
+1,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/dm_game_main",
+85104,
+80.61,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/joy",
+1288,
+35.89,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/sound",
+1880,
+51.5,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/dm_virus_init",
+5136,
+89.36,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/game_etc",
+13160,
+56.88,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/vr_init",
+1672,
+100.0,
+1,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/graphic",
+1204,
+63.68,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/font",
+6608,
+52.47,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/msgwnd",
+5204,
+88.95,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/char_anime",
+4048,
+92.72,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/record",
+13784,
+85.7,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/main_menu",
+129312,
+65.36,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/aiset",
+34940,
+85.35,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/main1x",
+3664,
+72.83,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/static",
+1144,
+97.23,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/dm_manual_main",
+16244,
+82.9,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/Dr_MARIO/gc/src/replay",
+1316,
+98.14,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/common/constract",
+160,
+45.42,
+0,
+[
+"modules",
+"game"
+]
+],
+[
+"Dr_MARIO/common/gc",
+22576,
+16.14,
+0,
+[
+"modules",
+"game"
+]
+]
+]
+}

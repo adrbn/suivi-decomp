@@ -1,0 +1,3082 @@
+{
+"history": [
+{
+"sha": "c128f21f47f7d9835ddec74f292f84fe30495736",
+"time": "2026-08-22T02:16:32Z",
+"message": "Name course render data",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "bfe85905bb46ef4710bef579e37cd18221fcf743",
+"time": "2026-08-22T04:29:08Z",
+"message": "Use SceneModel for non-race shadows",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "dff4d0dd36c130495f8869eee6fb26a1b143a22d",
+"time": "2026-08-27T19:25:41Z",
+"message": "Consolidate sprite table state structs",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "3e072fb89aad3583dfd365597ee431128b337ca5",
+"time": "2026-08-28T03:58:35Z",
+"message": "Clean up spray particle task types",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2987.0,
+"matched_functions": 2987.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "86b92402c7c9f2085101d32044d2600c98000609",
+"time": "2026-08-29T15:08:43Z",
+"message": "Decompile updateTextGridTask",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "43f53e7ef1d2b70cec9054b824d60a6ee001aad8",
+"time": "2026-08-30T02:45:11Z",
+"message": "Complete ROM and VRAM shiftability safeguards",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "08d223e4598d5231c2c3fc816a0aaf760e055b0a",
+"time": "2026-08-30T03:49:52Z",
+"message": "Complete ROM and VRAM shiftability safeguards",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "e99792a4c07222070c671dc053263d26871112d3",
+"time": "2026-09-27T17:29:10Z",
+"message": "Update build badge link to point to main branch",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "3b1bd5db108193528fd7dbe6facba02901218a13",
+"time": "2026-09-27T17:30:22Z",
+"message": "Change Discord chat badge link",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "0e1caed00850ad215a9945898d19e2277ca62474",
+"time": "2026-10-15T03:03:58Z",
+"message": "Use type sizes for graphics and callback allocations",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "cb649091bbe982ca45347edcc66bb3b359558d93",
+"time": "2026-10-16T01:39:04Z",
+"message": "Clarify level-select label rendering and initialization views",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "58467872346921dda20a66dfd29bf97107e43d5b",
+"time": "2026-10-16T02:37:41Z",
+"message": "Expose billboard texture caches while preserving BSS layout",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1026.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "us_report",
+"category_names": {
+"build": "build"
+},
+"units_time": "2026-10-16T02:37:41Z",
+"units": [
+[
+"build/src/entrypoint/entrypoint",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/main",
+4256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/level_preview_3d",
+6016,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/nonrace_shadow",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/transparent_render",
+1232,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/cutscene_keyframes",
+2544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/credits/credits_controller",
+2784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/tiled_texture",
+5264,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/oscillating_sprite",
+1056,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/quad_displaylist",
+2272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/stepped_matrix",
+416,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/pulsing_indicator",
+1056,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/orbital_sprite",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/model_transition",
+1920,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/model_scale",
+832,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/bobbing_model",
+896,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/oscillating_sprite_model",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/stubs",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/sprite_table",
+8016,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/easing_state",
+5424,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/rocket_boost",
+768,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/palette",
+816,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/model_loader",
+2896,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/animated_sprite_effect",
+816,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/static_sprite_effect",
+624,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/cutscene_wait_menu",
+1024,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/logo_splash",
+1760,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/gallery",
+9056,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/sprite_rdp",
+17840,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/mode_init",
+1552,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/session_manager",
+2640,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/title_screen",
+3776,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/title_ui_elements",
+2816,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/game_state_init",
+1200,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_character_anim",
+5296,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_camera",
+1200,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/location_discovery",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/location_init",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_state",
+976,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/data/data_table",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/triggers/phone_trigger",
+256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/triggers/wall_newspaper_trigger",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/triggers/town_collision",
+1120,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/triggers/clocktower_trigger",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/triggers/trick_trigger",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/race_state_machine",
+5168,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_init",
+3616,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/unlock_screen",
+2640,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/unlock_intro",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/save_slot_select",
+6992,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_extra_intro",
+288,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/story_intro",
+4368,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/level_preview",
+9520,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/level_select_state",
+336,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/versus_mode_init",
+1040,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/player_select",
+1472,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/character_select_ui",
+5952,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/character_select_gfx",
+15984,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/map_events",
+2400,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/npc_models",
+1456,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/npc_dialogue",
+6112,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/rare_events",
+6496,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/rare_event_npcs",
+3024,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/track_geometry",
+9424,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/shop_ui",
+7904,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/preview_render",
+9616,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/motor_rumble",
+480,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/save_slot_gfx",
+7808,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/text/text_layout",
+3360,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/text/font_render",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/camera_transform",
+624,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/story/location_markers",
+4128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/options_camera",
+1184,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/options_menu",
+2256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/unlock_system",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/save_data",
+912,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/tiled_sprite_grid",
+4560,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/controller_io",
+8112,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/rom_loader",
+1984,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/text/numeric_text",
+1040,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/text/text_elements",
+5104,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/race_session",
+12928,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/position_markers",
+3472,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/particle_items",
+16144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/race_hud",
+27888,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/race_effects",
+17136,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/spray_particles",
+6176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/obstacle_sprites",
+16528,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/data/course_data",
+672,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/boot",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/audio/audio",
+9744,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/character_stats",
+592,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/hit_reactions",
+5552,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/track_collision",
+12592,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/track_height",
+2512,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/data/asset_metadata",
+1232,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/bone_animation",
+11072,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/displaylist",
+30544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/text/font_assets",
+4608,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/task_scheduler",
+3888,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/memory_allocator",
+800,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/math/geometry",
+11536,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/clip_text_render",
+2032,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/core/mainEntrypoint",
+512,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/graphics/graphics",
+9584,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/system/thread_manager",
+2592,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/audio/audio_manager",
+2640,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/player",
+12768,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libmus.a(player_fx.o)",
+2272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(cosf.o)",
+336,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(coss.o)",
+48,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(lookatref.o)",
+1520,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(mtxutil.o)",
+640,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(perspective.o)",
+896,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sinf.o)",
+416,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sins.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(invaldcache.o)",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(invalicache.o)",
+128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setintmask.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(writebackdcacheall.o)",
+48,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(createmesgqueue.o)",
+48,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(createthread.o)",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(recvmesg.o)",
+304,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sendmesg.o)",
+304,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(seteventmesg.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setthreadpri.o)",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(startthread.o)",
+288,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(thread.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(virtualtophysical.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(drvrnew.o)",
+2096,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(load.o)",
+2832,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(auxbus.o)",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(env.o)",
+3376,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(filter.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(mainbus.o)",
+368,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(resample.o)",
+688,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(reverb.o)",
+3040,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(save.o)",
+304,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sl.o)",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(heapinit.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(heapalloc.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(copy.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synthesizer.o)",
+1680,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(syndelete.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synaddplayer.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synallocvoice.o)",
+480,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synstopvoice.o)",
+128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synstartvoice.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synsetpitch.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synsetvol.o)",
+192,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synsetfxmix.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synsetpan.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(synallocfx.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(aigetlen.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(aisetnextbuf.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sptask.o)",
+576,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sptaskyield.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sptaskyielded.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(vigetcurrframebuf.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(vigetnextframebuf.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(visetevent.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(visetmode.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(viswapbuf.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(viblack.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(controller.o)",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(conteeplongwrite.o)",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(conteeplongread.o)",
+112,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(epidma.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(driverominit.o)",
+192,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pidma.o)",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(bcopy.o)",
+800,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(bzero.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(string.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sprintf.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(aisetfreq.o)",
+288,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(cartrominit.o)",
+560,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(conteepprobe.o)",
+128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(conteepread.o)",
+544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(conteepwrite.o)",
+944,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(contreaddata.o)",
+480,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(motor.o)",
+912,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsallocatefile.o)",
+1072,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsdeletefile.o)",
+544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsfilestate.o)",
+400,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsfreeblocks.o)",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsinitpak.o)",
+496,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsnumfiles.o)",
+256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsreadwritefile.o)",
+1088,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfssearchfile.o)",
+416,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsselectbank.o)",
+112,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pimgr.o)",
+400,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sirawdma.o)",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(vimgr.o)",
+832,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(visetspecial.o)",
+368,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(viswapcontext.o)",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(exceptasm.o)",
+2416,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(initialize.o)",
+784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sqrtf.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(getcount.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(getsr.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(interrupt.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(probetlb.o)",
+192,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setfpccsr.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setsr.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(unmaptlball.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(writebackdcache.o)",
+128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(maptlbrdb.o)",
+96,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(destroythread.o)",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(getthreadpri.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(gettime.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(jammesg.o)",
+320,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(settimer.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(timerintr.o)",
+768,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(assert.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(ai.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sp.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(spgetstat.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(spsetstat.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(spsetpc.o)",
+48,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sprawdma.o)",
+256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(vi.o)",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(vigetcurrcontext.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sirawread.o)",
+144,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(sirawwrite.o)",
+112,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(siacs.o)",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pirawread.o)",
+160,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pirawdma.o)",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pigetcmdq.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(devmgr.o)",
+960,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(piacs.o)",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(xprintf.o)",
+2608,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(contpfs.o)",
+2704,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(contramread.o)",
+512,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(contramwrite.o)",
+544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(crc.o)",
+240,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(epirawdma.o)",
+496,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(epirawread.o)",
+432,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(epirawwrite.o)",
+368,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfschecker.o)",
+1824,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsgetstatus.o)",
+528,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setcompare.o)",
+16,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(resetglobalintmask.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(setglobalintmask.o)",
+64,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(yieldthread.o)",
+80,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(si.o)",
+32,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(pfsisplug.o)",
+736,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(bcmp.o)",
+272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(xlitob.o)",
+592,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(xldtob.o)",
+2688,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libgultra_rom.a(ldiv.o)",
+448,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/lib/libkmc/mmuldi3",
+976,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/rsp/rspboot",
+208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/rsp/aspMain",
+3616,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/rsp/s2dex",
+6336,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/rsp/f3dex2",
+5008,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/math/rand",
+128,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/race_main",
+39632,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/race/ai_pathfinding",
+3744,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/lindas_castle",
+2320,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/crazy_jungle_boss",
+4496,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/snowboard_street_shoot_cross",
+2304,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/starlight_highway",
+6016,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/haunted_house",
+5440,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/ice_land_boss",
+5952,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/ice_land",
+1280,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/snowboard_street_speed_cross",
+288,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/jingle_town_boss",
+6256,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/jingle_town",
+2272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/sunny_mountain",
+2208,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/wendys_house",
+1664,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/training",
+1920,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/levels/crazy_jungle",
+2272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/character_select_sprites",
+4224,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/player_select_sprites",
+2272,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/credits/credits_decorations",
+544,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/credits/credits_subtitles",
+1152,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/credits/credits_text",
+1632,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/credits/offset_table",
+288,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_commands",
+1872,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_bgm",
+176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_camera",
+384,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_chr",
+4688,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/sys_effect",
+1088,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_sound",
+400,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_sys",
+1440,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_sys2",
+496,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/cutscene/cutscene_manager",
+8448,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/fan_effect",
+1232,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/screen_transition",
+1344,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/trick_burst",
+736,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/fan_sound_3d",
+848,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/animation_loop",
+2784,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/animation/slot_animation",
+10768,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/scrolling_texture",
+976,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/effects/zoom_effect",
+2176,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/rect_outline",
+736,
+100.0,
+0,
+[
+"build"
+]
+],
+[
+"build/src/ui/text_grid",
+1728,
+100.0,
+0,
+[
+"build"
+]
+]
+],
+"workflow": 148645801
+}

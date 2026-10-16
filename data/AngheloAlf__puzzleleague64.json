@@ -1,0 +1,6110 @@
+{
+"history": [
+{
+"sha": "989ed2ab0a1a70be286e4afa531d57ab9e6e2c90",
+"time": "2026-10-03T15:21:13Z",
+"message": "a few end.c functions",
+"measures": {
+"matched_code_percent": 53.7812,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.581,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 395924.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 947.0,
+"total_units": 586.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 46.103,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.2886,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 262212.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 584.0,
+"total_units": 107.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.7353,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36044.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 62.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 53.7761,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8056,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 395844.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 946.0,
+"total_units": 342.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "560f9fe127093b28452e0ae652aa030081529c9c",
+"time": "2026-10-03T19:15:22Z",
+"message": "match editor.c",
+"measures": {
+"matched_code_percent": 55.0374,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5816,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 405172.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 971.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 47.7291,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.306,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 271460.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 608.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.7353,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36044.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 62.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.0325,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8221,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 405092.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 970.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "db531cef8ab15eb0ab1b9afe3f6857ca47571338",
+"time": "2026-10-04T01:29:27Z",
+"message": "cleanup editor.c",
+"measures": {
+"matched_code_percent": 55.0374,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5816,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 405172.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 971.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 47.7291,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.306,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 271460.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 608.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.7353,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36044.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 62.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.0325,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8221,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 405092.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 970.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a543ed29bcc9135b587546ff527d082fd5867e07",
+"time": "2026-10-05T00:04:58Z",
+"message": "Save2DPuzzle, Init3DPuzzle, SavePuzzleEditor, DeletePuzzleEditor",
+"measures": {
+"matched_code_percent": 55.1515,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5816,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 406012.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 975.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 47.8768,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.306,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 272300.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 612.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.7353,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36044.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 62.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.1466,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8221,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 405932.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 974.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "ebf976ffb6c51499d7fd98e6ccd3e8a75dc702cf",
+"time": "2026-10-06T11:56:59Z",
+"message": "Match Draw2DGameOver",
+"measures": {
+"matched_code_percent": 55.1515,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5816,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 406012.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 975.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 47.8768,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.306,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 272300.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 612.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.7353,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36044.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 62.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.1466,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8221,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 405932.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 974.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "df3f458ee5e0c9008e9474764f63ff5879b3494a",
+"time": "2026-10-07T11:54:27Z",
+"message": "Identify and match a bunch of functions in other versions",
+"measures": {
+"matched_code_percent": 55.8345,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.582,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 411040.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 994.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 48.7608,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.314,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 277328.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 631.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.8297,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8298,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 410960.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 993.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "884092713de5ee0d070471a723d2b85ea5df847c",
+"time": "2026-10-09T23:21:10Z",
+"message": "migrate bonus.c data",
+"measures": {
+"matched_code_percent": 55.9377,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 411800.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 999.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 48.8944,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 278088.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 636.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.9329,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 411720.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 998.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "529c4069d68e53d18eac22dc913970ca243b931b",
+"time": "2026-10-11T14:03:49Z",
+"message": "whoops",
+"measures": {
+"matched_code_percent": 55.9377,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 411800.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 999.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 48.8944,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 278088.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 636.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.9329,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 411720.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 998.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "ba2a3711436aeefc31d53e1c3f28946468a67c1e",
+"time": "2026-10-11T15:52:55Z",
+"message": "Another fix",
+"measures": {
+"matched_code_percent": 55.9377,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 411800.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 999.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 48.8944,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 278088.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 636.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 55.9329,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 411720.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 998.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "56ee2e357c869ec97aaa26c1d14019978d02c50f",
+"time": "2026-10-11T16:29:26Z",
+"message": "Match a few mimic functions (#15)",
+"measures": {
+"matched_code_percent": 56.9125,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 418976.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 1004.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 50.1561,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 285264.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 641.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 56.9078,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 418896.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 1003.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "ed2ce98032a7e3fd05e8a6f259779aba78ef49d0",
+"time": "2026-10-12T13:44:26Z",
+"message": "LLM policy and contributing guidelines",
+"measures": {
+"matched_code_percent": 56.9125,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 418976.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 1004.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 50.1561,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 285264.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 641.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 56.9078,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 418896.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 1003.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7cc4b3cba3d5a9c0639e0981d2baad72943aaa86",
+"time": "2026-10-13T11:27:13Z",
+"message": "Match Draw2DMT (#17)",
+"measures": {
+"matched_code_percent": 57.1831,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.5824,
+"complete_data_percent": 0.0,
+"total_code": 736176.0,
+"matched_code": 420968.0,
+"total_data": 34217920.0,
+"total_functions": 1291.0,
+"matched_functions": 1005.0,
+"total_units": 585.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 64.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 4032.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 80.0,
+"matched_code": 80.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 50.5064,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.3252,
+"complete_data_percent": 0.0,
+"total_code": 568752.0,
+"matched_code": 287256.0,
+"total_data": 1291476.0,
+"total_functions": 910.0,
+"matched_functions": 642.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"bg_screen_load": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3840.0,
+"matched_code": 3840.0,
+"total_data": 0.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"files_2d": {
+"matched_code_percent": 71.9945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 84.6154,
+"complete_data_percent": 0.0,
+"total_code": 34736.0,
+"matched_code": 25008.0,
+"total_data": 1040.0,
+"total_functions": 58.0,
+"matched_functions": 48.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"files_3d": {
+"matched_code_percent": 65.9688,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 54832.0,
+"matched_code": 36172.0,
+"total_data": 720.0,
+"total_functions": 75.0,
+"matched_functions": 63.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 21952.0,
+"matched_code": 21952.0,
+"total_data": 1232.0,
+"total_functions": 58.0,
+"matched_functions": 58.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"flash": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3376.0,
+"matched_code": 3376.0,
+"total_data": 192.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 99.0111,
+"complete_code_percent": 0.0,
+"matched_data_percent": 99.9671,
+"complete_data_percent": 0.0,
+"total_code": 108400.0,
+"matched_code": 107328.0,
+"total_data": 48668.0,
+"total_functions": 285.0,
+"matched_functions": 282.0,
+"total_units": 217.0,
+"complete_units": 0.0
+},
+"libhvqm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16048.0,
+"matched_code": 0.0,
+"total_data": 11184.0,
+"total_functions": 10.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 976.0,
+"matched_code": 976.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 88.6436,
+"complete_code_percent": 0.0,
+"matched_data_percent": 81.722,
+"complete_data_percent": 0.0,
+"total_code": 150752.0,
+"matched_code": 133632.0,
+"total_data": 61276.0,
+"total_functions": 375.0,
+"matched_functions": 362.0,
+"total_units": 230.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 16592.0,
+"matched_code": 0.0,
+"total_data": 7120.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 41.0666,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 17827104.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 237.0,
+"complete_units": 0.0
+},
+"assets_bg_screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 43.7117,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 3067008.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"bin_file": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 14700432.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"unks": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"segment_.main": {
+"matched_code_percent": 57.1784,
+"complete_code_percent": 0.0,
+"matched_data_percent": 6.8403,
+"complete_data_percent": 0.0,
+"total_code": 736096.0,
+"matched_code": 420888.0,
+"total_data": 1359872.0,
+"total_functions": 1290.0,
+"matched_functions": 1004.0,
+"total_units": 341.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 326416.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "eur_report",
+"category_names": {
+"rom_header": "rom_header",
+"ipl3": "ipl3",
+"entry": "entry",
+"main": "main",
+"bg_screen_load": "bg_screen_load",
+"files_2d": "2D code",
+"files_3d": "3D code",
+"libmus": "libmus",
+"flash": "flash",
+"libultra": "libultra",
+"libhvqm": "libhvqm",
+"libkmc": "libkmc",
+"libs": "Libraries",
+"rsp": "RSP",
+"assets": "Assets",
+"assets_bg_screen": "Assets: bg_screen",
+"bin_file": "Assets: bin_file",
+"unks": "Unknowns",
+"segment_.main": "Segment .main",
+"buffers": "buffers"
+},
+"units_time": "2026-10-13T11:27:13Z",
+"units": [
+[
+"entry/entry",
+80,
+100.0,
+0,
+[
+"entry"
+]
+],
+[
+"main/boot_main",
+3968,
+72.38,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/001F10",
+32,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/gfx",
+1680,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/0025C0",
+336,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/sound",
+9088,
+87.78,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/tetsound",
+4768,
+52.18,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/sfxlimit",
+2768,
+42.94,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/title",
+5792,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/menu",
+87696,
+6.84,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/file",
+2656,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/bitmap",
+6560,
+2.07,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/image",
+13840,
+17.86,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/screen",
+37616,
+55.68,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/story",
+3312,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/peel",
+6464,
+6.56,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/02E800",
+5632,
+25.14,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/editor",
+7216,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/bonus",
+13440,
+34.67,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/sign",
+6016,
+33.78,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/pause",
+5968,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/end",
+29376,
+56.1,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/hvqm2util",
+10352,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/041780",
+6240,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/043000",
+3344,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/043D10",
+4464,
+89.47,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/044E80",
+11296,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/controller",
+1296,
+21.6,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/bkground",
+16320,
+42.6,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/character",
+3360,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/text",
+9264,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/flic",
+2384,
+78.86,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/animation",
+14720,
+1.89,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/other",
+6400,
+22.93,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/fade",
+1248,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/dlist",
+4896,
+23.51,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/combo",
+4336,
+90.04,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/animate",
+3392,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/update",
+12960,
+77.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/attack",
+11632,
+22.6,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/explode",
+720,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/init3d",
+3088,
+100.0,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/draw3d",
+30000,
+85.43,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/combo3d",
+3376,
+21.92,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/animate3d",
+3136,
+8.04,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/update3d",
+6160,
+38.11,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/attack3d",
+6800,
+29.94,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/explode3d",
+2272,
+100.0,
+0,
+[
+"main",
+"files_3d",
+"segment_.main"
+]
+],
+[
+"main/init2d",
+8048,
+90.54,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/draw2d",
+11648,
+100.0,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/combo2d",
+960,
+13.33,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/animate2d",
+4032,
+17.66,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/update2d",
+1920,
+23.64,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/attack2d",
+6096,
+46.11,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/explode2d",
+2032,
+100.0,
+0,
+[
+"main",
+"files_2d",
+"segment_.main"
+]
+],
+[
+"main/074280",
+1200,
+100.0,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074730",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074820",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074910",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074A00",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074AF0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074BE0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074CD0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074DC0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074EB0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/074FA0",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075090",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075180",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075270",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075360",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075450",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/bg_screen_load/075540",
+240,
+100.0,
+0,
+[
+"main",
+"bg_screen_load",
+"segment_.main"
+]
+],
+[
+"main/075630",
+1472,
+58.7,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/ai",
+57328,
+29.05,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/mimic",
+19248,
+89.88,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/tutorial",
+3760,
+47.35,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/puzzle",
+3456,
+68.26,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"main/tetris",
+6032,
+54.81,
+0,
+[
+"main",
+"segment_.main"
+]
+],
+[
+"libmus/player",
+16784,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/player_fx",
+2240,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/aud_dma",
+1152,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/aud_samples",
+192,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/aud_sched",
+496,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/aud_thread",
+752,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"libmus/lib_memory",
+336,
+100.0,
+0,
+[
+"libmus",
+"libs",
+"segment_.main"
+]
+],
+[
+"flash/osFlash",
+3376,
+100.0,
+0,
+[
+"flash",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setintmask",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/pimgr",
+832,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epirawdma",
+992,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epiwrite",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epiread",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epidma",
+576,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epilinkhandle",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/cartrominit",
+496,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/devmgr",
+1344,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/piacs",
+240,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/pidma",
+576,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/aigetlen",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/aigetstat",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/aisetfreq",
+688,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/aisetnextbuf",
+272,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/drvrnew",
+2896,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/load",
+4992,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/auxbus",
+464,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/env",
+5280,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/filter",
+112,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/mainbus",
+608,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/resample",
+1136,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/reverb",
+5040,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/save",
+512,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/sl",
+384,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/heapinit",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/heapalloc",
+368,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/copy",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synthesizer",
+2496,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/syndelete",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synaddplayer",
+112,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synremoveplayer",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synfreevoice",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synallocvoice",
+896,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synstopvoice",
+208,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synstartvoice",
+240,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synsetpitch",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synsetvol",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synsetfxmix",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synsetpan",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/audio/synallocfx",
+352,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/invaldcache",
+176,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/writebackdcache",
+128,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/writebackdcacheall",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/contquery",
+208,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/contreaddata",
+720,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/contreset",
+400,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"libultra/controller",
+1072,
+0.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/contsetch",
+128,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/virtualtophysical",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/debug/assert",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/lookat",
+1184,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/mtxutil",
+1056,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/perspective",
+816,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/mgu/rotate",
+688,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/sinf",
+688,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/translate",
+192,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/us2dex",
+544,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/us2dex_emu",
+5280,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/rdbsend",
+752,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/initrdb",
+176,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/bcopy",
+800,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/bzero",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/string",
+384,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/sprintf",
+208,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/syncprintf",
+1136,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/createmesgqueue",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/jammesg",
+448,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/recvmesg",
+432,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/sendmesg",
+432,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/seteventmesg",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/getcount",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sptask",
+1072,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/sched/sched",
+4576,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sirawdma",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/siacs",
+240,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/createthread",
+464,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/destroythread",
+288,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/getthreadpri",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setthreadpri",
+336,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/startthread",
+416,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/stopthread",
+240,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/thread",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/yieldthread",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/gettime",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/settimer",
+256,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/timerintr",
+1536,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/probetlb",
+192,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vigetcurrframebuf",
+128,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vigetnextframebuf",
+128,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vigetline",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vimgr",
+1056,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/visetevent",
+208,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/visetmode",
+208,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/visetspecial",
+656,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/visetyscale",
+320,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/viswapbuf",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/viswapcontext",
+880,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/viblack",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/parameters",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/afterprenmi",
+64,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/initialize",
+1456,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/error/errorasm",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/error/error",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/error/kmcprintf",
+1088,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/exceptasm",
+3568,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/interrupt",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setglobalintmask",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/resetglobalintmask",
+112,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/pirawdma",
+480,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/pigetcmdq",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epirawread",
+736,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/epirawwrite",
+688,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/ai",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/invalicache",
+128,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/debug/kdebugserver",
+976,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/sqrtf",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/cosf",
+576,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/gu/normalize",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/host/readhost",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/xprintf",
+4608,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/log/log",
+1296,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/dpsetnextbuf",
+304,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/getcause",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/getsr",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setcompare",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setfpccsr",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/setsr",
+16,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonsio",
+592,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sp",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/spsetstat",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/spsetpc",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sprawdma",
+304,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sptaskyield",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sptaskyielded",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sirawread",
+192,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sirawwrite",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/maptlbrdb",
+96,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/unmaptlball",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vi",
+352,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/vigetcurrcontext",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/xlitob",
+944,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/xldtob",
+4480,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/dp",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmoncmds",
+224,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonmem",
+2672,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonmisc",
+464,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonregs",
+3392,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmontask",
+2976,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonmain",
+1104,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/spgetstat",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sprawread",
+192,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/sprawwrite",
+144,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/io/si",
+80,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/os/getactivequeue",
+48,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/libc/ldiv",
+608,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonrcp",
+160,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"ultralib/src/rmon/rmonbrk",
+3312,
+100.0,
+0,
+[
+"libultra",
+"libs",
+"segment_.main"
+]
+],
+[
+"libhvqm/hvqm2decSP1",
+15648,
+0.0,
+0,
+[
+"libhvqm",
+"libs",
+"segment_.main"
+]
+],
+[
+"libhvqm/adpcmdec",
+400,
+0.0,
+0,
+[
+"libhvqm",
+"libs",
+"segment_.main"
+]
+],
+[
+"libkmc/mmuldi3",
+976,
+100.0,
+0,
+[
+"libkmc",
+"libs",
+"segment_.main"
+]
+],
+[
+"rsp/rspboot",
+208,
+0.0,
+0,
+[
+"rsp",
+"segment_.main"
+]
+],
+[
+"rsp/aspMain",
+3616,
+0.0,
+0,
+[
+"rsp",
+"segment_.main"
+]
+],
+[
+"rsp/hvqm2sp1",
+1488,
+0.0,
+0,
+[
+"rsp",
+"segment_.main"
+]
+],
+[
+"rsp/f3dex",
+5168,
+0.0,
+0,
+[
+"rsp",
+"segment_.main"
+]
+],
+[
+"rsp/s2dex",
+6112,
+0.0,
+0,
+[
+"rsp",
+"segment_.main"
+]
+]
+],
+"workflow": 50846575
+}

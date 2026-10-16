@@ -1,0 +1,28 @@
+{
+"history": [
+{
+"sha": "f27a0295d855229f3fad01412d855f4ae7a1c8f0",
+"time": "2026-09-29T01:52:10Z",
+"message": "Merge pull request #50 from 6elphegor/fix-nonmatching-branches",
+"measures": {
+"matched_code_percent": 16.1499,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 788364.0,
+"matched_code": 127320.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+}
+],
+"branch": "main",
+"artifact": "jp_report",
+"category_names": {},
+"units_time": "2026-09-29T01:52:10Z",
+"units": []
+}

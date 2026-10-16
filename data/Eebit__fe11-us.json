@@ -1,0 +1,822 @@
+{
+"history": [
+{
+"sha": "f453d99684432b0e99f584df49c3a322d62bc334",
+"time": "2026-08-07T06:11:52Z",
+"message": "Merge pull request #58 from Eebit/target_select",
+"measures": {
+"matched_code_percent": 6.7425,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808422.0,
+"matched_code": 121932.0,
+"total_data": 1139364.0,
+"total_functions": 12333.0,
+"matched_functions": 1441.0,
+"total_units": 91.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "adce3769d7e43f7dfb525d7e3c1377dfd01c9cb3",
+"time": "2026-08-08T04:25:54Z",
+"message": "Merge pull request #59 from Eebit/doc-2",
+"measures": {
+"matched_code_percent": 6.7425,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808422.0,
+"matched_code": 121932.0,
+"total_data": 1139364.0,
+"total_functions": 12333.0,
+"matched_functions": 1441.0,
+"total_units": 91.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "e629885dfbb101288acf1a1f4daff2f35555fc1e",
+"time": "2026-08-17T04:54:32Z",
+"message": "Merge pull request #60 from Eebit/playerphase-2",
+"measures": {
+"matched_code_percent": 6.9229,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808422.0,
+"matched_code": 125196.0,
+"total_data": 1139364.0,
+"total_functions": 12333.0,
+"matched_functions": 1492.0,
+"total_units": 89.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "4fdc455de753d6baec22b6f9caa0cf39e05a15ef",
+"time": "2026-08-19T06:51:33Z",
+"message": "Merge pull request #61 from Eebit/unit-revisit",
+"measures": {
+"matched_code_percent": 7.015,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808418.0,
+"matched_code": 126860.0,
+"total_data": 1139364.0,
+"total_functions": 12332.0,
+"matched_functions": 1499.0,
+"total_units": 89.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "5d7486d6feda10cc86000350fdb40c9fccf3f270",
+"time": "2026-08-22T06:07:32Z",
+"message": "Merge pull request #62 from Eebit/bump-tools",
+"measures": {
+"matched_code_percent": 7.0155,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 126860.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1499.0,
+"total_units": 89.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "0174512c090ca6b4608987e69f1df8946d3e6c1f",
+"time": "2026-08-23T01:43:25Z",
+"message": "Merge pull request #63 from Eebit/face",
+"measures": {
+"matched_code_percent": 7.1093,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.659,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 128556.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1522.0,
+"total_units": 91.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "1eb12f7e5cba4a47177db6a3c65e93ae4e4c384a",
+"time": "2026-08-24T00:51:27Z",
+"message": "Merge pull request #64 from Eebit/dtcm-sprites",
+"measures": {
+"matched_code_percent": 7.1093,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 128556.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1522.0,
+"total_units": 93.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "42d6f113ae3aea86f481270a24f9f87466be8a95",
+"time": "2026-08-24T04:11:11Z",
+"message": "Merge pull request #65 from Eebit/random",
+"measures": {
+"matched_code_percent": 7.1166,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 128688.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1526.0,
+"total_units": 95.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "6370af95b3bef23b8156d4149d37344a1a4cd823",
+"time": "2026-09-04T01:10:55Z",
+"message": "Merge pull request #66 from Eebit/map_battle",
+"measures": {
+"matched_code_percent": 7.3266,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 132484.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1600.0,
+"total_units": 97.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "3450c6b34a2f60e9916fec77343c04c0b25a9664",
+"time": "2026-09-04T04:06:59Z",
+"message": "Merge pull request #67 from Eebit/doc-3",
+"measures": {
+"matched_code_percent": 7.2954,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 131920.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1598.0,
+"total_units": 97.0,
+"complete_units": 2.0
+},
+"categories": {}
+},
+{
+"sha": "83f8abc778288d316d6b97990beed95b69313865",
+"time": "2026-09-08T02:01:03Z",
+"message": "Merge pull request #68 from Eebit/item",
+"measures": {
+"matched_code_percent": 7.3243,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 132444.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1599.0,
+"total_units": 97.0,
+"complete_units": 2.0
+},
+"categories": {}
+}
+],
+"branch": "main",
+"artifact": "YFEE01_report",
+"category_names": {},
+"units_time": "2026-09-08T02:01:03Z",
+"units": [
+[
+"_dsd_gap@main_37",
+2120,
+0.0,
+0,
+[]
+],
+[
+"src/main",
+1104,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_1",
+26120,
+0.0,
+0,
+[]
+],
+[
+"src/face",
+4992,
+95.08,
+0,
+[]
+],
+[
+"_dsd_gap@main_3",
+25544,
+0.0,
+0,
+[]
+],
+[
+"src/hardware",
+9832,
+56.0,
+0,
+[]
+],
+[
+"src/heap",
+380,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_6",
+12780,
+0.0,
+0,
+[]
+],
+[
+"src/link_dialog",
+4832,
+99.63,
+0,
+[]
+],
+[
+"_dsd_gap@main_9",
+304,
+0.0,
+0,
+[]
+],
+[
+"src/sound_manager",
+12424,
+98.35,
+0,
+[]
+],
+[
+"src/proc",
+3964,
+100.0,
+1,
+[]
+],
+[
+"_dsd_gap@main_12",
+428,
+0.0,
+0,
+[]
+],
+[
+"src/anime",
+7848,
+96.97,
+0,
+[]
+],
+[
+"src/fade",
+7952,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_14",
+9192,
+0.0,
+0,
+[]
+],
+[
+"src/random",
+276,
+99.71,
+0,
+[]
+],
+[
+"_dsd_gap@main_15",
+6016,
+0.0,
+0,
+[]
+],
+[
+"src/gamectrl",
+6040,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_17",
+42360,
+0.0,
+0,
+[]
+],
+[
+"src/menu",
+11804,
+93.6,
+0,
+[]
+],
+[
+"_dsd_gap@main_19",
+17408,
+0.0,
+0,
+[]
+],
+[
+"src/button",
+3844,
+91.68,
+0,
+[]
+],
+[
+"_dsd_gap@main_20",
+7804,
+0.0,
+0,
+[]
+],
+[
+"src/hashtable",
+1128,
+99.82,
+0,
+[]
+],
+[
+"_dsd_gap@main_24",
+372,
+0.0,
+0,
+[]
+],
+[
+"src/database",
+2372,
+96.5,
+0,
+[]
+],
+[
+"src/item",
+3392,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_27",
+6340,
+0.0,
+0,
+[]
+],
+[
+"src/unit",
+13884,
+97.61,
+0,
+[]
+],
+[
+"src/unit_item",
+660,
+100.0,
+0,
+[]
+],
+[
+"src/map_sprite",
+6364,
+96.39,
+0,
+[]
+],
+[
+"_dsd_gap@main_31",
+156,
+0.0,
+0,
+[]
+],
+[
+"src/force",
+5104,
+95.71,
+0,
+[]
+],
+[
+"src/convoy",
+764,
+99.03,
+0,
+[]
+],
+[
+"_dsd_gap@main_30",
+4876,
+0.0,
+0,
+[]
+],
+[
+"src/event_funcs",
+20328,
+0.0,
+0,
+[]
+],
+[
+"src/event",
+7748,
+100.0,
+0,
+[]
+],
+[
+"src/state_manager",
+3644,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_32",
+190252,
+0.0,
+0,
+[]
+],
+[
+"src/code_02078808",
+112,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@main_33",
+310726,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/map_state",
+9884,
+97.65,
+0,
+[]
+],
+[
+"src/ov000/camera",
+2204,
+100.0,
+1,
+[]
+],
+[
+"src/ov000/map_input_handler",
+5544,
+96.55,
+0,
+[]
+],
+[
+"src/ov000/cursor",
+1616,
+100.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_1",
+4804,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/map_sequence",
+35860,
+94.51,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_3",
+13372,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/target_select",
+14488,
+96.67,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_4",
+28728,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/map_menu",
+3948,
+93.92,
+0,
+[]
+],
+[
+"src/ov000/map_unit_menu",
+9144,
+98.37,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_6",
+18564,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/guide_menu",
+1024,
+99.98,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_7",
+16088,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/map_battle",
+9760,
+97.24,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_8",
+35388,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/map_save",
+3460,
+96.4,
+0,
+[]
+],
+[
+"_dsd_gap@ov000_9",
+188,
+0.0,
+0,
+[]
+],
+[
+"src/ov000/subtitle_help",
+2172,
+97.0,
+0,
+[]
+],
+[
+"src/ov000/map",
+3076,
+93.03,
+0,
+[]
+],
+[
+"src/ov000/arena",
+7756,
+99.72,
+0,
+[]
+],
+[
+"src/ov000/disposition",
+7040,
+96.31,
+0,
+[]
+],
+[
+"_dsd_gap@ov001_3",
+146170,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov002_4",
+90156,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov003_5",
+102748,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov004_3",
+77100,
+0.0,
+0,
+[]
+],
+[
+"src/ov005/prep_proc_02212d60",
+2296,
+100.0,
+0,
+[]
+],
+[
+"src/ov005/prep_main_menu",
+4888,
+92.81,
+0,
+[]
+],
+[
+"_dsd_gap@ov005_1",
+37416,
+0.0,
+0,
+[]
+],
+[
+"src/ov005/prep_job_select",
+7788,
+83.04,
+0,
+[]
+],
+[
+"_dsd_gap@ov005_3",
+5268,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov006_2",
+47808,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov007_2",
+15692,
+0.0,
+0,
+[]
+],
+[
+"src/ov008/title_seq",
+1716,
+95.69,
+0,
+[]
+],
+[
+"src/ov008/slide_show",
+2148,
+39.08,
+0,
+[]
+],
+[
+"src/ov008/fire_emblem",
+2704,
+55.58,
+0,
+[]
+],
+[
+"_dsd_gap@ov008_0",
+7320,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov009_3",
+11948,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov010_5",
+20340,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@ov011_5",
+167436,
+0.0,
+0,
+[]
+],
+[
+"_dsd_gap@itcm_0",
+13756,
+0.0,
+0,
+[]
+],
+[
+"src/itcm/heap-itcm",
+1564,
+99.74,
+0,
+[]
+],
+[
+"src/itcm/proc-itcm",
+2060,
+92.62,
+0,
+[]
+],
+[
+"_dsd_gap@itcm_1",
+2252,
+0.0,
+0,
+[]
+]
+],
+"workflow": 151833506
+}

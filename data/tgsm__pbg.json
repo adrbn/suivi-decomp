@@ -1,0 +1,8105 @@
+{
+"history": [
+{
+"sha": "62e425938520b0e90212dc701e795f704899d111",
+"time": "2026-09-09T18:58:50Z",
+"message": "Decompile engine/display/CAnimationStarEntry",
+"measures": {
+"matched_code_percent": 28.4866,
+"complete_code_percent": 9.2104,
+"matched_data_percent": 33.0209,
+"complete_data_percent": 7.9471,
+"total_code": 2328292.0,
+"matched_code": 663252.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2867.0,
+"total_units": 740.0,
+"complete_units": 120.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 20.736,
+"complete_code_percent": 14.3418,
+"matched_data_percent": 18.0395,
+"complete_data_percent": 9.2506,
+"total_code": 1089292.0,
+"matched_code": 225876.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 666.0,
+"total_units": 447.0,
+"complete_units": 56.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 24.7016,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 57.6229,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 155040.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 420.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 1.2852,
+"complete_code_percent": 1.2852,
+"matched_data_percent": 0.1878,
+"complete_data_percent": 0.1878,
+"total_code": 108932.0,
+"matched_code": 1400.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 19.0,
+"total_units": 58.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "550faed54954ea696f123b8d8b44288285d53847",
+"time": "2026-09-09T19:28:54Z",
+"message": "config: Set up directory structure for some RWA TUs",
+"measures": {
+"matched_code_percent": 28.4866,
+"complete_code_percent": 9.2104,
+"matched_data_percent": 33.0209,
+"complete_data_percent": 7.9471,
+"total_code": 2328292.0,
+"matched_code": 663252.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2867.0,
+"total_units": 740.0,
+"complete_units": 120.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 20.736,
+"complete_code_percent": 14.3418,
+"matched_data_percent": 18.0395,
+"complete_data_percent": 9.2506,
+"total_code": 1089292.0,
+"matched_code": 225876.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 666.0,
+"total_units": 447.0,
+"complete_units": 56.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 24.7016,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 57.6229,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 155040.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 420.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 1.2852,
+"complete_code_percent": 1.2852,
+"matched_data_percent": 0.1878,
+"complete_data_percent": 0.1878,
+"total_code": 108932.0,
+"matched_code": 1400.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 19.0,
+"total_units": 58.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "aa0cc5b5b8c8ddf4d100257f98f1a097d561bc80",
+"time": "2026-09-10T02:46:58Z",
+"message": "Begin work on rwsdk/batextur",
+"measures": {
+"matched_code_percent": 28.6102,
+"complete_code_percent": 9.2104,
+"matched_data_percent": 33.0623,
+"complete_data_percent": 7.9471,
+"total_code": 2328292.0,
+"matched_code": 666128.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2888.0,
+"total_units": 740.0,
+"complete_units": 120.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.0001,
+"complete_code_percent": 14.3418,
+"matched_data_percent": 18.1029,
+"complete_data_percent": 9.2506,
+"total_code": 1089292.0,
+"matched_code": 228752.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 687.0,
+"total_units": 447.0,
+"complete_units": 56.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 1.2852,
+"complete_code_percent": 1.2852,
+"matched_data_percent": 0.1878,
+"complete_data_percent": 0.1878,
+"total_code": 108932.0,
+"matched_code": 1400.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 19.0,
+"total_units": 58.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "1723d8084c89a1eb1dedfb60e8d547ded9f327fc",
+"time": "2026-09-12T04:52:59Z",
+"message": "Match rwa/core/rwabase",
+"measures": {
+"matched_code_percent": 28.6742,
+"complete_code_percent": 9.2744,
+"matched_data_percent": 33.112,
+"complete_data_percent": 7.9968,
+"total_code": 2328292.0,
+"matched_code": 667620.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2902.0,
+"total_units": 740.0,
+"complete_units": 121.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.137,
+"complete_code_percent": 14.4788,
+"matched_data_percent": 18.1791,
+"complete_data_percent": 9.3267,
+"total_code": 1089292.0,
+"matched_code": 230244.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 701.0,
+"total_units": 447.0,
+"complete_units": 57.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 2.6549,
+"complete_code_percent": 2.6549,
+"matched_data_percent": 0.9388,
+"complete_data_percent": 0.9388,
+"total_code": 108932.0,
+"matched_code": 2892.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 33.0,
+"total_units": 58.0,
+"complete_units": 3.0
+}
+}
+},
+{
+"sha": "f8a3e9e8bd9694c4547f8d45ac2541fcc127374a",
+"time": "2026-09-23T19:20:25Z",
+"message": "Match rwa/core/rwallist",
+"measures": {
+"matched_code_percent": 28.6973,
+"complete_code_percent": 9.2975,
+"matched_data_percent": 33.1245,
+"complete_data_percent": 8.0092,
+"total_code": 2328292.0,
+"matched_code": 668156.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2908.0,
+"total_units": 740.0,
+"complete_units": 122.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.1862,
+"complete_code_percent": 14.528,
+"matched_data_percent": 18.1981,
+"complete_data_percent": 9.3458,
+"total_code": 1089292.0,
+"matched_code": 230780.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 707.0,
+"total_units": 447.0,
+"complete_units": 58.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 3.1469,
+"complete_code_percent": 3.1469,
+"matched_data_percent": 1.1266,
+"complete_data_percent": 1.1266,
+"total_code": 108932.0,
+"matched_code": 3428.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 39.0,
+"total_units": 58.0,
+"complete_units": 4.0
+}
+}
+},
+{
+"sha": "26a123e3e12a6c685709e5b73fd2be77b10d093d",
+"time": "2026-09-29T05:14:08Z",
+"message": "Match rwa/core/rwawavedef",
+"measures": {
+"matched_code_percent": 28.8431,
+"complete_code_percent": 9.4433,
+"matched_data_percent": 33.1866,
+"complete_data_percent": 8.0714,
+"total_code": 2328292.0,
+"matched_code": 671552.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2926.0,
+"total_units": 740.0,
+"complete_units": 123.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.498,
+"complete_code_percent": 14.8397,
+"matched_data_percent": 18.2933,
+"complete_data_percent": 9.4409,
+"total_code": 1089292.0,
+"matched_code": 234176.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 725.0,
+"total_units": 447.0,
+"complete_units": 59.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 6.2645,
+"complete_code_percent": 6.2645,
+"matched_data_percent": 2.0654,
+"complete_data_percent": 2.0654,
+"total_code": 108932.0,
+"matched_code": 6824.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 57.0,
+"total_units": 58.0,
+"complete_units": 5.0
+}
+}
+},
+{
+"sha": "995141de058ccaa292cd808c2047ade8d7adda31",
+"time": "2026-09-30T21:52:39Z",
+"message": "Match rwa/core/rwawavedict",
+"measures": {
+"matched_code_percent": 28.8955,
+"complete_code_percent": 9.4957,
+"matched_data_percent": 33.2177,
+"complete_data_percent": 8.1025,
+"total_code": 2328292.0,
+"matched_code": 672772.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2937.0,
+"total_units": 740.0,
+"complete_units": 124.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.61,
+"complete_code_percent": 14.9517,
+"matched_data_percent": 18.3409,
+"complete_data_percent": 9.4885,
+"total_code": 1089292.0,
+"matched_code": 235396.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 736.0,
+"total_units": 447.0,
+"complete_units": 60.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 7.3844,
+"complete_code_percent": 7.3844,
+"matched_data_percent": 2.5348,
+"complete_data_percent": 2.5348,
+"total_code": 108932.0,
+"matched_code": 8044.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 68.0,
+"total_units": 58.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "4305c09b364c64d8ec519765746fc88c6dd13d04",
+"time": "2026-10-02T05:39:15Z",
+"message": "Decompile rwa/core/rwaobjinterface",
+"measures": {
+"matched_code_percent": 28.9833,
+"complete_code_percent": 9.4957,
+"matched_data_percent": 33.2322,
+"complete_data_percent": 8.1025,
+"total_code": 2328292.0,
+"matched_code": 674816.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2947.0,
+"total_units": 740.0,
+"complete_units": 124.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.7976,
+"complete_code_percent": 14.9517,
+"matched_data_percent": 18.3631,
+"complete_data_percent": 9.4885,
+"total_code": 1089292.0,
+"matched_code": 237440.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 746.0,
+"total_units": 447.0,
+"complete_units": 60.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 9.2608,
+"complete_code_percent": 7.3844,
+"matched_data_percent": 2.7539,
+"complete_data_percent": 2.5348,
+"total_code": 108932.0,
+"matched_code": 10088.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 78.0,
+"total_units": 58.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "21ac7d815043f458c94f3e6f3bda632398efad8d",
+"time": "2026-10-02T06:33:10Z",
+"message": "Match rwa/core/rwasymboltable",
+"measures": {
+"matched_code_percent": 29.0029,
+"complete_code_percent": 9.5153,
+"matched_data_percent": 33.2322,
+"complete_data_percent": 8.1025,
+"total_code": 2328292.0,
+"matched_code": 675272.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2954.0,
+"total_units": 740.0,
+"complete_units": 125.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 21.8395,
+"complete_code_percent": 14.9936,
+"matched_data_percent": 18.3631,
+"complete_data_percent": 9.4885,
+"total_code": 1089292.0,
+"matched_code": 237896.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 753.0,
+"total_units": 447.0,
+"complete_units": 61.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 9.6794,
+"complete_code_percent": 7.803,
+"matched_data_percent": 2.7539,
+"complete_data_percent": 2.5348,
+"total_code": 108932.0,
+"matched_code": 10544.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 85.0,
+"total_units": 58.0,
+"complete_units": 7.0
+}
+}
+},
+{
+"sha": "fc94d52b424a6aad3c1e85b2d7bba9350f2bd50b",
+"time": "2026-10-07T05:50:55Z",
+"message": "Match rwa/core/rwaintf",
+"measures": {
+"matched_code_percent": 29.0898,
+"complete_code_percent": 9.6022,
+"matched_data_percent": 33.2508,
+"complete_data_percent": 8.1211,
+"total_code": 2328292.0,
+"matched_code": 677296.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2967.0,
+"total_units": 740.0,
+"complete_units": 126.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 22.0253,
+"complete_code_percent": 15.1794,
+"matched_data_percent": 18.3917,
+"complete_data_percent": 9.5171,
+"total_code": 1089292.0,
+"matched_code": 239920.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 766.0,
+"total_units": 447.0,
+"complete_units": 62.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 11.5375,
+"complete_code_percent": 9.6611,
+"matched_data_percent": 3.0355,
+"complete_data_percent": 2.8165,
+"total_code": 108932.0,
+"matched_code": 12568.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 98.0,
+"total_units": 58.0,
+"complete_units": 8.0
+}
+}
+},
+{
+"sha": "bce23902566b215e26848a794d46e85d895512ea",
+"time": "2026-10-07T06:22:22Z",
+"message": "rwa/core/rwamemory: Minor improvements",
+"measures": {
+"matched_code_percent": 29.0898,
+"complete_code_percent": 9.6022,
+"matched_data_percent": 33.2508,
+"complete_data_percent": 8.1211,
+"total_code": 2328292.0,
+"matched_code": 677296.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2967.0,
+"total_units": 740.0,
+"complete_units": 126.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 22.0253,
+"complete_code_percent": 15.1794,
+"matched_data_percent": 18.3917,
+"complete_data_percent": 9.5171,
+"total_code": 1089292.0,
+"matched_code": 239920.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 766.0,
+"total_units": 447.0,
+"complete_units": 62.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 11.5375,
+"complete_code_percent": 9.6611,
+"matched_data_percent": 3.0355,
+"complete_data_percent": 2.8165,
+"total_code": 108932.0,
+"matched_code": 12568.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 98.0,
+"total_units": 58.0,
+"complete_units": 8.0
+}
+}
+},
+{
+"sha": "c20cab7d2d40c33c632bdfbead19ce01beecb1e5",
+"time": "2026-10-07T18:04:36Z",
+"message": "Match rwa/interfaces/rwavirtualvoice",
+"measures": {
+"matched_code_percent": 29.0969,
+"complete_code_percent": 9.6093,
+"matched_data_percent": 33.4228,
+"complete_data_percent": 8.293,
+"total_code": 2328292.0,
+"matched_code": 677460.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2969.0,
+"total_units": 740.0,
+"complete_units": 127.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6036,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.4752,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127576.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1101.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 22.0404,
+"complete_code_percent": 15.1945,
+"matched_data_percent": 18.655,
+"complete_data_percent": 9.7804,
+"total_code": 1089292.0,
+"matched_code": 240084.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 768.0,
+"total_units": 447.0,
+"complete_units": 63.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 11.688,
+"complete_code_percent": 9.8116,
+"matched_data_percent": 5.6329,
+"complete_data_percent": 5.4139,
+"total_code": 108932.0,
+"matched_code": 12732.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 100.0,
+"total_units": 58.0,
+"complete_units": 9.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "GPLE9G_report",
+"category_names": {
+"game": "Game Code",
+"engine": "Engine Code",
+"sdk": "SDK Code",
+"dolphin": "Dolphin SDK",
+"rw": "Renderware SDK",
+"rwa": "RWA SDK"
+},
+"units_time": "2026-10-07T18:04:36Z",
+"units": [
+[
+"main/Piglet/main",
+340,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGame",
+36184,
+59.48,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartCredits",
+9756,
+92.25,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartFrontend",
+232,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartIngame",
+17548,
+36.55,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartIntroduction",
+240,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePart",
+164,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CResourceFactory",
+12620,
+83.84,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityManager",
+9408,
+82.81,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityMesh",
+22592,
+50.75,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityWarp",
+1688,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityWorld",
+4980,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityZone",
+6848,
+61.25,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntity",
+2912,
+83.56,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagData",
+328,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CCAKey",
+900,
+99.8,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CCASystem",
+648,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CCAZone",
+2080,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CCACamera",
+4680,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagMessage",
+852,
+99.62,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagPosition",
+616,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagResponse",
+1200,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagSendMessage",
+796,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagBehavior",
+1124,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGameRoomManager",
+80796,
+28.23,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagVisibility",
+440,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagCollision",
+456,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagActivation",
+584,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMenuControl",
+2292,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CControlValue",
+1100,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityPiglet",
+19260,
+99.94,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CDebugMenu",
+3868,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityObject",
+4300,
+33.34,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagOrientation",
+612,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPC",
+53364,
+11.58,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityLight",
+7128,
+46.82,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartDMRoomLauncher",
+1612,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCBasicEffalump",
+2376,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCArrow",
+4096,
+93.16,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntitySeqKey",
+24436,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CPSplines",
+6852,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCAnimForEntity",
+5104,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCEntityAnimated",
+3740,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCEvent",
+692,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCFade",
+180,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCFadeEvent",
+860,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCFXEvent",
+728,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CRTCPlayerEntity",
+11868,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCSequencer",
+3368,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCAddColorEvent",
+700,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMailBox",
+9144,
+37.36,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCBeeEffalump",
+2500,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCHnSWoozle",
+3444,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCJackpotEffalump",
+2344,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCMirrorWoozle",
+3564,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCRoadSweeperEffalump",
+3688,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCTennisWoozle",
+2632,
+99.98,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCTree",
+2104,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCTubaEffalump",
+3132,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCBasicWoozle",
+1956,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCFOVEvent",
+444,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCCamera",
+860,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CPathFinder",
+33340,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityTimer",
+1780,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntitySearchableZone",
+8452,
+0.99,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityPushingBox",
+11172,
+0.75,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityCookie",
+10844,
+0.77,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityWinnie",
+2200,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityTigger",
+3324,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityHero",
+10496,
+49.24,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagTeleport",
+1748,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagAnim",
+468,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMission",
+5072,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityFX",
+3024,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityScaryFaceBox",
+3916,
+98.69,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityEscapingObject",
+5044,
+1.67,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagCameraSystem",
+1036,
+80.47,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CLoading",
+16148,
+99.68,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityPhial",
+2880,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CEventAnimationHandlers",
+3088,
+51.72,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityPathFinder",
+16440,
+0.51,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGuiManager",
+14420,
+31.43,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CEventGuiHandlers",
+90556,
+99.43,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagGuiCtrl",
+1148,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagSettings",
+1908,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCDoor",
+2900,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGameBackup",
+9560,
+41.74,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMiniMapIcon",
+2916,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMiniMapSpline",
+1540,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CMiniMap",
+14412,
+63.5,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagBoxPosition",
+584,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntity3DSound",
+5828,
+36.32,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagFinishMission",
+560,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagNarrator",
+456,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CFxManager",
+2028,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CShadowZone",
+5464,
+46.31,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityNPCGralosaurus",
+5072,
+99.04,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartScrapBook",
+3156,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartMovieClips",
+3224,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CIcon",
+1744,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGuiScrapBookEventHandler",
+1820,
+99.94,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGuiMovieClipsEventHandler",
+1820,
+99.94,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CLoadingAdventure",
+3400,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CLoadingCatchThemAll",
+5332,
+99.16,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CloadingTigger",
+2812,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CloadingWinnie",
+2812,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGamePartStartScreen",
+1808,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCVibrationEvent",
+496,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCMessageEvent",
+972,
+98.91,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CFullScreenEffect",
+11180,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CRTCGrimaceEvent",
+1252,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/entities/CEntityBhvTagReceiveShadow",
+384,
+100.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Piglet/CGCNFont",
+2060,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/engine/Allocator",
+3792,
+68.6,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/GCN_MW_Memory",
+560,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/filesys/DkFileSysDlfs",
+3496,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/filesys/DkFileSys",
+6016,
+97.87,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/filesys/DkFileSysFat",
+2468,
+99.77,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/filesys/DkFileSysUnCompress",
+1340,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/rwsdk/src/plcore/babinary",
+3296,
+75.09,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/babinmtx",
+1156,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bacolor",
+40,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/baerr",
+348,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bafsys",
+296,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/baimmedi",
+296,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/balist",
+1064,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bamatrix",
+7288,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bamemory",
+3312,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/baresour",
+2240,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bastream",
+2776,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/batkbin",
+1456,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/batkreg",
+1672,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/bavector",
+2924,
+55.02,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/resmem",
+644,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/plcore/rwstring",
+688,
+99.71,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/os/gcn/osintf",
+88,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/babbox",
+372,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/babincam",
+972,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/babinfrm",
+2840,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/babintex",
+4664,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/bacamera",
+6488,
+64.48,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/badevice",
+3168,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/baframe",
+4260,
+99.88,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/baimage",
+9360,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/baimras",
+740,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/baraster",
+1556,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/baresamp",
+2416,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/basync",
+1904,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/batextur",
+8496,
+35.21,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/batypehf",
+156,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/common/palquant",
+9956,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dl2drend",
+5780,
+92.34,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlconvrt",
+7012,
+98.82,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dldevice",
+6264,
+57.73,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlraster",
+6900,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlrendst",
+2884,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlsprite",
+5540,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltexdic",
+1528,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltextur",
+1392,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/dltoken",
+140,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/driver/gcn/gekkomul",
+184,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/baim3d",
+2760,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/bapipe",
+128,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2altmdl",
+172,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2core",
+1716,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2define",
+6328,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2dep",
+4504,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2heap",
+2372,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2renderstate",
+340,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/p2resort",
+1220,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/gcn/im3dpipe",
+592,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/src/pipe/p2/gcn/nodeDolphinSubmitNoLight",
+2880,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/dmorph/dmphanim",
+1568,
+99.89,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/dmorph/dmphgeom",
+2612,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/dmorph/dmphintp",
+3040,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/dmorph/rpdmorph",
+148,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/hanim/stdkey",
+4000,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/hanim/rphanim",
+7132,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/rpmatfx",
+8348,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/effectPipesGcn",
+4468,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcnData",
+3024,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcnPipe",
+5140,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/gcn/multiTexGcn",
+104,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/multiTex",
+2980,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/matfx/multiTexEffect",
+2860,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/mipkl/rpmipkl",
+532,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchmesh",
+884,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchatomic",
+568,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchgeometry",
+520,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchnoskin",
+8,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchstream",
+928,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchlod",
+352,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/rppatch",
+680,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchexpander",
+8644,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/gcn/patchplatform",
+24,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/patchgeom",
+4904,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/patch/gcn/patchgcn",
+768,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/eclass",
+1756,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/emitter",
+5052,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/pclass",
+1692,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/prop",
+2004,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/pptank",
+2028,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/standard",
+12248,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/prtstd/rpprtstd",
+1824,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/rpptank",
+4508,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn",
+268,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcncallbacks",
+1552,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcnrender",
+1468,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_ppm",
+964,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_ppm",
+964,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_cs_nr",
+968,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_cs_nr",
+1032,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_pps_nr",
+984,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_pps_nr",
+1016,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_cs_ppr",
+1132,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_cs_ppr",
+1124,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_nc_pps_ppr",
+1092,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/ptank/gcn/ptankgcn_cc_pps_ppr",
+1116,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/random/rprandom",
+856,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/bsplit",
+720,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/rpskin",
+4408,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcn",
+5728,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skinstream",
+1520,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skinmatrixblend",
+508,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcnasm",
+2096,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/skin2/gcn/skingcng",
+184,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/spline/rpspline",
+15412,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/babinwor",
+5308,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/baclump",
+15028,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/bageomet",
+8064,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/balight",
+2648,
+34.74,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/bamateri",
+2344,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/bamatlst",
+2596,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/bamesh",
+2680,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/bameshop",
+10216,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/basector",
+272,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/baworld",
+5668,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/baworobj",
+7876,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/bapipew",
+256,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gcpipe",
+2416,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/vtxfmt",
+16872,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/wrldpipe",
+544,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/nodeGameCubeAtomicAllInOne",
+2392,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/nodeGameCubeWorldSectorAllInOne",
+1396,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/displaylist",
+1080,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gclights",
+1156,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/gcmorph",
+644,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/world/pipe/p2/gcn/native",
+2276,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/brush",
+2528,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/fill",
+4408,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/font",
+8216,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/gstate",
+4220,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/path",
+9340,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/stroke",
+2472,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/2dstr",
+916,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/object",
+1716,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/pickreg",
+312,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/scene",
+2932,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/shape",
+3472,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/tri",
+2912,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/anim",
+2312,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/keyframe",
+3592,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/props",
+312,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/bucket",
+232,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/strlabel",
+1436,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/button",
+1668,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/message",
+2684,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/maestro",
+3812,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/handler",
+2064,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/cel",
+1328,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/2d/anim/gstate",
+548,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/bezpat/bezquad",
+9180,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/bezpat/rtbezpat",
+1648,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/bmp/rtbmp",
+6100,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/charset/chrprint",
+1828,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/charset/rtcharse",
+1684,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/intsec/rtintsec",
+5920,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/pick/rtpick",
+1008,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/adler32",
+412,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/deflate",
+8080,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/trees",
+9124,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/zutil",
+92,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/inflate",
+2396,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/infblock",
+4388,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/inftrees",
+2128,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/infcodes",
+2548,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/infutil",
+392,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/inffast",
+1452,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/zlib/crc32",
+316,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/png",
+2040,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngerror",
+968,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngget",
+524,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngmem",
+932,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngread",
+6080,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngrio",
+168,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngrtran",
+30728,
+99.91,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngrutil",
+17320,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngset",
+4616,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngtrans",
+4444,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngwio",
+212,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngwrite",
+4792,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngwtran",
+5168,
+100.0,
+1,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/libpng/pngwutil",
+18004,
+95.54,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/png/rtpng",
+3228,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/tool/quat/rtquat",
+1120,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctbuild",
+6116,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctworld",
+8524,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/collis/ctbsp",
+3712,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/rwsdk/plugin/collis/rpcollis",
+1564,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/dolphin/vi/vi",
+6944,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/am/am",
+108,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ar/ar",
+7256,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ar/arq",
+980,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AX",
+112,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXAlloc",
+1224,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXAux",
+1172,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXCL",
+1840,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXOut",
+1728,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXSPB",
+1224,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXVPB",
+4536,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ax/AXProf",
+72,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/axfx/reverb_hi",
+4292,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/axfx/reverb_std",
+3068,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/axfx/axfx",
+80,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/axfx/reverb_hi_4ch",
+3896,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/base/PPCArch",
+240,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDBios",
+4836,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDUnlock",
+4704,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDRdwr",
+640,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDBlock",
+1028,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDDir",
+612,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDCheck",
+3944,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDMount",
+2752,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDFormat",
+2032,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDOpen",
+748,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDCreate",
+920,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDRead",
+1144,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDWrite",
+820,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDDelete",
+536,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/card/CARDStat",
+1248,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/db/db",
+236,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dsp/dsp",
+744,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dsp/dsp_debug",
+80,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dsp/dsp_task",
+2180,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvdlow",
+3648,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvdfs",
+2260,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvd",
+9776,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvdqueue",
+504,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvderror",
+408,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvdidutils",
+248,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/dvdFatal",
+48,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/dvd/emu_level2/fstload",
+576,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/exi/EXIBios",
+6364,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/exi/EXIUart",
+624,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/fileCache/fileCache",
+204,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXInit",
+4560,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXFifo",
+2296,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXAttr",
+4464,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXMisc",
+1328,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXGeometry",
+944,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXFrameBuf",
+3068,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXLight",
+1564,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXTexture",
+4168,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXBump",
+1516,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXTev",
+1904,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXPixel",
+1492,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXStubs",
+4,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXDisplayList",
+524,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXTransform",
+1540,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/gx/GXPerf",
+2136,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/mtx/mtx",
+248,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/mtx/mtx44",
+152,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OS",
+2376,
+99.94,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSAlarm",
+1712,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSArena",
+32,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSAudioSystem",
+660,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSCache",
+1616,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSContext",
+2160,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSError",
+1708,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSFont",
+3424,
+64.06,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSInterrupt",
+2156,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSLink",
+24,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSMessage",
+516,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSMemory",
+736,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSMutex",
+112,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSReboot",
+484,
+22.88,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSReset",
+996,
+66.65,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSResetSW",
+908,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSRtc",
+2620,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSSemaphore",
+296,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSSync",
+132,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSThread",
+4560,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/OSTime",
+1060,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/init/__start",
+596,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/os/init/__ppc_eabi_init",
+232,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/pad/Padclamp",
+580,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/pad/Pad",
+6864,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/si/SIBios",
+6240,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/si/SISamplingRate",
+264,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/support/List",
+104,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/texPalette/texPalette",
+108,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/ai/ai",
+2304,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/abort_exit",
+340,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/alloc",
+5208,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/ansi_files",
+768,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Src/ansi_fp",
+7276,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/buffer_io",
+780,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/char_io",
+1408,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/ctype",
+36,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/direct_io",
+1692,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/file_io",
+1288,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/FILE_POS",
+716,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/mbstring",
+880,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/mem",
+368,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/mem_funcs",
+736,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/misc_io",
+40,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/printf",
+8428,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/qsort",
+368,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/rand",
+40,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/scanf",
+4168,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/signal",
+176,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/string",
+1228,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/strtold",
+4436,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/strtoul",
+2116,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Src/uart_console_io",
+204,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/wmem",
+36,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common/Src/wchar_io",
+136,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_atan2",
+656,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_exp",
+540,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_fmod",
+828,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_log",
+636,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_pow",
+2188,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/e_rem_pio2",
+928,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/k_cos",
+244,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/k_rem_pio2",
+3668,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/k_sin",
+160,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/k_tan",
+532,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_atan",
+512,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_copysign",
+40,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_cos",
+212,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_floor",
+328,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_frexp",
+140,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_ldexp",
+452,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_modf",
+252,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_nextafter",
+388,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_sin",
+216,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/s_tan",
+120,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/w_atan2",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/w_exp",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/w_fmod",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/w_log",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/MSL_Common_Embedded/Math/w_pow",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C/PPC_EABI/SRC/math_ppc",
+72,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C++/MSL_Common/Src/ios",
+1552,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C++/MSL_Common/Src/iostream",
+29036,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/msl/MSL_C++/MSL_Common/Src/locale",
+2308,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/mainloop",
+248,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/nubevent",
+552,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/nubinit",
+384,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/msg",
+476,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/msgbuf",
+2604,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/serpoll",
+972,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/usr_put",
+140,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/dispatch",
+156,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/msghndlr",
+10336,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/support",
+2240,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/mutex_TRK",
+24,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/notify",
+216,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/ppc/Generic/flush_cache",
+56,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/mem_TRK",
+272,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/ppc/Generic/targimpl",
+6288,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/ppc/Export/targsupp",
+32,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/ppc/Generic/__exception",
+7988,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Os/dolphin/dolphin_trk",
+580,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/ppc/Generic/mpc_7xx_603e",
+888,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Portable/main_TRK",
+68,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Os/dolphin/dolphin_trk_glue",
+1196,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Os/dolphin/targcont",
+52,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/Os/dolphin/target_options",
+28,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/TRK_MINNOW_DOLPHIN/MetroTRK/Export/mslsupp",
+1456,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/__va_arg",
+200,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/global_destructor_chain",
+96,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/NMWException",
+1516,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/runtime",
+2112,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/__init_cpp_exceptions",
+124,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/Gecko_setjmp",
+532,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/Gecko_ExceptionPPC",
+5176,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/OdemuExi2/DebuggerDriver",
+2688,
+0.0,
+0,
+[
+"sdk"
+]
+],
+[
+"main/dolphin/amcstubs/AmcExi2Stubs",
+48,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/dolphin/odemustubs/odemustubs",
+8,
+0.0,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/engine/display/DkDisplay",
+3784,
+39.57,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CEngine",
+11544,
+61.7,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IEngine",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CDkWrapEngine",
+492,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CObjectDictionary",
+13176,
+52.11,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAnimDictionary",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IObjectDictionary",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ITextureDictionary",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAnimDictionary",
+24796,
+81.31,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAtomic",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IClump",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IFramable",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IFramableGeometry",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IGeometry",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CClump",
+9260,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IRaster",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ITexture",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IScene",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CScene",
+26272,
+55.36,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ICamera",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CCamera",
+2972,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ILight",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CLight",
+6160,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IRWStream",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CRWStream",
+2276,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAnimation",
+168,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IDMorphAnimation",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IHierarchy",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAnimation",
+1040,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CDMorphAnimation",
+688,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CTimer",
+712,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ICharset",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ITimer",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CCharset",
+1812,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CHierarchy",
+10580,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IImage",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CImage",
+808,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CTexture",
+780,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CTextureDictionary",
+17512,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CRaster",
+940,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CShadowMap",
+8260,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IShadowMap",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IShadowMapPipeline",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CShadowMapPipelineGCN",
+4776,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAtomic",
+1296,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CGeometry",
+400,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IMaterialAnimationPipeline",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CMaterialAnimationPipelineGCN",
+2496,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IMirror",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CMirror",
+3996,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IMaterialAnimation",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CMaterialAnimation",
+876,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IWarp",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CWarp",
+8608,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ISpline",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IMaterialAnimationInterpolator",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CMaterialAnimationInterpolator",
+2180,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IController",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IGenericAnimation",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CController",
+9492,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ISubController",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CControllerHAnim",
+8344,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CControllerDMorph",
+4456,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CControllerMaterial",
+4648,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CControllerAnimEntry",
+1472,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CSpline",
+880,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAnimationStar",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAnimationStar",
+9964,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAnimationStarEntry",
+7556,
+60.76,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAnimationStarController",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CAnimationStarController",
+7952,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IImmediate",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CImmediate",
+2780,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IAnimationStarEntry",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IIm3DBatch",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IImBatch",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IIm2DBatch",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CIm3DBatch",
+2196,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CIm2DBatch",
+2104,
+99.53,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CParticleEmitter",
+12736,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IParticleEmitter",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/ITextureCallback",
+16,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IEventAnimation",
+60,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CControllerEvent",
+4984,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CEventAnimation",
+1580,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IEventAnimationCallback",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CParticleEmitterDefinition",
+6256,
+88.06,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IParticleEmitterDefinition",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CTimerGCN",
+176,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IShadowMapValidationCallback",
+16,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IPipeline",
+4,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/display/IDisplacementPipeline",
+60,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CDisplacementPipelineGCN",
+224,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/display/CShadowMapDenyCallback",
+156,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/rwsdk/tool/anim/rtanim",
+4940,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/engine/backup/DkBackUp",
+132,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/backup/CGCNBAKEngine",
+6444,
+17.38,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/GCNIcon",
+568,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/gui/DkGUI",
+152,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/gui/CGUIAnim",
+10824,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/gui/CGUIEngine",
+10828,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/gui/CGUIMenu",
+2536,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/physics/DkPhysics",
+108,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/physics/DkPh_Sweeper",
+5360,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/physics/DkPh_Collider",
+9792,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/physics/DkPh_Dynamics",
+1264,
+94.16,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/physics/DkPh_Primitives",
+7400,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/input/IInputEngine",
+9164,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/input/CCombo",
+804,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/input/CInput",
+400,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/input/CState",
+1400,
+99.29,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/input/CGCNPad",
+6312,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/input/CInputHalfAxe",
+488,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/xmd/CChunkIterator",
+6016,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/xmd/CXmdFile",
+1160,
+33.93,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_2dTools",
+316,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Animation",
+19108,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Atomic",
+7444,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Camera",
+4800,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Charset",
+2340,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Clump",
+4300,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_ClumpAnim",
+92,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Engine",
+3384,
+72.58,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Frame",
+1388,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Geometry",
+2236,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Hierarchy",
+512,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Im2D",
+328,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_ImageTGA",
+6732,
+98.61,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_InstanceEngine",
+1584,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Light",
+1512,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Material",
+1140,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_MatFX",
+92,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Matrix",
+1668,
+98.05,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Primitive",
+11468,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Quat",
+372,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_RenderProperty",
+2088,
+95.6,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_RGBA",
+792,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_RGBAReal",
+688,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Spline",
+788,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_TexDictionary",
+240,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Texture",
+684,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_V2d",
+256,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_V3d",
+1852,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_Warp",
+284,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_World",
+2512,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_WorldSector",
+1000,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DkWrap",
+1296,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/wrap/DKW_GCNEngine",
+1152,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/rwsdk/driver/gcn/dlmem",
+564,
+0.0,
+0,
+[
+"sdk",
+"rw"
+]
+],
+[
+"main/engine/sound/DkSound",
+176,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISoundEngine",
+96,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISample",
+104,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISoundEmitter",
+96,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISoundListener",
+96,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISoundStreamed",
+208,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/ISampleDictionary",
+96,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSampleBank",
+980,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSampleDictionary",
+3092,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSound2D",
+4448,
+44.15,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSound3D",
+4656,
+61.25,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundEmitter",
+2180,
+99.89,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundEngine",
+9484,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundListener",
+564,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundStreamed",
+4092,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSample",
+1268,
+98.04,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSound3DRWA",
+292,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSound2DRWA",
+140,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundStreamedRWA",
+344,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundEngineRWA",
+1360,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSampleRWA",
+564,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundListenerRWA",
+796,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/sound/CSoundEmitterRWA",
+212,
+0.0,
+0,
+[
+"engine"
+]
+],
+[
+"main/engine/video/CVideoEngine",
+252,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/video/CVideoEngineGCN",
+2572,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/engine/video/DkVideo",
+148,
+100.0,
+1,
+[
+"engine"
+]
+],
+[
+"main/thp/THPAudioDecode",
+976,
+45.9,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/thp/THPDraw",
+1992,
+99.75,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/thp/THPPlayer",
+6260,
+48.47,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/thp/THPRead",
+1176,
+41.5,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/thp/THPVideoDecode",
+1692,
+26.71,
+0,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/rwa/core/src/rwaobjdefalias",
+76,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaintf",
+2024,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaobjdef",
+3960,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaobj",
+2608,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaobjinterface",
+2344,
+99.61,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaparam",
+2492,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwasymboltable",
+456,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwamemory",
+472,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwafile",
+2804,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwabase",
+1492,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwawavedict",
+1220,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwawaveconv",
+15308,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwawavedef",
+3396,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwawave",
+1644,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwauuid",
+928,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwavoicemanager",
+1948,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwafreelist",
+1624,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwallist",
+536,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwamath",
+468,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaheap",
+1512,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamcreate",
+976,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwstream",
+696,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/core/src/rwaallocbitmap",
+1264,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwavirtualvoice",
+164,
+100.0,
+1,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwavoice3d",
+124,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwavoice",
+124,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwaoutput",
+124,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwalistener",
+124,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/interfaces/src/rwastreamint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamnodeint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamnodetypes",
+1572,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamrendererint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamsourceint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/objects/src/rwavirtualvoiceobj",
+3196,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/objects/src/rwalistenerobj",
+3152,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamsource",
+3360,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamfanout",
+2308,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamsourcecommon",
+9188,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamfilequeue",
+640,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastreamcontainer",
+9176,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/objects/src/rwastreamcontainercmd",
+628,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwastream",
+4392,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/waves/src/rwanullwave",
+428,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/gcn/core/src/osbase",
+8,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/gcn/core/src/osmultithread",
+492,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/gcn/core/src/ostimer",
+52,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaax",
+196,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxoutput",
+2812,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxoutputchannel",
+1764,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxoutputint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxvoice",
+4988,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxvoiceint",
+164,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxwave",
+1268,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaarammanager",
+392,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxrenderer",
+3768,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/rwa/rwaaxrenderersub",
+3260,
+0.0,
+0,
+[
+"sdk",
+"rwa"
+]
+],
+[
+"main/thp/THPDec",
+30056,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/thp/THPAudio",
+1328,
+100.0,
+1,
+[
+"sdk",
+"dolphin"
+]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/Src/__mem",
+312,
+0.0,
+0,
+[
+"sdk"
+]
+]
+],
+"workflow": 158634693
+}

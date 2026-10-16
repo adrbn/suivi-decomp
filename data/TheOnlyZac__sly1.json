@@ -1,0 +1,2650 @@
+{
+"history": [
+{
+"sha": "e428dd8c26ec1acdd3fde19674248e41a967162f",
+"time": "2026-09-07T21:29:02Z",
+"message": "Merge pull request #271 from MidnightChems/working_decomp",
+"measures": {
+"matched_code_percent": 6.3997,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4372,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 72536.0,
+"total_data": 568629.0,
+"total_functions": 4690.0,
+"matched_functions": 1148.0,
+"total_units": 290.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.2783,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0523,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 72536.0,
+"total_data": 20781.0,
+"total_functions": 4067.0,
+"matched_functions": 1148.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 19.3289,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 8064.0,
+"total_data": 10080.0,
+"total_functions": 255.0,
+"matched_functions": 116.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547848.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 105.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "6ea595d49e9c75d6b64f14b78e2a54bc53e872b1",
+"time": "2026-09-08T14:57:35Z",
+"message": "Merge pull request #267 from MarkoGutierro/Working-Branch",
+"measures": {
+"matched_code_percent": 6.4043,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4372,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 72588.0,
+"total_data": 568629.0,
+"total_functions": 4690.0,
+"matched_functions": 1149.0,
+"total_units": 290.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.2835,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0523,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 72588.0,
+"total_data": 20781.0,
+"total_functions": 4067.0,
+"matched_functions": 1149.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 19.3289,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 8064.0,
+"total_data": 10080.0,
+"total_functions": 255.0,
+"matched_functions": 116.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547848.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 105.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "0a365478e62bcce764b2364c835945b338c22f58",
+"time": "2026-09-20T20:20:32Z",
+"message": "Merge pull request #273 from nicknytko/splice-eval",
+"measures": {
+"matched_code_percent": 6.8066,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4794,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 77148.0,
+"total_data": 568629.0,
+"total_functions": 4690.0,
+"matched_functions": 1165.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.741,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.1202,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 77148.0,
+"total_data": 21021.0,
+"total_functions": 4067.0,
+"matched_functions": 1165.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 30.2589,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.3256,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 12624.0,
+"total_data": 10320.0,
+"total_functions": 255.0,
+"matched_functions": 132.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547608.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 104.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "b70b85d6f9bf6b41a9f7aad6b1d2339a81086757",
+"time": "2026-09-22T12:07:32Z",
+"message": "Merge pull request #275 from RoyB12/match-and-mangle-get-level-completion",
+"measures": {
+"matched_code_percent": 6.8105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4794,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 77192.0,
+"total_data": 568629.0,
+"total_functions": 4690.0,
+"matched_functions": 1166.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.7454,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.1202,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 77192.0,
+"total_data": 21021.0,
+"total_functions": 4067.0,
+"matched_functions": 1166.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 30.2589,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.3256,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 12624.0,
+"total_data": 10320.0,
+"total_functions": 255.0,
+"matched_functions": 132.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547608.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 104.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "2eb27e6ca6118aa43191bb886b5ebbb6b9f12779",
+"time": "2026-09-22T20:55:13Z",
+"message": "Merge pull request #276 from nicknytko/splice-serialize",
+"measures": {
+"matched_code_percent": 6.9499,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.5027,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 78772.0,
+"total_data": 568625.0,
+"total_functions": 4690.0,
+"matched_functions": 1170.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.904,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.7661,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 78772.0,
+"total_data": 21017.0,
+"total_functions": 4067.0,
+"matched_functions": 1170.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 32.0997,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.606,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 13392.0,
+"total_data": 10316.0,
+"total_functions": 255.0,
+"matched_functions": 133.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547608.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 104.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "68bc78b7b7c670c0e83434f6859dfe7d5ecabe4f",
+"time": "2026-09-25T18:08:18Z",
+"message": "Merge pull request #272 from nicknytko/fix-ppairnew",
+"measures": {
+"matched_code_percent": 6.9569,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.5027,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 78852.0,
+"total_data": 568625.0,
+"total_functions": 4690.0,
+"matched_functions": 1171.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.912,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.7661,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 78852.0,
+"total_data": 21017.0,
+"total_functions": 4067.0,
+"matched_functions": 1171.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 32.2915,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.606,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 13472.0,
+"total_data": 10316.0,
+"total_functions": 255.0,
+"matched_functions": 134.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547608.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 104.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "433cdee14df611b43880bc9c14f90581af910851",
+"time": "2026-09-25T18:21:29Z",
+"message": "Merge pull request #278 from SlyC00per/match-UpdateSoPosWorldPrev",
+"measures": {
+"matched_code_percent": 6.958,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.5027,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 78864.0,
+"total_data": 568625.0,
+"total_functions": 4690.0,
+"matched_functions": 1172.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.9132,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.7661,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 78864.0,
+"total_data": 21017.0,
+"total_functions": 4067.0,
+"matched_functions": 1172.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 32.2915,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.606,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 13472.0,
+"total_data": 10316.0,
+"total_functions": 255.0,
+"matched_functions": 134.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547608.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 104.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7bd5cbcd0d2a31ae52f99231509463f5893b256b",
+"time": "2026-09-26T19:34:05Z",
+"message": "Merge pull request #279 from nicknytko/splice-gc",
+"measures": {
+"matched_code_percent": 7.2446,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.0819,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 82112.0,
+"total_data": 568621.0,
+"total_functions": 4690.0,
+"matched_functions": 1190.0,
+"total_units": 289.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 8.2391,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.333,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 82112.0,
+"total_data": 29997.0,
+"total_functions": 4067.0,
+"matched_functions": 1190.0,
+"total_units": 184.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 40.0767,
+"complete_code_percent": 0.0,
+"matched_data_percent": 90.6905,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 16720.0,
+"total_data": 10312.0,
+"total_functions": 255.0,
+"matched_functions": 152.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 538624.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 103.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a4eea5a9dfb4223d4128fa743b16e9af274f8731",
+"time": "2026-10-04T17:35:57Z",
+"message": "Merge pull request #274 from 545u/545u-dev",
+"measures": {
+"matched_code_percent": 7.9102,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.6378,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 89656.0,
+"total_data": 568609.0,
+"total_functions": 4690.0,
+"matched_functions": 1249.0,
+"total_units": 287.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 8.9961,
+"complete_code_percent": 0.0,
+"matched_data_percent": 92.4126,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 89656.0,
+"total_data": 34689.0,
+"total_functions": 4067.0,
+"matched_functions": 1249.0,
+"total_units": 184.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 40.7766,
+"complete_code_percent": 0.0,
+"matched_data_percent": 80.3041,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 17012.0,
+"total_data": 11840.0,
+"total_functions": 255.0,
+"matched_functions": 156.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 533920.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 101.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "34a077354d2c047f990e72f1d7a09c94172f88ea",
+"time": "2026-10-06T20:09:01Z",
+"message": "Merge pull request #284 from tmess/match-sbg",
+"measures": {
+"matched_code_percent": 7.9469,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.6378,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 90072.0,
+"total_data": 568609.0,
+"total_functions": 4690.0,
+"matched_functions": 1255.0,
+"total_units": 287.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 9.0378,
+"complete_code_percent": 0.0,
+"matched_data_percent": 92.4126,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 90072.0,
+"total_data": 34689.0,
+"total_functions": 4067.0,
+"matched_functions": 1255.0,
+"total_units": 184.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 40.7766,
+"complete_code_percent": 0.0,
+"matched_data_percent": 80.3041,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 17012.0,
+"total_data": 11840.0,
+"total_functions": 255.0,
+"matched_functions": 156.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 533920.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 101.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "ea5e2d77ac2a083df1efeafcee178f895943b13d",
+"time": "2026-10-11T21:58:25Z",
+"message": "Merge pull request #282 from 545u/545u-dev",
+"measures": {
+"matched_code_percent": 8.4378,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.6378,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 95636.0,
+"total_data": 568609.0,
+"total_functions": 4690.0,
+"matched_functions": 1314.0,
+"total_units": 287.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 9.5961,
+"complete_code_percent": 0.0,
+"matched_data_percent": 92.4126,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 95636.0,
+"total_data": 34689.0,
+"total_functions": 4067.0,
+"matched_functions": 1314.0,
+"total_units": 184.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 40.7766,
+"complete_code_percent": 0.0,
+"matched_data_percent": 80.3041,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 17012.0,
+"total_data": 11840.0,
+"total_functions": 255.0,
+"matched_functions": 156.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 533920.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 101.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "SCUS_971.98_report",
+"category_names": {
+"P2": "Engine",
+"splice": "Splice",
+"ps2t": "Tooling",
+"sce": "Libs",
+"data": "Data"
+},
+"units_time": "2026-10-11T21:58:25Z",
+"units": [
+[
+"sce/crt0",
+368,
+0.0,
+0,
+[
+"sce"
+]
+],
+[
+"P2/ps2t/spaprops",
+74976,
+0.0,
+0,
+[
+"P2",
+"ps2t"
+]
+],
+[
+"P2/splice/bif",
+26004,
+12.31,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/eval",
+5564,
+99.96,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/frame",
+832,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/gc",
+2020,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/method",
+64,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/pair",
+220,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/proc",
+112,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/ref",
+2528,
+72.47,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/serialize",
+768,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/sidebag",
+576,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/spliceutils",
+432,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/splotheap",
+720,
+96.22,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/varb",
+240,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/splice/vecmat",
+1640,
+100.0,
+0,
+[
+"P2",
+"splice"
+]
+],
+[
+"P2/989snd",
+6064,
+99.89,
+0,
+[
+"P2"
+]
+],
+[
+"P2/brx",
+2312,
+34.92,
+0,
+[
+"P2"
+]
+],
+[
+"P2/ac",
+9044,
+47.01,
+0,
+[
+"P2"
+]
+],
+[
+"P2/act",
+7344,
+2.83,
+0,
+[
+"P2"
+]
+],
+[
+"P2/actseg",
+1164,
+15.46,
+0,
+[
+"P2"
+]
+],
+[
+"P2/alarm",
+2532,
+23.54,
+0,
+[
+"P2"
+]
+],
+[
+"P2/alo",
+30996,
+8.34,
+0,
+[
+"P2"
+]
+],
+[
+"P2/aseg",
+7004,
+6.11,
+0,
+[
+"P2"
+]
+],
+[
+"P2/asega",
+9232,
+1.82,
+0,
+[
+"P2"
+]
+],
+[
+"P2/barrier",
+1176,
+15.65,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bas",
+988,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/basic",
+128,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bez",
+3540,
+7.68,
+0,
+[
+"P2"
+]
+],
+[
+"P2/binoc",
+25316,
+3.54,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bis",
+4800,
+49.68,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bbmark",
+2624,
+5.03,
+0,
+[
+"P2"
+]
+],
+[
+"P2/blend",
+2916,
+4.03,
+0,
+[
+"P2"
+]
+],
+[
+"P2/blip",
+6440,
+2.92,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bomb",
+5284,
+2.65,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bq",
+864,
+13.89,
+0,
+[
+"P2"
+]
+],
+[
+"P2/break",
+4752,
+21.72,
+0,
+[
+"P2"
+]
+],
+[
+"P2/bsp",
+2008,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/button",
+8048,
+15.71,
+0,
+[
+"P2"
+]
+],
+[
+"P2/cat",
+24,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/cd",
+1488,
+30.91,
+0,
+[
+"P2"
+]
+],
+[
+"P2/chkpnt",
+3116,
+3.53,
+0,
+[
+"P2"
+]
+],
+[
+"P2/clip",
+5308,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/clock",
+612,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/cm",
+12060,
+8.26,
+0,
+[
+"P2"
+]
+],
+[
+"P2/cnvo",
+568,
+44.37,
+0,
+[
+"P2"
+]
+],
+[
+"P2/coin",
+12284,
+9.27,
+0,
+[
+"P2"
+]
+],
+[
+"P2/cplcy",
+6168,
+0.97,
+0,
+[
+"P2"
+]
+],
+[
+"P2/credit",
+1244,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/crout",
+1164,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/crusher",
+6964,
+4.77,
+0,
+[
+"P2"
+]
+],
+[
+"P2/crv",
+7452,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dart",
+2292,
+28.62,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dartgun",
+3452,
+2.78,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dialog",
+5324,
+12.1,
+0,
+[
+"P2"
+]
+],
+[
+"P2/difficulty",
+2632,
+6.44,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dl",
+944,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dmas",
+1500,
+86.07,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dysh",
+1788,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/dzg",
+5268,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/emitter",
+19436,
+3.09,
+0,
+[
+"P2"
+]
+],
+[
+"P2/eyes",
+1096,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/fader",
+460,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/UNKNOWN1",
+636,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/find",
+2424,
+14.52,
+0,
+[
+"P2"
+]
+],
+[
+"P2/flash",
+544,
+43.38,
+0,
+[
+"P2"
+]
+],
+[
+"P2/fly",
+5768,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/font",
+9376,
+5.67,
+0,
+[
+"P2"
+]
+],
+[
+"P2/frm",
+4016,
+10.03,
+0,
+[
+"P2"
+]
+],
+[
+"P2/freeze",
+2284,
+0.88,
+0,
+[
+"P2"
+]
+],
+[
+"P2/frzg",
+228,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/game",
+3500,
+37.4,
+0,
+[
+"P2"
+]
+],
+[
+"P2/geom",
+816,
+3.43,
+0,
+[
+"P2"
+]
+],
+[
+"P2/gifs",
+1996,
+53.54,
+0,
+[
+"P2"
+]
+],
+[
+"P2/glbs",
+3628,
+7.83,
+0,
+[
+"P2"
+]
+],
+[
+"P2/glob",
+21820,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/gomer",
+960,
+72.91,
+0,
+[
+"P2"
+]
+],
+[
+"P2/gs",
+6876,
+1.45,
+0,
+[
+"P2"
+]
+],
+[
+"P2/hide",
+3456,
+6.6,
+0,
+[
+"P2"
+]
+],
+[
+"P2/hideout",
+6704,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/hnd",
+100,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/ik",
+2316,
+2.42,
+0,
+[
+"P2"
+]
+],
+[
+"P2/jlo",
+4728,
+6.43,
+0,
+[
+"P2"
+]
+],
+[
+"P2/joy",
+5380,
+35.45,
+0,
+[
+"P2"
+]
+],
+[
+"P2/jt",
+35184,
+0.02,
+0,
+[
+"P2"
+]
+],
+[
+"P2/jp",
+14660,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/jsg",
+6244,
+18.9,
+0,
+[
+"P2"
+]
+],
+[
+"P2/jump",
+11292,
+2.76,
+0,
+[
+"P2"
+]
+],
+[
+"P2/keyhole",
+4116,
+1.07,
+0,
+[
+"P2"
+]
+],
+[
+"P2/landing",
+176,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/lgn",
+7304,
+1.48,
+0,
+[
+"P2"
+]
+],
+[
+"P2/lo",
+4168,
+65.28,
+0,
+[
+"P2"
+]
+],
+[
+"P2/light",
+5696,
+26.58,
+0,
+[
+"P2"
+]
+],
+[
+"P2/lookat",
+1008,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/main",
+1204,
+93.71,
+0,
+[
+"P2"
+]
+],
+[
+"P2/mark",
+10388,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/mat",
+7740,
+3.82,
+0,
+[
+"P2"
+]
+],
+[
+"P2/mb",
+4552,
+2.81,
+0,
+[
+"P2"
+]
+],
+[
+"P2/memcard",
+7752,
+4.73,
+0,
+[
+"P2"
+]
+],
+[
+"P2/memory",
+1164,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/missile",
+2832,
+7.2,
+0,
+[
+"P2"
+]
+],
+[
+"P2/mpeg",
+5428,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/mrkv",
+80,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/ms",
+1312,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/murray",
+2248,
+68.48,
+0,
+[
+"P2"
+]
+],
+[
+"P2/path",
+5728,
+0.56,
+0,
+[
+"P2"
+]
+],
+[
+"P2/phasemem",
+76,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/pipe",
+404,
+77.23,
+0,
+[
+"P2"
+]
+],
+[
+"P2/pnt",
+304,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/po",
+4128,
+11.14,
+0,
+[
+"P2"
+]
+],
+[
+"P2/prog",
+900,
+55.4,
+0,
+[
+"P2"
+]
+],
+[
+"P2/prompt",
+11796,
+0.86,
+0,
+[
+"P2"
+]
+],
+[
+"P2/proxy",
+1368,
+7.6,
+0,
+[
+"P2"
+]
+],
+[
+"P2/puffer",
+8192,
+0.1,
+0,
+[
+"P2"
+]
+],
+[
+"P2/pzo",
+9496,
+4.59,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rail",
+300,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rat",
+5092,
+7.54,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rchm",
+4024,
+2.19,
+0,
+[
+"P2"
+]
+],
+[
+"P2/render",
+3092,
+45.39,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rip",
+23000,
+0.57,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rog",
+16328,
+2.39,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rumble",
+1196,
+71.91,
+0,
+[
+"P2"
+]
+],
+[
+"P2/rwm",
+6368,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sb",
+860,
+57.21,
+0,
+[
+"P2"
+]
+],
+[
+"P2/screen",
+20324,
+1.93,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sensor",
+11716,
+23.33,
+0,
+[
+"P2"
+]
+],
+[
+"P2/shadow",
+3412,
+12.19,
+0,
+[
+"P2"
+]
+],
+[
+"P2/shape",
+328,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/shd",
+8032,
+2.74,
+0,
+[
+"P2"
+]
+],
+[
+"P2/shdanim",
+4960,
+63.71,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sky",
+168,
+47.62,
+0,
+[
+"P2"
+]
+],
+[
+"P2/slotheap",
+420,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sm",
+3900,
+45.64,
+0,
+[
+"P2"
+]
+],
+[
+"P2/smartguard",
+2680,
+10.6,
+0,
+[
+"P2"
+]
+],
+[
+"P2/so",
+19732,
+5.34,
+0,
+[
+"P2"
+]
+],
+[
+"P2/solve",
+6376,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sort",
+384,
+16.67,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sound",
+11440,
+5.45,
+0,
+[
+"P2"
+]
+],
+[
+"P2/speaker",
+376,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/spire",
+224,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/splicemap",
+812,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/spliceobj",
+3924,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sprbuf",
+1448,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sqtr",
+2464,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/squish",
+4260,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/step",
+6796,
+2.35,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stepact",
+712,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stepcane",
+3420,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stepguard",
+21500,
+2.92,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stephang",
+7060,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stephide",
+13604,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/steppipe",
+5324,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/steppower",
+2052,
+34.11,
+0,
+[
+"P2"
+]
+],
+[
+"P2/steprail",
+1292,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/steprun",
+2632,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stepside",
+1792,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stepzap",
+10376,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/stream",
+672,
+20.24,
+0,
+[
+"P2"
+]
+],
+[
+"P2/suv",
+16492,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/sw",
+10176,
+16.31,
+0,
+[
+"P2"
+]
+],
+[
+"P2/tail",
+2728,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/tank",
+5520,
+2.1,
+0,
+[
+"P2"
+]
+],
+[
+"P2/target",
+300,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/tatk",
+2664,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/text",
+6440,
+12.86,
+0,
+[
+"P2"
+]
+],
+[
+"P2/thread",
+416,
+100.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/tn",
+10740,
+3.05,
+0,
+[
+"P2"
+]
+],
+[
+"P2/transition",
+1344,
+32.91,
+0,
+[
+"P2"
+]
+],
+[
+"P2/turret",
+2776,
+0.43,
+0,
+[
+"P2"
+]
+],
+[
+"P2/tv",
+10812,
+0.85,
+0,
+[
+"P2"
+]
+],
+[
+"P2/ub",
+1944,
+27.98,
+0,
+[
+"P2"
+]
+],
+[
+"P2/ui",
+3016,
+13.93,
+0,
+[
+"P2"
+]
+],
+[
+"P2/update",
+1924,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/util",
+4124,
+43.58,
+0,
+[
+"P2"
+]
+],
+[
+"P2/vb",
+8580,
+23.54,
+0,
+[
+"P2"
+]
+],
+[
+"P2/vec",
+3244,
+17.76,
+0,
+[
+"P2"
+]
+],
+[
+"P2/vifs",
+1472,
+42.12,
+0,
+[
+"P2"
+]
+],
+[
+"P2/vis",
+844,
+45.69,
+0,
+[
+"P2"
+]
+],
+[
+"P2/water",
+3008,
+23.01,
+0,
+[
+"P2"
+]
+],
+[
+"P2/waypoint",
+1180,
+38.31,
+0,
+[
+"P2"
+]
+],
+[
+"P2/wipe",
+1904,
+14.79,
+0,
+[
+"P2"
+]
+],
+[
+"P2/wm",
+8888,
+0.0,
+0,
+[
+"P2"
+]
+],
+[
+"P2/wr",
+4728,
+14.97,
+0,
+[
+"P2"
+]
+],
+[
+"P2/xform",
+5444,
+14.47,
+0,
+[
+"P2"
+]
+],
+[
+"P2/zap",
+2620,
+31.91,
+0,
+[
+"P2"
+]
+],
+[
+"sce/libs",
+114576,
+0.0,
+0,
+[
+"sce"
+]
+],
+[
+"data/vutext",
+21872,
+0.0,
+0,
+[
+"data"
+]
+]
+],
+"workflow": 156811008
+}

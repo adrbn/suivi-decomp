@@ -1,0 +1,4916 @@
+{
+"history": [
+{
+"sha": "4fd50c7ca6b44f996aa0fbb68ec86df75855d5b8",
+"time": "2026-07-22T22:31:26Z",
+"message": "Split up version ifdefs into Revision, DD (EK), Language and TV Region (#100)",
+"measures": {
+"matched_code_percent": 97.2058,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1459872.0,
+"matched_code": 1419080.0,
+"total_data": 0.0,
+"total_functions": 2865.0,
+"matched_functions": 2854.0,
+"total_units": 416.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 92.759,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 459824.0,
+"matched_code": 426528.0,
+"total_data": 0.0,
+"total_functions": 1194.0,
+"matched_functions": 1189.0,
+"total_units": 229.0,
+"complete_units": 0.0
+},
+"main.game": {
+"matched_code_percent": 87.4381,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 255184.0,
+"matched_code": 223128.0,
+"total_data": 0.0,
+"total_functions": 404.0,
+"matched_functions": 400.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"main.sys": {
+"matched_code_percent": 98.0664,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 64128.0,
+"matched_code": 62888.0,
+"total_data": 0.0,
+"total_functions": 207.0,
+"matched_functions": 206.0,
+"total_units": 17.0,
+"complete_units": 0.0
+},
+"main.audio": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96624.0,
+"matched_code": 96624.0,
+"total_data": 0.0,
+"total_functions": 407.0,
+"matched_functions": 407.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"main.libultra": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 42656.0,
+"matched_code": 42656.0,
+"total_data": 0.0,
+"total_functions": 173.0,
+"matched_functions": 173.0,
+"total_units": 177.0,
+"complete_units": 0.0
+},
+"unk_nmi": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"leo": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 71408.0,
+"matched_code": 71408.0,
+"total_data": 0.0,
+"total_functions": 221.0,
+"matched_functions": 221.0,
+"total_units": 64.0,
+"complete_units": 0.0
+},
+"ovl_i2": {
+"matched_code_percent": 98.335,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49248.0,
+"matched_code": 48428.0,
+"total_data": 0.0,
+"total_functions": 180.0,
+"matched_functions": 179.0,
+"total_units": 9.0,
+"complete_units": 0.0
+},
+"ovl_i3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 170672.0,
+"matched_code": 170672.0,
+"total_data": 0.0,
+"total_functions": 166.0,
+"matched_functions": 166.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"ovl_i4": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 23968.0,
+"matched_code": 23968.0,
+"total_data": 0.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"course_select": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 16176.0,
+"matched_code": 16176.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"ovl_i6": {
+"matched_code_percent": 88.7195,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 32800.0,
+"matched_code": 29100.0,
+"total_data": 0.0,
+"total_functions": 71.0,
+"matched_functions": 69.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"ovl_i7": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 26048.0,
+"matched_code": 26048.0,
+"total_data": 0.0,
+"total_functions": 25.0,
+"matched_functions": 25.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"ovl_i8": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12352.0,
+"matched_code": 12352.0,
+"total_data": 0.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i9": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 345376.0,
+"matched_code": 345376.0,
+"total_data": 0.0,
+"total_functions": 295.0,
+"matched_functions": 295.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i10": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 608.0,
+"matched_code": 608.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 5.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"expansion_kit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_edit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"create_machine_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_track_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"setup_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_custom_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"hud_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_global_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_models": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"mute_city_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"port_town_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"big_blue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sand_ocean_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"devils_forest_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"white_land_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sector_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"red_canyon_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"fire_field_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"silence_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ending_venue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"podium_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"super_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"boot_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"staff_ghost_records": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"common_assets_compressed": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ovl_i11": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"framebuffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"entrypoint": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96.0,
+"matched_code": 96.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 27536.0,
+"matched_code": 27536.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 14.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"unk_tables.data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1870.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1BF0.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C6E50.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"overlays": {
+"matched_code_percent": 99.1692,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 902240.0,
+"matched_code": 894744.0,
+"total_data": 0.0,
+"total_functions": 1438.0,
+"matched_functions": 1432.0,
+"total_units": 81.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"bin": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "c60b8e7e4d742e14caece0e6a5a0b2d0b6d326f7",
+"time": "2026-09-17T14:46:05Z",
+"message": "Part 1 of Expansion Kit Overlay Docs (#101)",
+"measures": {
+"matched_code_percent": 97.4096,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1459872.0,
+"matched_code": 1422056.0,
+"total_data": 0.0,
+"total_functions": 2858.0,
+"matched_functions": 2850.0,
+"total_units": 417.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 92.759,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 459824.0,
+"matched_code": 426528.0,
+"total_data": 0.0,
+"total_functions": 1194.0,
+"matched_functions": 1189.0,
+"total_units": 229.0,
+"complete_units": 0.0
+},
+"main.game": {
+"matched_code_percent": 87.4381,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 255184.0,
+"matched_code": 223128.0,
+"total_data": 0.0,
+"total_functions": 404.0,
+"matched_functions": 400.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"main.sys": {
+"matched_code_percent": 98.0664,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 64128.0,
+"matched_code": 62888.0,
+"total_data": 0.0,
+"total_functions": 207.0,
+"matched_functions": 206.0,
+"total_units": 17.0,
+"complete_units": 0.0
+},
+"main.audio": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96624.0,
+"matched_code": 96624.0,
+"total_data": 0.0,
+"total_functions": 407.0,
+"matched_functions": 407.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"main.libultra": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 42656.0,
+"matched_code": 42656.0,
+"total_data": 0.0,
+"total_functions": 173.0,
+"matched_functions": 173.0,
+"total_units": 177.0,
+"complete_units": 0.0
+},
+"unk_nmi": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"leo": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 71408.0,
+"matched_code": 71408.0,
+"total_data": 0.0,
+"total_functions": 221.0,
+"matched_functions": 221.0,
+"total_units": 64.0,
+"complete_units": 0.0
+},
+"ovl_i2": {
+"matched_code_percent": 98.335,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49248.0,
+"matched_code": 48428.0,
+"total_data": 0.0,
+"total_functions": 180.0,
+"matched_functions": 179.0,
+"total_units": 9.0,
+"complete_units": 0.0
+},
+"ovl_i3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 170672.0,
+"matched_code": 170672.0,
+"total_data": 0.0,
+"total_functions": 166.0,
+"matched_functions": 166.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"ovl_i4": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 23968.0,
+"matched_code": 23968.0,
+"total_data": 0.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"course_select": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 16176.0,
+"matched_code": 16176.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"ovl_i6": {
+"matched_code_percent": 88.7195,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 32800.0,
+"matched_code": 29100.0,
+"total_data": 0.0,
+"total_functions": 71.0,
+"matched_functions": 69.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"ovl_i7": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 26048.0,
+"matched_code": 26048.0,
+"total_data": 0.0,
+"total_functions": 25.0,
+"matched_functions": 25.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"ovl_i8": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12352.0,
+"matched_code": 12352.0,
+"total_data": 0.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i9": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 345376.0,
+"matched_code": 345376.0,
+"total_data": 0.0,
+"total_functions": 295.0,
+"matched_functions": 295.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i10": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 608.0,
+"matched_code": 608.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 5.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"expansion_kit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_edit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"create_machine_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_track_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"setup_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_custom_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"hud_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_global_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_models": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"mute_city_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"port_town_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"big_blue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sand_ocean_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"devils_forest_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"white_land_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sector_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"red_canyon_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"fire_field_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"silence_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ending_venue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"podium_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"super_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"boot_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"staff_ghost_records": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"common_assets_compressed": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ovl_i11": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"framebuffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"entrypoint": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96.0,
+"matched_code": 96.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 27536.0,
+"matched_code": 27536.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"unk_tables.data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1870.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1BF0.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C6E50.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"overlays": {
+"matched_code_percent": 99.499,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 902240.0,
+"matched_code": 897720.0,
+"total_data": 0.0,
+"total_functions": 1438.0,
+"matched_functions": 1435.0,
+"total_units": 82.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"bin": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "4b00f36ceeabfe657866a7d02f3411545b5f55eb",
+"time": "2026-09-17T14:56:50Z",
+"message": "Match func_8009DB28 and Credits_IntroDraw (#102)",
+"measures": {
+"matched_code_percent": 97.6335,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1459872.0,
+"matched_code": 1425324.0,
+"total_data": 0.0,
+"total_functions": 2858.0,
+"matched_functions": 2852.0,
+"total_units": 417.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 92.9547,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 459824.0,
+"matched_code": 427428.0,
+"total_data": 0.0,
+"total_functions": 1194.0,
+"matched_functions": 1190.0,
+"total_units": 229.0,
+"complete_units": 0.0
+},
+"main.game": {
+"matched_code_percent": 87.7908,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 255184.0,
+"matched_code": 224028.0,
+"total_data": 0.0,
+"total_functions": 404.0,
+"matched_functions": 401.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"main.sys": {
+"matched_code_percent": 98.0664,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 64128.0,
+"matched_code": 62888.0,
+"total_data": 0.0,
+"total_functions": 207.0,
+"matched_functions": 206.0,
+"total_units": 17.0,
+"complete_units": 0.0
+},
+"main.audio": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96624.0,
+"matched_code": 96624.0,
+"total_data": 0.0,
+"total_functions": 407.0,
+"matched_functions": 407.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"main.libultra": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 42656.0,
+"matched_code": 42656.0,
+"total_data": 0.0,
+"total_functions": 173.0,
+"matched_functions": 173.0,
+"total_units": 177.0,
+"complete_units": 0.0
+},
+"unk_nmi": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"leo": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 71408.0,
+"matched_code": 71408.0,
+"total_data": 0.0,
+"total_functions": 221.0,
+"matched_functions": 221.0,
+"total_units": 64.0,
+"complete_units": 0.0
+},
+"ovl_i2": {
+"matched_code_percent": 98.335,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49248.0,
+"matched_code": 48428.0,
+"total_data": 0.0,
+"total_functions": 180.0,
+"matched_functions": 179.0,
+"total_units": 9.0,
+"complete_units": 0.0
+},
+"ovl_i3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 170672.0,
+"matched_code": 170672.0,
+"total_data": 0.0,
+"total_functions": 166.0,
+"matched_functions": 166.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"ovl_i4": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 23968.0,
+"matched_code": 23968.0,
+"total_data": 0.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"course_select": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 16176.0,
+"matched_code": 16176.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"ovl_i6": {
+"matched_code_percent": 95.939,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 32800.0,
+"matched_code": 31468.0,
+"total_data": 0.0,
+"total_functions": 71.0,
+"matched_functions": 70.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"ovl_i7": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 26048.0,
+"matched_code": 26048.0,
+"total_data": 0.0,
+"total_functions": 25.0,
+"matched_functions": 25.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"ovl_i8": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12352.0,
+"matched_code": 12352.0,
+"total_data": 0.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i9": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 345376.0,
+"matched_code": 345376.0,
+"total_data": 0.0,
+"total_functions": 295.0,
+"matched_functions": 295.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ovl_i10": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 608.0,
+"matched_code": 608.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 5.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"expansion_kit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_edit_textures_beta": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"create_machine_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_track_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"setup_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_custom_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"hud_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_global_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"machine_models": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"mute_city_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"port_town_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"big_blue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sand_ocean_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"devils_forest_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"white_land_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sector_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"red_canyon_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"fire_field_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"silence_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ending_venue_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"podium_gfx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"super_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"boot_textures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"staff_ghost_records": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"course_data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"common_assets_compressed": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"ovl_i11": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"framebuffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"entrypoint": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96.0,
+"matched_code": 96.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 27536.0,
+"matched_code": 27536.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 7.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"unk_tables.data": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1870.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C1BF0.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"807C6E50.bss": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"overlays": {
+"matched_code_percent": 99.7615,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 902240.0,
+"matched_code": 900088.0,
+"total_data": 0.0,
+"total_functions": 1438.0,
+"matched_functions": 1436.0,
+"total_units": 82.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"bin": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "ek_report",
+"category_names": {
+"main": "main",
+"main.game": "main.game",
+"main.sys": "main.sys",
+"main.audio": "main.audio",
+"main.libultra": "main.libultra",
+"unk_nmi": "unk_nmi",
+"leo": "leo",
+"ovl_i2": "ovl_i2",
+"ovl_i3": "ovl_i3",
+"ovl_i4": "ovl_i4",
+"course_select": "course_select",
+"ovl_i6": "ovl_i6",
+"ovl_i7": "ending",
+"ovl_i8": "records",
+"ovl_i9": "ovl_i9",
+"ovl_i10": "ovl_i10",
+"expansion_kit_textures_beta": "expansion_kit_textures_beta",
+"course_edit_textures_beta": "course_edit_textures_beta",
+"create_machine_textures": "create_machine_textures",
+"course_track_gfx": "course_track_gfx",
+"setup_gfx": "setup_gfx",
+"machine_custom_gfx": "machine_custom_gfx",
+"hud_gfx": "hud_gfx",
+"machine_global_gfx": "machine_global_gfx",
+"machine_models": "machine_models",
+"mute_city_textures": "mute_city_textures",
+"port_town_textures": "port_town_textures",
+"big_blue_textures": "big_blue_textures",
+"sand_ocean_textures": "sand_ocean_textures",
+"devils_forest_textures": "devils_forest_textures",
+"white_land_textures": "white_land_textures",
+"sector_textures": "sector_textures",
+"red_canyon_textures": "red_canyon_textures",
+"fire_field_textures": "fire_field_textures",
+"silence_textures": "silence_textures",
+"ending_venue_textures": "ending_venue_textures",
+"podium_gfx": "podium_gfx",
+"super_textures": "super_textures",
+"boot_textures": "boot_textures",
+"staff_ghost_records": "staff_ghost_records",
+"course_data": "course_data",
+"common_assets_compressed": "common_assets_compressed",
+"ovl_i11": "ovl_i11",
+"framebuffers": "framebuffers",
+"entrypoint": "entrypoint",
+"rsp": "rsp",
+"unk_tables.data": "unk_tables.data",
+"807C1870.bss": "807C1870.bss",
+"807C1BF0.bss": "807C1BF0.bss",
+"807C6E50.bss": "807C6E50.bss",
+"overlays": "overlays",
+"assets": "assets",
+"bin": "bin"
+},
+"units_time": "2026-09-17T14:56:50Z",
+"units": [
+[
+"entrypoint",
+96,
+100.0,
+0,
+[
+"entrypoint"
+]
+],
+[
+"sys/sys_main",
+3200,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/sys_gfx",
+5488,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/sys_audio",
+224,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"game/game",
+3856,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"sys/controller",
+2000,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/math",
+13600,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"game/course_gadgets",
+39776,
+85.86,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/EA20",
+112,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/EA90",
+1424,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"sys/disk/disk_drive_dd",
+1952,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/disk/sys_leo_dd",
+16384,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/dma",
+608,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/segment",
+6624,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"game/texture_utils",
+13712,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/common",
+3264,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/texture_utils2",
+4560,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/194E0",
+64,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"sys/disk/disk_mount_dd",
+128,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/disk/leo_fault_dd",
+3088,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"sys/sys_fault",
+5104,
+100.0,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"game/bordered_box",
+2480,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/camera",
+32240,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/racer",
+84640,
+69.83,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/mio0Decode",
+176,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"audio/disk/lib/synthesis",
+10912,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/heap",
+13264,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/load",
+19648,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/thread",
+6272,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/os",
+256,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/playback",
+7584,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/effects",
+2656,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/lib/seqplayer",
+13856,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"audio/disk/external",
+22176,
+100.0,
+0,
+[
+"main",
+"main.audio"
+]
+],
+[
+"libultra/os/setcause",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/sendmesg",
+336,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/stopthread",
+192,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/recvmesg",
+320,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getintmask",
+96,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setintmask",
+160,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sptask",
+752,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/ll",
+704,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/exceptasm",
+2304,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/thread",
+64,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/destroythread",
+272,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/bzero",
+160,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/motor",
+976,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/siacs",
+192,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/controller",
+832,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/createthread",
+336,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/contreaddata",
+480,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setcount",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/virtualtophysical",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/physicaltovirtual",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/writebackdcache",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/initialize",
+848,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setsr",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getsr",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/vigetnextframebuf",
+64,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sprawdma",
+144,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sirawdma",
+176,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epilinkhandle",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/viblack",
+112,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sirawread",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sptaskyield",
+32,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsreadwritefile",
+1104,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsgetstatus",
+560,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/visetmode",
+112,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsallocatefile",
+1152,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsfreeblocks",
+416,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/probetlb",
+192,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/llcvt",
+528,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pimgr",
+368,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/piacs",
+192,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/devmgr",
+1040,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pirawdma",
+208,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getcount",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/contpfs",
+2944,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfssearchfile",
+464,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/seteventmesg",
+192,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/gu/sqrtf",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/xprintf",
+3264,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/sprintf",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/unmaptlball",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epidma",
+224,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/syncprintf",
+64,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/string",
+160,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/createmesgqueue",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/invaldcache",
+176,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/invalicache",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sp",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/si",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/jammesg",
+336,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setthreadpri",
+224,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getthreadpri",
+32,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epirawread",
+352,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/viswapbuf",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epirawdma",
+480,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sptaskyielded",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/bcmp",
+288,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/gettime",
+144,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/timerintr",
+1024,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setglobalintmask",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/aisetfreq",
+336,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getactivequeue",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setcompare",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/dpsetstat",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/dpgetstat",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/bcopy",
+784,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/resetglobalintmask",
+96,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/interrupt",
+144,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/vi",
+320,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/viswapcontext",
+768,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pigetcmdq",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epiread",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/visetspecial",
+352,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/settime",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/visetevent",
+112,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsisplug",
+832,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/cartrominit",
+352,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsselectbank",
+128,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/setfpccsr",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfsinitpak",
+784,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/pfschecker",
+2464,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/aigetlen",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epiwrite",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/maptlbrdb",
+96,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/yieldthread",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/getcause",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/contramwrite",
+592,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/contramread",
+560,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/crc",
+368,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/epirawwrite",
+352,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/settimer",
+224,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/xldtob",
+2752,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/ldiv",
+400,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/libc/xlitob",
+672,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/sirawwrite",
+80,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/spsetstat",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/spgetstat",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/vimgr",
+784,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/vigetcurrcontext",
+16,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/writebackdcacheall",
+48,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/startthread",
+336,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/visetyscale",
+96,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/vigetcurrframebuf",
+64,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/io/spsetpc",
+64,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"libultra/os/sethwinterrupt",
+112,
+100.0,
+0,
+[
+"main",
+"main.libultra"
+]
+],
+[
+"rsp/rspboot",
+208,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/f3dex2",
+5008,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/f3dlx2",
+4496,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/f3dflx2",
+4496,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/l3dex2",
+4496,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/f3dex2_rej",
+4848,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"leo/lib/readwrite",
+144,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leofunc",
+1136,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoint",
+2544,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leocmdex",
+1680,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoread",
+448,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/lbatobyte",
+336,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoinquiry",
+176,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leodiskinit",
+160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/readdiskid",
+96,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leord_diskid",
+400,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leomecha",
+2384,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/spdlmotor",
+192,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoc2ecc",
+4336,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/createleomanager",
+368,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leointerrupt",
+1744,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/driverominit",
+352,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/setrtc",
+368,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leomseq_tbl",
+432,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leomotor",
+240,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/leo_bootdisk",
+1152,
+100.0,
+0,
+[
+"main",
+"leo"
+]
+],
+[
+"leo/leo_bootstrap",
+80,
+100.0,
+0,
+[
+"main",
+"leo"
+]
+],
+[
+"leo/lib/driveexist",
+208,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leomode_sel",
+176,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leord_capa",
+160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoutil",
+592,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/rezero",
+96,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leorezero",
+160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/bytetolba",
+352,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoreset",
+288,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/modeselect",
+144,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/readcapacity",
+144,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leotranslat",
+672,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leotimer",
+1296,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/getkadr",
+2816,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/getaadr",
+9360,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leowrite",
+304,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/cjcreateleomanager",
+576,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/cacreateleomanager",
+560,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/testunitready",
+160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leotestunit",
+64,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/readrtc",
+96,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/leoseek",
+192,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/lib/seek",
+96,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_dir_entry_util",
+2992,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_ram",
+5424,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_dir",
+2080,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_device",
+2016,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_util",
+2544,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_name",
+512,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_save",
+6480,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_fat",
+1280,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_delete",
+720,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_load",
+3104,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_read_write",
+1712,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_rename",
+752,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_prepared_dir",
+512,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_handlers",
+160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_attr",
+2160,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"leo/mfs/mfs_copy",
+1680,
+100.0,
+0,
+[
+"leo"
+]
+],
+[
+"sys/disk/75000",
+5728,
+78.35,
+0,
+[
+"main",
+"main.sys"
+]
+],
+[
+"rsp/aspmain",
+3984,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"overlays/expansion_kit/A2E70",
+32,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/A2E90",
+3088,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/A3AA0",
+64,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/expansion_kit_widgets",
+10336,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/A6340",
+7680,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/A8140",
+10560,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/controller",
+1728,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/AB150",
+2800,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/ABC40",
+4448,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/ACDA0",
+80,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/ACDF0",
+1056,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/expansion_kit/AD210",
+176,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/cpu",
+21568,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/menus",
+87664,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/C2160",
+304,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/hud",
+26864,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/minimap",
+4080,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/background",
+14208,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i3/records_entry",
+15984,
+100.0,
+0,
+[
+"ovl_i3",
+"overlays"
+]
+],
+[
+"overlays/ovl_i4/machine",
+19872,
+100.0,
+0,
+[
+"ovl_i4",
+"overlays"
+]
+],
+[
+"overlays/ovl_i4/title",
+4096,
+100.0,
+0,
+[
+"ovl_i4",
+"overlays"
+]
+],
+[
+"overlays/course_select/course_model",
+3296,
+100.0,
+0,
+[
+"course_select",
+"overlays"
+]
+],
+[
+"overlays/course_select/course_select",
+12880,
+100.0,
+0,
+[
+"course_select",
+"overlays"
+]
+],
+[
+"overlays/ovl_i6/main_menu",
+8736,
+100.0,
+0,
+[
+"ovl_i6",
+"overlays"
+]
+],
+[
+"overlays/ovl_i6/credits",
+16800,
+100.0,
+0,
+[
+"ovl_i6",
+"overlays"
+]
+],
+[
+"overlays/ovl_i6/options_menu",
+7152,
+81.38,
+0,
+[
+"ovl_i6",
+"overlays"
+]
+],
+[
+"overlays/ovl_i6/E7CF0",
+112,
+100.0,
+0,
+[
+"ovl_i6",
+"overlays"
+]
+],
+[
+"overlays/ending/ending",
+14576,
+100.0,
+0,
+[
+"ovl_i7",
+"overlays"
+]
+],
+[
+"overlays/ending/ending_effects",
+11472,
+100.0,
+0,
+[
+"ovl_i7",
+"overlays"
+]
+],
+[
+"overlays/records/records",
+12352,
+100.0,
+0,
+[
+"ovl_i8",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/transition",
+15520,
+94.72,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/save",
+16288,
+100.0,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/dd_save",
+3824,
+100.0,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/race",
+2784,
+100.0,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/effects",
+6336,
+100.0,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"overlays/ovl_i2/font",
+4496,
+100.0,
+0,
+[
+"ovl_i2",
+"overlays"
+]
+],
+[
+"game/object",
+11280,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"game/course",
+57600,
+100.0,
+0,
+[
+"main",
+"main.game"
+]
+],
+[
+"overlays/ovl_i9/machine_draw",
+345376,
+100.0,
+0,
+[
+"ovl_i9",
+"overlays"
+]
+],
+[
+"overlays/ovl_i10/1459A0",
+608,
+100.0,
+0,
+[
+"ovl_i10",
+"overlays"
+]
+],
+[
+"overlays/ovl_i10/187510",
+800,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/188850",
+34864,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/191080",
+46064,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/19C470",
+4144,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/19D4A0",
+2240,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/course_edit",
+5776,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/19F3F0",
+1632,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/19FA50",
+4352,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A0B50",
+1776,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A1240",
+6960,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A2D70",
+176,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A2E20",
+3216,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A3AB0",
+1392,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A4020",
+496,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A4210",
+6496,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/course_edit_options_menu",
+7072,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A7710",
+1600,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/course_edit/1A7D50",
+1424,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create",
+1072,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_update",
+10192,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_draw",
+17824,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_callbacks",
+2192,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/custom_machine_select",
+7504,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_stats",
+3088,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_color_select",
+1760,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/machine_create/machine_create_file_list",
+1456,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/ead_demo/ead_demo_engine",
+5328,
+100.0,
+0,
+[
+"overlays"
+]
+],
+[
+"overlays/ead_demo/ead_demo",
+2048,
+100.0,
+0,
+[
+"overlays"
+]
+]
+]
+}

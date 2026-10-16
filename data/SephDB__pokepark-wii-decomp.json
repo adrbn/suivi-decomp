@@ -1,0 +1,1802 @@
+{
+"history": [
+{
+"sha": "a83afc8a9fb2366ce31bd643ab9e597fe13f2901",
+"time": "2026-08-25T21:43:42Z",
+"message": "Merge pull request #9 from SephDB/named-disposition-manager-functions",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "1955d1b6c5d44c9f101396913aa38043cb6d041e",
+"time": "2026-08-26T18:10:16Z",
+"message": "All main ModuleAccessor funcs named(and subclasses)",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "6694da7d1349f0852caa398a4f04aa1ea0b0175c",
+"time": "2026-08-26T19:52:05Z",
+"message": "Marked all ModuleNull implementations",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "75bd72d8a6714e90f574652a8d07dbe227e3841a",
+"time": "2026-08-26T20:41:27Z",
+"message": "Fix some more RBT function names",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "b57e9f7466f52c64f8cf783963ed4db5e22da053",
+"time": "2026-08-26T21:58:13Z",
+"message": "Merge pull request #10 from SephDB/named-more-disposition-related-functions",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "8083c6c8b50f7e249d09d328be71a6b7c87b8c5a",
+"time": "2026-08-29T05:15:21Z",
+"message": "Merge pull request #11 from SephDB/named-spawn-related-functions",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "a1d6c3ff3bec4f12fd6f6206accedec1210aeee0",
+"time": "2026-08-30T13:19:49Z",
+"message": "Merge pull request #12 from SephDB/named-item-disposition-manager",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "f0385a9526f8120c4dea18c80b28e6302b406a51",
+"time": "2026-08-30T20:19:06Z",
+"message": "Merge pull request #13 from SephDB/named-gimmick-disposition-manager",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "0e348d1540aafcbdda179d75be26381ad6c93bc7",
+"time": "2026-09-02T21:02:29Z",
+"message": "Merge pull request #14 from SephDB/named-scene-specializer-life-cycle",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "d319acbd19272b907169092a307d5f60b3f7592d",
+"time": "2026-09-05T15:34:16Z",
+"message": "Merge pull request #15 from SephDB/named-shadow-manager-and-scene-specializer-related-functions",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "62d0d96cf227f8e7d7a32867e2303124ba0ee274",
+"time": "2026-10-02T20:35:34Z",
+"message": "More symbols, mostly camera-related math",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "735b49153c27f0f52de2af87911eaa3398ef6a72",
+"time": "2026-10-03T19:49:27Z",
+"message": "Got a few more symbols in",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14447.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "R8AE01_report",
+"category_names": {
+"game": "Game Code",
+"sdk": "SDK Code"
+},
+"units_time": "2026-10-03T19:49:27Z",
+"units": [
+[
+"main/auto_03_80006820_text",
+15152,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8000A650_text",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8000A654_text",
+6096,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8000BF20_text",
+140,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8000BFAC_text",
+2452,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__nsDelhi_nsNan_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8000CA3C_text",
+11788,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8000FA00_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8000FA0C_text",
+14572,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__nsDelhi_nsRes_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800134CC_text",
+6748,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80014FD0_text",
+100,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80015034_text",
+104832,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8002F600_text",
+148,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8002F694_text",
+259616,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800713F0_text",
+100,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80071454_text",
+123860,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80091D20_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80091D2C_text",
+7468,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80093C10_text",
+316,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80093D4C_text",
+7892,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80095D40_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80095D68_text",
+175344,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__nsObject_text",
+296,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800C2E18_text",
+200180,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800F4D80_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800F4DA0_text",
+476244,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8016C2A0_text",
+140,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8016C32C_text",
+31180,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80174100_text",
+236,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801741EC_text",
+79792,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__nw4r_ef_text",
+300,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8018842C_text",
+55328,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80195DE0_text",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80195DE4_text",
+3300,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80196B20_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80196B70_text",
+6656,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80198610_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80198668_text",
+24260,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8019E5A0_text",
+136,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8019E628_text",
+142880,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801C22C0_text",
+624,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801C2530_text",
+84736,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D7660_text",
+64,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D76A0_text",
+22508,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__snd_BasicSoun_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801DD11C_text",
+31388,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801E5130_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E513C_text",
+10992,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801E7D40_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E7D4C_text",
+22552,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801ED8A0_text",
+72,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801ED8E8_text",
+17292,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F1E70_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F1E7C_text",
+17216,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F63F0_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F63FC_text",
+9400,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__ut_IOStream_c_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F8A7C_text",
+332,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__ut_FileStream_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F8BFC_text",
+1720,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__ut_DVDFileStr_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F932C_text",
+920,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F9710_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F971C_text",
+1448,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F9D00_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F9D0C_text",
+412,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F9EE0_text",
+24,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F9EF8_text",
+31092,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80201AF0_text",
+132,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80201B74_text",
+13356,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80205200_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8020520C_text",
+2752,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/base/PPCArch",
+356,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OS",
+5300,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSAlarm",
+2196,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSAlloc",
+784,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSArena",
+148,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSAudioSystem",
+1216,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSCache",
+1744,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSContext",
+2184,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSError",
+1848,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/os/OSExec",
+5528,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8020B330_text",
+34872,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/os/__start",
+736,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/auto_00_800042F8_init",
+8,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/os/__ppc_eabi_init",
+268,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_80213FD0_text",
+173812,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8023F890_text",
+20684,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80244C00_text",
+100992,
+0.0,
+0,
+[]
+],
+[
+"main/RVL_SDK/src/revolution/bte/gki/gki_buffer",
+5196,
+0.0,
+0,
+[]
+],
+[
+"main/RVL_SDK/src/revolution/bte/gki/gki_time",
+1364,
+0.0,
+0,
+[]
+],
+[
+"main/RVL_SDK/src/revolution/bte/gki/gki_ppc",
+656,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8025F9B4_text",
+308420,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__lyt_bounding_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802AB474_text",
+24396,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__lyt_pane_cpp_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802B1620_text",
+1292,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__lyt_picture_c_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802B1B74_text",
+5164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__lyt_textBox_c_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802B3024_text",
+9336,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__lyt_window_cp_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802B5524_text",
+34288,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__ut_TextWriter_text",
+164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802BDF24_text",
+184896,
+0.0,
+0,
+[]
+],
+[
+"main/flib/ScriptLog",
+1948,
+0.0,
+0,
+[]
+],
+[
+"main/flib/flRevolutionAlloc",
+728,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802ECBE0_text",
+3152,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__flMemory_text",
+92,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802ED8FC_text",
+7340,
+0.0,
+0,
+[]
+],
+[
+"main/flib/scripting/core_syscalls",
+8428,
+0.0,
+0,
+[]
+],
+[
+"main/flib/scripting/Vec3Syscalls",
+1032,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802F1D70_text",
+3928,
+0.0,
+0,
+[]
+],
+[
+"main/auto_sinit__flDB_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802F2D40_text",
+936,
+0.0,
+0,
+[]
+],
+[
+"main/flib/flSlice2",
+648,
+0.0,
+0,
+[]
+],
+[
+"main/flib/flOS",
+144,
+0.0,
+0,
+[]
+],
+[
+"main/Runtime/__mem",
+924,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/__va_arg",
+200,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/global_destructor_chain",
+96,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/NMWException",
+1712,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/ptmf",
+88,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/MWRTTI",
+680,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/runtime",
+2028,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/__init_cpp_exceptions",
+112,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/Runtime/Gecko_ExceptionPPC",
+5404,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_802F5CD0_text",
+21332,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802FB024_text",
+9252,
+0.0,
+0,
+[]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/math_sun",
+64,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_acos",
+716,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_asin",
+664,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_atan2",
+600,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_fmod",
+896,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log",
+692,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log10",
+276,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_pow",
+2068,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_rem_pio2",
+900,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_cos",
+272,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_rem_pio2",
+5816,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_sin",
+192,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_tan",
+592,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_atan",
+560,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ceil",
+332,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign",
+44,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_cos",
+200,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_floor",
+336,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_frexp",
+136,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ldexp",
+364,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf",
+252,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_sin",
+204,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_tan",
+120,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_acos",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_asin",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_atan2",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_fmod",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_log10",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_pow",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_sqrt",
+584,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_sqrt",
+4,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_80301654_text",
+20836,
+0.0,
+0,
+[]
+],
+[
+"main/MetroTRK/__exception",
+7988,
+0.0,
+0,
+[]
+]
+],
+"workflow": 181880968
+}

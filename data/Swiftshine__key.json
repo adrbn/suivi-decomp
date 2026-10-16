@@ -1,0 +1,5585 @@
+{
+"history": [
+{
+"sha": "3926458ecbbabb45cba39e8f10c0b2a5ad7f6d5e",
+"time": "2026-09-28T16:29:06Z",
+"message": "layout/LayoutAnimeElement: set splits",
+"measures": {
+"matched_code_percent": 2.1847,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 179492.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1266.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.3067,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 97564.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 833.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "30bef688110efaaa36924392410a1b59b3d4e6cc",
+"time": "2026-09-28T17:35:55Z",
+"message": "layout/LayoutAnimeElement: progress",
+"measures": {
+"matched_code_percent": 2.1986,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 180636.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1275.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.4979,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 98708.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 842.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "4d35bcd91ef9f9541fdc39677f92f7dec3f11492",
+"time": "2026-09-28T18:01:36Z",
+"message": "layout/LayoutAnimeElement: forward/reverse",
+"measures": {
+"matched_code_percent": 2.1986,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 180636.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1275.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.4979,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 98708.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 842.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "e0ef982f389db799481789933fc91566c267b9c9",
+"time": "2026-09-28T19:04:33Z",
+"message": "layout/LayoutAnimeElement: progress",
+"measures": {
+"matched_code_percent": 2.2045,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181120.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1279.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.5788,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 99192.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 846.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "ea56e0ae6edae003a9e21ce195571a91230d4c5e",
+"time": "2026-09-28T22:01:49Z",
+"message": "layout/LayoutAnimeElement: match most of LayoutAnimeElement",
+"measures": {
+"matched_code_percent": 2.2166,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 182116.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1287.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.7452,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 100188.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 854.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "617f4d37a0a52eb6d3895e2631866ae59ef09173",
+"time": "2026-09-29T18:11:06Z",
+"message": "move weak function definition to headers",
+"measures": {
+"matched_code_percent": 2.2121,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181748.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1301.0,
+"total_units": 784.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6837,
+"complete_code_percent": 1.4447,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 598308.0,
+"matched_code": 99820.0,
+"total_data": 9024.0,
+"total_functions": 2533.0,
+"matched_functions": 868.0,
+"total_units": 87.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "2d27380678e863aacb069703ea6da262819432a4",
+"time": "2026-09-29T19:33:42Z",
+"message": "object/collision: FlfMdlCollision splits",
+"measures": {
+"matched_code_percent": 2.2121,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181748.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1301.0,
+"total_units": 785.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6018,
+"complete_code_percent": 1.4376,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 601260.0,
+"matched_code": 99820.0,
+"total_data": 9024.0,
+"total_functions": 2559.0,
+"matched_functions": 868.0,
+"total_units": 88.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "e78492b01c3692e89c4e1224e360c0e453f1a314",
+"time": "2026-10-05T23:10:38Z",
+"message": "Merge branch 'main' of https://github.com/Swiftshine/key",
+"measures": {
+"matched_code_percent": 2.2121,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181748.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1301.0,
+"total_units": 785.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6018,
+"complete_code_percent": 1.4376,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 601260.0,
+"matched_code": 99820.0,
+"total_data": 9024.0,
+"total_functions": 2559.0,
+"matched_functions": 868.0,
+"total_units": 88.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "aed3dc5c634dd144f3d209049fbb84c1bb51a4e2",
+"time": "2026-10-14T00:29:05Z",
+"message": "graphics/MokoMokoMdl: create header",
+"measures": {
+"matched_code_percent": 2.2121,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181748.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1301.0,
+"total_units": 785.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6018,
+"complete_code_percent": 1.4376,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 601260.0,
+"matched_code": 99820.0,
+"total_data": 9024.0,
+"total_functions": 2559.0,
+"matched_functions": 868.0,
+"total_units": 88.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "e42ad92a1f79b90f9c3f66f69da12c7890971ccf",
+"time": "2026-10-14T02:49:43Z",
+"message": "graphics/FullSortScene: move SceneID to FullSortScene",
+"measures": {
+"matched_code_percent": 2.2121,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 181748.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1301.0,
+"total_units": 787.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.5563,
+"complete_code_percent": 1.4337,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 602912.0,
+"matched_code": 99820.0,
+"total_data": 9024.0,
+"total_functions": 2566.0,
+"matched_functions": 868.0,
+"total_units": 89.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "dd51bc4501a3ac34a2cb3ab34eeccf2c509f2072",
+"time": "2026-10-14T03:52:12Z",
+"message": "graphics/FbMokoMoko: progress",
+"measures": {
+"matched_code_percent": 2.2256,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 182856.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1307.0,
+"total_units": 787.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6821,
+"complete_code_percent": 1.4287,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 605008.0,
+"matched_code": 100928.0,
+"total_data": 9024.0,
+"total_functions": 2576.0,
+"matched_functions": 874.0,
+"total_units": 89.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "7f2a9ab9ad66d8e2f6eac52acc2c01dff0bd03a2",
+"time": "2026-10-14T15:51:47Z",
+"message": "graphics/FbMokoMoko: FbMokoMoko class members",
+"measures": {
+"matched_code_percent": 2.2256,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 182856.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1307.0,
+"total_units": 787.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.6821,
+"complete_code_percent": 1.4287,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 605008.0,
+"matched_code": 100928.0,
+"total_data": 9024.0,
+"total_functions": 2576.0,
+"matched_functions": 874.0,
+"total_units": 89.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "RK5E01_report",
+"category_names": {
+"fluff": "Game Code",
+"gfl": "Good-Feel Library Code",
+"sdk": "SDK Code"
+},
+"units_time": "2026-10-14T15:51:47Z",
+"units": [
+[
+"main/auto_03_80006880_text",
+760,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/game/Game",
+5492,
+0.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800080EC_text",
+160,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/SpringBase",
+19804,
+73.51,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/language/Language",
+288,
+48.61,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8000D008_text",
+23252,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80012ADC_text",
+288,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80012BFC_text",
+25056,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80018DDC_text",
+132,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80018E60_text",
+3516,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/Cam",
+2324,
+84.33,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/graphics/WoolBaseMdl",
+7068,
+40.81,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8001C0CC_text",
+22596,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/FlfMdlDraw",
+19332,
+3.96,
+0,
+[
+"fluff"
+]
+],
+[
+"main/gfl/gflResInfo",
+16,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_800264A4_text",
+12176,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/FB2Tex",
+1764,
+86.62,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80029B18_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/MNEB",
+1032,
+99.52,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80029F4C_text",
+7584,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/CollisionFlagUtil",
+12,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/FlfGameObj",
+996,
+99.6,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8002C0DC_text",
+14552,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/FullSortScene",
+576,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8002FBF4_text",
+14316,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800333E0_text",
+68,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80033424_text",
+5152,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80034844_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80034850_text",
+3916,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8003579C_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800357A8_text",
+3992,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80036740_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8003674C_text",
+772,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80036A50_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80036A5C_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/layout/LayoutAnimeElement",
+3160,
+90.39,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800376E0_text",
+3160,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/layout/LayoutManager",
+1464,
+48.37,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800388F0_text",
+13448,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8003BD78_text",
+104,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8003BDE0_text",
+3620,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8003CC04_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8003CC10_text",
+1424,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflChecksum",
+60,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_8003D1DC_text",
+1648,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8003D84C_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8003D8A4_text",
+27020,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/LevelManager",
+844,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8004457C_text",
+3476,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/StageResourceManager",
+3012,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/fluff/mapdata/Mapdata",
+6876,
+19.43,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800479B0_text",
+2468,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/KdTreeUtil",
+520,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/collision/KdTree",
+2748,
+94.79,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80049018_text",
+1944,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/collision/ColObj",
+940,
+3.77,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80049B5C_text",
+8484,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8004BC80_text",
+188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8004BD3C_text",
+7292,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8004D9B8_text",
+188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8004DA74_text",
+384,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/Gimmick",
+4748,
+51.06,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8004EE80_text",
+7612,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/GmkMng",
+4524,
+20.7,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/stage/StageResources",
+2624,
+15.95,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80052828_text",
+856,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/SimpleMdlCommon",
+600,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/gimmick/GmkSimpleMdl",
+2876,
+84.96,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80053914_text",
+43624,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8005E37C_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/env/EnvObject",
+1324,
+77.81,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8005E8DC_text",
+2428,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/env/EnvFade_Base",
+856,
+99.53,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8005F5B0_text",
+31300,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/env/EnvUnitBase",
+664,
+28.31,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8006728C_text",
+2104,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80067AC4_text",
+1368,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8006801C_text",
+10272,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/PlayerBase",
+210052,
+0.4,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8009DCC0_text",
+56000,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800AB780_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800AB7B0_text",
+964,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800ABB74_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800ABB9C_text",
+21932,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800B1148_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800B115C_text",
+420,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800B1300_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800B1328_text",
+420,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800B14CC_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800B14F4_text",
+3872,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800B2414_text",
+68,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800B2458_text",
+48236,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800BE0C4_text",
+144,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800BE154_text",
+7252,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800BFDA8_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800BFDF8_text",
+11452,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800C2AB4_text",
+104,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800C2B1C_text",
+10232,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800C5314_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800C5334_text",
+23536,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800CAF24_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800CAF58_text",
+15276,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800CEB04_text",
+284,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800CEC20_text",
+708,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/collision/ColDataWrapper",
+8508,
+77.52,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800D1020_text",
+18684,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkColAnimMdl",
+2460,
+92.62,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800D62B8_text",
+23544,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800DBEB0_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800DBF00_text",
+3004,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/FbMem",
+916,
+68.09,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800DCE50_text",
+21668,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800E22F4_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800E2324_text",
+29804,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800E9790_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800E97B4_text",
+1576,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/NwAnmCtrl",
+1800,
+99.3,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800EA4E4_text",
+912,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/FullSortSceneUtil",
+84,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800EA8C8_text",
+16024,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800EE760_text",
+304,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800EE890_text",
+7872,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800F0750_text",
+100,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800F07B4_text",
+8,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/collision/FlfMdlCollision",
+2952,
+13.02,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/collision/ColNurbsInfo",
+10028,
+5.41,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_800F3A70_text",
+5848,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_800F5148_text",
+68,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_800F518C_text",
+110656,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/FbMokoMoko",
+3748,
+30.53,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80111070_text",
+2828,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/EnemyMdlManager",
+3648,
+62.61,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/EnemyBase",
+109264,
+1.74,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8012D48C_text",
+6852,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8012EF50_text",
+108,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8012EFBC_text",
+53920,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8013C25C_text",
+60,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8013C298_text",
+37320,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80145460_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80145494_text",
+5064,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8014685C_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801468B4_text",
+696,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkWarpOut",
+544,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80146D8C_text",
+65308,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80156CA8_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80156CCC_text",
+42420,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80161280_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801612A0_text",
+11960,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/BGSTReader",
+4768,
+33.59,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/graphics/BGSTList",
+1512,
+53.83,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/graphics/BGSTFile",
+1648,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80166050_text",
+9980,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/FlfHandleObj",
+184,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/FlfHandleList",
+348,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80168960_text",
+5764,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80169FE4_text",
+1688,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8016A67C_text",
+12120,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8016D5D4_text",
+64,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8016D614_text",
+75052,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8017FB40_text",
+316,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8017FC7C_text",
+16424,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80183CA4_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/collision/FlfRideHitBase",
+936,
+75.16,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80184080_text",
+7492,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80185DC4_text",
+24,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80185DDC_text",
+100516,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/player/HenshinCtrl",
+10192,
+10.44,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_801A0E50_text",
+25436,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801A71AC_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801A71FC_text",
+49048,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801B3194_text",
+84,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801B31E8_text",
+8060,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkWarpExit",
+796,
+98.73,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_801B5480_text",
+18704,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801B9D90_text",
+108,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801B9DFC_text",
+12376,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801BCE54_text",
+76,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801BCEA0_text",
+89012,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D2A54_text",
+1484,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D3020_text",
+800,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D3340_text",
+660,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D35D4_text",
+1656,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D3C4C_text",
+1072,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D407C_text",
+800,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D439C_text",
+1140,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D4810_text",
+692,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D4AC4_text",
+2576,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D54D4_text",
+796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801D57F0_text",
+628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801D5A64_text",
+36592,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801DE954_text",
+1920,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801DF0D4_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801DF3B0_text",
+1412,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801DF934_text",
+684,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801DFBE0_text",
+1108,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E0034_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801E0310_text",
+720,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E05E0_text",
+1320,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801E0B08_text",
+1340,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E1044_text",
+1332,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801E1578_text",
+60,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801E15B4_text",
+71148,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F2BA0_text",
+3552,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F3980_text",
+916,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F3D14_text",
+2540,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F4700_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F49DC_text",
+1552,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F4FEC_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_801F52C8_text",
+1096,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_801F5710_text",
+38456,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/work/InStageWork",
+3312,
+67.92,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_801FFA38_text",
+17400,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80203E30_text",
+2692,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802048B4_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80204B90_text",
+2484,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80205544_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80205820_text",
+1436,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80205DBC_text",
+628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80206030_text",
+1196,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802064DC_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802067B8_text",
+1628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80206E14_text",
+752,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80207104_text",
+1508,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802076E8_text",
+136496,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/system/FlfNandMng",
+6368,
+97.58,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8022A4F8_text",
+7772,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/save/FlfSaveLoadSeq",
+4672,
+94.81,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8022D594_text",
+39760,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/GmkPartsMdlSet",
+1244,
+73.82,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802375C0_text",
+11568,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8023A2F0_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8023A324_text",
+53384,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802473AC_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802473DC_text",
+19008,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024BE1C_text",
+1200,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024C2CC_text",
+856,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024C624_text",
+588,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024C870_text",
+1304,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024CD88_text",
+2432,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024D708_text",
+796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024DA24_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024DD00_text",
+628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024DF74_text",
+3176,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024EBDC_text",
+1164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8024F068_text",
+1408,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8024F5E8_text",
+7400,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkCartBtn",
+1564,
+74.38,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802518EC_text",
+8656,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80253ABC_text",
+160,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80253B5C_text",
+18012,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802581B8_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802581DC_text",
+2796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80258CC8_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80258CEC_text",
+24872,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8025EE14_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8025EE38_text",
+31792,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80266A68_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80266A8C_text",
+7024,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802685FC_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80268620_text",
+45920,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80273980_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802739A4_text",
+1552,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80273FB4_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80273FD8_text",
+8248,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80276010_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80276034_text",
+70160,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80287244_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80287270_text",
+47188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80292AC4_text",
+124,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80292B40_text",
+6864,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80294610_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80294634_text",
+4252,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802956D0_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802956F4_text",
+4360,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802967FC_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80296820_text",
+6680,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80298238_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80298288_text",
+48796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802A4124_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802A4148_text",
+3216,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/demo/DemoObject",
+720,
+85.38,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802A50A8_text",
+84280,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/demo/FlfDemoCtrl",
+12776,
+51.66,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802BCBC8_text",
+77784,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802CFBA0_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802CFBAC_text",
+8,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflSD3DActor",
+1964,
+99.8,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_802D0360_text",
+54428,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802DD7FC_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802DD82C_text",
+15132,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkBeadDrop",
+2496,
+70.51,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802E1D08_text",
+42364,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802EC284_text",
+2084,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802ECAA8_text",
+628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802ECD1C_text",
+468,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802ECEF0_text",
+872,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802ED258_text",
+1568,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802ED878_text",
+628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802EDAEC_text",
+1044,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802EDF00_text",
+1012,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802EE2F4_text",
+5668,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802EF918_text",
+852,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802EFC6C_text",
+2328,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802F0584_text",
+12896,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802F37E4_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802F380C_text",
+17372,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802F7BE8_text",
+124,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802F7C64_text",
+17544,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkWoolRope",
+1284,
+86.7,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802FC5F0_text",
+1100,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802FCA3C_text",
+304,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/FlfGameObjLocator",
+152,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_802FCC04_text",
+568,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_802FCE3C_text",
+524,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_802FD048_text",
+10144,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/PathInfo",
+3856,
+18.45,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803006F8_text",
+15628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80304404_text",
+1900,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80304B70_text",
+936,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80304F18_text",
+1580,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80305544_text",
+784,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80305854_text",
+2676,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803062C8_text",
+748,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803065B4_text",
+1336,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80306AEC_text",
+732,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80306DC8_text",
+1652,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8030743C_text",
+796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80307758_text",
+1460,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80307D0C_text",
+26160,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8030E33C_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8030E368_text",
+108440,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80328B00_text",
+268,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80328C0C_text",
+8320,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8032AC8C_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8032ACAC_text",
+15348,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8032E8A0_text",
+96,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8032E900_text",
+52744,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/FlfFriend",
+25796,
+48.31,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/friend/Friend00",
+10288,
+35.15,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803443FC_text",
+48980,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80350350_text",
+24,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80350368_text",
+20768,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/PlTransRes",
+3148,
+56.5,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803560D4_text",
+29392,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8035D3A4_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/FlfMsgMng",
+948,
+43.46,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8035D780_text",
+52624,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8036A510_text",
+40,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8036A538_text",
+77476,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8037D3DC_text",
+24,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8037D3F4_text",
+95220,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803947E8_text",
+268,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803948F4_text",
+33924,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8039CD78_text",
+24,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8039CD90_text",
+135456,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803BDEB0_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803BDEC4_text",
+18660,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803C27A8_text",
+28,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803C27C4_text",
+8520,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803C490C_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803C4920_text",
+20836,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkSunriseCurtain",
+4080,
+92.79,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803CAA74_text",
+37568,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/effect/FriendEffect",
+780,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803D4040_text",
+436,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkTreasureItem",
+5368,
+36.76,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803D56EC_text",
+10668,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/SignatureUtil",
+372,
+86.24,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803D820C_text",
+42044,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803E2648_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803E267C_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkBeadPopItem",
+2740,
+90.57,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803E3140_text",
+62404,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkCameraControl",
+972,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_803F28D0_text",
+7804,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_803F474C_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_803F47A4_text",
+56608,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804024C4_text",
+140,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80402550_text",
+12164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804054D4_text",
+28,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804054F0_text",
+21904,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8040AA80_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8040AAB4_text",
+81124,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8041E798_text",
+1884,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8041EEF4_text",
+42548,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80429528_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8042953C_text",
+23724,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8042F1E8_text",
+248,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8042F2E0_text",
+25692,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8043573C_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80435760_text",
+39672,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8043F258_text",
+244,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8043F34C_text",
+4780,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804405F8_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8044061C_text",
+67008,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80450BDC_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80450BF0_text",
+50204,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8045D00C_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8045D03C_text",
+6644,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8045EA30_text",
+220,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8045EB0C_text",
+22100,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80464160_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80464174_text",
+49316,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80470218_text",
+96,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80470278_text",
+12780,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80473464_text",
+28,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80473480_text",
+25300,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80479754_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804797AC_text",
+80812,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8048D358_text",
+28,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8048D374_text",
+41688,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8049764C_text",
+192,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8049770C_text",
+44596,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804A2540_text",
+188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804A25FC_text",
+3048,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804A31E4_text",
+316,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804A3320_text",
+21648,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkCandleStick",
+2908,
+56.11,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804A930C_text",
+57680,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804B745C_text",
+476,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804B7638_text",
+3616,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804B8458_text",
+192,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804B8518_text",
+22108,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804BDB74_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804BDBA8_text",
+228,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804BDC8C_text",
+104,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804BDCF4_text",
+68,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804BDD38_text",
+268,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804BDE44_text",
+21504,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkArrowSign",
+2668,
+30.56,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/graphics/FlfMdlMod",
+576,
+100.0,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804C3EF0_text",
+2820,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/stage/mission/MissionUtil",
+1132,
+62.19,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804C4E60_text",
+134308,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804E5B04_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804E5B38_text",
+43088,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkCamRectCtrl",
+196,
+97.86,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804F044C_text",
+5876,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkVictoryStand",
+4044,
+34.6,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804F2B0C_text",
+11216,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/stage/mission/MissionClearChecker",
+2032,
+96.65,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804F5ECC_text",
+17588,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkMsCarrierGoal",
+1568,
+95.85,
+0,
+[
+"fluff"
+]
+],
+[
+"main/fluff/object/gimmick/GmkTurtle",
+2492,
+89.36,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_804FB35C_text",
+9564,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_804FD8B8_text",
+168,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_804FD960_text",
+64440,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8050D518_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8050D54C_text",
+16512,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_805115CC_text",
+28,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_805115E8_text",
+18772,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80515F3C_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80515F70_text",
+30132,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/manager/GmkBeadManager",
+1092,
+66.83,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_fn_8051D968_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8051D988_text",
+46020,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80528D4C_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80528D70_text",
+10892,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8052B7FC_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8052B820_text",
+43348,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80536174_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80536198_text",
+6432,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80537AB8_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80537ADC_text",
+1248,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80537FBC_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80537FE0_text",
+14552,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8053B8B8_text",
+132,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8053B93C_text",
+38996,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/save/SaveData",
+688,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80545440_text",
+22928,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/env/EnvParts_PlayGuideIconLocator",
+68,
+94.12,
+1,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8054AE14_text",
+47380,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80556728_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80556754_text",
+15188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8055A2A8_text",
+440,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8055A460_text",
+226984,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkBallRelease",
+436,
+99.08,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80591CBC_text",
+14092,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_805953C8_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_805953FC_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/util/GimmickResource",
+792,
+84.89,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80595724_text",
+26640,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkAllGetSwitch",
+836,
+38.83,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8059C278_text",
+6332,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8059DB34_text",
+32,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8059DB54_text",
+101328,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_805B6724_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_805B6754_text",
+20296,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_805BB69C_text",
+252,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_805BB798_text",
+61364,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkWindCurrent",
+9684,
+73.56,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_805CCD20_text",
+59108,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_805DB404_text",
+44,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_805DB430_text",
+202468,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8060CB14_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8060CB28_text",
+39404,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80616514_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80616564_text",
+115780,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/object/gimmick/GmkUnderseaSound",
+688,
+95.35,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_80632C58_text",
+24184,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/BgBackImage",
+1660,
+38.04,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8063914C_text",
+22812,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflResArchivedFileInfo",
+324,
+26.37,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_fn_8063EBAC_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8063EC04_text",
+5364,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflColor",
+632,
+98.89,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80640370_text",
+3776,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflAsyncFileStream",
+1172,
+96.84,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_806416C4_text",
+2720,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80642164_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80642170_text",
+2448,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflFixedString",
+432,
+99.07,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80642CB0_text",
+5040,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflMemoryManagement",
+516,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflHeap",
+940,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflMemoryBase",
+556,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_8064483C_text",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflMemory",
+492,
+6.02,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflAlloc",
+52,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80644A60_text",
+1436,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflBpeDecoderFile",
+1700,
+46.0,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflGfCompression",
+120,
+100.0,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflTaskInfo",
+292,
+98.63,
+1,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflTask",
+4480,
+24.31,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflThread",
+460,
+100.0,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80646B88_text",
+752,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflTimer",
+368,
+98.91,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80646FE8_text",
+1624,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/main",
+80,
+100.0,
+0,
+[
+"fluff"
+]
+],
+[
+"main/gfl/gflAsyncFileStreamThread",
+980,
+44.33,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflRenderObj",
+832,
+99.52,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflScene",
+5688,
+59.48,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_806493DC_text",
+4364,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8064A4E8_text",
+48,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8064A518_text",
+456,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8064A6E0_text",
+192,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8064A7A0_text",
+816,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8064AAD0_text",
+52,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8064AB04_text",
+4468,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflSoundHandleInner",
+128,
+100.0,
+0,
+[
+"gfl"
+]
+],
+[
+"main/gfl/gflSoundArchiveMng",
+684,
+83.51,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_8064BFA4_text",
+8380,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8064E060_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8064E070_text",
+9776,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflFixedMemoryStream",
+408,
+98.04,
+1,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80650838_text",
+3432,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflParamSingleValue",
+168,
+97.62,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80651648_text",
+1720,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflParamReader",
+18764,
+10.02,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_8065664C_text",
+1416,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflParamBase",
+300,
+93.17,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_80656D00_text",
+25240,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflCustomRenderObj",
+1580,
+100.0,
+0,
+[
+"gfl"
+]
+],
+[
+"main/auto_03_8065D5C4_text",
+36,
+0.0,
+0,
+[]
+],
+[
+"main/gfl/gflScnMdlWrapper",
+3808,
+37.55,
+0,
+[
+"gfl"
+]
+],
+[
+"main/fluff/util/MoveTarget",
+2832,
+12.3,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_8065EFD8_text",
+3740,
+0.0,
+0,
+[]
+],
+[
+"main/fluff/graphics/HermiteCurveBase",
+4744,
+2.98,
+0,
+[
+"fluff"
+]
+],
+[
+"main/auto_03_806610FC_text",
+38496,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/OS/OSThread",
+5640,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/revolution/OS/OSTime",
+1032,
+12.79,
+0,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_8066C6C0_text",
+616,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/OS/OSStateTM",
+1728,
+59.97,
+0,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_8066D060_text",
+127004,
+0.0,
+0,
+[]
+],
+[
+"main/auto_construct_new_array_text",
+260,
+0.0,
+0,
+[]
+],
+[
+"main/auto_dtor_8068CE9C_text",
+188,
+0.0,
+0,
+[]
+],
+[
+"main/auto_construct_array_text",
+248,
+0.0,
+0,
+[]
+],
+[
+"main/auto_destroy_arr_text",
+120,
+0.0,
+0,
+[]
+],
+[
+"main/auto_destroy_new_array_text",
+128,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8068D148_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_dynamic_cast_text",
+604,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068D3FC_text",
+64,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8068D43C_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/runtime",
+2240,
+100.0,
+1,
+[]
+],
+[
+"main/PowerPC_EABI_Support/Runtime/__init_cpp_exceptions",
+228,
+49.12,
+0,
+[]
+],
+[
+"main/auto_03_8068DDEC_text",
+152,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068DE84_text",
+432,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068E034_text",
+432,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068E1E4_text",
+1364,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068E738_text",
+1292,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8068EC44_text",
+260,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8068ED48_text",
+1032,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8068F150_text",
+21636,
+0.0,
+0,
+[]
+],
+[
+"main/PowerPC_EABI_Support/MSL/MSL_C/MSL_Common/rand",
+40,
+100.0,
+1,
+[]
+],
+[
+"main/auto_03_806945FC_text",
+119156,
+0.0,
+0,
+[]
+],
+[
+"main/revolution/WPAD/WPAD",
+42752,
+99.99,
+1,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_806BC7B4_text",
+272728,
+0.0,
+0,
+[]
+],
+[
+"main/hbm/homebutton/HBMFrameController",
+420,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/hbm/homebutton/HBMAnmController",
+268,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/hbm/homebutton/HBMGUIManager",
+5632,
+99.72,
+1,
+[
+"sdk"
+]
+],
+[
+"main/hbm/homebutton/HBMController",
+3000,
+8.4,
+0,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_80701EB0_text",
+44796,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8070CFC0_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8070CFD4_text",
+24680,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80713290_text",
+16,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_807132A0_text",
+1292,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_807137E0_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_807137F4_text",
+5040,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80714C30_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80714C44_text",
+9640,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80717260_text",
+20,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80717274_text",
+33888,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8071FA40_text",
+164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8071FAE4_text",
+6436,
+0.0,
+0,
+[]
+],
+[
+"main/hbm/sound/syn",
+1144,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/hbm/sound/synctrl",
+776,
+28.35,
+0,
+[
+"sdk"
+]
+],
+[
+"main/auto_03_80721C10_text",
+19500,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80726B60_text",
+300,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80726C8C_text",
+55128,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80734580_text",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80734584_text",
+2580,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80734FF0_text",
+80,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80735040_text",
+6628,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80736AC0_text",
+88,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80736B18_text",
+24216,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8073CA30_text",
+136,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8073CAB8_text",
+142820,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80760B30_text",
+624,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80760DA0_text",
+80512,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80774F20_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80774F2C_text",
+6136,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80776850_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8077685C_text",
+5860,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80777FE0_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80777FEC_text",
+9508,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8077A580_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8077A58C_text",
+164,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8077A650_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8077A65C_text",
+33160,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80782C00_text",
+64,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80782C40_text",
+22636,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80788720_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8078872C_text",
+6024,
+0.0,
+0,
+[]
+],
+[
+"main/nw4r/snd/snd_DvdSoundArchive",
+1536,
+97.4,
+1,
+[]
+],
+[
+"main/nw4r/snd/snd_EnvGenerator",
+960,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8078AA80_text",
+23880,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80790B90_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80790B9C_text",
+10876,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_80793740_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8079374C_text",
+532,
+0.0,
+0,
+[]
+],
+[
+"main/nw4r/snd/snd_SoundArchive",
+1480,
+99.73,
+1,
+[]
+],
+[
+"main/nw4r/snd/snd_SoundArchiveFile",
+4732,
+87.01,
+0,
+[]
+],
+[
+"main/auto_03_80795350_text",
+15336,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_807990F0_text",
+72,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_80799138_text",
+17008,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_8079D5C0_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8079D5CC_text",
+17452,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_807A1C60_text",
+12,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_807A1C6C_text",
+7836,
+0.0,
+0,
+[]
+],
+[
+"main/nw4r/ut/ut_IOStream",
+20,
+60.0,
+1,
+[]
+],
+[
+"main/nw4r/ut/ut_FileStream",
+248,
+100.0,
+1,
+[]
+],
+[
+"main/nw4r/ut/ut_DvdFileStream",
+1492,
+99.73,
+1,
+[]
+],
+[
+"main/nw4r/ut/ut_DvdLockedFileStream",
+928,
+100.0,
+1,
+[]
+],
+[
+"main/nw4r/ut/ut_LockedCache",
+428,
+22.43,
+0,
+[]
+],
+[
+"main/auto_03_807A49E0_text",
+28784,
+0.0,
+0,
+[]
+],
+[
+"main/auto_fn_807ABCC0_text",
+132,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_807ABD44_text",
+224588,
+0.0,
+0,
+[]
+],
+[
+"main/auto_00_80004000_init",
+1804,
+0.0,
+0,
+[]
+]
+],
+"workflow": 121946504
+}

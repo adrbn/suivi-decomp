@@ -1,0 +1,2213 @@
+{
+"history": [
+{
+"sha": "b5526094c4b699c1718ebec510acc31ccafd4b47",
+"time": "2026-08-13T23:21:13Z",
+"message": "Remove legacy progress site",
+"measures": {
+"matched_code_percent": 90.2296,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 487184.0,
+"matched_code": 439584.0,
+"total_data": 0.0,
+"total_functions": 1351.0,
+"matched_functions": 1106.0,
+"total_units": 307.0,
+"complete_units": 0.0
+},
+"categories": {
+"rom_header": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"ipl3": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"entry": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 96.0,
+"matched_code": 96.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"boot": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1232.0,
+"matched_code": 1232.0,
+"total_data": 0.0,
+"total_functions": 11.0,
+"matched_functions": 11.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"dma_table": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"game_cod": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 394128.0,
+"matched_code": 394128.0,
+"total_data": 0.0,
+"total_functions": 1004.0,
+"matched_functions": 1004.0,
+"total_units": 37.0,
+"complete_units": 0.0
+},
+"libkmc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"gzip": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8448.0,
+"matched_code": 8448.0,
+"total_data": 0.0,
+"total_functions": 19.0,
+"matched_functions": 19.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"libultra": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 47600.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 245.0,
+"matched_functions": 0.0,
+"total_units": 150.0,
+"complete_units": 0.0
+},
+"libmus": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 18656.0,
+"matched_code": 18656.0,
+"total_data": 0.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 36.2819,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74704.0,
+"matched_code": 27104.0,
+"total_data": 0.0,
+"total_functions": 318.0,
+"matched_functions": 73.0,
+"total_units": 159.0,
+"complete_units": 0.0
+},
+"rsp": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 14960.0,
+"matched_code": 14960.0,
+"total_data": 0.0,
+"total_functions": 8.0,
+"matched_functions": 8.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"buffers": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"assets": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 84.0,
+"complete_units": 0.0
+},
+"music": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"gateway": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 272.0,
+"matched_code": 272.0,
+"total_data": 0.0,
+"total_functions": 2.0,
+"matched_functions": 2.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libegcs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1392.0,
+"matched_code": 1392.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"libnustd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 400.0,
+"matched_code": 400.0,
+"total_data": 0.0,
+"total_functions": 6.0,
+"matched_functions": 6.0,
+"total_units": 6.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "master",
+"artifact": "cn_report",
+"category_names": {
+"rom_header": "rom_header",
+"ipl3": "ipl3",
+"entry": "entry",
+"boot": "boot",
+"dma_table": "dma_table",
+"game_cod": "Game code",
+"libkmc": "libkmc",
+"gzip": "gzip",
+"libultra": "libultra",
+"libmus": "libmus",
+"libs": "Libraries",
+"rsp": "RSP",
+"buffers": "Buffers",
+"assets": "Assets",
+"music": "Music",
+"gateway": "gateway",
+"libegcs": "libegcs",
+"libnustd": "libnustd"
+},
+"units_time": "2026-08-13T23:21:13Z",
+"units": [
+[
+"entry/entry",
+96,
+100.0,
+0,
+[
+"entry"
+]
+],
+[
+"boot/boot_main",
+560,
+100.0,
+0,
+[
+"boot"
+]
+],
+[
+"boot/dmadata",
+400,
+100.0,
+0,
+[
+"boot"
+]
+],
+[
+"gzip/inflate",
+7264,
+100.0,
+0,
+[
+"gzip",
+"libs"
+]
+],
+[
+"gzip/unzip",
+1184,
+100.0,
+0,
+[
+"gzip",
+"libs"
+]
+],
+[
+"boot/util",
+272,
+100.0,
+0,
+[
+"boot"
+]
+],
+[
+"gateway/003630",
+272,
+100.0,
+0,
+[
+"gateway"
+]
+],
+[
+"libultra/aigetlen",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/aigetstat",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/aisetfreq",
+256,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/aisetnextbuf",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/env",
+2928,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sl",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/heapinit",
+64,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synthesizer",
+1648,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/syndelete",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synaddplayer",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synallocvoice",
+496,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synstopvoice",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synstartvoice",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synsetpitch",
+144,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synsetvol",
+192,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synsetfxmix",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synsetpan",
+144,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/synallocfx",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/invaldcache",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/writebackdcacheall",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/contquery",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/contreaddata",
+640,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/controller",
+976,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/contsetch",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/virtualtophysical",
+208,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sqrtf",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/cosf",
+304,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/ortho",
+368,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/perspective",
+512,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/rotateRPY",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sinf",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sins",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/bcmp",
+272,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/bcopy",
+800,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/bzero",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/string",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/createmesgqueue",
+112,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/recvmesg",
+368,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sptask",
+528,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sptaskyield",
+32,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sptaskyielded",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sched",
+2464,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sirawdma",
+224,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/siacs",
+192,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/createthread",
+368,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/startthread",
+400,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/stopthread",
+240,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/thread",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/gettime",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/settime",
+64,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/settimer",
+448,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/timerintr",
+1312,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/probetlb",
+192,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/vigetcurrframebuf",
+64,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/vigetnextframebuf",
+64,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/vimgr",
+768,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/visetevent",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/visetmode",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/visetspecial",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/visetyscale",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/viswapbuf",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/viswapcontext",
+784,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/viblack",
+112,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mtxident",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mtxidentf",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mtxf2l",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mtxl2f",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mtxcatf",
+256,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/scale",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/scalef",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/translate",
+224,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/translatef",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/conteepprobe",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/conteeplongwrite",
+240,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/conteeplongread",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/exceptasm",
+2688,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/interrupt",
+144,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/setintmask",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/pimgr",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/epirawdma",
+960,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/epiwrite",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/epidma",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/epilinkhandle",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/cartrominit",
+352,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/devmgr",
+1184,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/piacs",
+192,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/skapi",
+592,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/common",
+240,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/nops_00B250",
+112,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/initialize",
+1424,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/ai",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/drvrNew",
+1968,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/load",
+2704,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/auxbus",
+272,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/filter",
+32,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/mainbus",
+368,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/resample",
+672,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/reverb",
+2928,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/save",
+224,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/heapalloc",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/copy",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/invalicache",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/writebackdcache",
+128,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/jammesg",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/sendmesg",
+368,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/seteventmesg",
+208,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/dpsetnextbuf",
+160,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/getcause",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/getsr",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/setfpccsr",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/setsr",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/setwatchlo",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/reg/_getcount",
+256,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/reg/_setcompare",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sp",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/spgetstat",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/spsetstat",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/spsetpc",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/sprawdma",
+144,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/sirawread",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/sirawwrite",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/destroythread",
+304,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/getthreadid",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/setthreadpri",
+272,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/yieldthread",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/maptlbrdb",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/unmaptlball",
+80,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/vi",
+256,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/io/vigetcurrcontext",
+16,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/conteepread",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/conteepwrite",
+176,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/setglobalintmask",
+96,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/os/resetglobalintmask",
+112,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/pirawdma",
+224,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/pigetcmdq",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/epirawread",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/epirawwrite",
+384,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/dp",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libultra/si",
+48,
+0.0,
+0,
+[
+"libultra",
+"libs"
+]
+],
+[
+"libegcs/libgcc2",
+1392,
+100.0,
+0,
+[
+"libegcs"
+]
+],
+[
+"libnustd/strcpy",
+64,
+100.0,
+0,
+[
+"libnustd"
+]
+],
+[
+"libnustd/modf",
+32,
+100.0,
+0,
+[
+"libnustd"
+]
+],
+[
+"libnustd/srand",
+96,
+100.0,
+0,
+[
+"libnustd"
+]
+],
+[
+"libnustd/fmod",
+64,
+100.0,
+0,
+[
+"libnustd"
+]
+],
+[
+"libnustd/memmove",
+144,
+100.0,
+0,
+[
+"libnustd"
+]
+],
+[
+"main_segment/main",
+832,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/nnsched",
+4768,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/joy",
+1488,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/audio/sound",
+3088,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/graphic",
+2576,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/graphics/static",
+5056,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/audio/music_driver",
+3008,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/main1x",
+3712,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/vr_init",
+768,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/aiset",
+32752,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/record",
+12496,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/unused/020D10",
+7632,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/game_etc",
+9984,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/screen_print/printer",
+160,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/screen_print/debug_print",
+1376,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/debug_menu",
+10480,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/bg_tasks",
+496,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/tex_func",
+21856,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/main_menu",
+103376,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/font",
+6048,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/msgwnd",
+4832,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/char_anime",
+4032,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/dm_virus_init",
+5184,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/dm_game_main",
+84032,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/dm_manual_main",
+20160,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/dm_title_main",
+3200,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/main_story",
+22672,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/lws",
+1520,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/calc",
+6064,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/unused/065080",
+4304,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/unused/066080",
+112,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/replay",
+1152,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/066580",
+736,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/calcsub",
+3776,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"main_segment/unused/055C40",
+400,
+100.0,
+0,
+[
+"game_cod"
+]
+],
+[
+"libmus/src/player",
+13520,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/player_fx",
+2352,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/aud_dma",
+1168,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/aud_sched",
+432,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/aud_thread",
+672,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/lib_memory",
+320,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"libmus/src/aud_samples",
+192,
+100.0,
+0,
+[
+"libmus",
+"libs"
+]
+],
+[
+"rsp/rspboot",
+208,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/aspMain",
+3616,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/f3dex2",
+5008,
+100.0,
+0,
+[
+"rsp"
+]
+],
+[
+"rsp/s2dex",
+6128,
+100.0,
+0,
+[
+"rsp"
+]
+]
+]
+}

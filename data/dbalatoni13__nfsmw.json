@@ -1,0 +1,1368 @@
+{
+"history": [
+{
+"sha": "fd0c355bcf1f3347b877f620f91be8f8ef91c7c9",
+"time": "2026-09-16T23:21:41Z",
+"message": "zAnim fixes",
+"measures": {
+"matched_code_percent": 0.6838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 57552.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 335.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7994,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 57552.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 335.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "f108668aeaaa64684eb1559c345b2768826d2016",
+"time": "2026-09-17T22:30:26Z",
+"message": "Begin pairing PC 1.3 zFe symbols (#143)",
+"measures": {
+"matched_code_percent": 0.6838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 57552.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 335.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7994,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 57552.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 335.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "32eaeff9c008be468890294a76085c6ff0a0213c",
+"time": "2026-09-21T00:46:07Z",
+"message": "Fix a regression",
+"measures": {
+"matched_code_percent": 0.6838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 57552.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 335.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7994,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 57552.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 335.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a90a40c46bf0c56ac2f5da963dd86c98fcbf1caa",
+"time": "2026-09-23T00:07:33Z",
+"message": "Begin pairing PC 1.3 zFEng and zFe2 symbols (#148)",
+"measures": {
+"matched_code_percent": 0.6573,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55320.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 324.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7296,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55320.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 324.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "dab5597b3d47400f2bd4597b08d995b8456e1f10",
+"time": "2026-09-24T10:06:45Z",
+"message": "chore(build): separate SLES-53558-A124 from SLUS-21351 (#149)",
+"measures": {
+"matched_code_percent": 0.6573,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55320.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 324.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7296,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55320.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 324.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "1ee862a65d94d938f5437ae360adc09078bef537",
+"time": "2026-09-25T19:52:50Z",
+"message": "spktplay almost complete (#152)",
+"measures": {
+"matched_code_percent": 0.6573,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55320.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 324.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7296,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55320.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 324.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "5ab02dae3d79b4afc5541f247550deae6f3c7f76",
+"time": "2026-09-26T02:23:09Z",
+"message": "zSpeech PC progress, bump delink, reformat symbols.json (#153)",
+"measures": {
+"matched_code_percent": 0.6573,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55320.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 324.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7296,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55320.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 324.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "c9aedd440be2eaf302a9289e04dcfbebe7ba831f",
+"time": "2026-09-27T22:48:45Z",
+"message": "More PC pairings",
+"measures": {
+"matched_code_percent": 0.6578,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55360.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 325.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7309,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55360.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 325.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "9ca26bc1bec51281b62b1c6f273910e6aaf1515a",
+"time": "2026-09-29T17:02:22Z",
+"message": "zTrack work (#144)",
+"measures": {
+"matched_code_percent": 0.6578,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55360.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 325.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7309,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55360.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 325.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "1f2cdd7996791c81a580b3f7b36b44d4f9f6719c",
+"time": "2026-10-02T20:27:22Z",
+"message": "Initialise f_abs in GameCube bAbs (#156)",
+"measures": {
+"matched_code_percent": 0.6578,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55360.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 325.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7309,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55360.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 325.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "d1f7e2e5c878f6b8ff98923ad0b97f262968778e",
+"time": "2026-10-09T23:49:08Z",
+"message": "Fully matching UnlockSystem.cpp (#158)",
+"measures": {
+"matched_code_percent": 0.6578,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55360.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 325.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7309,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55360.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 325.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "80993f35224c61d2f1b135beba76c6f8234c7940",
+"time": "2026-10-10T14:23:20Z",
+"message": "Fix Modify and GenerateUniqueKey",
+"measures": {
+"matched_code_percent": 0.6578,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 55360.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 325.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7309,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 55360.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 325.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "EUROPEGERMILESTONE_report",
+"category_names": {
+"game": "Game Code",
+"sdk": "SDK Code",
+"libc": "STD Code",
+"libs": "Library Code"
+},
+"units_time": "2026-10-10T14:23:20Z",
+"units": [
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zAI",
+342600,
+15.93,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zAnim",
+64544,
+5.8,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zAttribSys",
+62868,
+20.81,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zBWare",
+47440,
+15.17,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zFoundation",
+12732,
+3.17,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zCamera",
+113112,
+0.69,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zDebug",
+7936,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zDynamics",
+200128,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zEAXSound",
+201456,
+9.19,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zEAXSound2",
+194596,
+18.16,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zEcstasy",
+108456,
+5.63,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zFe",
+41476,
+0.6,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zFEng",
+54548,
+3.15,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zFe2",
+99924,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zGameplay",
+122128,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zOnline",
+420,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zLua",
+46328,
+58.16,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zMain",
+1316,
+24.95,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zMisc",
+164896,
+11.78,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zPhysics",
+188020,
+0.24,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zPhysicsBehaviors",
+237636,
+24.02,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zRender",
+16416,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zPlatform",
+1632,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zSim",
+112200,
+16.08,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zTrack",
+315368,
+4.01,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zWorld",
+251764,
+12.66,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/Speed/Indep/SourceLists/zWorld2",
+188488,
+10.95,
+0,
+[
+"game"
+]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_821900D8_text",
+48412,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_8224604C_text",
+186200,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_822770BC_text",
+134416,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82298910_text",
+1796,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_8229F208_text",
+386548,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823079A4_text",
+2508,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823091D8_text",
+61676,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823297D8_text",
+400,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_8233484C_text",
+11344,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_8233772C_text",
+38840,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823433DC_text",
+52644,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82350794_text",
+11088,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82371680_text",
+142856,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823A0828_text",
+160548,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823C8D00_text",
+7108,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823CA9AC_text",
+4560,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_823CC00C_text",
+58980,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82403E78_text",
+9020,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_824755A4_text",
+11912,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_824799D8_text",
+92572,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82493A2C_text",
+26912,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_825720BC_text",
+24684,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_825783C0_text",
+110336,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_82594D64_text",
+4752,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_825960A8_text",
+532328,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_826198D8_text",
+2971264,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_02_828F4F44_text",
+4704,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_03_828F6200_no_bbt",
+1092,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_04_828F6800_embsec_0",
+48476,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_05_82902600_embsec_1",
+32044,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_06_8290A400_embsec_2",
+5064,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_07_8290B800_embsec_3",
+11408,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_08_8290E600_embsec_4",
+9268,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_09_82910C00_embsec_5",
+3224,
+0.0,
+0,
+[]
+],
+[
+"NfsMWEuropeGerMilestone/auto_10_82911A00_embsec_6",
+8608,
+0.0,
+0,
+[]
+]
+],
+"workflow": 165785016
+}

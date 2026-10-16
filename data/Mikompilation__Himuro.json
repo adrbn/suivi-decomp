@@ -1,0 +1,1804 @@
+{
+"history": [
+{
+"sha": "5f6cd9d58e315d185795949a77ef826bf77ac7c1",
+"time": "2026-09-28T20:34:24Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/rotd_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "1f2e266a8f5dd71890c37f3a7cf92f7fe76a7047",
+"time": "2026-09-29T15:58:12Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/find_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "e7b76aced70594694e5313f4944f4ffeffe7e784",
+"time": "2026-10-02T19:18:30Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "904f731b31e13b7aee7012ce1b090e346495bec6",
+"time": "2026-10-03T16:16:03Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_dat.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "759f0332d21495c6b65194696ea18ba0c5c58728",
+"time": "2026-10-03T21:48:44Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_eff.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "96e723fd02be68f3abe55e6ffc34632022d6eadf",
+"time": "2026-10-03T22:24:29Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/item_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "2efac00ccfe0529628f6cc74cdad220f2dd6fa20",
+"time": "2026-10-04T17:23:50Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/map_htck.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a4f4d80862c5ccca932555b2df56641272e545be",
+"time": "2026-10-12T07:14:30Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_spe/furn_spe.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "9465093b89af351b46b5366e6bc96511f96d38b5",
+"time": "2026-10-12T20:01:42Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_spe/fsla_main.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "f7b297fc9c7bc46b0e070038c28d740d0f1485ec",
+"time": "2026-10-12T20:08:46Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_spe/fsla_dat.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "66894322eddd49a256bf550c45aa22e47e5b6e1a",
+"time": "2026-10-12T20:10:05Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_spe/fspe_acs.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "adcc35fb4602726ca9a692f2289bec816ce112db",
+"time": "2026-10-12T20:12:12Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/map/furn_spe/adj_valg.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+}
+],
+"branch": "main",
+"artifact": "SLES_508.21_report",
+"category_names": {
+"eu": "Project Zero"
+},
+"units_time": "2026-10-12T20:12:12Z",
+"units": [
+[
+"main/main",
+680,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/mode_slct",
+14256,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/memory_album",
+29620,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"main/gamemain",
+1300,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/system",
+1740,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/fileload",
+356,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/key_cnf",
+424,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/backup",
+656,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/pad",
+2932,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/eeiop",
+924,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/cdvd/eecdvd",
+1256,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_ctrl",
+2984,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_cmd",
+1040,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_dat",
+76,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_btlmode",
+744,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_gameover",
+512,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_scene",
+676,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_magatoki",
+800,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_shinkan",
+840,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_puzzle",
+744,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_soul",
+696,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_tape",
+516,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_gdead",
+572,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_event",
+1108,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_ghost",
+1120,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_autog",
+1404,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_hiso",
+952,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_furn",
+1280,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/adpcm/ea_map",
+572,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/eese",
+7268,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_cmd",
+1644,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_data",
+1272,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_ev",
+844,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_trans",
+1056,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_door",
+1316,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_foot",
+1192,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_event",
+832,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_srund",
+832,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/sd_room",
+472,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"os/eeiop/se_plyr",
+1604,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"common/ul_math",
+744,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"common/utility",
+96,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/compress",
+6588,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect",
+10036,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_sub",
+24520,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_sub2",
+31368,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_scr",
+39852,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_obj",
+18832,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_oth",
+65180,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_rdr",
+5948,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/effect_ene",
+46024,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/g2d_debug",
+7892,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/g2d_main",
+664,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/subtitles",
+3256,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/message",
+20480,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/number",
+1004,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/snapshot",
+628,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/tim2",
+15296,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/tim2_new",
+4644,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/rare_ene",
+3628,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/gra3d",
+17976,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/leditor",
+4904,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/load3d",
+4372,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/mdlwork",
+5760,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/mdlact",
+3872,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/mime",
+6852,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/accessory",
+15560,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/motion",
+12424,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/motion/anicode",
+2208,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/object",
+56,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sce_pp3",
+596,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sgsgd",
+2432,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sglib",
+3532,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sgsu",
+5944,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sgdma",
+2832,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sglight",
+12616,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sgsup",
+3424,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/sgcam",
+4216,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/shadow",
+10784,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph3d/mirror",
+6100,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/mov/movie",
+17968,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/scene/fod",
+6684,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/scene/scene",
+12060,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/ingame",
+3476,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/ig_init",
+1364,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/camera/camera",
+19196,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/enemy/ene_ctl",
+14384,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/enemy/move_ctl",
+30620,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/entry",
+480,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/plyr/time_ctl",
+932,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_bgost",
+788,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_dgost",
+1288,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_fgost",
+3196,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_ggost",
+1764,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_pgost",
+1476,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_rgost",
+3804,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_sgost",
+3772,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/entry/ap_zgost",
+2276,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/ev_main",
+8844,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/ev_spcl",
+73580,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/ev_load",
+5116,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/mv_cmnd",
+348,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/info/inf_disp",
+30504,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/map_ctrl",
+14608,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/map_area",
+2348,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/door_ctl",
+31004,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/doortype",
+284,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/rotd_ctl",
+1368,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/find_ctl",
+940,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_ctl",
+6712,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_dat",
+28,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_eff",
+1400,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/item_ctl",
+2888,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/map_htck",
+3232,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_spe/furn_spe",
+15148,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_spe/fsla_main",
+1996,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_spe/fspe_acs",
+156,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/furn_spe/adj_valg",
+768,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/item",
+22956,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/gameover",
+1596,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/pause",
+2460,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_album",
+30616,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_camra",
+15024,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_menu",
+18660,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_spd_menu",
+2196,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/item_get",
+6828,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_file",
+28160,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_rank",
+13004,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_glst",
+9172,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_map",
+13256,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/ig_option",
+11908,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/menu/sp_menu",
+25924,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/map/door_conte",
+980,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/photo/photo",
+2676,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/photo/pht_main",
+2096,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/photo/pht_make",
+15980,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/plyr/plyr_ctl",
+35796,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/plyr/unit_ctl",
+1920,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"edit/test_2d",
+460,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/scn_test",
+19868,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/title",
+14816,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"graphics/graph2d/takep_pe",
+3436,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_main",
+8524,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_acs",
+2376,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_album",
+3072,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_exec",
+5032,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_start",
+2136,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_disp",
+264,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"mc/mc_at",
+1960,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/outgame",
+1816,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/btl_mode/btl_menu",
+4968,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/btl_mode/btl_mode",
+2288,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/wan_soul",
+6700,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"ingame/event/wan_dat",
+104,
+100.0,
+0,
+[
+"eu"
+]
+],
+[
+"outgame/sound_test",
+5408,
+100.0,
+0,
+[
+"eu"
+]
+]
+],
+"workflow": 156497704
+}
