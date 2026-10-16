@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "7a53e8d57fc8c01467d95227f6fe8aae4ccbbaaf",
+"time": "2026-08-04T19:41:18Z",
+"message": "Use correct asser macro in JugemVoidRod",
+"measures": {
+"matched_code_percent": 46.2089,
+"complete_code_percent": 40.7867,
+"matched_data_percent": 23.9844,
+"complete_data_percent": 31.3033,
+"total_code": 3222748.0,
+"matched_code": 1489196.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8601.0,
+"total_units": 807.0,
+"complete_units": 504.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.4342,
+"complete_code_percent": 33.3771,
+"matched_data_percent": 38.5626,
+"complete_data_percent": 46.4824,
+"total_code": 2086116.0,
+"matched_code": 780920.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5354.0,
+"total_units": 371.0,
+"complete_units": 213.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "9cef9bb622bca6e21f795a83f16eb92f1d422fca",
+"time": "2026-08-05T16:19:28Z",
+"message": "Merge pull request #66 from MB60893/ci-add-validate-symbol-order",
+"measures": {
+"matched_code_percent": 46.2089,
+"complete_code_percent": 40.7867,
+"matched_data_percent": 23.9844,
+"complete_data_percent": 31.3033,
+"total_code": 3222748.0,
+"matched_code": 1489196.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8601.0,
+"total_units": 807.0,
+"complete_units": 504.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.4342,
+"complete_code_percent": 33.3771,
+"matched_data_percent": 38.5626,
+"complete_data_percent": 46.4824,
+"total_code": 2086116.0,
+"matched_code": 780920.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5354.0,
+"total_units": 371.0,
+"complete_units": 213.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "723ed40ad83fc81a8fdfa85dfa3f5a93a662beca",
+"time": "2026-08-08T19:54:19Z",
+"message": "Merge pull request #67 from cristian64/fade",
+"measures": {
+"matched_code_percent": 46.3036,
+"complete_code_percent": 40.8981,
+"matched_data_percent": 24.0093,
+"complete_data_percent": 31.3471,
+"total_code": 3222748.0,
+"matched_code": 1492248.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8610.0,
+"total_units": 807.0,
+"complete_units": 506.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.5805,
+"complete_code_percent": 33.5492,
+"matched_data_percent": 38.6189,
+"complete_data_percent": 46.5814,
+"total_code": 2086116.0,
+"matched_code": 783972.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5363.0,
+"total_units": 371.0,
+"complete_units": 215.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "c7e5531fe9b4fd79c3c81a9e455b98f2030f6c37",
 "time": "2026-08-08T20:01:19Z",
 "message": "Merge pull request #64 from cristian64/lapghost2d",

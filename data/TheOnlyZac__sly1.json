@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "bf5ee5649ef7c9bafc8030a02175761431b3e61c",
+"time": "2026-09-07T19:39:13Z",
+"message": "Merge pull request #270 from MidnightChems/working_decomp",
+"measures": {
+"matched_code_percent": 6.3328,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4287,
+"complete_data_percent": 0.0,
+"total_code": 1133456.0,
+"matched_code": 71780.0,
+"total_data": 568637.0,
+"total_functions": 4694.0,
+"matched_functions": 1136.0,
+"total_units": 285.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.2022,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0385,
+"complete_data_percent": 0.0,
+"total_code": 996640.0,
+"matched_code": 71780.0,
+"total_data": 20733.0,
+"total_functions": 4071.0,
+"matched_functions": 1136.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 19.3289,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 8064.0,
+"total_data": 10080.0,
+"total_functions": 255.0,
+"matched_functions": 116.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547904.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 100.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7d7142e44ae7c49cb7bac7103f5319d3b6cf96bd",
+"time": "2026-09-07T20:58:52Z",
+"message": "Merge pull request #269 from hirthbrian/fix/pull_request_target",
+"measures": {
+"matched_code_percent": 6.3328,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4287,
+"complete_data_percent": 0.0,
+"total_code": 1133456.0,
+"matched_code": 71780.0,
+"total_data": 568637.0,
+"total_functions": 4694.0,
+"matched_functions": 1136.0,
+"total_units": 285.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.2022,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0385,
+"complete_data_percent": 0.0,
+"total_code": 996640.0,
+"matched_code": 71780.0,
+"total_data": 20733.0,
+"total_functions": 4071.0,
+"matched_functions": 1136.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 19.3289,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 8064.0,
+"total_data": 10080.0,
+"total_functions": 255.0,
+"matched_functions": 116.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547904.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 100.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "2a426c0a1171d6a896dc70f0ec15e1f388f71435",
+"time": "2026-09-07T21:26:54Z",
+"message": "Merge pull request #268 from 545u/545u-dev",
+"measures": {
+"matched_code_percent": 6.3972,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.4372,
+"complete_data_percent": 0.0,
+"total_code": 1133428.0,
+"matched_code": 72508.0,
+"total_data": 568629.0,
+"total_functions": 4690.0,
+"matched_functions": 1146.0,
+"total_units": 290.0,
+"complete_units": 0.0
+},
+"categories": {
+"P2": {
+"matched_code_percent": 7.2754,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0523,
+"complete_data_percent": 0.0,
+"total_code": 996612.0,
+"matched_code": 72508.0,
+"total_data": 20781.0,
+"total_functions": 4067.0,
+"matched_functions": 1146.0,
+"total_units": 183.0,
+"complete_units": 0.0
+},
+"splice": {
+"matched_code_percent": 19.3289,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 41720.0,
+"matched_code": 8064.0,
+"total_data": 10080.0,
+"total_functions": 255.0,
+"matched_functions": 116.0,
+"total_units": 16.0,
+"complete_units": 0.0
+},
+"ps2t": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 74976.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 201.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sce": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 114944.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 622.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"data": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 21872.0,
+"matched_code": 0.0,
+"total_data": 547848.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 105.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "e428dd8c26ec1acdd3fde19674248e41a967162f",
 "time": "2026-09-07T21:29:02Z",
 "message": "Merge pull request #271 from MidnightChems/working_decomp",

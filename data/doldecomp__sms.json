@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "48944d4c5ade20805732ce0fb4db587af2e3c8a5",
+"time": "2026-10-15T16:04:37Z",
+"message": "Enemy: fix BossGesso, BossManta, BossEel, BossPakkun and BossHanachan (#343)",
+"measures": {
+"matched_code_percent": 46.6911,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.8359,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1682604.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9756.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2487,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.572,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1003764.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5958.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
+"sha": "2ec5a3fff88970e909e46fc6be41a08eb5b9cf72",
+"time": "2026-10-15T16:06:31Z",
+"message": "Player/MarioDraw: fix model setup and waist control (#345)",
+"measures": {
+"matched_code_percent": 46.6911,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.8359,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1682604.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9756.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2487,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.572,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1003764.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5958.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
+"sha": "270ad9a9d9fc074a67f182bdc0ff4dc863f7e03a",
+"time": "2026-10-15T16:11:20Z",
+"message": "[07/11] Map: fix mirror, warp, bath water and particle loading (#344)",
+"measures": {
+"matched_code_percent": 46.6911,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.9519,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1682604.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9756.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2487,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.7053,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1003764.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5958.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
 "sha": "3ebd9d9c263f53c6ac0705ba9d5b6963fb48f3d3",
 "time": "2026-10-15T16:13:42Z",
 "message": "[05/11] Enemy: fix Hinokuri2 nerves, AmiNoko, HamuKuri, NameKuri and others (#342)",

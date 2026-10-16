@@ -1,6 +1,150 @@
 {
 "history": [
 {
+"sha": "50fb0707dfd31d6acc71c0f3840c4db96ce16cda",
+"time": "2026-07-19T04:32:16Z",
+"message": "Link particleGenerator.cpp",
+"measures": {
+"matched_code_percent": 99.6451,
+"complete_code_percent": 96.5915,
+"matched_data_percent": 95.8099,
+"complete_data_percent": 99.4196,
+"total_code": 2222312.0,
+"matched_code": 2214424.0,
+"total_data": 1851011.0,
+"total_functions": 8094.0,
+"matched_functions": 8087.0,
+"total_units": 586.0,
+"complete_units": 579.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 99.7482,
+"complete_code_percent": 96.3668,
+"matched_data_percent": 93.1568,
+"complete_data_percent": 99.1503,
+"total_code": 1904668.0,
+"matched_code": 1899872.0,
+"total_data": 1132692.0,
+"total_functions": 6541.0,
+"matched_functions": 6536.0,
+"total_units": 380.0,
+"complete_units": 374.0
+},
+"sdk": {
+"matched_code_percent": 98.4504,
+"complete_code_percent": 96.7185,
+"matched_data_percent": 99.841,
+"complete_data_percent": 96.2903,
+"total_code": 199540.0,
+"matched_code": 196448.0,
+"total_data": 30191.0,
+"total_functions": 906.0,
+"matched_functions": 904.0,
+"total_units": 148.0,
+"complete_units": 147.0
+},
+"jaudio": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 94896.0,
+"matched_code": 94896.0,
+"total_data": 685456.0,
+"total_functions": 611.0,
+"matched_functions": 611.0,
+"total_units": 57.0,
+"complete_units": 57.0
+},
+"hvqm4dec": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 23208.0,
+"matched_code": 23208.0,
+"total_data": 2672.0,
+"total_functions": 36.0,
+"matched_functions": 36.0,
+"total_units": 1.0,
+"complete_units": 1.0
+}
+}
+},
+{
+"sha": "1d1246f0c32178454fd2ef9eff65ba05ff558047",
+"time": "2026-07-20T15:55:02Z",
+"message": "ONE HUNDRED PERCENT (#210)",
+"measures": {
+"matched_code_percent": 99.7392,
+"complete_code_percent": 99.536,
+"matched_data_percent": 95.8099,
+"complete_data_percent": 99.6352,
+"total_code": 2222312.0,
+"matched_code": 2216516.0,
+"total_data": 1851011.0,
+"total_functions": 8094.0,
+"matched_functions": 8089.0,
+"total_units": 586.0,
+"complete_units": 584.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 99.858,
+"complete_code_percent": 99.8024,
+"matched_data_percent": 93.1568,
+"complete_data_percent": 99.5028,
+"total_code": 1904668.0,
+"matched_code": 1901964.0,
+"total_data": 1132692.0,
+"total_functions": 6541.0,
+"matched_functions": 6538.0,
+"total_units": 380.0,
+"complete_units": 379.0
+},
+"sdk": {
+"matched_code_percent": 98.4504,
+"complete_code_percent": 96.7185,
+"matched_data_percent": 99.841,
+"complete_data_percent": 96.2903,
+"total_code": 199540.0,
+"matched_code": 196448.0,
+"total_data": 30191.0,
+"total_functions": 906.0,
+"matched_functions": 904.0,
+"total_units": 148.0,
+"complete_units": 147.0
+},
+"jaudio": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 94896.0,
+"matched_code": 94896.0,
+"total_data": 685456.0,
+"total_functions": 611.0,
+"matched_functions": 611.0,
+"total_units": 57.0,
+"complete_units": 57.0
+},
+"hvqm4dec": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 23208.0,
+"matched_code": 23208.0,
+"total_data": 2672.0,
+"total_functions": 36.0,
+"matched_functions": 36.0,
+"total_units": 1.0,
+"complete_units": 1.0
+}
+}
+},
+{
 "sha": "506a27745b9a5965e935149fde252db1873361ec",
 "time": "2026-07-21T03:44:58Z",
 "message": "Misc. DLL Decomp",

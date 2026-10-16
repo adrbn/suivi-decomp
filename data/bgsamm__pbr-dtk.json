@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "6615b84829621fb7977ba11e625946ce62388d0d",
+"time": "2026-09-06T16:12:40Z",
+"message": "Substantial progress on GSnull & related TUs",
+"measures": {
+"matched_code_percent": 1.864,
+"complete_code_percent": 0.8314,
+"matched_data_percent": 0.2744,
+"complete_data_percent": 0.1378,
+"total_code": 4045236.0,
+"matched_code": 75404.0,
+"total_data": 2495956.0,
+"total_functions": 13890.0,
+"matched_functions": 477.0,
+"total_units": 323.0,
+"complete_units": 28.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 28.8071,
+"complete_code_percent": 14.2242,
+"matched_data_percent": 90.0274,
+"complete_data_percent": 72.2781,
+"total_code": 200784.0,
+"matched_code": 57840.0,
+"total_data": 4372.0,
+"total_functions": 965.0,
+"matched_functions": 401.0,
+"total_units": 57.0,
+"complete_units": 24.0
+},
+"runtime": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 112.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 2.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 45.9088,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 11048.0,
+"matched_code": 11048.0,
+"total_data": 2872.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 5.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 0.1715,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.9231,
+"complete_data_percent": 0.0,
+"total_code": 3799360.0,
+"matched_code": 6516.0,
+"total_data": 2080.0,
+"total_functions": 12664.0,
+"matched_functions": 22.0,
+"total_units": 212.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "daf54b1dae260a872554cac9226982dced312368",
+"time": "2026-09-16T21:46:12Z",
+"message": "Progress on various scene-related TUs",
+"measures": {
+"matched_code_percent": 2.1718,
+"complete_code_percent": 0.8314,
+"matched_data_percent": 0.2825,
+"complete_data_percent": 0.1378,
+"total_code": 4045236.0,
+"matched_code": 87856.0,
+"total_data": 2495956.0,
+"total_functions": 13890.0,
+"matched_functions": 531.0,
+"total_units": 332.0,
+"complete_units": 28.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 34.4231,
+"complete_code_percent": 14.2242,
+"matched_data_percent": 89.2635,
+"complete_data_percent": 70.0976,
+"total_code": 200784.0,
+"matched_code": 69116.0,
+"total_data": 4508.0,
+"total_functions": 965.0,
+"matched_functions": 451.0,
+"total_units": 57.0,
+"complete_units": 24.0
+},
+"runtime": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 112.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 2.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 45.9088,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 11048.0,
+"matched_code": 11048.0,
+"total_data": 2872.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 5.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 0.2025,
+"complete_code_percent": 0.0,
+"matched_data_percent": 7.1168,
+"complete_data_percent": 0.0,
+"total_code": 3799360.0,
+"matched_code": 7692.0,
+"total_data": 2192.0,
+"total_functions": 12664.0,
+"matched_functions": 26.0,
+"total_units": 212.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "09af9f9a5b1ffad9b83483485a6c49f35a1c4976",
+"time": "2026-09-19T11:25:23Z",
+"message": "Move version instance to common.hpp + more progress on scene-related TUs",
+"measures": {
+"matched_code_percent": 2.3355,
+"complete_code_percent": 0.8314,
+"matched_data_percent": 0.2827,
+"complete_data_percent": 0.1378,
+"total_code": 4045236.0,
+"matched_code": 94476.0,
+"total_data": 2495956.0,
+"total_functions": 13890.0,
+"matched_functions": 545.0,
+"total_units": 333.0,
+"complete_units": 28.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 36.3276,
+"complete_code_percent": 14.2242,
+"matched_data_percent": 89.2635,
+"complete_data_percent": 70.0976,
+"total_code": 200784.0,
+"matched_code": 72940.0,
+"total_data": 4508.0,
+"total_functions": 965.0,
+"matched_functions": 460.0,
+"total_units": 57.0,
+"complete_units": 24.0
+},
+"runtime": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 112.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 2.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 45.9088,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 11048.0,
+"matched_code": 11048.0,
+"total_data": 2872.0,
+"total_functions": 54.0,
+"matched_functions": 54.0,
+"total_units": 5.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 0.276,
+"complete_code_percent": 0.0,
+"matched_data_percent": 7.1942,
+"complete_data_percent": 0.0,
+"total_code": 3799360.0,
+"matched_code": 10488.0,
+"total_data": 2224.0,
+"total_functions": 12664.0,
+"matched_functions": 31.0,
+"total_units": 212.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "7d169f9e7ea390a181904b1b0bb6d7aa622ea4d0",
 "time": "2026-10-09T20:09:22Z",
 "message": "More scene-related TU progress",

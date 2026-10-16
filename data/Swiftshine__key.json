@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "fa8789dc54047a109ff8f3e60def2e63065b4b49",
+"time": "2026-09-14T21:22:14Z",
+"message": "add fade in/out states",
+"measures": {
+"matched_code_percent": 2.1841,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 179448.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1265.0,
+"total_units": 782.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.3858,
+"complete_code_percent": 1.4524,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 595148.0,
+"matched_code": 97520.0,
+"total_data": 9024.0,
+"total_functions": 2508.0,
+"matched_functions": 832.0,
+"total_units": 86.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "8b13be680bf9f0150f9fddfaee02f932448681b7",
+"time": "2026-09-27T15:38:50Z",
+"message": "Merge branch 'main' of https://github.com/Swiftshine/key",
+"measures": {
+"matched_code_percent": 2.1847,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 179492.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1266.0,
+"total_units": 782.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.3932,
+"complete_code_percent": 1.4524,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 595148.0,
+"matched_code": 97564.0,
+"total_data": 9024.0,
+"total_functions": 2508.0,
+"matched_functions": 833.0,
+"total_units": 86.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "e68ef930f4fdf42eda3a693aea909654378d2d80",
+"time": "2026-09-28T15:15:46Z",
+"message": "layout/layoutObject: additional fields",
+"measures": {
+"matched_code_percent": 2.1847,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 179492.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1266.0,
+"total_units": 782.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.3932,
+"complete_code_percent": 1.4524,
+"matched_data_percent": 3.8564,
+"complete_data_percent": 11.2145,
+"total_code": 595148.0,
+"matched_code": 97564.0,
+"total_data": 9024.0,
+"total_functions": 2508.0,
+"matched_functions": 833.0,
+"total_units": 86.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
 "sha": "3926458ecbbabb45cba39e8f10c0b2a5ad7f6d5e",
 "time": "2026-09-28T16:29:06Z",
 "message": "layout/LayoutAnimeElement: set splits",

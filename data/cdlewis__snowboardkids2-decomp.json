@@ -1,6 +1,105 @@
 {
 "history": [
 {
+"sha": "eaede997ac7847d860890bf587937db964fe9549",
+"time": "2026-08-03T17:52:17Z",
+"message": "Extract editable menu UI sprite sheet",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "6e463f465e2297dca374af018eb1e301854f9999",
+"time": "2026-08-08T15:49:49Z",
+"message": "Move title UI globals to shared headers",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8ef5a6ee020a89014f04716fe150f77412ee04fa",
+"time": "2026-08-18T03:11:50Z",
+"message": "Clarify viewport callback routing",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 694400.0,
+"matched_code": 694400.0,
+"total_data": 18556048.0,
+"total_functions": 2995.0,
+"matched_functions": 2995.0,
+"total_units": 1025.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "c128f21f47f7d9835ddec74f292f84fe30495736",
 "time": "2026-08-22T02:16:32Z",
 "message": "Name course render data",

@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "f5c64fd9379742a05e52498421e80a72585e32b6",
+"time": "2026-09-14T01:21:44Z",
+"message": "chore(docs): add no slop section to readme",
+"measures": {
+"matched_code_percent": 0.6305,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 53060.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 305.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.6589,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 53060.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 305.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7c8cd4262f62864f4206b2c1cbfc359e0f5ec7be",
+"time": "2026-09-16T17:48:00Z",
+"message": "zMisc cleanup based on carbon, matching every function + some memcard fixes (#141)",
+"measures": {
+"matched_code_percent": 0.6838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 57552.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 335.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7994,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 57552.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 335.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "85bf99e2c7eda8ebe75f965d36a8a58e47c1e6bc",
+"time": "2026-09-16T22:34:16Z",
+"message": "zWorld2 improvements",
+"measures": {
+"matched_code_percent": 0.6838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 57552.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 335.0,
+"total_units": 91.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.7994,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3198428.0,
+"matched_code": 57552.0,
+"total_data": 80024.0,
+"total_functions": 28259.0,
+"matched_functions": 335.0,
+"total_units": 27.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "fd0c355bcf1f3347b877f620f91be8f8ef91c7c9",
 "time": "2026-09-16T23:21:41Z",
 "message": "zAnim fixes",

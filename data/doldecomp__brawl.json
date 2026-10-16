@@ -1,6 +1,98 @@
 {
 "history": [
 {
+"sha": "e9033a9c3c5e4f2632eba0ba20762d8a764e02d9",
+"time": "2026-08-17T02:12:20Z",
+"message": "Match utRelocate's constructor (#118)",
+"measures": {
+"matched_code_percent": 1.163,
+"complete_code_percent": 0.9869,
+"matched_data_percent": 14.5846,
+"complete_data_percent": 14.8689,
+"total_code": 15833548.0,
+"matched_code": 184148.0,
+"total_data": 5667496.0,
+"total_functions": 92524.0,
+"matched_functions": 2384.0,
+"total_units": 4409.0,
+"complete_units": 502.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 1.2229,
+"complete_code_percent": 0.7274,
+"matched_data_percent": 0.3765,
+"complete_data_percent": 0.3786,
+"total_code": 4170064.0,
+"matched_code": 50996.0,
+"total_data": 1724108.0,
+"total_functions": 14278.0,
+"matched_functions": 460.0,
+"total_units": 1713.0,
+"complete_units": 58.0
+},
+"modules": {
+"matched_code_percent": 1.1416,
+"complete_code_percent": 1.0797,
+"matched_data_percent": 20.7966,
+"complete_data_percent": 21.2042,
+"total_code": 11663484.0,
+"matched_code": 133152.0,
+"total_data": 3943388.0,
+"total_functions": 78246.0,
+"matched_functions": 1924.0,
+"total_units": 2696.0,
+"complete_units": 444.0
+}
+}
+},
+{
+"sha": "f42391932e97b3585584f16f5b5f720610ebdcec",
+"time": "2026-08-23T04:53:29Z",
+"message": "Decompile gf_error_manager.cpp (#119)",
+"measures": {
+"matched_code_percent": 1.1734,
+"complete_code_percent": 0.9973,
+"matched_data_percent": 14.5857,
+"complete_data_percent": 14.8699,
+"total_code": 15833548.0,
+"matched_code": 185792.0,
+"total_data": 5667496.0,
+"total_functions": 92524.0,
+"matched_functions": 2392.0,
+"total_units": 4411.0,
+"complete_units": 503.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 1.2623,
+"complete_code_percent": 0.7668,
+"matched_data_percent": 0.38,
+"complete_data_percent": 0.3821,
+"total_code": 4170064.0,
+"matched_code": 52640.0,
+"total_data": 1724108.0,
+"total_functions": 14278.0,
+"matched_functions": 468.0,
+"total_units": 1715.0,
+"complete_units": 59.0
+},
+"modules": {
+"matched_code_percent": 1.1416,
+"complete_code_percent": 1.0797,
+"matched_data_percent": 20.7966,
+"complete_data_percent": 21.2042,
+"total_code": 11663484.0,
+"matched_code": 133152.0,
+"total_data": 3943388.0,
+"total_functions": 78246.0,
+"matched_functions": 1924.0,
+"total_units": 2696.0,
+"complete_units": 444.0
+}
+}
+},
+{
 "sha": "9fc44d9025fffa30063b52e16e594ff0eda6f38b",
 "time": "2026-08-23T21:31:57Z",
 "message": "Match st_data_container_multi.cpp (#120)",

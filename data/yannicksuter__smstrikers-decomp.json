@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "a2d6717cf8b2fbe01b0800f19611014b4d407d60",
+"time": "2026-08-22T20:47:39Z",
+"message": "JP fixed/linked SH* and SDK TU",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8295,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7745,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "af77f4d1aeba30675711b92c88faa7ab7cc86eb5",
+"time": "2026-08-22T22:57:57Z",
+"message": "JP: clean / link progress",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8295,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7745,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "3eef113d41afe135bb4d3f7780a4974c6c381883",
+"time": "2026-08-22T23:30:49Z",
+"message": "clean and fix jp version",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8228,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7657,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "16f6eacb97454084931b94fe498d3d00b8d20d74",
 "time": "2026-08-23T06:49:26Z",
 "message": "ode progress, linked fe-classes",
