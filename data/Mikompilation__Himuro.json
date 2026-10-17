@@ -1,6 +1,72 @@
 {
 "history": [
 {
+"sha": "56d3f19679c4c984cb2d2d29d2ce7bda7096e68c",
+"time": "2026-08-27T19:44:05Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/event/ev_spcl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7c751aa12c1486508fa29846759c5251f577116f",
+"time": "2026-08-29T09:21:25Z",
+"message": "refactored all codebase for enums and macros",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "866d285aa82931dbe1be6eddedbbab6a30849612",
 "time": "2026-08-29T14:13:10Z",
 "message": "  Replace raw image buffer constants with named definitions",
@@ -692,6 +758,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "4e1822c3568a78eb867672b5e9f9e0c7688295f7",
+"time": "2026-10-17T09:58:51Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/menu/item.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -699,7 +798,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-10-12T20:12:12Z",
+"units_time": "2026-10-17T09:58:51Z",
 "units": [
 [
 "main/main",

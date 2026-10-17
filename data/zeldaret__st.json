@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "721bb0efd8a0a90f673bb248456dccee38419363",
+"time": "2026-08-24T15:43:47Z",
+"message": "Add parameters to `MapObject::vfunc_28` (#146)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "05612891ad58d5d9ff457ac4b24767c116aa51e9",
+"time": "2026-08-24T15:56:17Z",
+"message": "Run `dsd delink` automatically on symbols/delinks/relocs update (#145)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "1634c50231fe4b8ccbf130661527ff71b90bc2e0",
+"time": "2026-08-24T16:41:00Z",
+"message": "Decompiling SWSW (#144)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "db8e927982c56956dcdea7748009fb3f0f2ac16f",
 "time": "2026-08-24T17:23:12Z",
 "message": "Rename `ActorUnkKURI` to `ActorSpinut` (#147)",

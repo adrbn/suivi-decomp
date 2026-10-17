@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "8824c3362acbc13fade6d61b392fab060980700f",
+"time": "2026-09-26T06:40:27Z",
+"message": "J3D progress + more Vector3f cleanup",
+"measures": {
+"matched_code_percent": 96.4537,
+"complete_code_percent": 81.7864,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 83.3235,
+"total_code": 4651476.0,
+"matched_code": 4486520.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24838.0,
+"total_units": 1153.0,
+"complete_units": 1088.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.0277,
+"complete_code_percent": 78.5512,
+"matched_data_percent": 99.55,
+"complete_data_percent": 80.0637,
+"total_code": 3619576.0,
+"matched_code": 3475796.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19267.0,
+"total_units": 737.0,
+"complete_units": 681.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "76b49204e7584e5a526d15ad3b9aab400e127c44",
+"time": "2026-09-26T21:27:52Z",
+"message": "matched: creatureLOD, itemBridge, vsCardMgr, nslibmath (#273)",
+"measures": {
+"matched_code_percent": 96.604,
+"complete_code_percent": 82.432,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 83.9413,
+"total_code": 4651476.0,
+"matched_code": 4493512.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24843.0,
+"total_units": 1153.0,
+"complete_units": 1092.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.2209,
+"complete_code_percent": 79.3808,
+"matched_data_percent": 99.55,
+"complete_data_percent": 80.8191,
+"total_code": 3619576.0,
+"matched_code": 3482788.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19272.0,
+"total_units": 737.0,
+"complete_units": 685.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "ca83e0005ad2e90b31831edcb778a58b59ea2228",
+"time": "2026-09-26T21:37:14Z",
+"message": "gamePlayData cleanup/documentation",
+"measures": {
+"matched_code_percent": 96.6005,
+"complete_code_percent": 82.432,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 83.9413,
+"total_code": 4651476.0,
+"matched_code": 4493348.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24842.0,
+"total_units": 1153.0,
+"complete_units": 1092.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.2164,
+"complete_code_percent": 79.3808,
+"matched_data_percent": 99.55,
+"complete_data_percent": 80.8191,
+"total_code": 3619576.0,
+"matched_code": 3482624.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19271.0,
+"total_units": 737.0,
+"complete_units": 685.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
 "sha": "fb07e0decf3e0c00143ab3139d676704d0b31e72",
 "time": "2026-09-27T02:45:47Z",
 "message": "link Kogane, Mar, Hanachirashi",

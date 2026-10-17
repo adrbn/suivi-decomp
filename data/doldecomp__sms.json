@@ -1,6 +1,65 @@
 {
 "history": [
 {
+"sha": "eff7167be23d21d68bc04de30774fc7e7ae2cabe",
+"time": "2026-10-15T01:21:22Z",
+"message": "Version select macro are nice now",
+"measures": {
+"matched_code_percent": 46.6026,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.2731,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1679416.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9754.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.1368,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 67.9257,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1000576.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5956.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
 "sha": "efbba0f18fd5185884a4b06c7cdc9f4e4f39e8be",
 "time": "2026-10-15T13:11:42Z",
 "message": "GMSP01_NX: decompile Helpers.cpp (#337)",

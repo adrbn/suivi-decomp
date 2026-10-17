@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "bd256c1dd1cdf0ce6600ab8a29dec69c13e9f805",
+"time": "2026-08-02T13:48:01Z",
+"message": "Merge pull request #55 from cristian64/printwindow",
+"measures": {
+"matched_code_percent": 45.999,
+"complete_code_percent": 40.3027,
+"matched_data_percent": 23.9286,
+"complete_data_percent": 31.1569,
+"total_code": 3222748.0,
+"matched_code": 1482432.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8571.0,
+"total_units": 807.0,
+"complete_units": 496.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.1099,
+"complete_code_percent": 32.6294,
+"matched_data_percent": 38.4364,
+"complete_data_percent": 46.1514,
+"total_code": 2086116.0,
+"matched_code": 774156.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5324.0,
+"total_units": 371.0,
+"complete_units": 205.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "4d68f11b91a43b579ac7b54a342a05380bf0fdc9",
+"time": "2026-08-02T20:27:30Z",
+"message": "Merge pull request #56 from cristian64/cannotsaveg2d",
+"measures": {
+"matched_code_percent": 46.0182,
+"complete_code_percent": 40.3303,
+"matched_data_percent": 23.9371,
+"complete_data_percent": 31.1711,
+"total_code": 3222748.0,
+"matched_code": 1483052.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8575.0,
+"total_units": 807.0,
+"complete_units": 497.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.1396,
+"complete_code_percent": 32.672,
+"matched_data_percent": 38.4558,
+"complete_data_percent": 46.1834,
+"total_code": 2086116.0,
+"matched_code": 774776.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5328.0,
+"total_units": 371.0,
+"complete_units": 206.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "7fc67874f417ac95098fd35031c96993f7cb85ec",
+"time": "2026-08-02T20:28:01Z",
+"message": "Merge pull request #57 from cristian64/cup2d",
+"measures": {
+"matched_code_percent": 46.0313,
+"complete_code_percent": 40.3543,
+"matched_data_percent": 23.9492,
+"complete_data_percent": 31.1896,
+"total_code": 3222748.0,
+"matched_code": 1483472.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8577.0,
+"total_units": 807.0,
+"complete_units": 498.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.1598,
+"complete_code_percent": 32.709,
+"matched_data_percent": 38.483,
+"complete_data_percent": 46.2251,
+"total_code": 2086116.0,
+"matched_code": 775196.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5330.0,
+"total_units": 371.0,
+"complete_units": 207.0
+},
+"jsys": {
+"matched_code_percent": 69.5677,
+"complete_code_percent": 56.3046,
+"matched_data_percent": 50.1897,
+"complete_data_percent": 83.4649,
+"total_code": 695616.0,
+"matched_code": 483924.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2450.0,
+"total_units": 208.0,
+"complete_units": 152.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "06ef8fceb57b744168e99ec632dd69a2a44bdfa5",
 "time": "2026-08-02T20:28:24Z",
 "message": "Merge pull request #58 from cristian64/coursename2d",

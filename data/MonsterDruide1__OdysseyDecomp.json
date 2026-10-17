@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "31d7936f5e371b4b6c439fff7ef6bf110cbff6ae",
+"time": "2026-09-16T13:33:39Z",
+"message": "Npc: add note about using `libcxx` to compile `SessionMusicianNpc` (#1365)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "aa7808327451759ecafbb555046a1c27b9db39e4",
+"time": "2026-09-18T18:51:29Z",
+"message": "Library/Camera: Implement `CameraPoseUpdater` (#1368)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "23a92e98297fa8754143ec4a8fad8b9396b32370",
+"time": "2026-09-21T20:27:27Z",
+"message": "lib/NintendoSDK: Update to `fed45e2` (#1369)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "f2904ab5b89c64f5d10da5dfaa35db4cd4a6ce6d",
 "time": "2026-09-21T20:54:29Z",
 "message": "workflow: Mark Renovate PRs as `ready to merge` (#1373)",
