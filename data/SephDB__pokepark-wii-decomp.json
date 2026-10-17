@@ -1,6 +1,144 @@
 {
 "history": [
 {
+"sha": "3ac270be2d6aec52b306813ea3cd4c7d0027a056",
+"time": "2026-08-19T19:59:25Z",
+"message": "Most of the scripting-related functions named!",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "139508e336d29f1c079c13a0c0012ebd64e021be",
+"time": "2026-08-20T18:54:10Z",
+"message": "Named all static instances registered in the global destruction chain",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "3483ab39b71785168a29560b98889b1eaeef3656",
+"time": "2026-08-21T14:10:59Z",
+"message": "Default names placed in namespaces were not synced with ghidra",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "19da4cc6b9213b05088d664a96baa5c1c6a88e11",
 "time": "2026-08-21T17:54:31Z",
 "message": "One more function belonging to GlobalManager marked, updated type_info script to pyghidra",

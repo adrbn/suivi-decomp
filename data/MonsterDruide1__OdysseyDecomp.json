@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "f9117b048a534f5e05d8d95ee5409bfce1886453",
+"time": "2026-09-15T21:13:49Z",
+"message": "lib/NintendoSDK: Update to `c71f24c` (#1366)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "11dee2b868bc9ed75bb8ab7f2ccc213395325f11",
+"time": "2026-09-16T10:05:34Z",
+"message": "Library/Camera: Fix typo in `tryCalcSlopeDownFrontDirH` (#1367)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "7482ab522172c8a3f1e2a4e41caddece077ec237",
+"time": "2026-09-16T12:54:40Z",
+"message": "MapObj: Implement `TouchTargetInfo` (#1362)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "31d7936f5e371b4b6c439fff7ef6bf110cbff6ae",
 "time": "2026-09-16T13:33:39Z",
 "message": "Npc: add note about using `libcxx` to compile `SessionMusicianNpc` (#1365)",

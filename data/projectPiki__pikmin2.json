@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "7d48e23c4005ea3ac61cd3db3447ad5c9601157f",
+"time": "2026-09-22T10:20:08Z",
+"message": "oops all yamashita linked",
+"measures": {
+"matched_code_percent": 93.3549,
+"complete_code_percent": 74.2928,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 78.9998,
+"total_code": 4651476.0,
+"matched_code": 4342380.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24685.0,
+"total_units": 1153.0,
+"complete_units": 1047.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 92.2206,
+"complete_code_percent": 69.2355,
+"matched_data_percent": 99.55,
+"complete_data_percent": 74.8053,
+"total_code": 3619576.0,
+"matched_code": 3337996.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19126.0,
+"total_units": 737.0,
+"complete_units": 643.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 96.3032,
+"complete_code_percent": 88.9536,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.6229,
+"total_code": 744312.0,
+"matched_code": 716796.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4451.0,
+"total_units": 228.0,
+"complete_units": 216.0
+}
+}
+},
+{
+"sha": "2147fcf66a68ba352d2b837c13d603b875c023b0",
+"time": "2026-09-24T04:15:16Z",
+"message": "fix PAL and JP links, woops",
+"measures": {
+"matched_code_percent": 96.227,
+"complete_code_percent": 80.4083,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 82.749,
+"total_code": 4651476.0,
+"matched_code": 4475976.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24822.0,
+"total_units": 1153.0,
+"complete_units": 1083.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 95.9116,
+"complete_code_percent": 77.0944,
+"matched_data_percent": 99.55,
+"complete_data_percent": 79.3895,
+"total_code": 3619576.0,
+"matched_code": 3471592.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19263.0,
+"total_units": 737.0,
+"complete_units": 679.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 96.3032,
+"complete_code_percent": 88.9536,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.6229,
+"total_code": 744312.0,
+"matched_code": 716796.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4451.0,
+"total_units": 228.0,
+"complete_units": 216.0
+}
+}
+},
+{
+"sha": "a9ebfbd1e77fe41755d877a9e63dab91f8b5c8f9",
+"time": "2026-09-26T05:58:52Z",
+"message": "match: naviState (#272)",
+"measures": {
+"matched_code_percent": 96.2978,
+"complete_code_percent": 81.4604,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 83.2504,
+"total_code": 4651476.0,
+"matched_code": 4479268.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24824.0,
+"total_units": 1153.0,
+"complete_units": 1084.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.0025,
+"complete_code_percent": 78.4465,
+"matched_data_percent": 99.55,
+"complete_data_percent": 80.0026,
+"total_code": 3619576.0,
+"matched_code": 3474884.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19265.0,
+"total_units": 737.0,
+"complete_units": 680.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 96.3032,
+"complete_code_percent": 88.9536,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.6229,
+"total_code": 744312.0,
+"matched_code": 716796.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4451.0,
+"total_units": 228.0,
+"complete_units": 216.0
+}
+}
+},
+{
 "sha": "8824c3362acbc13fade6d61b392fab060980700f",
 "time": "2026-09-26T06:40:27Z",
 "message": "J3D progress + more Vector3f cleanup",

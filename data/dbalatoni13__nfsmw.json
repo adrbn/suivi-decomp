@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "1816a73800f085316f2ff5b261458e3b29e8b93f",
+"time": "2026-08-17T18:13:54Z",
+"message": "match many SND files",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7916f1c85d43ebe277d1d67b2e241628f38eb473",
+"time": "2026-08-18T14:12:47Z",
+"message": "Misc fixes/matches",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "df6b4eb5edf1fdef2e196f1ccb1e582f1fc529be",
+"time": "2026-08-18T20:13:21Z",
+"message": "Fix PS2 compilation error",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "59f184a0cc061573be70bf4eccfcf1c8474b0306",
 "time": "2026-08-21T12:49:42Z",
 "message": "5% linked! (#123)",

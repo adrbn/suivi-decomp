@@ -1,6 +1,182 @@
 {
 "history": [
 {
+"sha": "021593e951c316bfeae3bf031a4b81ac48962dba",
+"time": "2026-07-26T17:02:31Z",
+"message": "Merge pull request #327 from robojumper/msg_window_equivalent",
+"measures": {
+"matched_code_percent": 25.8459,
+"complete_code_percent": 15.4196,
+"matched_data_percent": 14.858,
+"complete_data_percent": 25.6065,
+"total_code": 12527828.0,
+"matched_code": 3237924.0,
+"total_data": 3034884.0,
+"total_functions": 76971.0,
+"matched_functions": 32701.0,
+"total_units": 3089.0,
+"complete_units": 1723.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 44.4933,
+"complete_code_percent": 30.8277,
+"matched_data_percent": 22.7937,
+"complete_data_percent": 42.037,
+"total_code": 4914600.0,
+"matched_code": 2186668.0,
+"total_data": 1691624.0,
+"total_functions": 27533.0,
+"matched_functions": 15827.0,
+"total_units": 1156.0,
+"complete_units": 488.0
+},
+"modules": {
+"matched_code_percent": 13.8083,
+"complete_code_percent": 5.4732,
+"matched_data_percent": 4.8643,
+"complete_data_percent": 4.9149,
+"total_code": 7613228.0,
+"matched_code": 1051256.0,
+"total_data": 1343260.0,
+"total_functions": 49438.0,
+"matched_functions": 16874.0,
+"total_units": 1933.0,
+"complete_units": 1235.0
+},
+"core": {
+"matched_code_percent": 82.336,
+"complete_code_percent": 64.1151,
+"matched_data_percent": 2.16,
+"complete_data_percent": 96.5691,
+"total_code": 81884.0,
+"matched_code": 67420.0,
+"total_data": 82776.0,
+"total_functions": 698.0,
+"matched_functions": 629.0,
+"total_units": 63.0,
+"complete_units": 45.0
+},
+"game": {
+"matched_code_percent": 22.8647,
+"complete_code_percent": 11.5375,
+"matched_data_percent": 14.6671,
+"complete_data_percent": 21.2433,
+"total_code": 10604784.0,
+"matched_code": 2424752.0,
+"total_data": 1870804.0,
+"total_functions": 65397.0,
+"matched_functions": 25968.0,
+"total_units": 1026.0,
+"complete_units": 317.0
+},
+"egg": {
+"matched_code_percent": 77.6051,
+"complete_code_percent": 55.4045,
+"matched_data_percent": 78.0679,
+"complete_data_percent": 78.8437,
+"total_code": 144176.0,
+"matched_code": 111888.0,
+"total_data": 13405.0,
+"total_functions": 753.0,
+"matched_functions": 699.0,
+"total_units": 71.0,
+"complete_units": 53.0
+},
+"nw4r": {
+"matched_code_percent": 82.6023,
+"complete_code_percent": 82.6023,
+"matched_data_percent": 52.991,
+"complete_data_percent": 95.3067,
+"total_code": 496480.0,
+"matched_code": 410104.0,
+"total_data": 293527.0,
+"total_functions": 2518.0,
+"matched_functions": 2162.0,
+"total_units": 192.0,
+"complete_units": 164.0
+},
+"runtime": {
+"matched_code_percent": 82.2584,
+"complete_code_percent": 54.4479,
+"matched_data_percent": 25.5807,
+"complete_data_percent": 27.8612,
+"total_code": 208640.0,
+"matched_code": 171624.0,
+"total_data": 28240.0,
+"total_functions": 3196.0,
+"matched_functions": 3029.0,
+"total_units": 1224.0,
+"complete_units": 1128.0
+},
+"sdk": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 594024.0,
+"matched_code": 0.0,
+"total_data": 549776.0,
+"total_functions": 2285.0,
+"matched_functions": 0.0,
+"total_units": 202.0,
+"complete_units": 0.0
+},
+"jsystem": {
+"matched_code_percent": 47.9226,
+"complete_code_percent": 47.9226,
+"matched_data_percent": 19.0141,
+"complete_data_percent": 19.9195,
+"total_code": 108792.0,
+"matched_code": 52136.0,
+"total_data": 7952.0,
+"total_functions": 710.0,
+"matched_functions": 214.0,
+"total_units": 44.0,
+"complete_units": 16.0
+},
+"hbm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 63528.0,
+"matched_code": 0.0,
+"total_data": 15224.0,
+"total_functions": 208.0,
+"matched_functions": 0.0,
+"total_units": 17.0,
+"complete_units": 0.0
+},
+"keyboard": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 214444.0,
+"matched_code": 0.0,
+"total_data": 80608.0,
+"total_functions": 1145.0,
+"matched_functions": 0.0,
+"total_units": 25.0,
+"complete_units": 0.0
+},
+"thpplayer": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 11076.0,
+"matched_code": 0.0,
+"total_data": 17748.0,
+"total_functions": 61.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "38bdcb4ca9272e1c8cdea6856052a503e8b13a1a",
 "time": "2026-07-26T17:08:51Z",
 "message": "Merge pull request #334 from lepelog/bee",
@@ -4223,6 +4399,182 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "787b0b1e9d30e3c1d91ced61350b059ffc5a2411",
+"time": "2026-10-17T13:58:01Z",
+"message": "Merge pull request #359 from elijah-thomas774/dArea",
+"measures": {
+"matched_code_percent": 27.8807,
+"complete_code_percent": 16.046,
+"matched_data_percent": 15.4904,
+"complete_data_percent": 26.0736,
+"total_code": 12527828.0,
+"matched_code": 3492840.0,
+"total_data": 3034884.0,
+"total_functions": 76968.0,
+"matched_functions": 33926.0,
+"total_units": 3088.0,
+"complete_units": 1749.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 45.3018,
+"complete_code_percent": 31.0987,
+"matched_data_percent": 22.8736,
+"complete_data_percent": 42.2101,
+"total_code": 4914600.0,
+"matched_code": 2226404.0,
+"total_data": 1691624.0,
+"total_functions": 27533.0,
+"matched_functions": 16155.0,
+"total_units": 1155.0,
+"complete_units": 495.0
+},
+"modules": {
+"matched_code_percent": 16.6347,
+"complete_code_percent": 6.3289,
+"matched_data_percent": 6.1924,
+"complete_data_percent": 5.7523,
+"total_code": 7613228.0,
+"matched_code": 1266436.0,
+"total_data": 1343260.0,
+"total_functions": 49435.0,
+"matched_functions": 17771.0,
+"total_units": 1933.0,
+"complete_units": 1254.0
+},
+"core": {
+"matched_code_percent": 83.6745,
+"complete_code_percent": 65.4536,
+"matched_data_percent": 2.16,
+"complete_data_percent": 96.598,
+"total_code": 81884.0,
+"matched_code": 68516.0,
+"total_data": 82776.0,
+"total_functions": 698.0,
+"matched_functions": 632.0,
+"total_units": 64.0,
+"complete_units": 46.0
+},
+"game": {
+"matched_code_percent": 25.2581,
+"complete_code_percent": 12.2671,
+"matched_data_percent": 15.6825,
+"complete_data_percent": 21.9851,
+"total_code": 10604784.0,
+"matched_code": 2678572.0,
+"total_data": 1872052.0,
+"total_functions": 65394.0,
+"matched_functions": 27190.0,
+"total_units": 1026.0,
+"complete_units": 342.0
+},
+"egg": {
+"matched_code_percent": 77.6051,
+"complete_code_percent": 55.4045,
+"matched_data_percent": 78.0679,
+"complete_data_percent": 78.8437,
+"total_code": 144176.0,
+"matched_code": 111888.0,
+"total_data": 13405.0,
+"total_functions": 753.0,
+"matched_functions": 699.0,
+"total_units": 71.0,
+"complete_units": 53.0
+},
+"nw4r": {
+"matched_code_percent": 82.6023,
+"complete_code_percent": 82.6023,
+"matched_data_percent": 52.991,
+"complete_data_percent": 95.3067,
+"total_code": 496480.0,
+"matched_code": 410104.0,
+"total_data": 293527.0,
+"total_functions": 2518.0,
+"matched_functions": 2162.0,
+"total_units": 192.0,
+"complete_units": 164.0
+},
+"runtime": {
+"matched_code_percent": 82.2584,
+"complete_code_percent": 54.4479,
+"matched_data_percent": 25.5807,
+"complete_data_percent": 27.8612,
+"total_code": 208640.0,
+"matched_code": 171624.0,
+"total_data": 28240.0,
+"total_functions": 3196.0,
+"matched_functions": 3029.0,
+"total_units": 1224.0,
+"complete_units": 1128.0
+},
+"sdk": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 594024.0,
+"matched_code": 0.0,
+"total_data": 549776.0,
+"total_functions": 2285.0,
+"matched_functions": 0.0,
+"total_units": 202.0,
+"complete_units": 0.0
+},
+"jsystem": {
+"matched_code_percent": 47.9226,
+"complete_code_percent": 47.9226,
+"matched_data_percent": 19.0141,
+"complete_data_percent": 19.9195,
+"total_code": 108792.0,
+"matched_code": 52136.0,
+"total_data": 7952.0,
+"total_functions": 710.0,
+"matched_functions": 214.0,
+"total_units": 44.0,
+"complete_units": 16.0
+},
+"hbm": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 63528.0,
+"matched_code": 0.0,
+"total_data": 15224.0,
+"total_functions": 208.0,
+"matched_functions": 0.0,
+"total_units": 17.0,
+"complete_units": 0.0
+},
+"keyboard": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 214444.0,
+"matched_code": 0.0,
+"total_data": 80608.0,
+"total_functions": 1145.0,
+"matched_functions": 0.0,
+"total_units": 25.0,
+"complete_units": 0.0
+},
+"thpplayer": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 11076.0,
+"matched_code": 0.0,
+"total_data": 17748.0,
+"total_functions": 61.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4241,7 +4593,7 @@
 "keyboard": "Virtual Keyboard",
 "thpplayer": "THPPlayer"
 },
-"units_time": "2026-10-17T02:26:42Z",
+"units_time": "2026-10-17T13:58:01Z",
 "units": [
 [
 "main/toBeSorted/d_lib",
@@ -4844,10 +5196,10 @@
 ]
 ],
 [
-"main/toBeSorted/area_math",
+"main/d/d_area",
 580,
-0.0,
-0,
+100.0,
+1,
 [
 "dol",
 "game"

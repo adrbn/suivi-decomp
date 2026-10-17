@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "4119a6f9c42cdb76fef8c91e9e1e5af0d1192b91",
+"time": "2026-07-19T19:43:26Z",
+"message": "ci: Pass PR number to pr-comment workflow",
+"measures": {
+"matched_code_percent": 37.3291,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.3686,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 902996.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6376.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.6992,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.3615,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 701292.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5430.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "c7743b4b3b39ad32aba7b6f9e55b93abb14ebb9c",
+"time": "2026-07-19T19:48:36Z",
+"message": "ci: forgot to use script action",
+"measures": {
+"matched_code_percent": 37.3291,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.3686,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 902996.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6376.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.6992,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.3615,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 701292.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5430.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "4ca6bf69ed3780adbd2adadcc8037abae7d731f7",
+"time": "2026-07-19T19:50:39Z",
+"message": "ci: bro please let me check the syntax without pushing to main",
+"measures": {
+"matched_code_percent": 37.3291,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.3686,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 902996.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6376.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.6992,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.3615,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 701292.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5430.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "3ce942f5831d2ae92c0a6c0ca3641101f6cecdbe",
 "time": "2026-07-19T19:54:22Z",
 "message": "ci: fix old reference to renamed pr comment file",

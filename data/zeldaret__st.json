@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "fd3a2340e3be6dbbf98a241c6c50c7782fed533d",
+"time": "2026-08-21T15:54:39Z",
+"message": "Decompiling SWHT (#138)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "473e1e102b268410723f23eee878f45c8c156bca",
+"time": "2026-08-23T19:06:08Z",
+"message": "Decompiling BOMB (#140)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "f595c06b8d3c2199aec548a6fee5d35089d65f1c",
+"time": "2026-08-24T15:42:52Z",
+"message": "Decompiling KURI (#141)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "721bb0efd8a0a90f673bb248456dccee38419363",
 "time": "2026-08-24T15:43:47Z",
 "message": "Add parameters to `MapObject::vfunc_28` (#146)",

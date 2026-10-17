@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "f4893227a4461ca86bec1b6c67d9387c65d55082",
+"time": "2026-08-25T20:14:18Z",
+"message": "Update CONTRIBUTING.md",
+"measures": {
+"matched_code_percent": 2.2073,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 181348.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1280.0,
+"total_units": 770.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.7685,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.4975,
+"complete_data_percent": 11.1827,
+"total_code": 592252.0,
+"matched_code": 99312.0,
+"total_data": 8692.0,
+"total_functions": 2478.0,
+"matched_functions": 846.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 29.2512,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 14016.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 140.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "f57099e17f0f959af7f85a7eb6895a428dfca0e8",
+"time": "2026-08-25T22:13:44Z",
+"message": "float -> f32",
+"measures": {
+"matched_code_percent": 2.1609,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 177540.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1248.0,
+"total_units": 770.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.1438,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.4975,
+"complete_data_percent": 11.1827,
+"total_code": 592252.0,
+"matched_code": 95612.0,
+"total_data": 8692.0,
+"total_functions": 2478.0,
+"matched_functions": 815.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "732efbe0d0c7c84363dce3f45e50a74023b5b719",
+"time": "2026-08-25T23:58:36Z",
+"message": "layout::LayoutManager progress",
+"measures": {
+"matched_code_percent": 2.1668,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0517,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 178020.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1255.0,
+"total_units": 773.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.1848,
+"complete_code_percent": 1.3589,
+"matched_data_percent": 3.8813,
+"complete_data_percent": 11.0959,
+"total_code": 593716.0,
+"matched_code": 96092.0,
+"total_data": 8760.0,
+"total_functions": 2497.0,
+"matched_functions": 822.0,
+"total_units": 84.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
 "sha": "4f0436731b890e35b7f56338863b40fb6984a2ca",
 "time": "2026-09-01T18:31:56Z",
 "message": "gfl::SD3DActor: tweak inline methods",

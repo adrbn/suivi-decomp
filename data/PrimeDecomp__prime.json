@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "88d40a6bdbeb0bc1d46809dd46ab69ff0a7e90e4",
+"time": "2026-10-13T19:17:17Z",
+"message": "Match & link JP Demo main (#858)",
+"measures": {
+"matched_code_percent": 92.2747,
+"complete_code_percent": 61.5214,
+"matched_data_percent": 98.0936,
+"complete_data_percent": 75.0546,
+"total_code": 4005436.0,
+"matched_code": 3696004.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16433.0,
+"total_units": 830.0,
+"complete_units": 728.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 92.1954,
+"complete_code_percent": 61.1265,
+"matched_data_percent": 97.916,
+"complete_data_percent": 72.6408,
+"total_code": 3964744.0,
+"matched_code": 3655312.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16352.0,
+"total_units": 826.0,
+"complete_units": 724.0
+},
+"game": {
+"matched_code_percent": 90.8101,
+"complete_code_percent": 54.1828,
+"matched_data_percent": 94.7735,
+"complete_data_percent": 78.8147,
+"total_code": 2741172.0,
+"matched_code": 2489260.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11392.0,
+"total_units": 364.0,
+"complete_units": 293.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "2faa7d013b6a545b87f79122619b86ea0e507378",
+"time": "2026-10-13T20:05:46Z",
+"message": "Match & link CScriptRandomRelay (#859)",
+"measures": {
+"matched_code_percent": 92.2989,
+"complete_code_percent": 61.5683,
+"matched_data_percent": 98.094,
+"complete_data_percent": 75.0584,
+"total_code": 4005436.0,
+"matched_code": 3696972.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16434.0,
+"total_units": 830.0,
+"complete_units": 729.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 92.2198,
+"complete_code_percent": 61.1739,
+"matched_data_percent": 97.9165,
+"complete_data_percent": 72.6449,
+"total_code": 3964744.0,
+"matched_code": 3656280.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16353.0,
+"total_units": 826.0,
+"complete_units": 725.0
+},
+"game": {
+"matched_code_percent": 90.8454,
+"complete_code_percent": 54.2514,
+"matched_data_percent": 94.7747,
+"complete_data_percent": 78.826,
+"total_code": 2741172.0,
+"matched_code": 2490228.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11393.0,
+"total_units": 364.0,
+"complete_units": 294.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "c33f172507589d95fd1312ce272b2af3e052c967",
+"time": "2026-10-13T20:58:23Z",
+"message": "Match & link CPVSAreaSet (#860)",
+"measures": {
+"matched_code_percent": 92.306,
+"complete_code_percent": 61.5867,
+"matched_data_percent": 98.094,
+"complete_data_percent": 75.0588,
+"total_code": 4005436.0,
+"matched_code": 3697256.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16435.0,
+"total_units": 830.0,
+"complete_units": 730.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 92.227,
+"complete_code_percent": 61.1925,
+"matched_data_percent": 97.9165,
+"complete_data_percent": 72.6454,
+"total_code": 3964744.0,
+"matched_code": 3656564.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16354.0,
+"total_units": 826.0,
+"complete_units": 726.0
+},
+"game": {
+"matched_code_percent": 90.8454,
+"complete_code_percent": 54.2514,
+"matched_data_percent": 94.7747,
+"complete_data_percent": 78.826,
+"total_code": 2741172.0,
+"matched_code": 2490228.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11393.0,
+"total_units": 364.0,
+"complete_units": 294.0
+},
+"core": {
+"matched_code_percent": 93.0488,
+"complete_code_percent": 65.4394,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5843,
+"total_code": 823400.0,
+"matched_code": 766164.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3648.0,
+"total_units": 263.0,
+"complete_units": 233.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "c0eb87cf751cecabd859369539ff739e52b5a0ee",
 "time": "2026-10-13T21:15:13Z",
 "message": "Match CStateManager on PAL and JP (#861)",
