@@ -1,6 +1,124 @@
 {
 "history": [
 {
+"sha": "efbba0f18fd5185884a4b06c7cdc9f4e4f39e8be",
+"time": "2026-10-15T13:11:42Z",
+"message": "GMSP01_NX: decompile Helpers.cpp (#337)",
+"measures": {
+"matched_code_percent": 46.6026,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.2731,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1679416.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9754.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.1368,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 67.9257,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1000576.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5956.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
+"sha": "47442c5fa146849d16249ac08f3b667d5f609097",
+"time": "2026-10-15T13:58:21Z",
+"message": "NPC+MarioUtil: fix NPC nerve, collision and event order; packet callback returns bool (#338)",
+"measures": {
+"matched_code_percent": 46.6563,
+"complete_code_percent": 17.7306,
+"matched_data_percent": 70.3442,
+"complete_data_percent": 21.5611,
+"total_code": 3603696.0,
+"matched_code": 1681352.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9755.0,
+"total_units": 732.0,
+"complete_units": 395.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 35.2048,
+"complete_code_percent": 3.0304,
+"matched_data_percent": 68.0074,
+"complete_data_percent": 11.7186,
+"total_code": 2847660.0,
+"matched_code": 1002512.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 5957.0,
+"total_units": 385.0,
+"complete_units": 80.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 62.0762,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 81.003,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 170.0
+},
+"sdk": {
+"matched_code_percent": 95.1629,
+"complete_code_percent": 95.1851,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 239544.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1006.0,
+"total_units": 149.0,
+"complete_units": 145.0
+}
+}
+},
+{
 "sha": "aa6b68878eb410aa356e60aeb15041a94a9e4044",
 "time": "2026-10-15T14:00:12Z",
 "message": "MoveBG+MSound: fix rail block, fruit and watermelon conditions and sound port reset (#339)",
@@ -1061,6 +1179,65 @@
 "complete_units": 145.0
 }
 }
+},
+{
+"sha": "cd7ed32f10b946b37d864142ad379ff4ef6a703a",
+"time": "2026-10-17T01:50:30Z",
+"message": "Test US/Rev1/NX against ACTUAL rom",
+"measures": {
+"matched_code_percent": 47.4952,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 73.0528,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1711584.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9825.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 36.2732,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 71.1176,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1032936.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6028.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1070,7 +1247,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-16T17:07:08Z",
+"units_time": "2026-10-17T01:50:30Z",
 "units": [
 [
 "mario/main",
@@ -2335,7 +2512,7 @@
 [
 "mario/GC2D/Menu",
 1564,
-97.63,
+98.57,
 0,
 [
 "game"
@@ -2353,7 +2530,7 @@
 [
 "mario/GC2D/GCConsole2",
 64728,
-82.97,
+98.69,
 0,
 [
 "game"
@@ -2362,7 +2539,7 @@
 [
 "mario/GC2D/Talk2D2",
 18424,
-90.34,
+99.41,
 0,
 [
 "game"
@@ -2371,7 +2548,7 @@
 [
 "mario/GC2D/BoundPane",
 1388,
-95.1,
+95.13,
 0,
 [
 "game"
@@ -2380,7 +2557,7 @@
 [
 "mario/GC2D/PauseMenu2",
 8264,
-99.5,
+99.57,
 0,
 [
 "game"
@@ -2399,7 +2576,7 @@
 "mario/GC2D/HelpActor",
 1272,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -4217,7 +4394,7 @@
 "mario/System/marerr",
 284,
 100.0,
-1,
+0,
 [
 "game"
 ]
@@ -4379,7 +4556,7 @@
 "mario/System/ProcessMeter",
 64,
 99.94,
-1,
+0,
 [
 "game"
 ]
@@ -4730,7 +4907,7 @@
 "mario/JSystem/JUtility/JUTDirectPrint",
 1384,
 100.0,
-1,
+0,
 [
 "jsystem"
 ]
@@ -5918,7 +6095,7 @@
 "mario/JSystem/JAudio/JASystem/JASPlayer_impl",
 292,
 100.0,
-1,
+0,
 [
 "jsystem"
 ]
@@ -6224,7 +6401,7 @@
 "mario/JSystem/dsptask",
 664,
 100.0,
-1,
+0,
 [
 "jsystem"
 ]
@@ -6701,7 +6878,7 @@
 "mario/TRK_MINNOW_DOLPHIN/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk",
 608,
 99.99,
-1,
+0,
 [
 "sdk"
 ]
@@ -6764,7 +6941,7 @@
 "mario/dolphin/os/OS",
 2396,
 99.99,
-1,
+0,
 [
 "sdk"
 ]
@@ -6944,7 +7121,7 @@
 "mario/dolphin/os/OSThread",
 4776,
 100.0,
-1,
+0,
 [
 "sdk"
 ]
@@ -6961,8 +7138,8 @@
 [
 "mario/dolphin/os/__start",
 596,
-99.99,
-1,
+67.78,
+0,
 [
 "sdk"
 ]

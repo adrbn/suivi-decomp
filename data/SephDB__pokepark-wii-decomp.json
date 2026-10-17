@@ -1,6 +1,144 @@
 {
 "history": [
 {
+"sha": "bdf6ab0255fa8dd8abdbc8c41ebb156235fdca64",
+"time": "2026-08-22T15:13:18Z",
+"message": "More symbols placed in classes",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "e5463f6beaf58c7d69b1e5f493a72233f41a158b",
+"time": "2026-08-22T15:54:11Z",
+"message": "Merge pull request #6 from SephDB/symbols-related-to-disposition-and-objects",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "c3a20f7fe9abcea625561f02cce9ae32bb2a63ee",
+"time": "2026-08-22T19:11:03Z",
+"message": "Making a decent start on nsObject",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "cb44d9b8ed514614a013c057332244eefa7c6069",
 "time": "2026-08-23T20:30:05Z",
 "message": "ObjectManager and SceneImpl progress",

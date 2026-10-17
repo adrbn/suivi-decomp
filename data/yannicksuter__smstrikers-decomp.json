@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "dae73bcce88a6875d599b02e859562ef963c7371",
+"time": "2026-08-21T14:43:04Z",
+"message": "fidelity fix and JP-Link Runtime",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.1379,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 97.5369,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "8466aaaf54c68258a398051acaca0318a5bf5bbc",
+"time": "2026-08-21T15:32:15Z",
+"message": "Update container image for build workflow",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.1379,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 97.5369,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "28c476222efd50b13be18d56e7cf132aff5ebf3e",
+"time": "2026-08-21T21:02:19Z",
+"message": "linked JP version progress",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.1379,
+"complete_data_percent": 100.0,
+"total_code": 2662332.0,
+"matched_code": 2662332.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8605.0,
+"total_units": 731.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 97.5369,
+"complete_data_percent": 100.0,
+"total_code": 2158432.0,
+"matched_code": 2158432.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6867.0,
+"total_units": 499.0,
+"complete_units": 499.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "b5bc77544b4b1305b467950fc48e405c14d30111",
 "time": "2026-08-22T06:54:06Z",
 "message": "linked (JP) world and cleanup of matching TUs",

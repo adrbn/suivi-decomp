@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "f3169cc6834049d9c9ba41e2b1fbf2b5f645cfd7",
+"time": "2026-09-08T17:45:18Z",
+"message": "Update CONTRIBUTING.md",
+"measures": {
+"matched_code_percent": 2.1738,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 178596.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1259.0,
+"total_units": 777.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.2661,
+"complete_code_percent": 1.4545,
+"matched_data_percent": 3.9545,
+"complete_data_percent": 11.5,
+"total_code": 594292.0,
+"matched_code": 96668.0,
+"total_data": 8800.0,
+"total_functions": 2501.0,
+"matched_functions": 826.0,
+"total_units": 85.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "666fe845f31ed9aaec3c27ae22a8676cbfe060c6",
+"time": "2026-09-08T18:18:50Z",
+"message": "layout::LayoutObjectRender layout",
+"measures": {
+"matched_code_percent": 2.1738,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 178596.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1259.0,
+"total_units": 777.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.2661,
+"complete_code_percent": 1.4545,
+"matched_data_percent": 3.9545,
+"complete_data_percent": 11.5,
+"total_code": 594292.0,
+"matched_code": 96668.0,
+"total_data": 8800.0,
+"total_functions": 2501.0,
+"matched_functions": 826.0,
+"total_units": 85.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "d99b070e2f0c5520b248eb2e841b32dc0b7e4004",
+"time": "2026-09-08T18:21:38Z",
+"message": "Update LayoutObject.h",
+"measures": {
+"matched_code_percent": 2.1738,
+"complete_code_percent": 0.956,
+"matched_data_percent": 0.0521,
+"complete_data_percent": 1.1644,
+"total_code": 8215924.0,
+"matched_code": 178596.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1259.0,
+"total_units": 777.0,
+"complete_units": 38.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.2661,
+"complete_code_percent": 1.4545,
+"matched_data_percent": 3.9545,
+"complete_data_percent": 11.5,
+"total_code": 594292.0,
+"matched_code": 96668.0,
+"total_data": 8800.0,
+"total_functions": 2501.0,
+"matched_functions": 826.0,
+"total_units": 85.0,
+"complete_units": 12.0
+},
+"gfl": {
+"matched_code_percent": 29.0258,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13908.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
 "sha": "a6a9c4e24da7297674f026fa7af2d4ffbb06cc46",
 "time": "2026-09-08T18:24:30Z",
 "message": "Update LayoutObject.h",

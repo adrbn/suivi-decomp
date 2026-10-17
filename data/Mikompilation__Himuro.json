@@ -1,6 +1,105 @@
 {
 "history": [
 {
+"sha": "866d285aa82931dbe1be6eddedbbab6a30849612",
+"time": "2026-08-29T14:13:10Z",
+"message": "  Replace raw image buffer constants with named definitions",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "dfe680054b372592d9477df8eaf00e57d3268d5d",
+"time": "2026-08-29T14:54:14Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/event/ev_load.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "de64f8f2cbb74b873bea3a6b935b8163a2202fa9",
+"time": "2026-08-30T18:48:28Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/event/mv_cmnd.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "452ad80968ba9662e3c9075f2cc95e1669f77d8c",
 "time": "2026-09-05T11:07:35Z",
 "message": "decompiled (jp) and revisited (us,eu) ingame/info/inf_disp.c",

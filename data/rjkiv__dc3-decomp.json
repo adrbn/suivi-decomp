@@ -1295,6 +1295,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "3a50ebe8b1ad8c1e19246b06d670296cdad07616",
+"time": "2026-10-17T01:06:53Z",
+"message": "adjust vtable offsets (#335)",
+"measures": {
+"matched_code_percent": 51.9416,
+"complete_code_percent": 23.3054,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 18.0235,
+"total_code": 12206380.0,
+"matched_code": 6340188.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28884.0,
+"total_units": 2230.0,
+"complete_units": 620.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 87.8666,
+"complete_code_percent": 36.3824,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 39.2965,
+"total_code": 5888864.0,
+"matched_code": 5174344.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24225.0,
+"total_units": 810.0,
+"complete_units": 495.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "1be4414187c5366e02f059c50ed52fe1d8c4c1df",
+"time": "2026-10-17T01:42:03Z",
+"message": "some shader stuff",
+"measures": {
+"matched_code_percent": 51.9469,
+"complete_code_percent": 23.3054,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 18.0235,
+"total_code": 12206380.0,
+"matched_code": 6340840.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28886.0,
+"total_units": 2230.0,
+"complete_units": 620.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 87.8777,
+"complete_code_percent": 36.3824,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 39.2965,
+"total_code": 5888864.0,
+"matched_code": 5174996.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24227.0,
+"total_units": 810.0,
+"complete_units": 495.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "a433dd51479453ff7f2275cdb3fae1822c19139f",
+"time": "2026-10-17T03:43:47Z",
+"message": "flow context (#336)",
+"measures": {
+"matched_code_percent": 51.9469,
+"complete_code_percent": 23.3054,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 18.0235,
+"total_code": 12206380.0,
+"matched_code": 6340840.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28886.0,
+"total_units": 2230.0,
+"complete_units": 620.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 87.8777,
+"complete_code_percent": 36.3824,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 39.2965,
+"total_code": 5888864.0,
+"matched_code": 5174996.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24227.0,
+"total_units": 810.0,
+"complete_units": 495.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1305,7 +1521,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-16T06:02:27Z",
+"units_time": "2026-10-17T03:43:47Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -5288,7 +5504,7 @@
 [
 "default/system/rndobj/Cam",
 11704,
-93.81,
+97.34,
 0,
 [
 "engine"
@@ -5297,8 +5513,8 @@
 [
 "default/system/rndobj/Overlay",
 4144,
-99.99,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -5486,7 +5702,7 @@
 [
 "default/system/rndobj/Shader",
 19524,
-88.5,
+91.83,
 0,
 [
 "engine"
@@ -5495,8 +5711,8 @@
 [
 "default/system/rndobj/ShaderMgr",
 3412,
-99.62,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -5504,7 +5720,7 @@
 [
 "default/system/rndobj/Env_NG",
 6504,
-97.41,
+97.42,
 0,
 [
 "engine"

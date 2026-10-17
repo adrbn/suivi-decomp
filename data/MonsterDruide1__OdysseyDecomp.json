@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "f2904ab5b89c64f5d10da5dfaa35db4cd4a6ce6d",
+"time": "2026-09-21T20:54:29Z",
+"message": "workflow: Mark Renovate PRs as `ready to merge` (#1373)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "b9f3454d83e2e75d72c5e6fff71f37be485fb99b",
+"time": "2026-09-21T21:39:45Z",
+"message": "MapObj: Implement `FukankunZoomObjHolder` and `FukankunZoomTargetFunction` (#1371)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "15672f87b056886751d2ced38b2793a4d8f1265b",
+"time": "2026-09-22T14:26:48Z",
+"message": "lib/sead: Update to `efc9f22` (#1370)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "b244d2941f2fc8226501c95d7ccaf00b0b04bcb8",
 "time": "2026-09-22T18:58:45Z",
 "message": "workflow: Update `ubuntu` to `26.04` (#1372)",

@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "db8e927982c56956dcdea7748009fb3f0f2ac16f",
+"time": "2026-08-24T17:23:12Z",
+"message": "Rename `ActorUnkKURI` to `ActorSpinut` (#147)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "939c492b33892434fdea69d4dfaf95cbdda1dd93",
+"time": "2026-08-25T13:10:10Z",
+"message": "Decompiling MapObjectUnkLTRW (#142)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "e685e44e4081a884af56a5b0928470643fe161d6",
+"time": "2026-08-25T14:24:52Z",
+"message": "Update CONTRIBUTING.md",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "44499db6950e3951e8cb852f2e8fb08d11a7b8ad",
 "time": "2026-08-31T20:22:42Z",
 "message": "Decompiling Fleeing Spinut (#148)",

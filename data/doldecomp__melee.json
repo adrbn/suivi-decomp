@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "e865ef5df40f3b6b7f609cb13e65fce5ecb61ff5",
+"time": "2026-10-08T16:20:49Z",
+"message": "dat: infer byte-command CPU scripts (#3651)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "79b13a32467f7c4f91d6f831f0b9f891b7fb1146",
+"time": "2026-10-08T21:35:52Z",
+"message": "dat: type stage and fighter external attributes (#3652)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "1a2b1109ef62362cce7ca9ba318b2e8b64ea7a8d",
+"time": "2026-10-11T16:35:30Z",
+"message": "refactor(ftKirby): replace raw motion flag literals with named constants in Peach special moves (#3659)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "975aba198cbaacf33f0e6501ed18955e6bc42577",
 "time": "2026-10-11T17:04:23Z",
 "message": "refactor(ftKoopa): replace raw motion state literals with named constants in special moves (#3661)",

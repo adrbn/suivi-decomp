@@ -560,6 +560,72 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "73c27290167b627d86f4fea7e5718cb3e2bd938d",
+"time": "2026-10-16T14:28:54Z",
+"message": "Separate model display list data from helicopter animation",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "352a26fae08b3394e11f5e2b589e41a572d53288",
+"time": "2026-10-17T01:47:11Z",
+"message": "Name save slot menu states and transitions",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -567,7 +633,7 @@
 "category_names": {
 "build": "build"
 },
-"units_time": "2026-10-16T02:37:41Z",
+"units_time": "2026-10-17T01:47:11Z",
 "units": [
 [
 "build/src/entrypoint/entrypoint",
@@ -705,7 +771,7 @@
 ]
 ],
 [
-"build/src/animation/bobbing_model",
+"build/src/animation/helicopter_animation",
 896,
 100.0,
 0,

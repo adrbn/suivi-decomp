@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "5a31efa06982f3f12f20d9115fb18efc6a27536d",
+"time": "2026-07-19T20:36:50Z",
+"message": "xCM progress (#757)",
+"measures": {
+"matched_code_percent": 37.3266,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4142,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 902936.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6376.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.6956,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4187,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 701232.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5430.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "1168ffcec57d99ef56f77c1d1d1095b36042c175",
+"time": "2026-07-23T03:11:30Z",
+"message": "Small progress on zFX (#758)",
+"measures": {
+"matched_code_percent": 37.3365,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4161,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 903176.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6378.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.7102,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.421,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 701472.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5432.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "1d1d20b0645784b3acc5019bbf92e60b4012e7f6",
+"time": "2026-07-23T03:12:52Z",
+"message": "iModel progress (#759)",
+"measures": {
+"matched_code_percent": 37.3818,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.4267,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 904272.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6381.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.7769,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.4343,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 702568.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5435.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "896e17fa05c870ef16537b63b49133c8ef0e3aa0",
 "time": "2026-07-25T04:46:40Z",
 "message": "decompile 16 bytes of code (#762)",

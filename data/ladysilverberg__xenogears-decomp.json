@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "48ccd44f49e89fb785bba4112d4dd0c308efa32d",
+"time": "2026-08-02T10:46:39Z",
+"message": "Improve menu symbols",
+"measures": {
+"matched_code_percent": 31.5541,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 669948.0,
+"matched_code": 211396.0,
+"total_data": 2014.0,
+"total_functions": 2526.0,
+"matched_functions": 1107.0,
+"total_units": 138.0,
+"complete_units": 0.0
+},
+"categories": {
+"sdk": {
+"matched_code_percent": 51.8251,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 45476.0,
+"matched_code": 23568.0,
+"total_data": 0.0,
+"total_functions": 367.0,
+"matched_functions": 171.0,
+"total_units": 67.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 25.7126,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 218072.0,
+"matched_code": 56072.0,
+"total_data": 1400.0,
+"total_functions": 1223.0,
+"matched_functions": 471.0,
+"total_units": 104.0,
+"complete_units": 0.0
+},
+"field": {
+"matched_code_percent": 24.9308,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 253052.0,
+"matched_code": 63088.0,
+"total_data": 2.0,
+"total_functions": 884.0,
+"matched_functions": 357.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"member_change_menu": {
+"matched_code_percent": 95.0433,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 24936.0,
+"matched_code": 23700.0,
+"total_data": 612.0,
+"total_functions": 67.0,
+"matched_functions": 63.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"shop_menu": {
+"matched_code_percent": 65.7863,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 53008.0,
+"matched_code": 34872.0,
+"total_data": 0.0,
+"total_functions": 118.0,
+"matched_functions": 96.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "11f8aa265b93e6597115703704ea56191f4dce40",
+"time": "2026-08-05T06:56:27Z",
+"message": "Merge pull request #67 from gblues/gears-menu-work",
+"measures": {
+"matched_code_percent": 31.5392,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 669948.0,
+"matched_code": 211296.0,
+"total_data": 2014.0,
+"total_functions": 2526.0,
+"matched_functions": 1106.0,
+"total_units": 138.0,
+"complete_units": 0.0
+},
+"categories": {
+"sdk": {
+"matched_code_percent": 51.8251,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 45476.0,
+"matched_code": 23568.0,
+"total_data": 0.0,
+"total_functions": 367.0,
+"matched_functions": 171.0,
+"total_units": 67.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 25.7126,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 218072.0,
+"matched_code": 56072.0,
+"total_data": 1400.0,
+"total_functions": 1223.0,
+"matched_functions": 471.0,
+"total_units": 104.0,
+"complete_units": 0.0
+},
+"field": {
+"matched_code_percent": 24.9308,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 253052.0,
+"matched_code": 63088.0,
+"total_data": 2.0,
+"total_functions": 884.0,
+"matched_functions": 357.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"member_change_menu": {
+"matched_code_percent": 95.0433,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 24936.0,
+"matched_code": 23700.0,
+"total_data": 612.0,
+"total_functions": 67.0,
+"matched_functions": 63.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"shop_menu": {
+"matched_code_percent": 65.7863,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 53008.0,
+"matched_code": 34872.0,
+"total_data": 0.0,
+"total_functions": 118.0,
+"matched_functions": 96.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "9f8424480229938df92f923c4262cce6d997ed66",
+"time": "2026-08-07T21:22:50Z",
+"message": "Symbol improvements",
+"measures": {
+"matched_code_percent": 31.6968,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 669948.0,
+"matched_code": 212352.0,
+"total_data": 2014.0,
+"total_functions": 2526.0,
+"matched_functions": 1107.0,
+"total_units": 138.0,
+"complete_units": 0.0
+},
+"categories": {
+"sdk": {
+"matched_code_percent": 51.8251,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 45476.0,
+"matched_code": 23568.0,
+"total_data": 0.0,
+"total_functions": 367.0,
+"matched_functions": 171.0,
+"total_units": 67.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 25.7126,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 218072.0,
+"matched_code": 56072.0,
+"total_data": 1400.0,
+"total_functions": 1223.0,
+"matched_functions": 471.0,
+"total_units": 104.0,
+"complete_units": 0.0
+},
+"field": {
+"matched_code_percent": 24.9308,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 253052.0,
+"matched_code": 63088.0,
+"total_data": 2.0,
+"total_functions": 884.0,
+"matched_functions": 357.0,
+"total_units": 28.0,
+"complete_units": 0.0
+},
+"member_change_menu": {
+"matched_code_percent": 95.0433,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 24936.0,
+"matched_code": 23700.0,
+"total_data": 612.0,
+"total_functions": 67.0,
+"matched_functions": 63.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"shop_menu": {
+"matched_code_percent": 65.7863,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 53008.0,
+"matched_code": 34872.0,
+"total_data": 0.0,
+"total_functions": 118.0,
+"matched_functions": 96.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "ff6734a63c4331c6df187a5fb1c78468c36be64f",
 "time": "2026-08-11T16:59:49Z",
 "message": "Decompile gear rendering code",

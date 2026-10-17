@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "fb07e0decf3e0c00143ab3139d676704d0b31e72",
+"time": "2026-09-27T02:45:47Z",
+"message": "link Kogane, Mar, Hanachirashi",
+"measures": {
+"matched_code_percent": 96.7173,
+"complete_code_percent": 82.9946,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 84.4105,
+"total_code": 4651476.0,
+"matched_code": 4498780.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24846.0,
+"total_units": 1153.0,
+"complete_units": 1095.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.3664,
+"complete_code_percent": 80.1038,
+"matched_data_percent": 99.55,
+"complete_data_percent": 81.3927,
+"total_code": 3619576.0,
+"matched_code": 3488056.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19275.0,
+"total_units": 737.0,
+"complete_units": 688.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "19502b3f858008e361ac8fa9571ffb8cac754cd9",
+"time": "2026-09-27T06:15:52Z",
+"message": "cleanup and document memoryCardMgr (#274)",
+"measures": {
+"matched_code_percent": 96.7173,
+"complete_code_percent": 82.9946,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 84.4105,
+"total_code": 4651476.0,
+"matched_code": 4498780.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24846.0,
+"total_units": 1153.0,
+"complete_units": 1095.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.3664,
+"complete_code_percent": 80.1038,
+"matched_data_percent": 99.55,
+"complete_data_percent": 81.3927,
+"total_code": 3619576.0,
+"matched_code": 3488056.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19275.0,
+"total_units": 737.0,
+"complete_units": 688.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
+"sha": "89b773766fd58da3d0a05a4a162c94095c91052d",
+"time": "2026-09-27T09:11:01Z",
+"message": "Nishimura + Hikino fully linked",
+"measures": {
+"matched_code_percent": 96.9886,
+"complete_code_percent": 84.1872,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 84.9064,
+"total_code": 4651476.0,
+"matched_code": 4511400.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24856.0,
+"total_units": 1153.0,
+"complete_units": 1100.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 96.7151,
+"complete_code_percent": 81.6364,
+"matched_data_percent": 99.55,
+"complete_data_percent": 81.9991,
+"total_code": 3619576.0,
+"matched_code": 3500676.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19285.0,
+"total_units": 737.0,
+"complete_units": 693.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 97.155,
+"complete_code_percent": 90.4819,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.8209,
+"total_code": 744312.0,
+"matched_code": 723136.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4463.0,
+"total_units": 228.0,
+"complete_units": 219.0
+}
+}
+},
+{
 "sha": "077a94bc3cfec67f3d9f6892a84dc002ad95f44d",
 "time": "2026-09-27T12:32:55Z",
 "message": "link Ebisawa, pelletMgr",
