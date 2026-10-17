@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "9d679b22b7dfc7c230170ccde06b824c603225c9",
+"time": "2026-09-20T06:36:21Z",
+"message": "fix even more ordering/data issues",
+"measures": {
+"matched_code_percent": 91.1245,
+"complete_code_percent": 67.8569,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 75.9303,
+"total_code": 4651476.0,
+"matched_code": 4238636.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24588.0,
+"total_units": 1153.0,
+"complete_units": 1019.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.0899,
+"complete_code_percent": 64.3119,
+"matched_data_percent": 99.55,
+"complete_data_percent": 72.6367,
+"total_code": 3619576.0,
+"matched_code": 3260872.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19063.0,
+"total_units": 737.0,
+"complete_units": 631.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 92.7267,
+"complete_code_percent": 72.6765,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 85.5378,
+"total_code": 744312.0,
+"matched_code": 690176.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4417.0,
+"total_units": 228.0,
+"complete_units": 200.0
+}
+}
+},
+{
+"sha": "9cb2237888c6bd0e586f99b8c0059eef5e715bf8",
+"time": "2026-09-21T01:18:28Z",
+"message": "world map, navi, baseGameSection + others",
+"measures": {
+"matched_code_percent": 92.1023,
+"complete_code_percent": 72.6541,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 78.4472,
+"total_code": 4651476.0,
+"matched_code": 4284116.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24629.0,
+"total_units": 1153.0,
+"complete_units": 1039.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.611,
+"complete_code_percent": 67.1296,
+"matched_data_percent": 99.55,
+"complete_data_percent": 74.1296,
+"total_code": 3619576.0,
+"matched_code": 3279732.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19070.0,
+"total_units": 737.0,
+"complete_units": 635.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 96.3032,
+"complete_code_percent": 88.9536,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.6229,
+"total_code": 744312.0,
+"matched_code": 716796.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4451.0,
+"total_units": 228.0,
+"complete_units": 216.0
+}
+}
+},
+{
+"sha": "58338c8879964de7ad492c28783865c96067cb0e",
+"time": "2026-09-21T03:39:00Z",
+"message": "start documentation/cleanup",
+"measures": {
+"matched_code_percent": 92.1105,
+"complete_code_percent": 72.6541,
+"matched_data_percent": 97.4666,
+"complete_data_percent": 78.4472,
+"total_code": 4651476.0,
+"matched_code": 4284496.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24631.0,
+"total_units": 1153.0,
+"complete_units": 1039.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.6214,
+"complete_code_percent": 67.1296,
+"matched_data_percent": 99.55,
+"complete_data_percent": 74.1296,
+"total_code": 3619576.0,
+"matched_code": 3280112.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19072.0,
+"total_units": 737.0,
+"complete_units": 635.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 96.3032,
+"complete_code_percent": 88.9536,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 96.6229,
+"total_code": 744312.0,
+"matched_code": 716796.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4451.0,
+"total_units": 228.0,
+"complete_units": 216.0
+}
+}
+},
+{
 "sha": "7d48e23c4005ea3ac61cd3db3447ad5c9601157f",
 "time": "2026-09-22T10:20:08Z",
 "message": "oops all yamashita linked",

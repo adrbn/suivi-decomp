@@ -1,6 +1,228 @@
 {
 "history": [
 {
+"sha": "edb4be6d76ee6e700b67d676715a4f33c56a6231",
+"time": "2026-10-11T14:53:36Z",
+"message": "`FileLoader` and `FileLoaderThread`",
+"measures": {
+"matched_code_percent": 15.7244,
+"complete_code_percent": 1.4959,
+"matched_data_percent": 8.829,
+"complete_data_percent": 1.1881,
+"total_code": 6272840.0,
+"matched_code": 986364.0,
+"total_data": 1702620.0,
+"total_functions": 50826.0,
+"matched_functions": 5709.0,
+"total_units": 4164.0,
+"complete_units": 100.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 25.1093,
+"complete_code_percent": 0.0,
+"matched_data_percent": 9.2534,
+"complete_data_percent": 0.0,
+"total_code": 188504.0,
+"matched_code": 47332.0,
+"total_data": 27752.0,
+"total_functions": 2097.0,
+"matched_functions": 654.0,
+"total_units": 51.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 71.5602,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 512772.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2210.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 43.2709,
+"complete_code_percent": 0.7017,
+"matched_data_percent": 17.6678,
+"complete_data_percent": 0.0,
+"total_code": 75820.0,
+"matched_code": 32808.0,
+"total_data": 1132.0,
+"total_functions": 357.0,
+"matched_functions": 223.0,
+"total_units": 27.0,
+"complete_units": 3.0
+},
+"jsys": {
+"matched_code_percent": 89.3096,
+"complete_code_percent": 0.3666,
+"matched_data_percent": 65.7204,
+"complete_data_percent": 0.0,
+"total_code": 313140.0,
+"matched_code": 279664.0,
+"total_data": 9300.0,
+"total_functions": 2399.0,
+"matched_functions": 2276.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "71cb23c0f76414d997a1460d9fca62e25f23795b",
+"time": "2026-10-11T15:11:12Z",
+"message": "`FileRipper`",
+"measures": {
+"matched_code_percent": 15.7532,
+"complete_code_percent": 1.4959,
+"matched_data_percent": 8.8304,
+"complete_data_percent": 1.1881,
+"total_code": 6272840.0,
+"matched_code": 988176.0,
+"total_data": 1702620.0,
+"total_functions": 50826.0,
+"matched_functions": 5716.0,
+"total_units": 4164.0,
+"complete_units": 100.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 25.8223,
+"complete_code_percent": 0.0,
+"matched_data_percent": 9.3318,
+"complete_data_percent": 0.0,
+"total_code": 190316.0,
+"matched_code": 49144.0,
+"total_data": 27776.0,
+"total_functions": 2104.0,
+"matched_functions": 661.0,
+"total_units": 52.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 71.5602,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 512772.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2210.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 43.2709,
+"complete_code_percent": 0.7017,
+"matched_data_percent": 17.6678,
+"complete_data_percent": 0.0,
+"total_code": 75820.0,
+"matched_code": 32808.0,
+"total_data": 1132.0,
+"total_functions": 357.0,
+"matched_functions": 223.0,
+"total_units": 27.0,
+"complete_units": 3.0
+},
+"jsys": {
+"matched_code_percent": 89.3096,
+"complete_code_percent": 0.3666,
+"matched_data_percent": 65.7204,
+"complete_data_percent": 0.0,
+"total_code": 313140.0,
+"matched_code": 279664.0,
+"total_data": 9300.0,
+"total_functions": 2399.0,
+"matched_functions": 2276.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "c9c005be2202722dbeb11a5f7fe6ccbc80a1d27c",
 "time": "2026-10-11T15:22:32Z",
 "message": "`ArchiveHolder`",
@@ -2996,6 +3218,117 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "b58a1fd703af23cd2bc3554e5f13ee6eabb21de5",
+"time": "2026-10-17T15:41:03Z",
+"message": "96% areaObj",
+"measures": {
+"matched_code_percent": 16.802,
+"complete_code_percent": 1.4999,
+"matched_data_percent": 8.984,
+"complete_data_percent": 1.1956,
+"total_code": 6272812.0,
+"matched_code": 1053956.0,
+"total_data": 1702620.0,
+"total_functions": 50819.0,
+"matched_functions": 6346.0,
+"total_units": 4167.0,
+"complete_units": 102.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 45.2945,
+"complete_code_percent": 0.0,
+"matched_data_percent": 15.7226,
+"complete_data_percent": 0.0,
+"total_code": 241504.0,
+"matched_code": 109388.0,
+"total_data": 32132.0,
+"total_functions": 2611.0,
+"matched_functions": 1241.0,
+"total_units": 85.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 89.3147,
+"complete_code_percent": 0.3666,
+"matched_data_percent": 65.7204,
+"complete_data_percent": 0.0,
+"total_code": 313140.0,
+"matched_code": 279680.0,
+"total_data": 9300.0,
+"total_functions": 2399.0,
+"matched_functions": 2277.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3009,7 +3342,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-17T13:36:31Z",
+"units_time": "2026-10-17T15:41:03Z",
 "units": [
 [
 "main/auto_03_80006EA0_text",
@@ -3994,9 +4327,11 @@
 [
 "main/Game/AreaObj/AreaObj",
 2196,
-0.0,
+96.33,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/AreaObj/AreaObjContainer",

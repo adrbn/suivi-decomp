@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "f045f8544e15b11f800f18c100ec2ecf44be3a4f",
+"time": "2026-08-24T02:57:58Z",
+"message": "gfl::Scene progress",
+"measures": {
+"matched_code_percent": 2.2511,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 184948.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1288.0,
+"total_units": 767.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 17.4081,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.5365,
+"complete_data_percent": 11.3076,
+"total_code": 592252.0,
+"matched_code": 103100.0,
+"total_data": 8596.0,
+"total_functions": 2478.0,
+"matched_functions": 855.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 28.8588,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13828.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "71636349260b6dc5812540dfc7d0fc7ceaba7490",
+"time": "2026-08-24T21:26:53Z",
+"message": "FullSortScene splits",
+"measures": {
+"matched_code_percent": 2.2511,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 184948.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1288.0,
+"total_units": 770.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 17.4081,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.4975,
+"complete_data_percent": 11.1827,
+"total_code": 592252.0,
+"matched_code": 103100.0,
+"total_data": 8692.0,
+"total_functions": 2478.0,
+"matched_functions": 855.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 28.8588,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13828.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "3a099b4a1f50de3e97e17a2cf786b3fceecd73f8",
+"time": "2026-08-25T17:57:59Z",
+"message": "match Task dtor",
+"measures": {
+"matched_code_percent": 2.2073,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 181348.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1280.0,
+"total_units": 770.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 16.7685,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.4975,
+"complete_data_percent": 11.1827,
+"total_code": 592252.0,
+"matched_code": 99312.0,
+"total_data": 8692.0,
+"total_functions": 2478.0,
+"matched_functions": 846.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 29.2512,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 14016.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 140.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
 "sha": "f4893227a4461ca86bec1b6c67d9387c65d55082",
 "time": "2026-08-25T20:14:18Z",
 "message": "Update CONTRIBUTING.md",

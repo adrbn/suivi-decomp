@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "0d066f6447ba745130826b4001ba3d4ea3ae14a2",
+"time": "2026-08-15T15:21:39Z",
+"message": "Add support for USA revision 0 and Europe revision 1 versions (#136)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "347ac5860d1f1b3701d057ba82e0e0c349136862",
+"time": "2026-08-15T16:11:44Z",
+"message": "Decompiling MapObjectUnkSTAT (#134)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "2d4deebb8441787af48258057af40289f5b769f9",
+"time": "2026-08-21T14:20:59Z",
+"message": "Delink and match sections of overlay 063 actors (#137)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 4589122.0,
+"matched_code": 0.0,
+"total_data": 1346568.0,
+"total_functions": 32534.0,
+"matched_functions": 0.0,
+"total_units": 117.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "fd3a2340e3be6dbbf98a241c6c50c7782fed533d",
 "time": "2026-08-21T15:54:39Z",
 "message": "Decompiling SWHT (#138)",

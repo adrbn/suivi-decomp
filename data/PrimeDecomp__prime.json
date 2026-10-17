@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "e44aed7482dd9a64f2983427e645d66fb569850d",
+"time": "2026-10-12T23:05:07Z",
+"message": "Link CAnimationSet and CCharacterFactory on GM8P01_00 and GM8J01_00 (#854)",
+"measures": {
+"matched_code_percent": 92.0682,
+"complete_code_percent": 60.3766,
+"matched_data_percent": 97.9843,
+"complete_data_percent": 74.8783,
+"total_code": 4005436.0,
+"matched_code": 3687732.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16428.0,
+"total_units": 830.0,
+"complete_units": 727.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.9868,
+"complete_code_percent": 59.9699,
+"matched_data_percent": 97.7962,
+"complete_data_percent": 72.4474,
+"total_code": 3964744.0,
+"matched_code": 3647040.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16347.0,
+"total_units": 826.0,
+"complete_units": 723.0
+},
+"game": {
+"matched_code_percent": 90.5083,
+"complete_code_percent": 52.5099,
+"matched_data_percent": 94.4458,
+"complete_data_percent": 78.286,
+"total_code": 2741172.0,
+"matched_code": 2480988.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11387.0,
+"total_units": 364.0,
+"complete_units": 292.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "03a8e7dccf3b0932064840dd02bd095a13c9de09",
+"time": "2026-10-13T02:51:44Z",
+"message": "Link CCinematicCamera on GM8P01_00 and GM8J01_00 (#855)",
+"measures": {
+"matched_code_percent": 92.0563,
+"complete_code_percent": 60.3766,
+"matched_data_percent": 97.9843,
+"complete_data_percent": 74.8783,
+"total_code": 4005436.0,
+"matched_code": 3687256.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16426.0,
+"total_units": 830.0,
+"complete_units": 727.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.9748,
+"complete_code_percent": 59.9699,
+"matched_data_percent": 97.7962,
+"complete_data_percent": 72.4474,
+"total_code": 3964744.0,
+"matched_code": 3646564.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16345.0,
+"total_units": 826.0,
+"complete_units": 723.0
+},
+"game": {
+"matched_code_percent": 90.4909,
+"complete_code_percent": 52.5099,
+"matched_data_percent": 94.4458,
+"complete_data_percent": 78.286,
+"total_code": 2741172.0,
+"matched_code": 2480512.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11385.0,
+"total_units": 364.0,
+"complete_units": 292.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "ee1db09d93c727001bca2c835caae3798a487297",
+"time": "2026-10-13T16:48:38Z",
+"message": "Match & link CMetroidPrime (#856)",
+"measures": {
+"matched_code_percent": 92.2747,
+"complete_code_percent": 61.5214,
+"matched_data_percent": 98.0936,
+"complete_data_percent": 75.0546,
+"total_code": 4005436.0,
+"matched_code": 3696004.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16433.0,
+"total_units": 830.0,
+"complete_units": 728.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 92.1954,
+"complete_code_percent": 61.1265,
+"matched_data_percent": 97.916,
+"complete_data_percent": 72.6408,
+"total_code": 3964744.0,
+"matched_code": 3655312.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16352.0,
+"total_units": 826.0,
+"complete_units": 724.0
+},
+"game": {
+"matched_code_percent": 90.8101,
+"complete_code_percent": 54.1828,
+"matched_data_percent": 94.7735,
+"complete_data_percent": 78.8147,
+"total_code": 2741172.0,
+"matched_code": 2489260.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11392.0,
+"total_units": 364.0,
+"complete_units": 293.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "88d40a6bdbeb0bc1d46809dd46ab69ff0a7e90e4",
 "time": "2026-10-13T19:17:17Z",
 "message": "Match & link JP Demo main (#858)",

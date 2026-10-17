@@ -1,6 +1,144 @@
 {
 "history": [
 {
+"sha": "39d6754739abe3c7f443305a2d39785c4e8a0ead",
+"time": "2026-07-31T17:29:53Z",
+"message": "Merge pull request #5 from SephDB/named-nsGlobal-scoped-functions",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "45e6be004e422b484bff8df9cd39b7e2836993c7",
+"time": "2026-08-08T15:42:57Z",
+"message": "Merge branch 'main' of github.com:SephDB/pokepark-wii-decomp",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "031a5f7cb8a6e55478dedea87ebef8d726ff7b1e",
+"time": "2026-08-18T21:07:50Z",
+"message": "Naming conventions + scripting-related funcs",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "3ac270be2d6aec52b306813ea3cd4c7d0027a056",
 "time": "2026-08-19T19:59:25Z",
 "message": "Most of the scripting-related functions named!",

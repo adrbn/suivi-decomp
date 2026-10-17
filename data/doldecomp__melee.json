@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "73c98262484f2660b9769c1f958b5350cee8cbe9",
+"time": "2026-10-06T07:31:06Z",
+"message": "dat: correct archive pointer types and list bounds (#3643)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "687ce6195fdadc6db93b6277d35730138d882156",
+"time": "2026-10-06T14:40:06Z",
+"message": "dat: validate packed fighter animations against motion tables (#3646)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "abd5a01217d5cc569504cf6c4bdd250e00bc226c",
+"time": "2026-10-06T15:39:09Z",
+"message": "dat: simplify native schema C expressions (#3647)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "e35493e5bab09dbbc8fd1f9eb7965aa35758e066",
 "time": "2026-10-06T16:07:05Z",
 "message": "dat: share native storage for array-element references (#3645)",

@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "519d9702198e4065161fd499c35cdef2df932110",
+"time": "2026-08-10T05:27:34Z",
+"message": "Fix path capitalization",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "7079c863b6aa77fb2f3799ab1b534292c2b6415f",
+"time": "2026-08-10T18:12:53Z",
+"message": "zCam progress 2-3% (#108)",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "b0ee9ac7c6ad96161a83035f4650929555387ebd",
+"time": "2026-08-10T21:54:03Z",
+"message": "match saems, saemsamb, saemsmbf, saemsmbm, sallc, and sattrdef",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "1816a73800f085316f2ff5b261458e3b29e8b93f",
 "time": "2026-08-17T18:13:54Z",
 "message": "match many SND files",
