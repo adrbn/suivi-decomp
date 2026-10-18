@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "9ed8a1f6d049eb4de210a47acfab6c6aaf08204e",
+"time": "2026-09-12T20:22:51Z",
+"message": "Player: Implement `WhipTargetInfo` (#1354)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "ce06e395f5caa268f7004b4bbfabca0144f7481e",
+"time": "2026-09-13T10:17:39Z",
+"message": "lib/sead: Update to `797dd9c` (#1357)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "ff22a48da7378914ec96444e65a625782d7cd4d9",
+"time": "2026-09-13T18:08:28Z",
+"message": "Enemy: Implement `BirdCarryMeat` (#1343)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "b24ca2fa4cd2801823b77988f0f9fb83bfc57259",
 "time": "2026-09-13T18:57:59Z",
 "message": "Util: Implement `SwitchUtil` (#1355)",

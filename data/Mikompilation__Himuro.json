@@ -1,6 +1,72 @@
 {
 "history": [
 {
+"sha": "2f0e9c366d0f621acd3d27e59bda1bb074e53741",
+"time": "2026-08-02T08:22:07Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/entry/ap_dgost.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "0227505a7320ecd739e5fc9c1c78b54d7056d677",
+"time": "2026-08-02T09:26:21Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/entry/ap_fgost.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "c3eac1ab486efab02bd1a1c62112f1fe315be3a9",
 "time": "2026-08-03T20:43:27Z",
 "message": "decompiled (jp) and revisited (us,eu) ingame/entry/ap_ggost.c",
@@ -1088,6 +1154,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "595b082aef19c329a25dc6926e4ac638d13ed75d",
+"time": "2026-10-18T11:04:44Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/menu/pause.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1095,7 +1194,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-10-17T13:42:57Z",
+"units_time": "2026-10-18T11:04:44Z",
 "units": [
 [
 "main/main",

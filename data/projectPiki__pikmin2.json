@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "5506e0237cb89223367ea448f2ac64f74fdc6876",
+"time": "2026-09-07T14:45:45Z",
+"message": "All files equivalent, bunch of other misc fixes + links (#270)",
+"measures": {
+"matched_code_percent": 88.4522,
+"complete_code_percent": 59.6962,
+"matched_data_percent": 95.9386,
+"complete_data_percent": 71.4229,
+"total_code": 4651476.0,
+"matched_code": 4114332.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24422.0,
+"total_units": 1153.0,
+"complete_units": 986.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 87.3362,
+"complete_code_percent": 55.9811,
+"matched_data_percent": 97.7636,
+"complete_data_percent": 67.585,
+"total_code": 3619576.0,
+"matched_code": 3161200.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18953.0,
+"total_units": 737.0,
+"complete_units": 605.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 89.4216,
+"complete_code_percent": 62.19,
+"matched_data_percent": 85.5222,
+"complete_data_percent": 82.3223,
+"total_code": 744312.0,
+"matched_code": 665576.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4365.0,
+"total_units": 228.0,
+"complete_units": 193.0
+}
+}
+},
+{
+"sha": "6110c1435df838ba3177b642cea602e4fe41f718",
+"time": "2026-09-08T00:35:22Z",
+"message": "fix some data alignment issues",
+"measures": {
+"matched_code_percent": 88.4522,
+"complete_code_percent": 59.6962,
+"matched_data_percent": 95.9386,
+"complete_data_percent": 71.4229,
+"total_code": 4651476.0,
+"matched_code": 4114332.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24422.0,
+"total_units": 1153.0,
+"complete_units": 986.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 87.3362,
+"complete_code_percent": 55.9811,
+"matched_data_percent": 97.7636,
+"complete_data_percent": 67.585,
+"total_code": 3619576.0,
+"matched_code": 3161200.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18953.0,
+"total_units": 737.0,
+"complete_units": 605.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 89.4216,
+"complete_code_percent": 62.19,
+"matched_data_percent": 85.5222,
+"complete_data_percent": 82.3223,
+"total_code": 744312.0,
+"matched_code": 665576.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4365.0,
+"total_units": 228.0,
+"complete_units": 193.0
+}
+}
+},
+{
+"sha": "632af93787b9c95b63f0c13be32b161375ce3a96",
+"time": "2026-09-10T08:45:51Z",
+"message": "oops all versions supported and equivalent",
+"measures": {
+"matched_code_percent": 88.8752,
+"complete_code_percent": 59.6962,
+"matched_data_percent": 95.9678,
+"complete_data_percent": 71.4229,
+"total_code": 4651476.0,
+"matched_code": 4134008.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24438.0,
+"total_units": 1153.0,
+"complete_units": 986.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 87.8734,
+"complete_code_percent": 55.9811,
+"matched_data_percent": 97.7636,
+"complete_data_percent": 67.585,
+"total_code": 3619576.0,
+"matched_code": 3180644.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18968.0,
+"total_units": 737.0,
+"complete_units": 605.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 89.4528,
+"complete_code_percent": 62.19,
+"matched_data_percent": 85.7724,
+"complete_data_percent": 82.3223,
+"total_code": 744312.0,
+"matched_code": 665808.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4366.0,
+"total_units": 228.0,
+"complete_units": 193.0
+}
+}
+},
+{
 "sha": "c42205411152a6b869ced2a904bceab6883179e5",
 "time": "2026-09-13T23:17:59Z",
 "message": "improve decomp of og::newScreen::makeLanguageResName (#271)",

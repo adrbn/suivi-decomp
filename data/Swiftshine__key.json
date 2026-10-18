@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "5ecda3de3991df1fdfed4e6f216d4a1baabbc701",
+"time": "2026-08-19T22:20:20Z",
+"message": "EnemyBase progress",
+"measures": {
+"matched_code_percent": 2.2406,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 184084.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1280.0,
+"total_units": 767.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 17.2622,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.5365,
+"complete_data_percent": 11.3076,
+"total_code": 592252.0,
+"matched_code": 102236.0,
+"total_data": 8596.0,
+"total_functions": 2478.0,
+"matched_functions": 847.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 28.8588,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13828.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "fcb81d78555284bc714204059541f60ebe346721",
+"time": "2026-08-20T19:29:22Z",
+"message": "Stage method rename",
+"measures": {
+"matched_code_percent": 2.2406,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 184084.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1280.0,
+"total_units": 767.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 17.2622,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.5365,
+"complete_data_percent": 11.3076,
+"total_code": 592252.0,
+"matched_code": 102236.0,
+"total_data": 8596.0,
+"total_functions": 2478.0,
+"matched_functions": 847.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 28.8588,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13828.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
+"sha": "56ff5e1ce48da761c8e3913320be31f87173d29f",
+"time": "2026-08-20T20:25:22Z",
+"message": "EnemyBase progress",
+"measures": {
+"matched_code_percent": 2.2476,
+"complete_code_percent": 0.949,
+"matched_data_percent": 0.0499,
+"complete_data_percent": 1.1624,
+"total_code": 8215924.0,
+"matched_code": 184660.0,
+"total_data": 2035400.0,
+"total_functions": 32722.0,
+"matched_functions": 1286.0,
+"total_units": 767.0,
+"complete_units": 37.0
+},
+"categories": {
+"fluff": {
+"matched_code_percent": 17.3595,
+"complete_code_percent": 1.3623,
+"matched_data_percent": 3.5365,
+"complete_data_percent": 11.3076,
+"total_code": 592252.0,
+"matched_code": 102812.0,
+"total_data": 8596.0,
+"total_functions": 2478.0,
+"matched_functions": 853.0,
+"total_units": 83.0,
+"complete_units": 11.0
+},
+"gfl": {
+"matched_code_percent": 28.8588,
+"complete_code_percent": 12.6555,
+"matched_data_percent": 19.3878,
+"complete_data_percent": 21.4286,
+"total_code": 47916.0,
+"matched_code": 13828.0,
+"total_data": 1176.0,
+"total_functions": 219.0,
+"matched_functions": 139.0,
+"total_units": 29.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 91.1142,
+"complete_code_percent": 89.5243,
+"matched_data_percent": 1.0481,
+"complete_data_percent": 99.1326,
+"total_code": 62392.0,
+"matched_code": 56848.0,
+"total_data": 22136.0,
+"total_functions": 223.0,
+"matched_functions": 185.0,
+"total_units": 10.0,
+"complete_units": 6.0
+}
+}
+},
+{
 "sha": "eeb12f47604fab68763bace834375f3c00801990",
 "time": "2026-08-22T19:16:55Z",
 "message": "sure man",

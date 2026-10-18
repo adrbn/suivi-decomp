@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "160f05aa0404534a731d49dfae1791f7746ecc85",
+"time": "2026-10-05T22:59:50Z",
+"message": "Fix todo syntax (#3641)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "c43d647093c553e01c9d40cac15d356795245628",
+"time": "2026-10-05T23:39:23Z",
+"message": "Fix the sizes of `kills` and `char_data` in `gm/types.h` (#3638)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "29b5bd518c124143b315ff6de032f9debe974b9b",
+"time": "2026-10-05T23:48:03Z",
+"message": "dat: count nested fighter visibility lists (#3636)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "7616fb604e409502c37e23f3656067646133aaef",
 "time": "2026-10-06T00:02:28Z",
 "message": "dat: count debug and sound-test tables (#3639)",

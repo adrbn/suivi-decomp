@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "b4ce21c23538833797d84d56575bd64a5e38a46e",
+"time": "2026-07-28T14:52:27Z",
+"message": "Patch the toolchain after download",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "0a2cc4c8a335efc35e9f64141d9b8a6a3cfa9202",
+"time": "2026-07-28T14:52:48Z",
+"message": "-strip-unused -> -strip-unused-data, Match dolphinsdk (#109)",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "c7fb8fd2c051866f78607c18a6dfcc365db9a2e2",
+"time": "2026-07-29T14:08:49Z",
+"message": "Fix dwarf report",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "77621b92247b1a77feb5b16f1c66dc0868c584a8",
 "time": "2026-07-29T16:12:14Z",
 "message": "Fix fuzzyness in the dwarf report and add progress categories",
