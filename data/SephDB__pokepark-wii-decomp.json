@@ -1,6 +1,98 @@
 {
 "history": [
 {
+"sha": "4678cb5d7558035a4d0b8880177c91beecf32cd5",
+"time": "2026-07-20T21:01:11Z",
+"message": "More vtables marked",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "b9d9fc4455a3adc861e779fdf525aca7180953e5",
+"time": "2026-07-21T11:58:24Z",
+"message": "More vtables",
+"measures": {
+"matched_code_percent": 1.4632,
+"complete_code_percent": 1.4632,
+"matched_data_percent": 0.4149,
+"complete_data_percent": 0.4204,
+"total_code": 3070908.0,
+"matched_code": 44932.0,
+"total_data": 1587510.0,
+"total_functions": 14454.0,
+"matched_functions": 207.0,
+"total_units": 186.0,
+"complete_units": 51.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 98.6814,
+"complete_data_percent": 100.0,
+"total_code": 44932.0,
+"matched_code": 44932.0,
+"total_data": 6674.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "0c5e038bf1e2b3d7216fe09b2384dda182db065a",
 "time": "2026-07-21T18:06:15Z",
 "message": "Some more syscalls named",

@@ -2300,6 +2300,183 @@
 "complete_units": 223.0
 }
 }
+},
+{
+"sha": "de8c5dff77474352346c0392c6ca16a35f1214f7",
+"time": "2026-10-18T18:06:37Z",
+"message": "aoi is no longer needed (#290)",
+"measures": {
+"matched_code_percent": 99.6336,
+"complete_code_percent": 98.0905,
+"matched_data_percent": 97.5483,
+"complete_data_percent": 98.9399,
+"total_code": 4651476.0,
+"matched_code": 4634432.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24945.0,
+"total_units": 1153.0,
+"complete_units": 1145.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 99.8169,
+"complete_code_percent": 98.8248,
+"matched_data_percent": 99.6499,
+"complete_data_percent": 99.1001,
+"total_code": 3619576.0,
+"matched_code": 3612948.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19367.0,
+"total_units": 737.0,
+"complete_units": 734.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 98.6006,
+"complete_code_percent": 93.7816,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 97.2274,
+"total_code": 744312.0,
+"matched_code": 733896.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4470.0,
+"total_units": 228.0,
+"complete_units": 223.0
+}
+}
+},
+{
+"sha": "83d333976e808aad75b4c7d304c3d19a22e82423",
+"time": "2026-10-18T18:16:42Z",
+"message": "match J3D functions, cave drawing and pane movement (#291)",
+"measures": {
+"matched_code_percent": 99.9881,
+"complete_code_percent": 99.7747,
+"matched_data_percent": 97.5483,
+"complete_data_percent": 99.9525,
+"total_code": 4651476.0,
+"matched_code": 4650920.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24955.0,
+"total_units": 1153.0,
+"complete_units": 1152.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6499,
+"complete_data_percent": 100.0,
+"total_code": 3619576.0,
+"matched_code": 3619576.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19371.0,
+"total_units": 737.0,
+"complete_units": 737.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 99.9253,
+"complete_code_percent": 98.592,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 99.5935,
+"total_code": 744312.0,
+"matched_code": 743756.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4476.0,
+"total_units": 228.0,
+"complete_units": 227.0
+}
+}
+},
+{
+"sha": "e0b3c0c7895c2a6f8126402ddd8c5153823bcb21",
+"time": "2026-10-18T18:28:32Z",
+"message": "Match J2DWindow (#292)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 97.5483,
+"complete_data_percent": 100.0,
+"total_code": 4651476.0,
+"matched_code": 4651476.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24956.0,
+"total_units": 1153.0,
+"complete_units": 1153.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6499,
+"complete_data_percent": 100.0,
+"total_code": 3619576.0,
+"matched_code": 3619576.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19371.0,
+"total_units": 737.0,
+"complete_units": 737.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 100.0,
+"total_code": 744312.0,
+"matched_code": 744312.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4477.0,
+"total_units": 228.0,
+"complete_units": 228.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2309,7 +2486,7 @@
 "sdk": "SDK Code",
 "jsystem": "JSystem Code"
 },
-"units_time": "2026-10-13T16:23:22Z",
+"units_time": "2026-10-18T18:28:32Z",
 "units": [
 [
 "main/JSystem/JStudio_JParticle/object-particle",
@@ -3151,8 +3328,8 @@
 [
 "main/JSystem/J2D/J2DWindow",
 10480,
-99.5,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -3313,8 +3490,8 @@
 [
 "main/JSystem/J3D/J3DTevs",
 7808,
-99.93,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -3376,8 +3553,8 @@
 [
 "main/JSystem/J3D/J3DMaterialFactory",
 13540,
-99.92,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -3529,8 +3706,8 @@
 [
 "main/JSystem/J3D/J3DMtxBuffer",
 3468,
-99.41,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -3664,8 +3841,8 @@
 [
 "main/JSystem/JParticle/JPAResource",
 10988,
-99.98,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -7039,8 +7216,8 @@
 [
 "main/plugProjectKandoU/itemCave",
 8656,
-99.9,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -11026,8 +11203,8 @@
 [
 "main/plugProjectMorimuraU/challengeResult2D",
 25828,
-99.98,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -12122,8 +12299,8 @@
 [
 "main/sysGCU/movieMessage",
 8052,
-99.96,
-0,
+100.0,
+1,
 [
 "game"
 ]

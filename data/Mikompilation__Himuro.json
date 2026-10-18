@@ -1,6 +1,105 @@
 {
 "history": [
 {
+"sha": "252de5ee3e7a3837173bef468b19b48ace35e650",
+"time": "2026-08-01T08:37:38Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/camera/camera.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "01cff2ec13f019af312c383321c0602550ee0966",
+"time": "2026-08-01T15:13:38Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/enemy/ene_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a94fd243d48a111e60bf526eecd74fcd5a9c72f1",
+"time": "2026-08-01T17:59:24Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/enemy/move_ctl.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "20ad77a7a5818e13b6ffbce54fa83670cb69431b",
 "time": "2026-08-02T08:06:46Z",
 "message": "decompiled (jp) and revisited (us,eu) ingame/entry/entry.c",
