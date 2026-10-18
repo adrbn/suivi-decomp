@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "c42205411152a6b869ced2a904bceab6883179e5",
+"time": "2026-09-13T23:17:59Z",
+"message": "improve decomp of og::newScreen::makeLanguageResName (#271)",
+"measures": {
+"matched_code_percent": 88.8752,
+"complete_code_percent": 59.6962,
+"matched_data_percent": 95.9678,
+"complete_data_percent": 71.4229,
+"total_code": 4651476.0,
+"matched_code": 4134008.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24438.0,
+"total_units": 1153.0,
+"complete_units": 986.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 87.8734,
+"complete_code_percent": 55.9811,
+"matched_data_percent": 97.7636,
+"complete_data_percent": 67.585,
+"total_code": 3619576.0,
+"matched_code": 3180644.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18968.0,
+"total_units": 737.0,
+"complete_units": 605.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 89.4528,
+"complete_code_percent": 62.19,
+"matched_data_percent": 85.7724,
+"complete_data_percent": 82.3223,
+"total_code": 744312.0,
+"matched_code": 665808.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4366.0,
+"total_units": 228.0,
+"complete_units": 193.0
+}
+}
+},
+{
+"sha": "f03150ddd44a47507738d7d36131ac2ef283af85",
+"time": "2026-09-14T14:48:41Z",
+"message": "okay that's enough procrastimatching sorry",
+"measures": {
+"matched_code_percent": 90.1812,
+"complete_code_percent": 65.6834,
+"matched_data_percent": 96.1518,
+"complete_data_percent": 74.624,
+"total_code": 4651476.0,
+"matched_code": 4194756.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24525.0,
+"total_units": 1153.0,
+"complete_units": 1007.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 89.1685,
+"complete_code_percent": 61.7098,
+"matched_data_percent": 97.9439,
+"complete_data_percent": 71.0767,
+"total_code": 3619576.0,
+"matched_code": 3227520.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19020.0,
+"total_units": 737.0,
+"complete_units": 620.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 91.3123,
+"complete_code_percent": 71.7479,
+"matched_data_percent": 86.085,
+"complete_data_percent": 85.2773,
+"total_code": 744312.0,
+"matched_code": 679648.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4397.0,
+"total_units": 228.0,
+"complete_units": 199.0
+}
+}
+},
+{
+"sha": "1561f430a2ba56a1b4aa6a9fbec50d8b2d314927",
+"time": "2026-09-16T14:10:11Z",
+"message": "fix objdiff symbol issue + some more matches",
+"measures": {
+"matched_code_percent": 90.2014,
+"complete_code_percent": 65.6834,
+"matched_data_percent": 96.2201,
+"complete_data_percent": 74.624,
+"total_code": 4651476.0,
+"matched_code": 4195696.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24528.0,
+"total_units": 1153.0,
+"complete_units": 1007.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 89.1944,
+"complete_code_percent": 61.7098,
+"matched_data_percent": 98.0273,
+"complete_data_percent": 71.0767,
+"total_code": 3619576.0,
+"matched_code": 3228460.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19023.0,
+"total_units": 737.0,
+"complete_units": 620.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 91.3123,
+"complete_code_percent": 71.7479,
+"matched_data_percent": 86.085,
+"complete_data_percent": 85.2773,
+"total_code": 744312.0,
+"matched_code": 679648.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4397.0,
+"total_units": 228.0,
+"complete_units": 199.0
+}
+}
+},
+{
 "sha": "9d679b22b7dfc7c230170ccde06b824c603225c9",
 "time": "2026-09-20T06:36:21Z",
 "message": "fix even more ordering/data issues",

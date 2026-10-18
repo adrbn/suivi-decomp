@@ -659,6 +659,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "7600c79d3909fce344435dcccbb6ad3bc2aad34e",
+"time": "2026-10-17T21:43:17Z",
+"message": "Trigger symbol regeneration after successful builds",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -666,7 +699,7 @@
 "category_names": {
 "build": "build"
 },
-"units_time": "2026-10-17T16:25:58Z",
+"units_time": "2026-10-17T21:43:17Z",
 "units": [
 [
 "build/src/entrypoint/entrypoint",
