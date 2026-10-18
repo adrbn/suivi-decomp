@@ -1415,6 +1415,124 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "f64db09ab14b6831a54625b3b508cc0d8f17cfe2",
+"time": "2026-10-18T13:49:25Z",
+"message": "Enemy/fruitsboat: decompile TFruitsBoat  (#354)",
+"measures": {
+"matched_code_percent": 47.8114,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 73.5607,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1722976.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9887.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 36.6732,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 71.7008,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1044328.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6090.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "a4f61f10bb6510dde4eb7cc425628d1850882664",
+"time": "2026-10-18T13:57:55Z",
+"message": "Bird better",
+"measures": {
+"matched_code_percent": 47.8308,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 73.5607,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1723676.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9888.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 36.6978,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 71.7008,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1045028.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6091.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1424,7 +1542,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-17T22:34:58Z",
+"units_time": "2026-10-18T13:57:55Z",
 "units": [
 [
 "mario/main",
@@ -2338,7 +2456,7 @@
 [
 "mario/Enemy/fruitsboat",
 8180,
-0.0,
+99.86,
 0,
 [
 "game"

@@ -1,6 +1,274 @@
 {
 "history": [
 {
+"sha": "1ba8e933343dfec9644a224b800a4042b70b55bd",
+"time": "2026-10-05T21:12:42Z",
+"message": "Merge staging regional source linkage and matching recoveries into main",
+"measures": {
+"matched_code_percent": 51.2849,
+"complete_code_percent": 23.3321,
+"matched_data_percent": 73.7557,
+"complete_data_percent": 30.2937,
+"total_code": 2028452.0,
+"matched_code": 1040290.0,
+"total_data": 1685984.0,
+"total_functions": 5812.0,
+"matched_functions": 4265.0,
+"total_units": 1490.0,
+"complete_units": 363.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 46.085,
+"complete_code_percent": 4.0406,
+"matched_data_percent": 97.0653,
+"complete_data_percent": 17.2859,
+"total_code": 1272396.0,
+"matched_code": 586384.0,
+"total_data": 919746.0,
+"total_functions": 2418.0,
+"matched_functions": 2014.0,
+"total_units": 103.0,
+"complete_units": 30.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.3697,
+"complete_data_percent": 100.0,
+"total_code": 277560.0,
+"matched_code": 277560.0,
+"total_data": 161828.0,
+"total_functions": 1172.0,
+"matched_functions": 1172.0,
+"total_units": 192.0,
+"complete_units": 192.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 301140.0,
+"matched_code": 0.0,
+"total_data": 408121.0,
+"total_functions": 1140.0,
+"matched_functions": 0.0,
+"total_units": 1047.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "069fbc1b5d518bc1865062612e7ee4c26e409235",
+"time": "2026-10-05T21:30:39Z",
+"message": "Merge staging: regional rendering, memory-card and transfer-menu recovery",
+"measures": {
+"matched_code_percent": 51.3782,
+"complete_code_percent": 23.5289,
+"matched_data_percent": 74.313,
+"complete_data_percent": 30.624,
+"total_code": 2028452.0,
+"matched_code": 1042182.0,
+"total_data": 1685984.0,
+"total_functions": 5812.0,
+"matched_functions": 4275.0,
+"total_units": 1494.0,
+"complete_units": 364.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 45.9746,
+"complete_code_percent": 4.3338,
+"matched_data_percent": 97.0884,
+"complete_data_percent": 17.711,
+"total_code": 1278420.0,
+"matched_code": 587748.0,
+"total_data": 929110.0,
+"total_functions": 2423.0,
+"matched_functions": 2020.0,
+"total_units": 104.0,
+"complete_units": 31.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 99.8101,
+"matched_data_percent": 99.3701,
+"complete_data_percent": 99.9432,
+"total_code": 278088.0,
+"matched_code": 278088.0,
+"total_data": 161920.0,
+"total_functions": 1176.0,
+"matched_functions": 1176.0,
+"total_units": 193.0,
+"complete_units": 192.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 294588.0,
+"matched_code": 0.0,
+"total_data": 398665.0,
+"total_functions": 1131.0,
+"matched_functions": 0.0,
+"total_units": 1049.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "4e48062504c19d0215211beaef687344844a0bbc",
+"time": "2026-10-05T22:05:35Z",
+"message": "Merge staging progress into main",
+"measures": {
+"matched_code_percent": 55.344,
+"complete_code_percent": 25.4042,
+"matched_data_percent": 75.9707,
+"complete_data_percent": 31.6533,
+"total_code": 2028452.0,
+"matched_code": 1122626.0,
+"total_data": 1685984.0,
+"total_functions": 5812.0,
+"matched_functions": 4711.0,
+"total_units": 1098.0,
+"complete_units": 370.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 47.0965,
+"complete_code_percent": 5.8905,
+"matched_data_percent": 97.041,
+"complete_data_percent": 18.8576,
+"total_code": 1302704.0,
+"matched_code": 613528.0,
+"total_data": 931788.0,
+"total_functions": 2497.0,
+"matched_functions": 2095.0,
+"total_units": 110.0,
+"complete_units": 34.0
+},
+"redsound": {
+"matched_code_percent": 80.3032,
+"complete_code_percent": 24.5446,
+"matched_data_percent": 100.0,
+"complete_data_percent": 24.0248,
+"total_code": 68072.0,
+"matched_code": 54664.0,
+"total_data": 25790.0,
+"total_functions": 379.0,
+"matched_functions": 361.0,
+"total_units": 8.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 99.8101,
+"matched_data_percent": 99.3701,
+"complete_data_percent": 99.9432,
+"total_code": 278088.0,
+"matched_code": 278088.0,
+"total_data": 161920.0,
+"total_functions": 1176.0,
+"matched_functions": 1176.0,
+"total_units": 193.0,
+"complete_units": 192.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 202232.0,
+"matched_code": 0.0,
+"total_data": 370197.0,
+"total_functions": 678.0,
+"matched_functions": 0.0,
+"total_units": 639.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "02370131b7ae8a0ccbe3fde749df1d6b5d26a38f",
 "time": "2026-10-05T22:09:21Z",
 "message": "Merge staging: Japanese transfer-menu and regional particle data recovery",
@@ -2750,7 +3018,6 @@
 "workflow": 211454623,
 "category_names": {
 "game": "Game Code",
-"redsound": "RedSound",
 "sdk": "SDK Code",
 "gba_cli": "GBA Client",
 "gba_mgr": "GBA Minigame",

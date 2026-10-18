@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "42f335d5583efe3228635485c34c86603c290029",
+"time": "2026-08-08T04:45:29Z",
+"message": "other cleanup",
+"measures": {
+"matched_code_percent": 87.7137,
+"complete_code_percent": 57.88,
+"matched_data_percent": 94.9954,
+"complete_data_percent": 70.4194,
+"total_code": 4651476.0,
+"matched_code": 4079984.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24374.0,
+"total_units": 1153.0,
+"complete_units": 973.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.6484,
+"complete_code_percent": 53.9013,
+"matched_data_percent": 96.664,
+"complete_data_percent": 66.4265,
+"total_code": 3619576.0,
+"matched_code": 3136304.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18923.0,
+"total_units": 737.0,
+"complete_units": 594.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 88.1517,
+"complete_code_percent": 60.954,
+"matched_data_percent": 85.147,
+"complete_data_percent": 81.8428,
+"total_code": 744312.0,
+"matched_code": 656124.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4347.0,
+"total_units": 228.0,
+"complete_units": 191.0
+}
+}
+},
+{
+"sha": "4dc236241f982e9141dfcd0fe3c299c5212034fb",
+"time": "2026-08-25T04:15:26Z",
+"message": "challengeSelect2D fixes again",
+"measures": {
+"matched_code_percent": 87.7399,
+"complete_code_percent": 57.88,
+"matched_data_percent": 94.9954,
+"complete_data_percent": 70.4194,
+"total_code": 4651476.0,
+"matched_code": 4081200.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24375.0,
+"total_units": 1153.0,
+"complete_units": 973.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.682,
+"complete_code_percent": 53.9013,
+"matched_data_percent": 96.664,
+"complete_data_percent": 66.4265,
+"total_code": 3619576.0,
+"matched_code": 3137520.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18924.0,
+"total_units": 737.0,
+"complete_units": 594.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 88.1517,
+"complete_code_percent": 60.954,
+"matched_data_percent": 85.147,
+"complete_data_percent": 81.8428,
+"total_code": 744312.0,
+"matched_code": 656124.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4347.0,
+"total_units": 228.0,
+"complete_units": 191.0
+}
+}
+},
+{
+"sha": "14e79a89589a486b1cd9432321b4f2cb087be99e",
+"time": "2026-08-26T04:06:15Z",
+"message": "better heap size defines",
+"measures": {
+"matched_code_percent": 87.7399,
+"complete_code_percent": 57.88,
+"matched_data_percent": 94.9954,
+"complete_data_percent": 70.4194,
+"total_code": 4651476.0,
+"matched_code": 4081200.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24375.0,
+"total_units": 1153.0,
+"complete_units": 973.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.682,
+"complete_code_percent": 53.9013,
+"matched_data_percent": 96.664,
+"complete_data_percent": 66.4265,
+"total_code": 3619576.0,
+"matched_code": 3137520.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18924.0,
+"total_units": 737.0,
+"complete_units": 594.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 88.1517,
+"complete_code_percent": 60.954,
+"matched_data_percent": 85.147,
+"complete_data_percent": 81.8428,
+"total_code": 744312.0,
+"matched_code": 656124.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4347.0,
+"total_units": 228.0,
+"complete_units": 191.0
+}
+}
+},
+{
 "sha": "5506e0237cb89223367ea448f2ac64f74fdc6876",
 "time": "2026-09-07T14:45:45Z",
 "message": "All files equivalent, bunch of other misc fixes + links (#270)",

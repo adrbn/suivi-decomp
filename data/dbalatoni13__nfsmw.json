@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "a3ca0a4bc4232121c830a756a5707ca921551f27",
+"time": "2026-07-23T01:14:44Z",
+"message": "SND Progress  (#106)",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "cd6d14244a899cbe3d02c3c072134f8ab67ec559",
+"time": "2026-07-23T01:31:16Z",
+"message": "Fix PS2 and Xenon build and regressions",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "c873c1622610bffb8f786271d93840d020c7cc27",
+"time": "2026-07-24T21:10:22Z",
+"message": "Enable SJIS wrap on MWCC",
+"measures": {
+"matched_code_percent": 0.1292,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8416020.0,
+"matched_code": 10872.0,
+"total_data": 4892247.0,
+"total_functions": 57577.0,
+"matched_functions": 96.0,
+"total_units": 30.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.2934,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 840576.0,
+"matched_code": 10872.0,
+"total_data": 21184.0,
+"total_functions": 7778.0,
+"matched_functions": 96.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"libs": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "b4ce21c23538833797d84d56575bd64a5e38a46e",
 "time": "2026-07-28T14:52:27Z",
 "message": "Patch the toolchain after download",
