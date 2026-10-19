@@ -1,6 +1,176 @@
 {
 "history": [
 {
+"sha": "b1f051dca36b2783a413d06a33c55e181e065fe2",
+"time": "2026-09-28T23:44:40Z",
+"message": "update symbol list for sdk",
+"measures": {
+"matched_code_percent": 7.7529,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 1.3859,
+"complete_data_percent": 1.1594,
+"total_code": 6272888.0,
+"matched_code": 486332.0,
+"total_data": 1702588.0,
+"total_functions": 50830.0,
+"matched_functions": 2539.0,
+"total_units": 4147.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 22.098,
+"complete_code_percent": 0.0,
+"matched_data_percent": 4.6895,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 40464.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 592.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 73.4891,
+"complete_code_percent": 0.0,
+"matched_data_percent": 34.0791,
+"complete_data_percent": 0.0,
+"total_code": 475940.0,
+"matched_code": 349764.0,
+"total_data": 7688.0,
+"total_functions": 1906.0,
+"matched_functions": 1641.0,
+"total_units": 174.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "6406db8a27117ed79247642fc09ae2a2640ce2d8",
+"time": "2026-10-02T13:15:42Z",
+"message": "more `SDK` integration",
+"measures": {
+"matched_code_percent": 10.3515,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 8.3166,
+"complete_data_percent": 1.1594,
+"total_code": 6272888.0,
+"matched_code": 649340.0,
+"total_data": 1702620.0,
+"total_functions": 50830.0,
+"matched_functions": 3108.0,
+"total_units": 4151.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 22.098,
+"complete_code_percent": 0.0,
+"matched_data_percent": 4.6895,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 40464.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 592.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 71.5602,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 512772.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2210.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "b6f7371fe20bb3f4922887758bd6e186f8fc1037",
 "time": "2026-10-02T13:25:35Z",
 "message": "integrate `RFL` from SMG1",
@@ -5314,6 +5484,117 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "f03e665c384fcdaa1ad59098095a2e38f8bf6b91",
+"time": "2026-10-19T18:41:41Z",
+"message": "OceanSphere & OceanSpherePoint",
+"measures": {
+"matched_code_percent": 16.9906,
+"complete_code_percent": 1.4999,
+"matched_data_percent": 9.0064,
+"complete_data_percent": 1.1956,
+"total_code": 6272812.0,
+"matched_code": 1065788.0,
+"total_data": 1702620.0,
+"total_functions": 50819.0,
+"matched_functions": 6383.0,
+"total_units": 4165.0,
+"complete_units": 102.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 47.7635,
+"complete_code_percent": 0.0,
+"matched_data_percent": 16.6626,
+"complete_data_percent": 0.0,
+"total_code": 253792.0,
+"matched_code": 121220.0,
+"total_data": 32600.0,
+"total_functions": 2649.0,
+"matched_functions": 1278.0,
+"total_units": 87.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 89.3147,
+"complete_code_percent": 0.3666,
+"matched_data_percent": 65.7204,
+"complete_data_percent": 0.0,
+"total_code": 313140.0,
+"matched_code": 279680.0,
+"total_data": 9300.0,
+"total_functions": 2399.0,
+"matched_functions": 2277.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5322,11 +5603,10 @@
 "game": "Game Code",
 "sdk": "SDK Code",
 "nw4r": "NintendoWare Code",
-"rfl": "RVLFaceLib",
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-17T15:41:03Z",
+"units_time": "2026-10-19T18:41:41Z",
 "units": [
 [
 "main/auto_03_80006EA0_text",
@@ -13974,32 +14254,22 @@
 []
 ],
 [
-"main/auto_03_8025C450_text",
-1936,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Map/OceanSphere",
-9932,
-0.0,
+11868,
+99.78,
 0,
-[]
-],
 [
-"main/auto_03_8025F390_text",
-148,
-0.0,
-0,
-[]
+"game"
+]
 ],
 [
 "main/Game/Map/OceanSpherePoint",
-272,
-0.0,
+420,
+100.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/auto_03_8025F540_text",

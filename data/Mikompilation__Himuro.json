@@ -1,6 +1,72 @@
 {
 "history": [
 {
+"sha": "85264605208a64d19a59d3bdf4eada7a1e7208ee",
+"time": "2026-07-23T17:10:24Z",
+"message": "decompiled (jp) and revisited (us,eu) graphics/graph3d/sgcam.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8bf3298a76b2806c02417836c80c351dd2537f51",
+"time": "2026-07-24T20:10:12Z",
+"message": "decompiled (jp) and revisited (us,eu) graphics/graph3d/shadow.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "e907d12caa6058cb9a0c1f72ac93ee3e619f92e3",
 "time": "2026-07-26T07:37:19Z",
 "message": "decompiled (jp) and revisited (us,eu) graphics/graph3d/mirror.c",

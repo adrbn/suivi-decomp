@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "aab26c3e14e813737682777f4155c15ed1cf3d07",
+"time": "2026-08-16T21:15:45Z",
+"message": "README: update link to guide on dumping ROM from console (#1335)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "cf1c13f7ca2d8a39907e5ffb6de192587ac8c72b",
+"time": "2026-08-18T19:09:16Z",
+"message": "Player: Implement `PlayerCapManHeroEyesControl` (#1076)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "9c4b034f144d2feb55914570ffa35312b29e9a72",
+"time": "2026-08-19T17:38:32Z",
+"message": "workflow: update `actions/github-script` to `v9` (#1218)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "fcc4f89d2f3a0a3e0bc9d4eec09ccb3e54e9a915",
 "time": "2026-08-20T13:22:13Z",
 "message": "Util: Finish implementing `ItemUtil` (#1331)",

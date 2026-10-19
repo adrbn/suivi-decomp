@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "e05c62ea99833e2f60c47489166a4f1dcaeaf0aa",
+"time": "2026-10-03T18:51:14Z",
+"message": "Describe stage joint tables for DAT coverage (#3622)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "0ed2a92ad68b300b1c3bc7e5ca34678709bcfa33",
+"time": "2026-10-03T19:45:04Z",
+"message": "Replace 173 gotos with structured control flow (#3623)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "75a05ae1d88a35e448f2b7f79917abf394225cc0",
+"time": "2026-10-04T00:35:56Z",
+"message": "Clean up 56 gotos and roll up some loops (#3625)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "50eea6e878a3dbea937571fb886a8bab47798dba",
 "time": "2026-10-04T05:46:37Z",
 "message": "Fix a gxlink usage in gmtoulib, remove data hack in grgreens, remove pointer math in grkinokoroute (#3626)",

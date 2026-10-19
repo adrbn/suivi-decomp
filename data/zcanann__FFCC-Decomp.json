@@ -1,6 +1,176 @@
 {
 "history": [
 {
+"sha": "a627f42e02d8d9801b1a5c4c6f5438abba3a63ef",
+"time": "2026-10-05T14:50:55Z",
+"message": "Merge staging: regional game recovery and runtime source linkage",
+"measures": {
+"matched_code_percent": 35.3733,
+"complete_code_percent": 14.5015,
+"matched_data_percent": 26.2372,
+"complete_data_percent": 19.3654,
+"total_code": 2020456.0,
+"matched_code": 714702.0,
+"total_data": 1686179.0,
+"total_functions": 5810.0,
+"matched_functions": 3040.0,
+"total_units": 1999.0,
+"complete_units": 267.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.9944,
+"complete_code_percent": 0.664,
+"matched_data_percent": 84.1052,
+"complete_data_percent": 0.6769,
+"total_code": 942812.0,
+"matched_code": 395928.0,
+"total_data": 138863.0,
+"total_functions": 1690.0,
+"matched_functions": 1367.0,
+"total_units": 52.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9735,
+"complete_data_percent": 99.9705,
+"total_code": 142428.0,
+"matched_code": 142428.0,
+"total_data": 135703.0,
+"total_functions": 594.0,
+"matched_functions": 594.0,
+"total_units": 117.0,
+"complete_units": 116.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 757860.0,
+"matched_code": 0.0,
+"total_data": 1215324.0,
+"total_functions": 2444.0,
+"matched_functions": 0.0,
+"total_units": 1682.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "fed2decf8195f19f2e435b098f99b9aec9bbe4de",
+"time": "2026-10-05T15:45:53Z",
+"message": "Merge staging: regional matching, menu recovery, and runtime linkage",
+"measures": {
+"matched_code_percent": 36.8049,
+"complete_code_percent": 15.2876,
+"matched_data_percent": 26.4985,
+"complete_data_percent": 19.4346,
+"total_code": 2020456.0,
+"matched_code": 743626.0,
+"total_data": 1686171.0,
+"total_functions": 5810.0,
+"matched_functions": 3113.0,
+"total_units": 1960.0,
+"complete_units": 273.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.6931,
+"complete_code_percent": 0.6382,
+"matched_data_percent": 84.2822,
+"complete_data_percent": 0.6598,
+"total_code": 980900.0,
+"matched_code": 408968.0,
+"total_data": 142463.0,
+"total_functions": 1736.0,
+"matched_functions": 1397.0,
+"total_units": 59.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9737,
+"complete_data_percent": 100.0,
+"total_code": 158312.0,
+"matched_code": 158312.0,
+"total_data": 136827.0,
+"total_functions": 637.0,
+"matched_functions": 637.0,
+"total_units": 122.0,
+"complete_units": 122.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 703888.0,
+"matched_code": 0.0,
+"total_data": 1210592.0,
+"total_functions": 2355.0,
+"matched_functions": 0.0,
+"total_units": 1631.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "86edaff27ae3a93e9a18d571e13be0f6386b6443",
 "time": "2026-10-05T16:22:30Z",
 "message": "Merge staging: regional message recovery, memory-card placement, and SDK linkage",
@@ -3815,6 +3985,104 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "14adbb5e370a42231e73a979c1eb26f37f5f6d87",
+"time": "2026-10-19T16:19:07Z",
+"message": "Merge staging: 10 contributor PRs, statement placement fixes",
+"measures": {
+"matched_code_percent": 78.0696,
+"complete_code_percent": 45.346,
+"matched_data_percent": 98.3487,
+"complete_data_percent": 52.539,
+"total_code": 2028448.0,
+"matched_code": 1583602.0,
+"total_data": 1685148.0,
+"total_functions": 5811.0,
+"matched_functions": 5598.0,
+"total_units": 628.0,
+"complete_units": 545.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 70.4479,
+"complete_code_percent": 29.4742,
+"matched_data_percent": 98.3588,
+"complete_data_percent": 40.2186,
+"total_code": 1473412.0,
+"matched_code": 1037988.0,
+"total_data": 1295061.0,
+"total_functions": 3106.0,
+"matched_functions": 2908.0,
+"total_units": 267.0,
+"complete_units": 195.0
+},
+"redsound": {
+"matched_code_percent": 86.7376,
+"complete_code_percent": 30.9261,
+"matched_data_percent": 100.0,
+"complete_data_percent": 25.5719,
+"total_code": 68072.0,
+"matched_code": 59044.0,
+"total_data": 25790.0,
+"total_functions": 379.0,
+"matched_functions": 366.0,
+"total_units": 8.0,
+"complete_units": 4.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8809,
+"complete_data_percent": 100.0,
+"total_code": 309608.0,
+"matched_code": 309608.0,
+"total_data": 167976.0,
+"total_functions": 1244.0,
+"matched_functions": 1244.0,
+"total_units": 203.0,
+"complete_units": 203.0
+},
+"gba_cli": {
+"matched_code_percent": 99.6633,
+"complete_code_percent": 80.7958,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116622.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 651.0,
+"total_units": 62.0,
+"complete_units": 58.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 85.0
+},
+"unclassified_gc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 32.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3827,7 +4095,7 @@
 "gba_mgr": "GBA Minigame",
 "unclassified_gc": "Unclassified GameCube"
 },
-"units_time": "2026-10-19T00:52:52Z",
+"units_time": "2026-10-19T16:19:07Z",
 "units": [
 [
 "main/chunkfile",
@@ -4057,7 +4325,7 @@
 [
 "main/p_graphic",
 10168,
-89.72,
+91.11,
 0,
 [
 "game"
@@ -4192,7 +4460,7 @@
 [
 "main/FunnyShape",
 6684,
-98.26,
+98.33,
 0,
 [
 "game"
@@ -5227,7 +5495,7 @@
 [
 "main/mesmenu",
 11552,
-99.57,
+99.58,
 0,
 [
 "game"
@@ -5443,7 +5711,7 @@
 [
 "main/pppYmLaser",
 4612,
-99.48,
+99.63,
 0,
 [
 "game"
@@ -5668,7 +5936,7 @@
 [
 "main/wm_menu",
 114708,
-99.43,
+99.44,
 0,
 [
 "game"
@@ -5749,7 +6017,7 @@
 [
 "main/pppMiasma",
 6024,
-99.49,
+99.51,
 0,
 [
 "game"
@@ -5902,7 +6170,7 @@
 [
 "main/bonus_menu",
 45312,
-96.66,
+97.08,
 0,
 [
 "game"
@@ -6028,7 +6296,7 @@
 [
 "main/menu_cmd",
 23176,
-98.85,
+99.23,
 0,
 [
 "game"
@@ -6181,7 +6449,7 @@
 [
 "main/pppLaser",
 4956,
-99.63,
+99.66,
 0,
 [
 "game"
@@ -6190,7 +6458,7 @@
 [
 "main/MenuUtil",
 18092,
-99.21,
+99.51,
 0,
 [
 "game"
