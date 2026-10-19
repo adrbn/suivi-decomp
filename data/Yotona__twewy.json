@@ -1776,6 +1776,117 @@
 "complete_units": 35.0
 }
 }
+},
+{
+"sha": "0026d7347107415cbfbf2cd218f5859ae00b69a7",
+"time": "2026-10-18T22:31:35Z",
+"message": "Field Overlay (ov030) progress",
+"measures": {
+"matched_code_percent": 28.2732,
+"complete_code_percent": 7.8766,
+"matched_data_percent": 7.1049,
+"complete_data_percent": 3.4472,
+"total_code": 2495426.0,
+"matched_code": 705538.0,
+"total_data": 1271748.0,
+"total_functions": 14265.0,
+"matched_functions": 5741.0,
+"total_units": 683.0,
+"complete_units": 202.0
+},
+"categories": {
+"CriWare": {
+"matched_code_percent": 57.9063,
+"complete_code_percent": 10.022,
+"matched_data_percent": 63.7438,
+"complete_data_percent": 13.0883,
+"total_code": 65416.0,
+"matched_code": 37880.0,
+"total_data": 37224.0,
+"total_functions": 731.0,
+"matched_functions": 509.0,
+"total_units": 44.0,
+"complete_units": 6.0
+},
+"Engine": {
+"matched_code_percent": 48.0453,
+"complete_code_percent": 11.7581,
+"matched_data_percent": 40.0697,
+"complete_data_percent": 5.7491,
+"total_code": 67528.0,
+"matched_code": 32444.0,
+"total_data": 6888.0,
+"total_functions": 426.0,
+"matched_functions": 268.0,
+"total_units": 31.0,
+"complete_units": 10.0
+},
+"Field": {
+"matched_code_percent": 53.3388,
+"complete_code_percent": 3.8557,
+"matched_data_percent": 17.3131,
+"complete_data_percent": 10.8126,
+"total_code": 350964.0,
+"matched_code": 187200.0,
+"total_data": 198324.0,
+"total_functions": 1742.0,
+"matched_functions": 1359.0,
+"total_units": 106.0,
+"complete_units": 17.0
+},
+"Library": {
+"matched_code_percent": 66.6247,
+"complete_code_percent": 19.5319,
+"matched_data_percent": 61.1946,
+"complete_data_percent": 17.6146,
+"total_code": 119118.0,
+"matched_code": 79362.0,
+"total_data": 42056.0,
+"total_functions": 1072.0,
+"matched_functions": 801.0,
+"total_units": 96.0,
+"complete_units": 37.0
+},
+"MSL": {
+"matched_code_percent": 69.5647,
+"complete_code_percent": 25.365,
+"matched_data_percent": 51.9694,
+"complete_data_percent": 61.5974,
+"total_code": 30688.0,
+"matched_code": 21348.0,
+"total_data": 3656.0,
+"total_functions": 108.0,
+"matched_functions": 88.0,
+"total_units": 31.0,
+"complete_units": 20.0
+},
+"NitroSDK": {
+"matched_code_percent": 87.4859,
+"complete_code_percent": 38.7851,
+"matched_data_percent": 9.1837,
+"complete_data_percent": 24.1497,
+"total_code": 23014.0,
+"matched_code": 20134.0,
+"total_data": 1176.0,
+"total_functions": 233.0,
+"matched_functions": 204.0,
+"total_units": 21.0,
+"complete_units": 11.0
+},
+"Tin Pin Slammer": {
+"matched_code_percent": 68.4327,
+"complete_code_percent": 24.8124,
+"matched_data_percent": 57.6301,
+"complete_data_percent": 25.9727,
+"total_code": 154020.0,
+"matched_code": 105400.0,
+"total_data": 15832.0,
+"total_functions": 887.0,
+"matched_functions": 791.0,
+"total_units": 61.0,
+"complete_units": 35.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1786,9 +1897,10 @@
 "Field": "Field",
 "Library": "Library",
 "MSL": "MSL",
-"NitroSDK": "NitroSDK"
+"NitroSDK": "NitroSDK",
+"Tin Pin Slammer": "Tin Pin Slammer"
 },
-"units_time": "2026-10-12T18:04:34Z",
+"units_time": "2026-10-18T22:31:35Z",
 "units": [
 [
 "_dsd_gap@main_2",
@@ -2529,7 +2641,7 @@
 [
 "src/Inventory",
 9976,
-60.1,
+65.59,
 0,
 []
 ],
@@ -3205,7 +3317,7 @@
 [
 "src/Otosu/Menu/OtosuMenu_Lobby",
 11076,
-90.19,
+90.32,
 0,
 [
 "Tin Pin Slammer"
@@ -3406,7 +3518,7 @@
 [
 "src/Combat/Friend/Shiki/BtlFeat01",
 3304,
-13.39,
+13.44,
 0,
 []
 ],
@@ -3427,7 +3539,7 @@
 [
 "src/Combat/Friend/Shiki/BtlFeat02",
 9360,
-86.91,
+88.52,
 0,
 []
 ],
@@ -4062,162 +4174,143 @@
 []
 ],
 [
-"_dsd_gap@ov030_17",
-9612,
-0.0,
-0,
-[]
+"src/Field/Scene/FieldMain",
+2884,
+100.0,
+1,
+[
+"Field"
+]
 ],
 [
-"src/Field/Events",
+"src/Field/Scene/FieldBg",
+6728,
+99.79,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Event/Events",
 138348,
-0.07,
+99.67,
 0,
-[]
+[
+"Field"
+]
 ],
 [
-"src/Field/EventManager",
+"src/Field/Event/EventManager",
 17320,
-4.85,
+85.68,
 0,
-[]
+[
+"Field"
+]
 ],
 [
-"_dsd_gap@ov030_2",
-15888,
-0.0,
+"src/Field/Battle/FieldEncounter",
+12240,
+97.81,
 0,
-[]
+[
+"Field"
+]
 ],
 [
-"src/Field/EventFlags",
+"src/Field/Scene/FieldSeq",
+3648,
+14.25,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Event/EventFlags",
 544,
-34.56,
+99.85,
 0,
-[]
+[
+"Field"
+]
 ],
 [
-"_dsd_gap@ov030_3",
-5988,
-0.0,
+"src/Field/Battle/FieldBattleTransition",
+1484,
+99.95,
 0,
-[]
+[
+"Field"
+]
+],
+[
+"src/Field/Battle/FieldBattleSetup",
+4504,
+98.26,
+0,
+[
+"Field"
+]
 ],
 [
 "src/Interface/Debug/Field/FieldSelect",
 2940,
-0.0,
+0.54,
 0,
-[]
+[
+"Field"
+]
 ],
 [
 "src/Interface/Debug/Field/EventSelect",
 3244,
 0.0,
 0,
-[]
+[
+"Field"
+]
 ],
 [
 "src/Interface/Debug/Field/FieldVBlank",
 1028,
 0.0,
 0,
-[]
+[
+"Field"
+]
 ],
 [
-"_dsd_gap@ov030_6",
-26684,
-0.0,
-0,
-[]
-],
-[
-"src/Field/UnknownTables",
-8436,
-0.0,
-0,
-[]
-],
-[
-"_dsd_gap@ov030_8",
-36268,
-0.0,
-0,
-[]
-],
-[
-"src/Field/Fld_TalkEventStringPlate",
-1044,
-75.25,
+"src/Field/Tasks/Fld_Player",
+4172,
+98.24,
 0,
 [
 "Field"
 ]
 ],
 [
-"src/Field/Fld_TalkEventKeywordMenu",
-1200,
-31.68,
+"src/Field/Tasks/Fld_BustShot",
+3024,
+98.9,
 0,
 [
 "Field"
 ]
 ],
 [
-"_dsd_gap@ov030_11",
-12096,
-0.0,
-0,
-[]
-],
-[
-"src/Field/Fld_GetMess",
-884,
-100.0,
+"src/Field/Tasks/FldMesWindow",
+1184,
+93.92,
 0,
 [
 "Field"
 ]
 ],
 [
-"src/Field/Fld_WhichArrow",
-736,
-100.0,
-0,
-[
-"Field"
-]
-],
-[
-"src/Field/Fld_GetBase",
-624,
-64.36,
-0,
-[
-"Field"
-]
-],
-[
-"src/Field/Fld_GetItem",
-1368,
-32.75,
-0,
-[
-"Field"
-]
-],
-[
-"src/Field/Fld_Choice",
-1064,
-31.48,
-0,
-[
-"Field"
-]
-],
-[
-"src/Field/Fld_UGFade",
-432,
+"src/Field/Tasks/Fld_Badge",
+1040,
 98.46,
 0,
 [
@@ -4225,11 +4318,787 @@
 ]
 ],
 [
-"_dsd_gap@ov030_14",
-65216,
-0.0,
+"src/Field/Tasks/Fld_ScanArea",
+876,
+99.95,
 0,
-[]
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Human",
+4912,
+91.85,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldSceneRender",
+3488,
+97.6,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldSceneLoad",
+4112,
+97.31,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldArea",
+3876,
+94.58,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Event/EventSpawnTemplates",
+8436,
+98.7,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkIcon",
+796,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_NSymbolUG",
+4232,
+99.81,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_NSymbolUGEffect",
+608,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_MapJumpArrow",
+1104,
+99.99,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/FldCharaWalk",
+172,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Partner",
+3584,
+97.71,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_OnePicturCell",
+616,
+96.21,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_CockPit",
+708,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Watch",
+1460,
+86.77,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Phone",
+588,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/FldChara",
+912,
+90.98,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_ScanKirakira",
+952,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_ScanFukidasi",
+1480,
+95.9,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_NpcRG",
+608,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_LargeGingo",
+732,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Touch",
+2080,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TouchCommand",
+1068,
+99.99,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TouchSeal",
+700,
+93.62,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TouchCursor",
+716,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TouchShine",
+588,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Raster",
+364,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_NSymbolUGMgr",
+764,
+95.82,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Luck",
+5144,
+99.3,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Chain",
+984,
+77.07,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_ScanMoya",
+512,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Wall",
+1600,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldAmbientSound",
+308,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldMusic",
+1408,
+98.92,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventTouch",
+848,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventPlate",
+632,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventStringPlate",
+1044,
+97.6,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventKeywordMenu",
+1420,
+81.17,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventCursor",
+772,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventDecide",
+612,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TalkEventTitle",
+552,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_MapJumpName",
+1452,
+57.48,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_MapName",
+892,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/FieldShopName",
+136,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_NSymbolUGAppear",
+696,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Battle/FieldNoiseEncounter",
+348,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Battle/FieldNoiseQuota",
+272,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Piranha",
+1472,
+48.1,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/FldSpriteFrame",
+2252,
+13.63,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/FldOamCell",
+1052,
+3.66,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_TouchNext",
+568,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_GetPlate",
+800,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_GetMess",
+884,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_WhichArrow",
+736,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_GetBase",
+624,
+97.06,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_GetItem",
+1368,
+98.57,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Choice",
+1064,
+94.86,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_UGFade",
+432,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_BattleIn",
+708,
+97.41,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_EventMail",
+496,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Brush",
+1460,
+98.23,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_BrushHati",
+488,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Task_Mess",
+688,
+90.82,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Task_Window",
+3264,
+18.01,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_Shinigami",
+6492,
+99.97,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_ShinigamiCoin",
+2560,
+98.27,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/Fld_ShinigamiON",
+536,
+93.31,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FOAllocator",
+740,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FO3DRes",
+632,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FO3DObj",
+436,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FO3DObjMgr",
+12408,
+96.26,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FO3DViewerImd",
+384,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FO3DViewer",
+4424,
+99.94,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FOFileList",
+756,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FOPtrList",
+1452,
+99.39,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/LocaTitleSeq",
+812,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Scene/LocaTitle",
+976,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Tasks/XFade",
+5812,
+11.36,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/SeqFlash",
+1916,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/SeqFlashSel",
+1020,
+99.07,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashGraphicsInit",
+1912,
+99.5,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashRender",
+1800,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashHeap",
+388,
+100.0,
+1,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashWrapper",
+840,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashTexture",
+2796,
+71.02,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashDisplayList",
+1664,
+100.0,
+0,
+[
+"Field"
+]
+],
+[
+"src/Field/Flash/FlashPlayer",
+7356,
+99.82,
+0,
+[
+"Field"
+]
 ],
 [
 "src/Util/SysFont",
@@ -4661,7 +5530,7 @@
 [
 "src/Debug/Suyama/StaffRoll",
 8952,
-21.45,
+21.47,
 0,
 []
 ],

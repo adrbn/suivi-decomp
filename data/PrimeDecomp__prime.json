@@ -1,6 +1,91 @@
 {
 "history": [
 {
+"sha": "f0678a225422c023d43422ae6ba3cff32bf5356e",
+"time": "2026-10-12T22:12:11Z",
+"message": "Link CBSLocomotion & CFluidPlaneManager on PAL/JPN (#852)",
+"measures": {
+"matched_code_percent": 92.0682,
+"complete_code_percent": 60.3766,
+"matched_data_percent": 97.9843,
+"complete_data_percent": 74.8783,
+"total_code": 4005436.0,
+"matched_code": 3687732.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16428.0,
+"total_units": 830.0,
+"complete_units": 727.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.9868,
+"complete_code_percent": 59.9699,
+"matched_data_percent": 97.7962,
+"complete_data_percent": 72.4474,
+"total_code": 3964744.0,
+"matched_code": 3647040.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16347.0,
+"total_units": 826.0,
+"complete_units": 723.0
+},
+"game": {
+"matched_code_percent": 90.5083,
+"complete_code_percent": 52.5099,
+"matched_data_percent": 94.4458,
+"complete_data_percent": 78.286,
+"total_code": 2741172.0,
+"matched_code": 2480988.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11387.0,
+"total_units": 364.0,
+"complete_units": 292.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "e44aed7482dd9a64f2983427e645d66fb569850d",
 "time": "2026-10-12T23:05:07Z",
 "message": "Link CAnimationSet and CCharacterFactory on GM8P01_00 and GM8J01_00 (#854)",
@@ -1871,6 +1956,91 @@
 }
 },
 {
+"sha": "3369daa0a6c639acee84842161a6660f6a0f3d77",
+"time": "2026-10-17T22:42:12Z",
+"message": "Match & link CParticleDatabase (#874)",
+"measures": {
+"matched_code_percent": 93.8582,
+"complete_code_percent": 68.3306,
+"matched_data_percent": 98.4545,
+"complete_data_percent": 79.4532,
+"total_code": 4005436.0,
+"matched_code": 3759432.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16474.0,
+"total_units": 829.0,
+"complete_units": 736.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 93.7952,
+"complete_code_percent": 68.0056,
+"matched_data_percent": 98.3119,
+"complete_data_percent": 77.465,
+"total_code": 3964744.0,
+"matched_code": 3718740.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16393.0,
+"total_units": 825.0,
+"complete_units": 732.0
+},
+"game": {
+"matched_code_percent": 92.7602,
+"complete_code_percent": 64.1057,
+"matched_data_percent": 95.8561,
+"complete_data_percent": 92.0064,
+"total_code": 2741172.0,
+"matched_code": 2542716.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11427.0,
+"total_units": 363.0,
+"complete_units": 300.0
+},
+"core": {
+"matched_code_percent": 94.2254,
+"complete_code_percent": 65.4394,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5843,
+"total_code": 823400.0,
+"matched_code": 775852.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3653.0,
+"total_units": 263.0,
+"complete_units": 233.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "f8d1d9ad28668a6f58b79d146c525db5392262d6",
 "time": "2026-10-17T23:15:03Z",
 "message": "Link CIceAttackProjectile (#875)",
@@ -2554,6 +2724,91 @@
 "sha": "945f3a19777dc3c50e129e2e83421bff41fd8702",
 "time": "2026-10-18T03:52:17Z",
 "message": "Link CRidley on all GC versions (#878)",
+"measures": {
+"matched_code_percent": 93.8861,
+"complete_code_percent": 69.0499,
+"matched_data_percent": 98.4667,
+"complete_data_percent": 79.4994,
+"total_code": 4005436.0,
+"matched_code": 3760548.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16476.0,
+"total_units": 829.0,
+"complete_units": 739.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 93.8234,
+"complete_code_percent": 68.7322,
+"matched_data_percent": 98.3252,
+"complete_data_percent": 77.5157,
+"total_code": 3964744.0,
+"matched_code": 3719856.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16395.0,
+"total_units": 825.0,
+"complete_units": 735.0
+},
+"game": {
+"matched_code_percent": 92.7602,
+"complete_code_percent": 64.7344,
+"matched_data_percent": 95.8901,
+"complete_data_percent": 92.0865,
+"total_code": 2741172.0,
+"matched_code": 2542716.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11427.0,
+"total_units": 363.0,
+"complete_units": 302.0
+},
+"core": {
+"matched_code_percent": 94.3609,
+"complete_code_percent": 66.8453,
+"matched_data_percent": 99.6633,
+"complete_data_percent": 61.6262,
+"total_code": 823400.0,
+"matched_code": 776968.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3655.0,
+"total_units": 263.0,
+"complete_units": 234.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "1606af89434ed47ad8a5721622ce78157d8a9a99",
+"time": "2026-10-18T16:21:51Z",
+"message": "Link CParasite on PAL/JPN and CPlayer on Korea (#879)",
 "measures": {
 "matched_code_percent": 93.8861,
 "complete_code_percent": 69.0499,

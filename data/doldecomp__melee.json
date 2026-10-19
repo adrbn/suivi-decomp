@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "aae5d1558870ca62a9c0a48cd1cfbea1840a4911",
+"time": "2026-10-04T22:38:22Z",
+"message": "dat-cli: preserve loader bindings and type fighter item slots (#3619)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "a1184c996238d933bcb6b3c4af3fb8720cf8f298",
+"time": "2026-10-05T01:54:24Z",
+"message": "dat: sample each case once, show every piece of each archive, one header per unit (#3628)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
+"sha": "12556da73050fcce1ce4af2b57ac91f795651b6c",
+"time": "2026-10-05T04:33:08Z",
+"message": "dat: report and raise byte coverage, type unused data by address in dat_symbols.txt (#3630)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3882032.0,
+"matched_code": 3882032.0,
+"total_data": 1211172.0,
+"total_functions": 19828.0,
+"matched_functions": 19828.0,
+"total_units": 1133.0,
+"complete_units": 1133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3263712.0,
+"matched_code": 3263712.0,
+"total_data": 799851.0,
+"total_functions": 17704.0,
+"matched_functions": 17704.0,
+"total_units": 912.0,
+"complete_units": 912.0
+},
+"hsd": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 365720.0,
+"matched_code": 365720.0,
+"total_data": 265198.0,
+"total_functions": 1078.0,
+"matched_functions": 1078.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 208952.0,
+"matched_code": 208952.0,
+"total_data": 133939.0,
+"total_functions": 837.0,
+"matched_functions": 837.0,
+"total_units": 96.0,
+"complete_units": 96.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 43648.0,
+"matched_code": 43648.0,
+"total_data": 12184.0,
+"total_functions": 209.0,
+"matched_functions": 209.0,
+"total_units": 51.0,
+"complete_units": 51.0
+}
+}
+},
+{
 "sha": "c5564c6650bd4ba11ffbedf3db83a3797c90d984",
 "time": "2026-10-05T04:49:25Z",
 "message": "Type fixes and item enum and reorg work (#3629)",
