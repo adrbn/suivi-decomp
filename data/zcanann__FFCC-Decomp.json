@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "86edaff27ae3a93e9a18d571e13be0f6386b6443",
+"time": "2026-10-05T16:22:30Z",
+"message": "Merge staging: regional message recovery, memory-card placement, and SDK linkage",
+"measures": {
+"matched_code_percent": 38.1468,
+"complete_code_percent": 15.9868,
+"matched_data_percent": 27.0096,
+"complete_data_percent": 19.9574,
+"total_code": 2028444.0,
+"matched_code": 773786.0,
+"total_data": 1686131.0,
+"total_functions": 5811.0,
+"matched_functions": 3252.0,
+"total_units": 1905.0,
+"complete_units": 286.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.5881,
+"complete_code_percent": 0.6144,
+"matched_data_percent": 83.7957,
+"complete_data_percent": 0.6547,
+"total_code": 1018860.0,
+"matched_code": 423724.0,
+"total_data": 143567.0,
+"total_functions": 1799.0,
+"matched_functions": 1452.0,
+"total_units": 62.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6786,
+"complete_data_percent": 100.0,
+"total_code": 173716.0,
+"matched_code": 173716.0,
+"total_data": 145635.0,
+"total_functions": 721.0,
+"matched_functions": 721.0,
+"total_units": 135.0,
+"complete_units": 135.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 658512.0,
+"matched_code": 0.0,
+"total_data": 1200640.0,
+"total_functions": 2209.0,
+"matched_functions": 0.0,
+"total_units": 1560.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "6ceaa120d6438d8363d0d30078c0a2e602b11229",
+"time": "2026-10-05T16:42:16Z",
+"message": "Merge staging: regional menu recovery and MetroTRK source linkage",
+"measures": {
+"matched_code_percent": 38.6599,
+"complete_code_percent": 16.3051,
+"matched_data_percent": 27.1243,
+"complete_data_percent": 20.0606,
+"total_code": 2028444.0,
+"matched_code": 784194.0,
+"total_data": 1686111.0,
+"total_functions": 5811.0,
+"matched_functions": 3294.0,
+"total_units": 1897.0,
+"complete_units": 292.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.2436,
+"complete_code_percent": 0.6037,
+"matched_data_percent": 83.6777,
+"complete_data_percent": 0.6528,
+"total_code": 1036952.0,
+"matched_code": 427676.0,
+"total_data": 143999.0,
+"total_functions": 1811.0,
+"matched_functions": 1461.0,
+"total_units": 63.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6824,
+"complete_data_percent": 100.0,
+"total_code": 180172.0,
+"matched_code": 180172.0,
+"total_data": 147371.0,
+"total_functions": 754.0,
+"matched_functions": 754.0,
+"total_units": 141.0,
+"complete_units": 141.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 633964.0,
+"matched_code": 0.0,
+"total_data": 1198452.0,
+"total_functions": 2164.0,
+"matched_functions": 0.0,
+"total_units": 1545.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "fab17ab34301ca6e9788460fe520e831a64c706b",
+"time": "2026-10-05T17:38:07Z",
+"message": "Merge staging: regional GC ownership, source linkage and Japanese menus",
+"measures": {
+"matched_code_percent": 41.9142,
+"complete_code_percent": 19.3054,
+"matched_data_percent": 33.5571,
+"complete_data_percent": 20.4559,
+"total_code": 2028452.0,
+"matched_code": 850210.0,
+"total_data": 1686027.0,
+"total_functions": 5812.0,
+"matched_functions": 3597.0,
+"total_units": 1908.0,
+"complete_units": 325.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.6413,
+"complete_code_percent": 0.7602,
+"matched_data_percent": 90.605,
+"complete_data_percent": 1.1255,
+"total_code": 1043444.0,
+"matched_code": 434504.0,
+"total_data": 247367.0,
+"total_functions": 1852.0,
+"matched_functions": 1503.0,
+"total_units": 66.0,
+"complete_units": 12.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6925,
+"complete_data_percent": 100.0,
+"total_code": 239360.0,
+"matched_code": 239360.0,
+"total_data": 152175.0,
+"total_functions": 1015.0,
+"matched_functions": 1015.0,
+"total_units": 172.0,
+"complete_units": 172.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 568292.0,
+"matched_code": 0.0,
+"total_data": 1090196.0,
+"total_functions": 1863.0,
+"matched_functions": 0.0,
+"total_units": 1522.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "2f14d9d611b2e80bb3fe49d00758c3d0442391b9",
 "time": "2026-10-05T18:27:01Z",
 "message": "Merge staging: regional SDK linkage and Japanese rendering recovery",

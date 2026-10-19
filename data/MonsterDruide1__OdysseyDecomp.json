@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "fcc4f89d2f3a0a3e0bc9d4eec09ccb3e54e9a915",
+"time": "2026-08-20T13:22:13Z",
+"message": "Util: Finish implementing `ItemUtil` (#1331)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "5eb179e17d571cb6ad9ac1ce20b4db732ac58ed9",
+"time": "2026-08-20T20:55:51Z",
+"message": "MapObj: Implement `GrowSeedStateRevival` (#1081)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "c9f862f3ded55f981f01e6e55e7e150a314a88e1",
+"time": "2026-08-22T09:25:15Z",
+"message": "Player: Implement `YoshiStateEgg` (#1333)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "6cea24bc1b3f68ed41d8ae50af9cbe8b5a4f77d3",
 "time": "2026-08-23T18:50:58Z",
 "message": "Library/Model: Implement `SkyParam` (#1336)",
