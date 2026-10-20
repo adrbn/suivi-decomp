@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "d80f2e62c7714e76e58a01d1fb980daf5d1644c1",
+"time": "2026-10-04T23:11:11Z",
+"message": "Merge staging: automate regional GBA recovery and reporting",
+"measures": {
+"matched_code_percent": 7.1612,
+"complete_code_percent": 1.6067,
+"matched_data_percent": 0.1592,
+"complete_data_percent": 0.1592,
+"total_code": 2020456.0,
+"matched_code": 144688.0,
+"total_data": 1675685.0,
+"total_functions": 5810.0,
+"matched_functions": 978.0,
+"total_units": 3187.0,
+"complete_units": 85.0
+},
+"categories": {
+"gba_cli": {
+"matched_code_percent": 72.6807,
+"complete_code_percent": 2.897,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 117016.0,
+"matched_code": 85048.0,
+"total_data": 78197.0,
+"total_functions": 653.0,
+"matched_functions": 560.0,
+"total_units": 51.0,
+"complete_units": 22.0
+},
+"gba_mgr": {
+"matched_code_percent": 98.8399,
+"complete_code_percent": 48.1803,
+"matched_data_percent": 2.4825,
+"complete_data_percent": 2.4825,
+"total_code": 60340.0,
+"matched_code": 59640.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 418.0,
+"total_units": 76.0,
+"complete_units": 63.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 1843100.0,
+"matched_code": 0.0,
+"total_data": 1490016.0,
+"total_functions": 4728.0,
+"matched_functions": 0.0,
+"total_units": 3060.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "3008d992890af7d37d3d2db6df298d77a4d9f937",
+"time": "2026-10-04T23:58:40Z",
+"message": "Merge staging: regional GBA workspace and source linkage parity",
+"measures": {
+"matched_code_percent": 7.9779,
+"complete_code_percent": 2.5198,
+"matched_data_percent": 0.2553,
+"complete_data_percent": 0.2553,
+"total_code": 2020456.0,
+"matched_code": 161190.0,
+"total_data": 1676225.0,
+"total_functions": 5810.0,
+"matched_functions": 1034.0,
+"total_units": 3197.0,
+"complete_units": 97.0
+},
+"categories": {
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1396.0,
+"matched_code": 1396.0,
+"total_data": 0.0,
+"total_functions": 9.0,
+"matched_functions": 9.0,
+"total_units": 6.0,
+"complete_units": 6.0
+},
+"gba_cli": {
+"matched_code_percent": 85.0584,
+"complete_code_percent": 4.7053,
+"matched_data_percent": 0.0203,
+"complete_data_percent": 0.0203,
+"total_code": 117016.0,
+"matched_code": 99532.0,
+"total_data": 78737.0,
+"total_functions": 653.0,
+"matched_functions": 603.0,
+"total_units": 51.0,
+"complete_units": 23.0
+},
+"gba_mgr": {
+"matched_code_percent": 99.8707,
+"complete_code_percent": 72.9367,
+"matched_data_percent": 3.9675,
+"complete_data_percent": 3.9675,
+"total_code": 60340.0,
+"matched_code": 60262.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 422.0,
+"total_units": 76.0,
+"complete_units": 68.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 1841704.0,
+"matched_code": 0.0,
+"total_data": 1490016.0,
+"total_functions": 4719.0,
+"matched_functions": 0.0,
+"total_units": 3064.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8814661988876ee4de5ed6dac379b4198a13c639",
+"time": "2026-10-05T02:32:37Z",
+"message": "Merge staging: cross-region GameCube and GBA recovery",
+"measures": {
+"matched_code_percent": 12.7221,
+"complete_code_percent": 11.0625,
+"matched_data_percent": 9.8009,
+"complete_data_percent": 9.8,
+"total_code": 2020456.0,
+"matched_code": 257044.0,
+"total_data": 1686297.0,
+"total_functions": 5810.0,
+"matched_functions": 1371.0,
+"total_units": 3341.0,
+"complete_units": 219.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2072.0,
+"matched_code": 2072.0,
+"total_data": 656.0,
+"total_functions": 44.0,
+"matched_functions": 44.0,
+"total_units": 9.0,
+"complete_units": 9.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 79560.0,
+"matched_code": 79560.0,
+"total_data": 11340.0,
+"total_functions": 257.0,
+"matched_functions": 257.0,
+"total_units": 74.0,
+"complete_units": 74.0
+},
+"gba_cli": {
+"matched_code_percent": 98.3387,
+"complete_code_percent": 74.2018,
+"matched_data_percent": 51.873,
+"complete_data_percent": 51.8561,
+"total_code": 117016.0,
+"matched_code": 115072.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 641.0,
+"total_units": 59.0,
+"complete_units": 52.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 1761468.0,
+"matched_code": 0.0,
+"total_data": 1478012.0,
+"total_functions": 4427.0,
+"matched_functions": 0.0,
+"total_units": 3113.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "57ccec5738b17931e1c21e5ef319c4e17c77ddbb",
 "time": "2026-10-05T03:10:31Z",
 "message": "Merge staging: regional SDK and Japanese client recovery",
@@ -4612,8 +4828,6 @@
 "artifact": "GCCE01_report",
 "workflow": 211454623,
 "category_names": {
-"game": "Game Code",
-"sdk": "SDK Code",
 "gba_cli": "GBA Client",
 "gba_mgr": "GBA Minigame",
 "unclassified_gc": "Unclassified GameCube"

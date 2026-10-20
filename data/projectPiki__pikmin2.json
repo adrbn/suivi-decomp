@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "41edc3aff0f45c660ae9fcc3eccd13c57f23315a",
+"time": "2026-07-27T18:23:49Z",
+"message": "Match memcard mgr, execMoveGuru, improve ActGotoSlot, ActPathMove (#256)",
+"measures": {
+"matched_code_percent": 87.0912,
+"complete_code_percent": 55.9486,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.7847,
+"total_code": 4651476.0,
+"matched_code": 4051024.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24339.0,
+"total_units": 1153.0,
+"complete_units": 963.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8964,
+"complete_code_percent": 51.5737,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.4754,
+"total_code": 3619576.0,
+"matched_code": 3109084.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18893.0,
+"total_units": 737.0,
+"complete_units": 585.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "9387a24c7f963ea60868c6b6126132ccd2b2e2e4",
+"time": "2026-07-27T18:34:14Z",
+"message": "match and link gameCaveInfo.cpp, fix FixedSizeItemMgr vtable order (#258)",
+"measures": {
+"matched_code_percent": 87.1003,
+"complete_code_percent": 56.0773,
+"matched_data_percent": 94.9296,
+"complete_data_percent": 68.8956,
+"total_code": 4651476.0,
+"matched_code": 4051448.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24340.0,
+"total_units": 1153.0,
+"complete_units": 964.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.9081,
+"complete_code_percent": 51.7391,
+"matched_data_percent": 96.6148,
+"complete_data_percent": 64.611,
+"total_code": 3619576.0,
+"matched_code": 3109508.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18894.0,
+"total_units": 737.0,
+"complete_units": 586.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "55471edf0d6d991b0cb209436557116bd33c2d06",
+"time": "2026-07-27T18:44:53Z",
+"message": "match Navi::playWalkSound / other small fixes",
+"measures": {
+"matched_code_percent": 87.1068,
+"complete_code_percent": 56.0773,
+"matched_data_percent": 94.9296,
+"complete_data_percent": 68.8956,
+"total_code": 4651476.0,
+"matched_code": 4051752.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24341.0,
+"total_units": 1153.0,
+"complete_units": 964.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.9165,
+"complete_code_percent": 51.7391,
+"matched_data_percent": 96.6148,
+"complete_data_percent": 64.611,
+"total_code": 3619576.0,
+"matched_code": 3109812.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18895.0,
+"total_units": 737.0,
+"complete_units": 586.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
 "sha": "0d5fc69e6a03474fb0134251a22403bdd749832b",
 "time": "2026-07-28T01:07:36Z",
 "message": "misc matches, link geomIntersection.cpp (#259)",

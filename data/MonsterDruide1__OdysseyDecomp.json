@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "0f194636f077d06b3665e5650492cb1499f5861a",
+"time": "2026-07-26T21:46:45Z",
+"message": "Project/SaveData: Document bug for reading nonexistant files (#1326)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "3c096d4f1e00d92802889149beb664c7912cc60d",
+"time": "2026-08-02T10:31:53Z",
+"message": "lib/sead: Update submodule to `ef339f6` (#1328)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "602810181596ee8ccf3d8a4ed44d346657801a87",
+"time": "2026-08-02T15:45:26Z",
+"message": "Library/Camera: Implement `CameraOffsetPreset` (#1322)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "da4ca4b349c43590b7b57dd3eebae6ee62c89384",
 "time": "2026-08-03T10:57:27Z",
 "message": "Npc: Implement `SessionMusicianBgmController` (#1321)",
