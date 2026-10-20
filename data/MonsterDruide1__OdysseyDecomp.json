@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "938537f971b9bbeeceae68845b7fe30a54790da8",
+"time": "2026-07-24T08:49:30Z",
+"message": "workflow: Check for duplicate filenames in workflow (#1320)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "0de3c759bf991807b1a8a6b177208a685eb56924",
+"time": "2026-07-24T13:43:30Z",
+"message": "workflow: Add #1320 as rebase requirement (#1323)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "44c864f0b1881b4f9e38ae2d3c7b0f500abdd363",
+"time": "2026-07-26T20:30:55Z",
+"message": "data: Add NEX splits to `file_list.yml` (#1319)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "0f194636f077d06b3665e5650492cb1499f5861a",
 "time": "2026-07-26T21:46:45Z",
 "message": "Project/SaveData: Document bug for reading nonexistant files (#1326)",

@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "73029e538782c1bbfa11fa32838f1adce36907ce",
+"time": "2026-07-27T02:48:17Z",
+"message": "Link efxBase",
+"measures": {
+"matched_code_percent": 87.0303,
+"complete_code_percent": 55.5758,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.7201,
+"total_code": 4651476.0,
+"matched_code": 4048196.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24334.0,
+"total_units": 1153.0,
+"complete_units": 962.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8182,
+"complete_code_percent": 51.0946,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.3965,
+"total_code": 3619576.0,
+"matched_code": 3106256.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18888.0,
+"total_units": 737.0,
+"complete_units": 584.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "34291667c1480b93011158abdbf0576ca3e177ef",
+"time": "2026-07-27T03:03:06Z",
+"message": "match navi getManType and shugo/kaisan SEs, fixing wrong sound ids (#254)",
+"measures": {
+"matched_code_percent": 87.0381,
+"complete_code_percent": 55.5758,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.7201,
+"total_code": 4651476.0,
+"matched_code": 4048556.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24337.0,
+"total_units": 1153.0,
+"complete_units": 962.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8282,
+"complete_code_percent": 51.0946,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.3965,
+"total_code": 3619576.0,
+"matched_code": 3106616.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18891.0,
+"total_units": 737.0,
+"complete_units": 584.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "7f17b9e48a857cc45d0f8729acf5eb2271ae25b2",
+"time": "2026-07-27T03:16:24Z",
+"message": "Mark many enemies as equivalent (#255)",
+"measures": {
+"matched_code_percent": 87.0381,
+"complete_code_percent": 55.5758,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.7201,
+"total_code": 4651476.0,
+"matched_code": 4048556.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24337.0,
+"total_units": 1153.0,
+"complete_units": 962.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8282,
+"complete_code_percent": 51.0946,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.3965,
+"total_code": 3619576.0,
+"matched_code": 3106616.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18891.0,
+"total_units": 737.0,
+"complete_units": 584.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
 "sha": "41edc3aff0f45c660ae9fcc3eccd13c57f23315a",
 "time": "2026-07-27T18:23:49Z",
 "message": "Match memcard mgr, execMoveGuru, improve ActGotoSlot, ActPathMove (#256)",

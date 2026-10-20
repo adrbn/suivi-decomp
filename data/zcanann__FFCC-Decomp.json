@@ -1,6 +1,65 @@
 {
 "history": [
 {
+"sha": "b84f81cb0cf503098606e85e0445a1b4564826bb",
+"time": "2026-10-04T21:34:38Z",
+"message": "Merge staging: enable regional GameCube and GBA builds and reporting",
+"measures": {
+"matched_code_percent": 6.6704,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 2011512.0,
+"matched_code": 134176.0,
+"total_data": 1674826.0,
+"total_functions": 5711.0,
+"matched_functions": 875.0,
+"total_units": 3186.0,
+"complete_units": 0.0
+},
+"categories": {
+"gba_cli": {
+"matched_code_percent": 71.2473,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 116636.0,
+"matched_code": 83100.0,
+"total_data": 78197.0,
+"total_functions": 650.0,
+"matched_functions": 553.0,
+"total_units": 51.0,
+"complete_units": 0.0
+},
+"gba_mgr": {
+"matched_code_percent": 98.648,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 51776.0,
+"matched_code": 51076.0,
+"total_data": 106613.0,
+"total_functions": 333.0,
+"matched_functions": 322.0,
+"total_units": 75.0,
+"complete_units": 0.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 1843100.0,
+"matched_code": 0.0,
+"total_data": 1490016.0,
+"total_functions": 4728.0,
+"matched_functions": 0.0,
+"total_units": 3060.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "d80f2e62c7714e76e58a01d1fb980daf5d1644c1",
 "time": "2026-10-04T23:11:11Z",
 "message": "Merge staging: automate regional GBA recovery and reporting",
