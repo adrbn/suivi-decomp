@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "da4ca4b349c43590b7b57dd3eebae6ee62c89384",
+"time": "2026-08-03T10:57:27Z",
+"message": "Npc: Implement `SessionMusicianBgmController` (#1321)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "befc651f66be3f1929202c0de0c8c6b0157d71d9",
+"time": "2026-08-03T11:41:28Z",
+"message": "System: Implement `WorldList` (#1299)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "bc47fa707850303ba617a4b5ebf5ca68f502e233",
+"time": "2026-08-04T15:08:06Z",
+"message": "System: Implement `TempSaveData` (#1298)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "4a87deda5b4abd52cfc67e68d13563ece22bba75",
 "time": "2026-08-04T16:40:09Z",
 "message": "Amiibo: Implement `HelpAmiiboDirector` (#1300)",

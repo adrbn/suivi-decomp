@@ -1,6 +1,222 @@
 {
 "history": [
 {
+"sha": "ae532931aee3de2dab792e1da5ecc384c1cd1ee1",
+"time": "2026-09-28T01:15:43Z",
+"message": "update tools",
+"measures": {
+"matched_code_percent": 0.7838,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0477,
+"complete_data_percent": 0.0,
+"total_code": 6272888.0,
+"matched_code": 49164.0,
+"total_data": 1702596.0,
+"total_functions": 50831.0,
+"matched_functions": 627.0,
+"total_units": 4111.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 77.847,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.2121,
+"complete_data_percent": 0.0,
+"total_code": 7060.0,
+"matched_code": 5496.0,
+"total_data": 3300.0,
+"total_functions": 36.0,
+"matched_functions": 26.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "f443e7f016684898f613d5b9b89374046c284232",
+"time": "2026-09-28T02:25:52Z",
+"message": "move over `MetroTRK`",
+"measures": {
+"matched_code_percent": 1.2408,
+"complete_code_percent": 0.457,
+"matched_data_percent": 0.6569,
+"complete_data_percent": 0.6092,
+"total_code": 6272892.0,
+"matched_code": 77832.0,
+"total_data": 1702596.0,
+"total_functions": 50831.0,
+"matched_functions": 769.0,
+"total_units": 4114.0,
+"complete_units": 26.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 77.847,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.2121,
+"complete_data_percent": 0.0,
+"total_code": 7060.0,
+"matched_code": 5496.0,
+"total_data": 3300.0,
+"total_functions": 36.0,
+"matched_functions": 26.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "0d5724f7382f1eef2a2576a3f61e5eb35e62a72f",
+"time": "2026-09-28T21:46:26Z",
+"message": "`MSL_C`",
+"measures": {
+"matched_code_percent": 2.2487,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 1.2071,
+"complete_data_percent": 1.1594,
+"total_code": 6272892.0,
+"matched_code": 141056.0,
+"total_data": 1702588.0,
+"total_functions": 50831.0,
+"matched_functions": 903.0,
+"total_units": 4147.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 77.847,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.2121,
+"complete_data_percent": 0.0,
+"total_code": 7060.0,
+"matched_code": 5496.0,
+"total_data": 3300.0,
+"total_functions": 36.0,
+"matched_functions": 26.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "239d3ade2561c4702cd0a9cc25ce94453fd4a1a2",
 "time": "2026-09-28T22:41:46Z",
 "message": "`RVL_SDK` raw transfer",
@@ -5857,9 +6073,7 @@
 "category_names": {
 "game": "Game Code",
 "sdk": "SDK Code",
-"nw4r": "NintendoWare Code",
-"msl": "MSL_C Code",
-"trk": "MetroTRK Code"
+"nw4r": "NintendoWare Code"
 },
 "units_time": "2026-10-19T18:41:41Z",
 "units": [

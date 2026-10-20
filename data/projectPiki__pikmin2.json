@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "0d5fc69e6a03474fb0134251a22403bdd749832b",
+"time": "2026-07-28T01:07:36Z",
+"message": "misc matches, link geomIntersection.cpp (#259)",
+"measures": {
+"matched_code_percent": 87.2084,
+"complete_code_percent": 56.1045,
+"matched_data_percent": 94.9296,
+"complete_data_percent": 68.8968,
+"total_code": 4651476.0,
+"matched_code": 4056480.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24345.0,
+"total_units": 1153.0,
+"complete_units": 965.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.0471,
+"complete_code_percent": 51.774,
+"matched_data_percent": 96.6148,
+"complete_data_percent": 64.6125,
+"total_code": 3619576.0,
+"matched_code": 3114540.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18899.0,
+"total_units": 737.0,
+"complete_units": 587.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "01fb09cdd6b555ec044778c273a0acae8931a0b3",
+"time": "2026-07-28T19:29:09Z",
+"message": "Aram mgr pathfinder (#260)",
+"measures": {
+"matched_code_percent": 87.2239,
+"complete_code_percent": 56.1362,
+"matched_data_percent": 94.9321,
+"complete_data_percent": 68.9066,
+"total_code": 4651476.0,
+"matched_code": 4057200.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24347.0,
+"total_units": 1153.0,
+"complete_units": 966.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.067,
+"complete_code_percent": 51.8147,
+"matched_data_percent": 96.6178,
+"complete_data_percent": 64.6244,
+"total_code": 3619576.0,
+"matched_code": 3115260.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18901.0,
+"total_units": 737.0,
+"complete_units": 588.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "2a697db31cc25da8d70561429a84dcf71c88f7e2",
+"time": "2026-07-29T19:34:54Z",
+"message": "link itemHoney.cpp, fix J2DPane/J2DPicture operator, itemWeed weak order fixes (#261)",
+"measures": {
+"matched_code_percent": 87.234,
+"complete_code_percent": 56.4181,
+"matched_data_percent": 94.9321,
+"complete_data_percent": 69.2185,
+"total_code": 4651476.0,
+"matched_code": 4057668.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24348.0,
+"total_units": 1153.0,
+"complete_units": 967.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.0799,
+"complete_code_percent": 52.1769,
+"matched_data_percent": 96.6178,
+"complete_data_percent": 65.0059,
+"total_code": 3619576.0,
+"matched_code": 3115728.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18902.0,
+"total_units": 737.0,
+"complete_units": 589.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
 "sha": "c478360e8fcdbde555a031e350fee70914767ed7",
 "time": "2026-07-29T19:46:13Z",
 "message": "JASChannel fix dtor",
