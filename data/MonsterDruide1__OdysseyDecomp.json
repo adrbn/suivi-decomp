@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "4a87deda5b4abd52cfc67e68d13563ece22bba75",
+"time": "2026-08-04T16:40:09Z",
+"message": "Amiibo: Implement `HelpAmiiboDirector` (#1300)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "441aec95d1df102b5035a359535a859364026292",
+"time": "2026-08-04T20:37:52Z",
+"message": "Library/Math: Implement `MtxPtrHolder` (#1304)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "b64cbfb463ff7437b4ad5e4b40a5b7b7be893ee9",
+"time": "2026-08-08T21:40:24Z",
+"message": "Util: Implement `YoshiUtil` (#1329)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "aab26c3e14e813737682777f4155c15ed1cf3d07",
 "time": "2026-08-16T21:15:45Z",
 "message": "README: update link to guide on dumping ROM from console (#1335)",

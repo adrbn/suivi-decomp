@@ -1,6 +1,91 @@
 {
 "history": [
 {
+"sha": "bf949f1c400bd0bf78f7d5a2c3962a814887bbe5",
+"time": "2026-10-12T18:30:32Z",
+"message": "Link 8 NTSC-complete units on PAL/JPN (#847)",
+"measures": {
+"matched_code_percent": 91.9212,
+"complete_code_percent": 59.8602,
+"matched_data_percent": 97.9843,
+"complete_data_percent": 74.8251,
+"total_code": 4005436.0,
+"matched_code": 3681844.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16423.0,
+"total_units": 830.0,
+"complete_units": 723.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.8383,
+"complete_code_percent": 59.4482,
+"matched_data_percent": 97.7962,
+"complete_data_percent": 72.3891,
+"total_code": 3964744.0,
+"matched_code": 3641152.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16342.0,
+"total_units": 826.0,
+"complete_units": 719.0
+},
+"game": {
+"matched_code_percent": 90.2935,
+"complete_code_percent": 51.7554,
+"matched_data_percent": 94.4458,
+"complete_data_percent": 78.1265,
+"total_code": 2741172.0,
+"matched_code": 2475100.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11382.0,
+"total_units": 364.0,
+"complete_units": 288.0
+},
+"core": {
+"matched_code_percent": 93.0143,
+"complete_code_percent": 65.35,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5834,
+"total_code": 823400.0,
+"matched_code": 765880.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3647.0,
+"total_units": 263.0,
+"complete_units": 232.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "3a6fff1ee2982d11490661bd1f82ef59804e7201",
 "time": "2026-10-12T18:54:01Z",
 "message": "Match CStateManager::UpdateThermalVisor (#848)",
@@ -3654,6 +3739,176 @@
 "complete_units": 45.0
 }
 }
+},
+{
+"sha": "c07fe20e9a7589ccdc21543de27a9cc5ae9e5803",
+"time": "2026-10-19T23:20:54Z",
+"message": "Match & link CDrone (#886)",
+"measures": {
+"matched_code_percent": 93.9516,
+"complete_code_percent": 69.9559,
+"matched_data_percent": 98.473,
+"complete_data_percent": 79.5906,
+"total_code": 4005436.0,
+"matched_code": 3763172.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16479.0,
+"total_units": 829.0,
+"complete_units": 740.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 93.8895,
+"complete_code_percent": 69.6476,
+"matched_data_percent": 98.3322,
+"complete_data_percent": 77.6157,
+"total_code": 3964744.0,
+"matched_code": 3722480.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16398.0,
+"total_units": 825.0,
+"complete_units": 736.0
+},
+"game": {
+"matched_code_percent": 92.8458,
+"complete_code_percent": 66.0583,
+"matched_data_percent": 95.909,
+"complete_data_percent": 92.3599,
+"total_code": 2741172.0,
+"matched_code": 2545064.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11429.0,
+"total_units": 363.0,
+"complete_units": 303.0
+},
+"core": {
+"matched_code_percent": 94.3945,
+"complete_code_percent": 66.8453,
+"matched_data_percent": 99.6633,
+"complete_data_percent": 61.6262,
+"total_code": 823400.0,
+"matched_code": 777244.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3656.0,
+"total_units": 263.0,
+"complete_units": 234.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "65e6a7b669ba86e1c62ab8a36e37738f6945cd3e",
+"time": "2026-10-20T03:11:54Z",
+"message": "Match & link CHudBallInterface (#887)",
+"measures": {
+"matched_code_percent": 93.9671,
+"complete_code_percent": 69.9918,
+"matched_data_percent": 98.473,
+"complete_data_percent": 79.5994,
+"total_code": 4005436.0,
+"matched_code": 3763792.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16480.0,
+"total_units": 829.0,
+"complete_units": 741.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 93.9052,
+"complete_code_percent": 69.6838,
+"matched_data_percent": 98.3322,
+"complete_data_percent": 77.6254,
+"total_code": 3964744.0,
+"matched_code": 3723100.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16399.0,
+"total_units": 825.0,
+"complete_units": 737.0
+},
+"game": {
+"matched_code_percent": 92.8685,
+"complete_code_percent": 66.1107,
+"matched_data_percent": 95.909,
+"complete_data_percent": 92.3864,
+"total_code": 2741172.0,
+"matched_code": 2545684.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11430.0,
+"total_units": 363.0,
+"complete_units": 304.0
+},
+"core": {
+"matched_code_percent": 94.3945,
+"complete_code_percent": 66.8453,
+"matched_data_percent": 99.6633,
+"complete_data_percent": 61.6262,
+"total_code": 823400.0,
+"matched_code": 777244.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3656.0,
+"total_units": 263.0,
+"complete_units": 234.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3666,7 +3921,7 @@
 "sdk": "SDK",
 "third_party": "Third Party"
 },
-"units_time": "2026-10-19T10:16:16Z",
+"units_time": "2026-10-20T03:11:54Z",
 "units": [
 [
 "main/MetroTRK/mslsupp",
@@ -5571,8 +5826,8 @@
 [
 "main/MetroidPrime/Enemies/CDrone",
 36292,
-99.94,
-0,
+100.0,
+1,
 [
 "dol",
 "game"
@@ -6161,8 +6416,8 @@
 [
 "main/MetroidPrime/HUD/CHudBallInterface",
 1436,
-98.94,
-0,
+100.0,
+1,
 [
 "dol",
 "game"

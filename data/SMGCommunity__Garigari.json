@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "239d3ade2561c4702cd0a9cc25ce94453fd4a1a2",
+"time": "2026-09-28T22:41:46Z",
+"message": "`RVL_SDK` raw transfer",
+"measures": {
+"matched_code_percent": 7.7368,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 1.3584,
+"complete_data_percent": 1.1594,
+"total_code": 6272892.0,
+"matched_code": 485324.0,
+"total_data": 1702588.0,
+"total_functions": 50831.0,
+"matched_functions": 2518.0,
+"total_units": 4147.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 73.4891,
+"complete_code_percent": 0.0,
+"matched_data_percent": 34.0271,
+"complete_data_percent": 0.0,
+"total_code": 475940.0,
+"matched_code": 349764.0,
+"total_data": 7688.0,
+"total_functions": 1906.0,
+"matched_functions": 1641.0,
+"total_units": 174.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "70d5ca99c078a666792ced8deb5faa5190aad352",
+"time": "2026-09-28T23:02:23Z",
+"message": "name some SDK funcs",
+"measures": {
+"matched_code_percent": 7.7368,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 1.3584,
+"complete_data_percent": 1.1594,
+"total_code": 6272892.0,
+"matched_code": 485324.0,
+"total_data": 1702588.0,
+"total_functions": 50831.0,
+"matched_functions": 2518.0,
+"total_units": 4147.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 73.4891,
+"complete_code_percent": 0.0,
+"matched_data_percent": 34.0271,
+"complete_data_percent": 0.0,
+"total_code": 475940.0,
+"matched_code": 349764.0,
+"total_data": 7688.0,
+"total_functions": 1906.0,
+"matched_functions": 1641.0,
+"total_units": 174.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "887a137137b1380054c6964da603a4e2c7919d3c",
+"time": "2026-09-28T23:23:31Z",
+"message": "`Menbo` split",
+"measures": {
+"matched_code_percent": 7.7369,
+"complete_code_percent": 1.4649,
+"matched_data_percent": 1.3584,
+"complete_data_percent": 1.1594,
+"total_code": 6272888.0,
+"matched_code": 485324.0,
+"total_data": 1702588.0,
+"total_functions": 50830.0,
+"matched_functions": 2518.0,
+"total_units": 4145.0,
+"complete_units": 91.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 21.5475,
+"complete_code_percent": 0.0,
+"matched_data_percent": 2.8329,
+"complete_data_percent": 0.0,
+"total_code": 183112.0,
+"matched_code": 39456.0,
+"total_data": 24992.0,
+"total_functions": 2042.0,
+"matched_functions": 571.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 73.4891,
+"complete_code_percent": 0.0,
+"matched_data_percent": 34.0271,
+"complete_data_percent": 0.0,
+"total_code": 475940.0,
+"matched_code": 349764.0,
+"total_data": 7688.0,
+"total_functions": 1906.0,
+"matched_functions": 1641.0,
+"total_units": 174.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 53.3165,
+"complete_code_percent": 0.0,
+"matched_data_percent": 44.4444,
+"complete_data_percent": 0.0,
+"total_code": 7900.0,
+"matched_code": 4212.0,
+"total_data": 144.0,
+"total_functions": 45.0,
+"matched_functions": 30.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "b1f051dca36b2783a413d06a33c55e181e065fe2",
 "time": "2026-09-28T23:44:40Z",
 "message": "update symbol list for sdk",

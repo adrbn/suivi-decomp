@@ -643,6 +643,52 @@
 "complete_units": 449.0
 }
 }
+},
+{
+"sha": "d5154f72ff8a7fc85ae11ad0040d492edfa63123",
+"time": "2026-10-20T02:18:19Z",
+"message": "Merge submodules (#148)",
+"measures": {
+"matched_code_percent": 1.271,
+"complete_code_percent": 1.0762,
+"matched_data_percent": 14.6161,
+"complete_data_percent": 14.9332,
+"total_code": 15833548.0,
+"matched_code": 201252.0,
+"total_data": 5667488.0,
+"total_functions": 92523.0,
+"matched_functions": 2504.0,
+"total_units": 4415.0,
+"complete_units": 516.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 1.4094,
+"complete_code_percent": 0.8938,
+"matched_data_percent": 0.3893,
+"complete_data_percent": 0.4011,
+"total_code": 4170064.0,
+"matched_code": 58772.0,
+"total_data": 1724104.0,
+"total_functions": 14278.0,
+"matched_functions": 514.0,
+"total_units": 1721.0,
+"complete_units": 67.0
+},
+"modules": {
+"matched_code_percent": 1.2216,
+"complete_code_percent": 1.1414,
+"matched_data_percent": 20.8362,
+"complete_data_percent": 21.2869,
+"total_code": 11663484.0,
+"matched_code": 142480.0,
+"total_data": 3943384.0,
+"total_functions": 78245.0,
+"matched_functions": 1990.0,
+"total_units": 2694.0,
+"complete_units": 449.0
+}
+}
 }
 ],
 "branch": "main",
@@ -651,7 +697,7 @@
 "dol": "DOL",
 "modules": "Modules"
 },
-"units_time": "2026-10-10T07:01:38Z",
+"units_time": "2026-10-20T02:18:19Z",
 "units": [
 [
 "main/sora/sr/sr_getappname",

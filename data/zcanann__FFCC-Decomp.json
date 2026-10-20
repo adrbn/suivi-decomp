@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "046a81fa830b3d2429cba93c9b13c53478ef1646",
+"time": "2026-10-05T05:06:08Z",
+"message": "Merge staging regional GC placement and Japanese GBA recovery",
+"measures": {
+"matched_code_percent": 27.2009,
+"complete_code_percent": 13.3823,
+"matched_data_percent": 19.4693,
+"complete_data_percent": 19.3078,
+"total_code": 2020456.0,
+"matched_code": 549582.0,
+"total_data": 1686211.0,
+"total_functions": 5810.0,
+"matched_functions": 2474.0,
+"total_units": 2513.0,
+"complete_units": 253.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 56.346,
+"complete_code_percent": 0.4684,
+"matched_data_percent": 19.7279,
+"complete_data_percent": 3.8471,
+"total_code": 442324.0,
+"matched_code": 249232.0,
+"total_data": 17052.0,
+"total_functions": 1040.0,
+"matched_functions": 889.0,
+"total_units": 27.0,
+"complete_units": 9.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 124004.0,
+"matched_code": 124004.0,
+"total_data": 134982.0,
+"total_functions": 506.0,
+"matched_functions": 506.0,
+"total_units": 103.0,
+"complete_units": 103.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 1276772.0,
+"matched_code": 0.0,
+"total_data": 1337888.0,
+"total_functions": 3182.0,
+"matched_functions": 0.0,
+"total_units": 2235.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "8ab4d480ab1c949affe2efb18417117df43ea6b5",
+"time": "2026-10-05T05:47:15Z",
+"message": "Merge staging regional matching progress into main",
+"measures": {
+"matched_code_percent": 33.4308,
+"complete_code_percent": 13.6456,
+"matched_data_percent": 20.7268,
+"complete_data_percent": 19.3247,
+"total_code": 2020456.0,
+"matched_code": 675454.0,
+"total_data": 1686211.0,
+"total_functions": 5810.0,
+"matched_functions": 2886.0,
+"total_units": 2088.0,
+"complete_units": 257.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 45.7434,
+"complete_code_percent": 0.7657,
+"matched_data_percent": 55.4733,
+"complete_data_percent": 2.1225,
+"total_code": 817544.0,
+"matched_code": 373972.0,
+"total_data": 44288.0,
+"total_functions": 1561.0,
+"matched_functions": 1290.0,
+"total_units": 45.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 125136.0,
+"matched_code": 125136.0,
+"total_data": 134982.0,
+"total_functions": 517.0,
+"matched_functions": 517.0,
+"total_units": 106.0,
+"complete_units": 106.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 900420.0,
+"matched_code": 0.0,
+"total_data": 1310652.0,
+"total_functions": 2650.0,
+"matched_functions": 0.0,
+"total_units": 1789.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "725f17baf8654b6471d05a86aedbd946968b911f",
+"time": "2026-10-05T06:02:14Z",
+"message": "Merge staging regional code and storage recovery into main",
+"measures": {
+"matched_code_percent": 34.0005,
+"complete_code_percent": 13.9111,
+"matched_data_percent": 25.3905,
+"complete_data_percent": 19.3291,
+"total_code": 2020456.0,
+"matched_code": 686966.0,
+"total_data": 1686199.0,
+"total_functions": 5810.0,
+"matched_functions": 2937.0,
+"total_units": 2064.0,
+"complete_units": 261.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 42.9014,
+"complete_code_percent": 0.7065,
+"matched_data_percent": 83.4639,
+"complete_data_percent": 0.7605,
+"total_code": 886032.0,
+"matched_code": 380120.0,
+"total_data": 123608.0,
+"total_functions": 1599.0,
+"matched_functions": 1302.0,
+"total_units": 47.0,
+"complete_units": 10.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9733,
+"complete_data_percent": 100.0,
+"total_code": 130500.0,
+"matched_code": 130500.0,
+"total_data": 135054.0,
+"total_functions": 556.0,
+"matched_functions": 556.0,
+"total_units": 110.0,
+"complete_units": 110.0
+},
+"gba_cli": {
+"matched_code_percent": 99.1369,
+"complete_code_percent": 76.2767,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116006.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 650.0,
+"total_units": 62.0,
+"complete_units": 57.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 91.2363,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 84.0
+},
+"unclassified_gc": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 826568.0,
+"matched_code": 0.0,
+"total_data": 1231248.0,
+"total_functions": 2573.0,
+"matched_functions": 0.0,
+"total_units": 1759.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "a627f42e02d8d9801b1a5c4c6f5438abba3a63ef",
 "time": "2026-10-05T14:50:55Z",
 "message": "Merge staging: regional game recovery and runtime source linkage",

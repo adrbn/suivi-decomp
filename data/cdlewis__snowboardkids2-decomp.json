@@ -692,6 +692,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "0325e25a327a2739c764d0614faf6908f8b2d949",
+"time": "2026-10-20T03:47:39Z",
+"message": "Use a typed flip mask instead of a sprite register binding",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+},
+"categories": {
+"build": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 696864.0,
+"matched_code": 696864.0,
+"total_data": 18553584.0,
+"total_functions": 3013.0,
+"matched_functions": 3013.0,
+"total_units": 1027.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -699,7 +732,7 @@
 "category_names": {
 "build": "build"
 },
-"units_time": "2026-10-17T21:43:17Z",
+"units_time": "2026-10-20T03:47:39Z",
 "units": [
 [
 "build/src/entrypoint/entrypoint",

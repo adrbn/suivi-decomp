@@ -1,6 +1,124 @@
 {
 "history": [
 {
+"sha": "c478360e8fcdbde555a031e350fee70914767ed7",
+"time": "2026-07-29T19:46:13Z",
+"message": "JASChannel fix dtor",
+"measures": {
+"matched_code_percent": 87.2433,
+"complete_code_percent": 56.4181,
+"matched_data_percent": 94.9321,
+"complete_data_percent": 69.2185,
+"total_code": 4651476.0,
+"matched_code": 4058100.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24350.0,
+"total_units": 1153.0,
+"complete_units": 967.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.0799,
+"complete_code_percent": 52.1769,
+"matched_data_percent": 96.6178,
+"complete_data_percent": 65.0059,
+"total_code": 3619576.0,
+"matched_code": 3115728.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18902.0,
+"total_units": 737.0,
+"complete_units": 589.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.976,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654816.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4344.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
+"sha": "61683b1e49a56604f2acb259f94dfbe8054f4a65",
+"time": "2026-07-30T22:52:00Z",
+"message": "match Rigid::resolveCollision, improve integrate / getYDegree (#262)",
+"measures": {
+"matched_code_percent": 87.33,
+"complete_code_percent": 56.4181,
+"matched_data_percent": 94.943,
+"complete_data_percent": 69.2185,
+"total_code": 4651476.0,
+"matched_code": 4062132.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24352.0,
+"total_units": 1153.0,
+"complete_units": 967.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.1913,
+"complete_code_percent": 52.1769,
+"matched_data_percent": 96.6312,
+"complete_data_percent": 65.0059,
+"total_code": 3619576.0,
+"matched_code": 3119760.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18904.0,
+"total_units": 737.0,
+"complete_units": 589.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.976,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654816.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4344.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
 "sha": "559201f75a0ea62300cc48ba040aff7415d459f4",
 "time": "2026-08-01T20:50:06Z",
 "message": "match CellIterator::calcExtent, link cellIterator.cpp (#263)",
@@ -3008,6 +3126,65 @@
 "complete_units": 228.0
 }
 }
+},
+{
+"sha": "999140f3521e22619547d5d61862a6577ea73882",
+"time": "2026-10-20T00:40:56Z",
+"message": "missed a few comments",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 97.5483,
+"complete_data_percent": 100.0,
+"total_code": 4651476.0,
+"matched_code": 4651476.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24956.0,
+"total_units": 1153.0,
+"complete_units": 1153.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.6499,
+"complete_data_percent": 100.0,
+"total_code": 3619576.0,
+"matched_code": 3619576.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 19371.0,
+"total_units": 737.0,
+"complete_units": 737.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287508.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1107.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 86.0955,
+"complete_data_percent": 100.0,
+"total_code": 744312.0,
+"matched_code": 744312.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4477.0,
+"total_units": 228.0,
+"complete_units": 228.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3017,7 +3194,7 @@
 "sdk": "SDK Code",
 "jsystem": "JSystem Code"
 },
-"units_time": "2026-10-19T04:28:24Z",
+"units_time": "2026-10-20T00:40:56Z",
 "units": [
 [
 "main/JSystem/JStudio_JParticle/object-particle",
