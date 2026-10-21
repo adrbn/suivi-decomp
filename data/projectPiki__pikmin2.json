@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "2c1c1ddd14597ec321c0a0e43a937b83945d1b19",
+"time": "2026-07-24T17:31:43Z",
+"message": "match J2DTevBlock setTevSwapModeInfo",
+"measures": {
+"matched_code_percent": 86.4005,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.614,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4018900.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24296.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.6736,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2289,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3101020.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18879.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 84.6855,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 630324.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4313.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
+"sha": "3dc833d9cea45541e1962ac23f22e76565b6c858",
+"time": "2026-07-25T02:24:21Z",
+"message": "match most of cellPyramid.cpp (#250)",
+"measures": {
+"matched_code_percent": 86.4392,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4020700.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24298.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.7233,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3102820.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18881.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 84.6855,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 630324.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4313.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
+"sha": "ec829c218e2f633038bfaf9e726ac9af55adefea",
+"time": "2026-07-25T02:31:51Z",
+"message": "slight cleanup of PSMainSide_ObjSound (#247)",
+"measures": {
+"matched_code_percent": 86.4392,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4020700.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24298.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.7233,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3102820.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18881.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 84.6855,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 630324.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4313.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
 "sha": "4e0d397e5e6541430a8f4f591e8ed59bf17f24d4",
 "time": "2026-07-25T02:39:05Z",
 "message": "match PSM::EnemyBase::startSoundInner(PSM::StartSoundArg&) (#246)",
