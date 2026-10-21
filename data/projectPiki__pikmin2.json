@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "4e0d397e5e6541430a8f4f591e8ed59bf17f24d4",
+"time": "2026-07-25T02:39:05Z",
+"message": "match PSM::EnemyBase::startSoundInner(PSM::StartSoundArg&) (#246)",
+"measures": {
+"matched_code_percent": 86.4412,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4020792.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24299.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.7258,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3102912.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18882.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 84.6855,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 630324.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4313.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
+"sha": "eb03af60b2876549bbdf15e1d8edaedbed011fd4",
+"time": "2026-07-25T05:09:29Z",
+"message": "some more j3d/j2d matching",
+"measures": {
+"matched_code_percent": 86.7755,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4036344.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24316.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.7258,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3102912.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18882.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 86.7749,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 645876.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4330.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
+"sha": "d2d001fb3582bc73f9b529b25a562c30ad68b30a",
+"time": "2026-07-26T01:01:46Z",
+"message": "solve ActPathMove::init(ActionArg*) (#251)",
+"measures": {
+"matched_code_percent": 86.7851,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4036788.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24317.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.7381,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3103356.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18883.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 86.7749,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 645876.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4330.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
 "sha": "54f059e382740f5bd056fdc96d1ab59325f0c3aa",
 "time": "2026-07-26T01:10:20Z",
 "message": "match bulborb attack logic and itemUjamushi model setup (#252)",
