@@ -1,6 +1,183 @@
 {
 "history": [
 {
+"sha": "54f059e382740f5bd056fdc96d1ab59325f0c3aa",
+"time": "2026-07-26T01:10:20Z",
+"message": "match bulborb attack logic and itemUjamushi model setup (#252)",
+"measures": {
+"matched_code_percent": 86.8398,
+"complete_code_percent": 54.0557,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.1023,
+"total_code": 4651476.0,
+"matched_code": 4039332.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24320.0,
+"total_units": 1153.0,
+"complete_units": 959.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8084,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3105900.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18886.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 86.7749,
+"complete_code_percent": 53.0708,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 77.6266,
+"total_code": 744312.0,
+"matched_code": 645876.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4330.0,
+"total_units": 228.0,
+"complete_units": 188.0
+}
+}
+},
+{
+"sha": "f9fddd5e2a76ac058dd6eda59e3caead3f6d8ca0",
+"time": "2026-07-26T01:17:51Z",
+"message": "match and link J3DMatBlock.cpp (#253)",
+"measures": {
+"matched_code_percent": 86.9881,
+"complete_code_percent": 55.1445,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.5562,
+"total_code": 4651476.0,
+"matched_code": 4046232.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24329.0,
+"total_units": 1153.0,
+"complete_units": 960.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8084,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3105900.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18886.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.7019,
+"complete_code_percent": 59.8749,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 652776.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4339.0,
+"total_units": 228.0,
+"complete_units": 189.0
+}
+}
+},
+{
+"sha": "b8efef24095d2a3e3cae0b36b4658d54d5237f6d",
+"time": "2026-07-26T03:33:40Z",
+"message": "Link J3DModelLoaderCalcSize.cpp",
+"measures": {
+"matched_code_percent": 87.0227,
+"complete_code_percent": 55.197,
+"matched_data_percent": 94.6506,
+"complete_data_percent": 68.5562,
+"total_code": 4651476.0,
+"matched_code": 4047840.0,
+"total_data": 656518.0,
+"total_functions": 24956.0,
+"matched_functions": 24332.0,
+"total_units": 1153.0,
+"complete_units": 961.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 85.8084,
+"complete_code_percent": 50.6078,
+"matched_data_percent": 96.2736,
+"complete_data_percent": 64.1961,
+"total_code": 3619576.0,
+"matched_code": 3105900.0,
+"total_data": 536930.0,
+"total_functions": 19371.0,
+"matched_functions": 18886.0,
+"total_units": 737.0,
+"complete_units": 583.0
+},
+"sdk": {
+"matched_code_percent": 99.9889,
+"complete_code_percent": 100.0,
+"matched_data_percent": 91.7204,
+"complete_data_percent": 100.0,
+"total_code": 287508.0,
+"matched_code": 287476.0,
+"total_data": 42804.0,
+"total_functions": 1107.0,
+"matched_functions": 1103.0,
+"total_units": 187.0,
+"complete_units": 187.0
+},
+"jsystem": {
+"matched_code_percent": 87.918,
+"complete_code_percent": 60.2032,
+"matched_data_percent": 84.9281,
+"complete_data_percent": 81.5093,
+"total_code": 744312.0,
+"matched_code": 654384.0,
+"total_data": 76752.0,
+"total_functions": 4477.0,
+"matched_functions": 4342.0,
+"total_units": 228.0,
+"complete_units": 190.0
+}
+}
+},
+{
 "sha": "73029e538782c1bbfa11fa32838f1adce36907ce",
 "time": "2026-07-27T02:48:17Z",
 "message": "Link efxBase",

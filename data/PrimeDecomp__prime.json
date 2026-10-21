@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "b2f232165cbef0ac530cd874b8ac1986b78ff300",
+"time": "2026-10-12T04:36:33Z",
+"message": "Match & link CFirstPersonCamera (#837)",
+"measures": {
+"matched_code_percent": 91.8804,
+"complete_code_percent": 59.3808,
+"matched_data_percent": 97.9612,
+"complete_data_percent": 74.8088,
+"total_code": 4005436.0,
+"matched_code": 3680212.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16418.0,
+"total_units": 830.0,
+"complete_units": 720.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.7971,
+"complete_code_percent": 58.9639,
+"matched_data_percent": 97.7708,
+"complete_data_percent": 72.3712,
+"total_code": 3964744.0,
+"matched_code": 3639520.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16337.0,
+"total_units": 826.0,
+"complete_units": 716.0
+},
+"game": {
+"matched_code_percent": 90.2935,
+"complete_code_percent": 51.3474,
+"matched_data_percent": 94.3865,
+"complete_data_percent": 78.09,
+"total_code": 2741172.0,
+"matched_code": 2475100.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11382.0,
+"total_units": 364.0,
+"complete_units": 287.0
+},
+"core": {
+"matched_code_percent": 92.8161,
+"complete_code_percent": 64.3765,
+"matched_data_percent": 99.6543,
+"complete_data_percent": 61.5743,
+"total_code": 823400.0,
+"matched_code": 764248.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3642.0,
+"total_units": 263.0,
+"complete_units": 230.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "56f6722fea449b3c9eea5232a47be7e7a6d3afd8",
+"time": "2026-10-12T04:39:12Z",
+"message": "Match and link CSimplePool (#835)",
+"measures": {
+"matched_code_percent": 91.8971,
+"complete_code_percent": 59.4632,
+"matched_data_percent": 97.9612,
+"complete_data_percent": 74.8125,
+"total_code": 4005436.0,
+"matched_code": 3680880.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16420.0,
+"total_units": 830.0,
+"complete_units": 721.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.814,
+"complete_code_percent": 59.0471,
+"matched_data_percent": 97.7708,
+"complete_data_percent": 72.3753,
+"total_code": 3964744.0,
+"matched_code": 3640188.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16339.0,
+"total_units": 826.0,
+"complete_units": 717.0
+},
+"game": {
+"matched_code_percent": 90.2935,
+"complete_code_percent": 51.3474,
+"matched_data_percent": 94.3865,
+"complete_data_percent": 78.09,
+"total_code": 2741172.0,
+"matched_code": 2475100.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11382.0,
+"total_units": 364.0,
+"complete_units": 287.0
+},
+"core": {
+"matched_code_percent": 92.8973,
+"complete_code_percent": 64.7773,
+"matched_data_percent": 99.6543,
+"complete_data_percent": 61.5825,
+"total_code": 823400.0,
+"matched_code": 764916.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3644.0,
+"total_units": 263.0,
+"complete_units": 231.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
+"sha": "947cd2fe125419ceab5111c3f6172fd49e135830",
+"time": "2026-10-12T04:42:23Z",
+"message": "Ninja apply",
+"measures": {
+"matched_code_percent": 91.8971,
+"complete_code_percent": 59.4632,
+"matched_data_percent": 97.9843,
+"complete_data_percent": 74.8125,
+"total_code": 4005436.0,
+"matched_code": 3680880.0,
+"total_data": 1903868.0,
+"total_functions": 16685.0,
+"matched_functions": 16420.0,
+"total_units": 830.0,
+"complete_units": 721.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 91.814,
+"complete_code_percent": 59.0471,
+"matched_data_percent": 97.7962,
+"complete_data_percent": 72.3753,
+"total_code": 3964744.0,
+"matched_code": 3640188.0,
+"total_data": 1735896.0,
+"total_functions": 16604.0,
+"matched_functions": 16339.0,
+"total_units": 826.0,
+"complete_units": 717.0
+},
+"game": {
+"matched_code_percent": 90.2935,
+"complete_code_percent": 51.3474,
+"matched_data_percent": 94.4458,
+"complete_data_percent": 78.09,
+"total_code": 2741172.0,
+"matched_code": 2475100.0,
+"total_data": 634760.0,
+"total_functions": 11583.0,
+"matched_functions": 11382.0,
+"total_units": 364.0,
+"complete_units": 287.0
+},
+"core": {
+"matched_code_percent": 92.8973,
+"complete_code_percent": 64.7773,
+"matched_data_percent": 99.6615,
+"complete_data_percent": 61.5825,
+"total_code": 823400.0,
+"matched_code": 764916.0,
+"total_data": 886210.0,
+"total_functions": 3708.0,
+"matched_functions": 3644.0,
+"total_units": 263.0,
+"complete_units": 231.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 245372.0,
+"matched_code": 245372.0,
+"total_data": 31342.0,
+"total_functions": 914.0,
+"matched_functions": 914.0,
+"total_units": 158.0,
+"complete_units": 158.0
+},
+"third_party": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.9659,
+"complete_data_percent": 100.0,
+"total_code": 195492.0,
+"matched_code": 195492.0,
+"total_data": 351556.0,
+"total_functions": 480.0,
+"matched_functions": 480.0,
+"total_units": 45.0,
+"complete_units": 45.0
+}
+}
+},
+{
 "sha": "282fb63e21c6df03771ada2d4af9c5abb8272452",
 "time": "2026-10-12T05:12:04Z",
 "message": "CAutoMapper minimap camera 99.5% (#839)",

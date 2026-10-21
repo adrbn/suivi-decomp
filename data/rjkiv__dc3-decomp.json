@@ -4535,6 +4535,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "b64d85a45f8dd5350e446695248dbd63e7b0d6d6",
+"time": "2026-10-21T01:21:47Z",
+"message": "match beatclock",
+"measures": {
+"matched_code_percent": 52.0942,
+"complete_code_percent": 25.2331,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.3815,
+"total_code": 12206380.0,
+"matched_code": 6358812.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28962.0,
+"total_units": 2230.0,
+"complete_units": 641.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.1828,
+"complete_code_percent": 40.378,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 43.3882,
+"total_code": 5888864.0,
+"matched_code": 5192968.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24303.0,
+"total_units": 810.0,
+"complete_units": 516.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "26f3d69699f66686402beb9c34c75f478b0e7ed3",
+"time": "2026-10-21T02:24:39Z",
+"message": "match uilist",
+"measures": {
+"matched_code_percent": 52.1016,
+"complete_code_percent": 25.5251,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.5946,
+"total_code": 12206380.0,
+"matched_code": 6359716.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28970.0,
+"total_units": 2230.0,
+"complete_units": 642.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.1982,
+"complete_code_percent": 40.9833,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 44.0303,
+"total_code": 5888864.0,
+"matched_code": 5193872.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24311.0,
+"total_units": 810.0,
+"complete_units": 517.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "49c5cb7d94c1c711bb231936d9734e3bb970da49",
+"time": "2026-10-21T04:20:57Z",
+"message": "mark memory_xbox as matching",
+"measures": {
+"matched_code_percent": 52.1016,
+"complete_code_percent": 25.5487,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.679,
+"total_code": 12206380.0,
+"matched_code": 6359716.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28970.0,
+"total_units": 2230.0,
+"complete_units": 643.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.1982,
+"complete_code_percent": 41.0323,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 44.2847,
+"total_code": 5888864.0,
+"matched_code": 5193872.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24311.0,
+"total_units": 810.0,
+"complete_units": 518.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4545,7 +4761,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-20T04:41:05Z",
+"units_time": "2026-10-21T04:20:57Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -4614,7 +4830,7 @@
 "default/system/os/Memory_Xbox",
 2888,
 100.0,
-0,
+1,
 [
 "engine"
 ]
@@ -7745,8 +7961,8 @@
 [
 "default/system/os/Debug",
 10492,
-98.55,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -9770,8 +9986,8 @@
 [
 "default/system/ui/UIList",
 35640,
-98.54,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -10652,8 +10868,8 @@
 [
 "default/system/world/CameraManager",
 23484,
-96.62,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -10706,8 +10922,8 @@
 [
 "default/system/world/BeatClock",
 9176,
-99.06,
-0,
+100.0,
+1,
 [
 "engine"
 ]

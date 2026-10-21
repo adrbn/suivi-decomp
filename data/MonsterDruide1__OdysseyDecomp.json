@@ -1,6 +1,63 @@
 {
 "history": [
 {
+"sha": "0437cf0015fe47fe8644e1a0d78c1f59695768ed",
+"time": "2026-07-23T12:28:56Z",
+"message": "Player: Implement `CollisionShapeInfo{Arrow,Sphere,Disk}` bounding accessors (#1314)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "ad749053a0ace891ec8910d409d6c291b5c61682",
+"time": "2026-07-23T20:49:48Z",
+"message": "Boss/BossKnuckle: Implement `BossKnuckleAnimCtrl` (#1108)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
+"sha": "c54ca34809df524d52619cc090960cea70a0d7d8",
+"time": "2026-07-24T00:39:02Z",
+"message": "Util: Implement small functions of `PlayerCollisionUtil` (#1317)",
+"measures": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
+},
+{
 "sha": "938537f971b9bbeeceae68845b7fe30a54790da8",
 "time": "2026-07-24T08:49:30Z",
 "message": "workflow: Check for duplicate filenames in workflow (#1320)",

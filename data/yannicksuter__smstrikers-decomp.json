@@ -1,6 +1,261 @@
 {
 "history": [
 {
+"sha": "18b87564c73e0a040fb85ad2f36ee2404b8de372",
+"time": "2026-08-01T10:39:54Z",
+"message": "matched Game methods",
+"measures": {
+"matched_code_percent": 89.0597,
+"complete_code_percent": 63.6821,
+"matched_data_percent": 96.2724,
+"complete_data_percent": 87.1073,
+"total_code": 2662332.0,
+"matched_code": 2371064.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8450.0,
+"total_units": 731.0,
+"complete_units": 659.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.5056,
+"complete_code_percent": 55.2034,
+"matched_data_percent": 95.0694,
+"complete_data_percent": 82.9465,
+"total_code": 2158432.0,
+"matched_code": 1867164.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6712.0,
+"total_units": 499.0,
+"complete_units": 427.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "cef82c90259468254ec35b5c6a91d67cb8b9b3a1",
+"time": "2026-08-01T10:45:51Z",
+"message": "progress GameInfo",
+"measures": {
+"matched_code_percent": 89.3237,
+"complete_code_percent": 63.9753,
+"matched_data_percent": 96.2724,
+"complete_data_percent": 87.1888,
+"total_code": 2662332.0,
+"matched_code": 2378092.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8455.0,
+"total_units": 731.0,
+"complete_units": 660.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.8312,
+"complete_code_percent": 55.5651,
+"matched_data_percent": 95.0694,
+"complete_data_percent": 83.0543,
+"total_code": 2158432.0,
+"matched_code": 1874192.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6717.0,
+"total_units": 499.0,
+"complete_units": 428.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
+"sha": "3ecbdc8df6ecfa1d19cd13a591afde362cb200f1",
+"time": "2026-08-02T05:38:24Z",
+"message": "matched and linked TimeRegion",
+"measures": {
+"matched_code_percent": 89.4371,
+"complete_code_percent": 64.4621,
+"matched_data_percent": 96.2724,
+"complete_data_percent": 87.2857,
+"total_code": 2662332.0,
+"matched_code": 2381112.0,
+"total_data": 961907.0,
+"total_functions": 8605.0,
+"matched_functions": 8457.0,
+"total_units": 731.0,
+"complete_units": 662.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 86.9711,
+"complete_code_percent": 56.1656,
+"matched_data_percent": 95.0694,
+"complete_data_percent": 83.1825,
+"total_code": 2158432.0,
+"matched_code": 1877212.0,
+"total_data": 727218.0,
+"total_functions": 6867.0,
+"matched_functions": 6719.0,
+"total_units": 499.0,
+"complete_units": 430.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 223112.0,
+"matched_code": 223112.0,
+"total_data": 34645.0,
+"total_functions": 958.0,
+"matched_functions": 958.0,
+"total_units": 117.0,
+"complete_units": 117.0
+},
+"ode": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 66208.0,
+"matched_code": 66208.0,
+"total_data": 2792.0,
+"total_functions": 218.0,
+"matched_functions": 218.0,
+"total_units": 20.0,
+"complete_units": 20.0
+},
+"musyx": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 148856.0,
+"matched_code": 148856.0,
+"total_data": 190056.0,
+"total_functions": 405.0,
+"matched_functions": 405.0,
+"total_units": 31.0,
+"complete_units": 31.0
+},
+"runtime": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 65724.0,
+"matched_code": 65724.0,
+"total_data": 7196.0,
+"total_functions": 157.0,
+"matched_functions": 157.0,
+"total_units": 64.0,
+"complete_units": 64.0
+}
+}
+},
+{
 "sha": "3fde3e140e774b399c0d28d05a8ccd283576484c",
 "time": "2026-08-02T05:56:19Z",
 "message": "matched and linked SoundEventScript",
