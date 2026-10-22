@@ -6623,6 +6623,228 @@
 }
 },
 {
+"sha": "0b25a5615f70f77e35dc375060de0f4f440c72ac",
+"time": "2026-10-21T23:00:48Z",
+"message": "SpringValue 100%",
+"measures": {
+"matched_code_percent": 17.5374,
+"complete_code_percent": 1.5236,
+"matched_data_percent": 9.1668,
+"complete_data_percent": 1.1984,
+"total_code": 6271292.0,
+"matched_code": 1099824.0,
+"total_data": 1702620.0,
+"total_functions": 50624.0,
+"matched_functions": 6761.0,
+"total_units": 4161.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 48.5368,
+"complete_code_percent": 0.5239,
+"matched_data_percent": 14.9646,
+"complete_data_percent": 0.1132,
+"total_code": 280216.0,
+"matched_code": 136008.0,
+"total_data": 42420.0,
+"total_functions": 2879.0,
+"matched_functions": 1422.0,
+"total_units": 100.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.9867,
+"complete_code_percent": 0.3341,
+"matched_data_percent": 4.9278,
+"complete_data_percent": 0.0,
+"total_code": 343648.0,
+"matched_code": 298928.0,
+"total_data": 160884.0,
+"total_functions": 2745.0,
+"matched_functions": 2511.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "913f751f92425a90dd7c97198aeb01c4c96b17ce",
+"time": "2026-10-21T23:13:47Z",
+"message": "Merge branch 'main' of https://github.com/SMGCommunity/Garigari",
+"measures": {
+"matched_code_percent": 17.5446,
+"complete_code_percent": 1.5236,
+"matched_data_percent": 9.1687,
+"complete_data_percent": 1.1984,
+"total_code": 6271292.0,
+"matched_code": 1100276.0,
+"total_data": 1702620.0,
+"total_functions": 50624.0,
+"matched_functions": 6769.0,
+"total_units": 4161.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 48.6197,
+"complete_code_percent": 0.523,
+"matched_data_percent": 15.0287,
+"complete_data_percent": 0.1131,
+"total_code": 280668.0,
+"matched_code": 136460.0,
+"total_data": 42452.0,
+"total_functions": 2887.0,
+"matched_functions": 1430.0,
+"total_units": 101.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.9867,
+"complete_code_percent": 0.3341,
+"matched_data_percent": 4.9278,
+"complete_data_percent": 0.0,
+"total_code": 343648.0,
+"matched_code": 298928.0,
+"total_data": 160884.0,
+"total_functions": 2745.0,
+"matched_functions": 2511.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "31cf109943eb53119e76c65e907604bc2f578d01",
 "time": "2026-10-21T23:43:02Z",
 "message": "Fix TVec3f Ctor symbol",
@@ -6954,6 +7176,117 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "af7106e61af334d461cb6dbe0bc4f8feaa2a68ea",
+"time": "2026-10-22T07:23:26Z",
+"message": "Mostly finish HipDropSwitch & HipDropTimerSwitch",
+"measures": {
+"matched_code_percent": 17.6243,
+"complete_code_percent": 1.5236,
+"matched_data_percent": 9.1739,
+"complete_data_percent": 1.1984,
+"total_code": 6271292.0,
+"matched_code": 1105272.0,
+"total_data": 1702620.0,
+"total_functions": 50624.0,
+"matched_functions": 6824.0,
+"total_units": 4159.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 49.4622,
+"complete_code_percent": 0.5133,
+"matched_data_percent": 14.9266,
+"complete_data_percent": 0.1108,
+"total_code": 285988.0,
+"matched_code": 141456.0,
+"total_data": 43332.0,
+"total_functions": 2945.0,
+"matched_functions": 1485.0,
+"total_units": 103.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.9867,
+"complete_code_percent": 0.3341,
+"matched_data_percent": 4.9278,
+"complete_data_percent": 0.0,
+"total_code": 343648.0,
+"matched_code": 298928.0,
+"total_data": 160884.0,
+"total_functions": 2745.0,
+"matched_functions": 2511.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -6967,7 +7300,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-22T03:12:50Z",
+"units_time": "2026-10-22T07:23:26Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -15869,7 +16202,7 @@
 [
 "main/Game/MapObj/HipDropSwitch",
 2296,
-93.35,
+100.0,
 0,
 [
 "game"
@@ -15878,7 +16211,7 @@
 [
 "main/Game/MapObj/HipDropTimerSwitch",
 3024,
-91.49,
+100.0,
 0,
 [
 "game"
