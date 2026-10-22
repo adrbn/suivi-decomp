@@ -5399,6 +5399,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "df9068d9adf7249abcc367170bb1caf43ca68cc4",
+"time": "2026-10-21T22:31:54Z",
+"message": "Fix ObjPtrList hack (#347)",
+"measures": {
+"matched_code_percent": 52.1115,
+"complete_code_percent": 25.6419,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.7216,
+"total_code": 12206380.0,
+"matched_code": 6360924.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28976.0,
+"total_units": 2230.0,
+"complete_units": 645.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.2187,
+"complete_code_percent": 41.2253,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 44.413,
+"total_code": 5888864.0,
+"matched_code": 5195080.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24317.0,
+"total_units": 810.0,
+"complete_units": 520.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "c613bbc80b609765b864c2e6ec2461e00cf86678",
+"time": "2026-10-22T01:08:52Z",
+"message": "mark uifontimporter as matching",
+"measures": {
+"matched_code_percent": 52.1139,
+"complete_code_percent": 25.855,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.8692,
+"total_code": 12206380.0,
+"matched_code": 6361224.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28978.0,
+"total_units": 2230.0,
+"complete_units": 646.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.2238,
+"complete_code_percent": 41.6672,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 44.8577,
+"total_code": 5888864.0,
+"matched_code": 5195380.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24319.0,
+"total_units": 810.0,
+"complete_units": 521.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "8e115fd21cb7a5b63c7017a1fcaed86224abce6f",
+"time": "2026-10-22T01:28:57Z",
+"message": "uilistdir context",
+"measures": {
+"matched_code_percent": 52.1139,
+"complete_code_percent": 25.855,
+"matched_data_percent": 7.6456,
+"complete_data_percent": 19.8692,
+"total_code": 12206380.0,
+"matched_code": 6361224.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 28978.0,
+"total_units": 2230.0,
+"complete_units": 646.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.2895,
+"complete_code_percent": 54.6323,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 54.0153,
+"total_code": 1283768.0,
+"matched_code": 1159108.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4602.0,
+"total_units": 158.0,
+"complete_units": 123.0
+},
+"engine": {
+"matched_code_percent": 88.2238,
+"complete_code_percent": 41.6672,
+"matched_data_percent": 18.2786,
+"complete_data_percent": 44.8577,
+"total_code": 5888864.0,
+"matched_code": 5195380.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24319.0,
+"total_units": 810.0,
+"complete_units": 521.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5409,7 +5625,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-21T05:10:58Z",
+"units_time": "2026-10-22T01:28:57Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -10724,8 +10940,8 @@
 [
 "default/system/ui/UIFontImporter",
 26020,
-98.85,
-0,
+100.0,
+1,
 [
 "engine"
 ]
