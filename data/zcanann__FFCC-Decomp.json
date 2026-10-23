@@ -4881,17 +4881,216 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "0306fcbf62e63ccfd732a1eb0cdf5cabf39675b2",
+"time": "2026-10-23T01:35:43Z",
+"message": "Merge staging: 33 contributor PRs, joint sweep fixes, JP links",
+"measures": {
+"matched_code_percent": 78.8675,
+"complete_code_percent": 46.4026,
+"matched_data_percent": 98.3594,
+"complete_data_percent": 52.5768,
+"total_code": 2028448.0,
+"matched_code": 1599786.0,
+"total_data": 1685148.0,
+"total_functions": 5811.0,
+"matched_functions": 5609.0,
+"total_units": 628.0,
+"complete_units": 547.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 71.5463,
+"complete_code_percent": 30.9288,
+"matched_data_percent": 98.3727,
+"complete_data_percent": 40.2678,
+"total_code": 1473412.0,
+"matched_code": 1054172.0,
+"total_data": 1295061.0,
+"total_functions": 3106.0,
+"matched_functions": 2919.0,
+"total_units": 267.0,
+"complete_units": 197.0
+},
+"redsound": {
+"matched_code_percent": 86.7376,
+"complete_code_percent": 30.9261,
+"matched_data_percent": 100.0,
+"complete_data_percent": 25.5719,
+"total_code": 68072.0,
+"matched_code": 59044.0,
+"total_data": 25790.0,
+"total_functions": 379.0,
+"matched_functions": 366.0,
+"total_units": 8.0,
+"complete_units": 4.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8809,
+"complete_data_percent": 100.0,
+"total_code": 309608.0,
+"matched_code": 309608.0,
+"total_data": 167976.0,
+"total_functions": 1244.0,
+"matched_functions": 1244.0,
+"total_units": 203.0,
+"complete_units": 203.0
+},
+"gba_cli": {
+"matched_code_percent": 99.6633,
+"complete_code_percent": 80.7958,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116622.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 651.0,
+"total_units": 62.0,
+"complete_units": 58.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 85.0
+},
+"unclassified_gc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 32.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "a30706704e4be6200b22580ec65c13c82508ea7f",
+"time": "2026-10-23T01:47:33Z",
+"message": "Merge staging: validated literal cleanup PRs",
+"measures": {
+"matched_code_percent": 78.8675,
+"complete_code_percent": 46.4026,
+"matched_data_percent": 98.3594,
+"complete_data_percent": 52.5768,
+"total_code": 2028448.0,
+"matched_code": 1599786.0,
+"total_data": 1685148.0,
+"total_functions": 5811.0,
+"matched_functions": 5609.0,
+"total_units": 628.0,
+"complete_units": 547.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 71.5463,
+"complete_code_percent": 30.9288,
+"matched_data_percent": 98.3727,
+"complete_data_percent": 40.2678,
+"total_code": 1473412.0,
+"matched_code": 1054172.0,
+"total_data": 1295061.0,
+"total_functions": 3106.0,
+"matched_functions": 2919.0,
+"total_units": 267.0,
+"complete_units": 197.0
+},
+"redsound": {
+"matched_code_percent": 86.7376,
+"complete_code_percent": 30.9261,
+"matched_data_percent": 100.0,
+"complete_data_percent": 25.5719,
+"total_code": 68072.0,
+"matched_code": 59044.0,
+"total_data": 25790.0,
+"total_functions": 379.0,
+"matched_functions": 366.0,
+"total_units": 8.0,
+"complete_units": 4.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.8809,
+"complete_data_percent": 100.0,
+"total_code": 309608.0,
+"matched_code": 309608.0,
+"total_data": 167976.0,
+"total_functions": 1244.0,
+"matched_functions": 1244.0,
+"total_units": 203.0,
+"complete_units": 203.0
+},
+"gba_cli": {
+"matched_code_percent": 99.6633,
+"complete_code_percent": 80.7958,
+"matched_data_percent": 93.1623,
+"complete_data_percent": 93.1455,
+"total_code": 117016.0,
+"matched_code": 116622.0,
+"total_data": 88817.0,
+"total_functions": 653.0,
+"matched_functions": 651.0,
+"total_units": 62.0,
+"complete_units": 58.0
+},
+"gba_mgr": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 99.7506,
+"complete_data_percent": 99.7506,
+"total_code": 60340.0,
+"matched_code": 60340.0,
+"total_data": 107472.0,
+"total_functions": 429.0,
+"matched_functions": 429.0,
+"total_units": 86.0,
+"complete_units": 85.0
+},
+"unclassified_gc": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 32.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
 "artifact": "GCCE01_report",
 "workflow": 211454623,
 "category_names": {
+"game": "Game Code",
+"redsound": "RedSound",
+"sdk": "SDK Code",
 "gba_cli": "GBA Client",
 "gba_mgr": "GBA Minigame",
 "unclassified_gc": "Unclassified GameCube"
 },
-"units_time": "2026-10-20T06:29:45Z",
+"units_time": "2026-10-23T01:47:33Z",
 "units": [
 [
 "main/chunkfile",
@@ -4914,7 +5113,7 @@
 [
 "main/game",
 9388,
-99.93,
+99.96,
 0,
 [
 "game"
@@ -4950,7 +5149,7 @@
 [
 "main/memory",
 15236,
-99.91,
+99.98,
 0,
 [
 "game"
@@ -5040,7 +5239,7 @@
 [
 "main/mapobj",
 16180,
-99.74,
+99.82,
 0,
 [
 "game"
@@ -5058,7 +5257,7 @@
 [
 "main/map",
 21804,
-99.82,
+99.86,
 0,
 [
 "game"
@@ -5094,7 +5293,7 @@
 [
 "main/materialman",
 31576,
-99.95,
+99.97,
 0,
 [
 "game"
@@ -6039,8 +6238,8 @@
 [
 "main/pppRyjMegaBirthModel",
 15628,
-99.95,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -6084,7 +6283,7 @@
 [
 "main/pppKeShpTail3X",
 4448,
-97.87,
+97.92,
 0,
 [
 "game"
@@ -6291,7 +6490,7 @@
 [
 "main/mesmenu",
 11552,
-99.58,
+99.79,
 0,
 [
 "game"
@@ -6300,7 +6499,7 @@
 [
 "main/gobjwork",
 19396,
-99.23,
+99.24,
 0,
 [
 "game"
@@ -6309,7 +6508,7 @@
 [
 "main/ringmenu",
 9612,
-99.28,
+99.32,
 0,
 [
 "game"
@@ -6444,7 +6643,7 @@
 [
 "main/gbaque",
 35560,
-99.59,
+99.62,
 0,
 [
 "game"
@@ -6561,7 +6760,7 @@
 [
 "main/pppYmMana",
 14996,
-99.88,
+99.89,
 0,
 [
 "game"
@@ -6732,7 +6931,7 @@
 [
 "main/wm_menu",
 114708,
-99.44,
+99.47,
 0,
 [
 "game"
@@ -6813,7 +7012,7 @@
 [
 "main/pppMiasma",
 6024,
-99.51,
+99.81,
 0,
 [
 "game"
@@ -6840,7 +7039,7 @@
 [
 "main/charaobj",
 30428,
-99.59,
+99.86,
 0,
 [
 "game"
@@ -6957,7 +7156,7 @@
 [
 "main/monobj_boss",
 19228,
-99.91,
+99.93,
 0,
 [
 "game"
@@ -6966,7 +7165,7 @@
 [
 "main/bonus_menu",
 45312,
-97.09,
+97.21,
 0,
 [
 "game"
@@ -7020,7 +7219,7 @@
 [
 "main/pppCharaBreak",
 5904,
-99.22,
+99.25,
 0,
 [
 "game"
@@ -7083,7 +7282,7 @@
 [
 "main/singmenu",
 21712,
-99.54,
+99.56,
 0,
 [
 "game"
@@ -7092,7 +7291,7 @@
 [
 "main/menu_cmd",
 23176,
-99.23,
+99.26,
 0,
 [
 "game"
@@ -7119,7 +7318,7 @@
 [
 "main/menu_equip",
 9792,
-99.72,
+99.95,
 0,
 [
 "game"
@@ -7137,8 +7336,8 @@
 [
 "main/menu_money",
 5804,
-99.88,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -7155,7 +7354,7 @@
 [
 "main/menu_compa",
 5240,
-98.86,
+99.42,
 0,
 [
 "game"
@@ -7227,7 +7426,7 @@
 [
 "main/cmake",
 31236,
-99.92,
+99.93,
 0,
 [
 "game"
@@ -7245,7 +7444,7 @@
 [
 "main/pppLaser",
 4956,
-99.66,
+99.88,
 0,
 [
 "game"
