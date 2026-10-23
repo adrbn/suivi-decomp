@@ -6623,6 +6623,117 @@
 }
 },
 {
+"sha": "7321ed3bdf61fea109007e6377356fea7383abd1",
+"time": "2026-10-21T21:50:26Z",
+"message": "Import missing `ConeGravity` functions from Petari",
+"measures": {
+"matched_code_percent": 17.4242,
+"complete_code_percent": 1.5236,
+"matched_data_percent": 9.1417,
+"complete_data_percent": 1.1984,
+"total_code": 6271292.0,
+"matched_code": 1092720.0,
+"total_data": 1702620.0,
+"total_functions": 50624.0,
+"matched_functions": 6709.0,
+"total_units": 4161.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 47.1982,
+"complete_code_percent": 0.5375,
+"matched_data_percent": 14.1194,
+"complete_data_percent": 0.1145,
+"total_code": 273112.0,
+"matched_code": 128904.0,
+"total_data": 41928.0,
+"total_functions": 2827.0,
+"matched_functions": 1370.0,
+"total_units": 96.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 50.0765,
+"complete_code_percent": 1.0288,
+"matched_data_percent": 25.8721,
+"complete_data_percent": 9.3023,
+"total_code": 75820.0,
+"matched_code": 37968.0,
+"total_data": 1376.0,
+"total_functions": 355.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.9867,
+"complete_code_percent": 0.3341,
+"matched_data_percent": 4.9278,
+"complete_data_percent": 0.0,
+"total_code": 343648.0,
+"matched_code": 298928.0,
+"total_data": 160884.0,
+"total_functions": 2745.0,
+"matched_functions": 2511.0,
+"total_units": 165.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3768,
+"complete_code_percent": 0.6677,
+"matched_data_percent": 34.005,
+"complete_data_percent": 15.3652,
+"total_code": 39540.0,
+"matched_code": 21896.0,
+"total_data": 3176.0,
+"total_functions": 118.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "57b7a789edac0e2e9f3908e74aea61a02f13b9a4",
 "time": "2026-10-21T22:13:40Z",
 "message": "Merge pull request #13 from ThePlayerRolo/main",
@@ -8286,6 +8397,117 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "f2833de7a1c39cd3351ad693aac419ab54909b21",
+"time": "2026-10-23T09:36:26Z",
+"message": "ActorStateBase.cpp",
+"measures": {
+"matched_code_percent": 17.891,
+"complete_code_percent": 1.5241,
+"matched_data_percent": 9.2126,
+"complete_data_percent": 1.1984,
+"total_code": 6269260.0,
+"matched_code": 1121632.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 6995.0,
+"total_units": 3215.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 51.2367,
+"complete_code_percent": 0.5063,
+"matched_data_percent": 15.699,
+"complete_data_percent": 0.1085,
+"total_code": 289972.0,
+"matched_code": 148572.0,
+"total_data": 44232.0,
+"total_functions": 2982.0,
+"matched_functions": 1551.0,
+"total_units": 106.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9783,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635588.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 27.4336,
+"complete_data_percent": 7.0796,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 1808.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6791,
+"complete_code_percent": 0.3229,
+"matched_data_percent": 4.8742,
+"complete_data_percent": 0.0,
+"total_code": 355532.0,
+"matched_code": 308172.0,
+"total_data": 163392.0,
+"total_functions": 2891.0,
+"matched_functions": 2616.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 33.0097,
+"complete_data_percent": 14.8058,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3296.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -8299,7 +8521,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-23T02:39:28Z",
+"units_time": "2026-10-23T09:36:26Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -13953,10 +14175,19 @@
 ],
 [
 "main/auto_03_8022CE50_text",
-204,
+116,
 0.0,
 0,
 []
+],
+[
+"main/Game/LiveActor/ActorStateBase",
+88,
+100.0,
+0,
+[
+"game"
+]
 ],
 [
 "main/Game/LiveActor/ActorStateKeeper",
