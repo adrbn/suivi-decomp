@@ -2477,6 +2477,65 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "f25d2c0973fb5c914c42e05f2b5be147b889321c",
+"time": "2026-10-23T15:38:41Z",
+"message": "Naming + accuracy improvements (#358)",
+"measures": {
+"matched_code_percent": 48.3498,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 73.7753,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1742380.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9920.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.3546,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 71.9473,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1063732.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6123.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2486,7 +2545,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-23T00:05:01Z",
+"units_time": "2026-10-23T15:38:41Z",
 "units": [
 [
 "mario/main",
@@ -3274,7 +3333,7 @@
 [
 "mario/Enemy/igaiga",
 22000,
-98.53,
+98.84,
 0,
 [
 "game"
@@ -3859,7 +3918,7 @@
 [
 "mario/GC2D/SelectMenu",
 13736,
-93.18,
+94.3,
 0,
 [
 "game"
@@ -3958,7 +4017,7 @@
 [
 "mario/GC2D/MovieRumble",
 988,
-98.57,
+98.6,
 0,
 [
 "game"

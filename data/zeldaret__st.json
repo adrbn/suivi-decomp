@@ -569,12 +569,31 @@
 "complete_units": 219.0
 },
 "categories": {}
+},
+{
+"sha": "a8c826c706971dae592e4def139169c1b0a0231b",
+"time": "2026-10-23T13:12:32Z",
+"message": "Add AGENTS.md and CLAUDE.md (#171)",
+"measures": {
+"matched_code_percent": 9.4439,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.1791,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 433392.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5908.0,
+"total_units": 1276.0,
+"complete_units": 219.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-14T01:39:02Z",
+"units_time": "2026-10-23T13:12:32Z",
 "units": [
 [
 "_dsd_gap@main_29",

@@ -863,6 +863,78 @@
 "complete_units": 20.0
 }
 }
+},
+{
+"sha": "ab14b156970f009b45715ef9ece4895c4cc8d6a3",
+"time": "2026-10-23T15:17:37Z",
+"message": "tools: add quality checks to CI (#22)",
+"measures": {
+"matched_code_percent": 21.0478,
+"complete_code_percent": 2.3233,
+"matched_data_percent": 0.434,
+"complete_data_percent": 0.2104,
+"total_code": 4045240.0,
+"matched_code": 851432.0,
+"total_data": 2495952.0,
+"total_functions": 13890.0,
+"matched_functions": 6410.0,
+"total_units": 754.0,
+"complete_units": 57.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2676,
+"complete_code_percent": 1.6285,
+"matched_data_percent": 100.0,
+"complete_data_percent": 9.7493,
+"total_code": 311460.0,
+"matched_code": 262460.0,
+"total_data": 2872.0,
+"total_functions": 1273.0,
+"matched_functions": 1095.0,
+"total_units": 138.0,
+"complete_units": 4.0
+},
+"unsorted": {
+"matched_code_percent": 8.8849,
+"complete_code_percent": 0.481,
+"matched_data_percent": 40.7591,
+"complete_data_percent": 16.8317,
+"total_code": 3241688.0,
+"matched_code": 288020.0,
+"total_data": 4848.0,
+"total_functions": 10545.0,
+"matched_functions": 3755.0,
+"total_units": 254.0,
+"complete_units": 20.0
+}
+}
 }
 ],
 "branch": "main",
@@ -873,7 +945,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-10-23T07:29:26Z",
+"units_time": "2026-10-23T15:17:37Z",
 "units": [
 [
 "main/src/main",
