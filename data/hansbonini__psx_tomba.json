@@ -4434,6 +4434,273 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "b990d660ee805ad7b8eff477144f42322d797f43",
+"time": "2026-10-23T18:57:17Z",
+"message": "Add LANGUAGE, update BIOS calls and add new funcs matches",
+"measures": {
+"matched_code_percent": 24.561,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1471664.0,
+"matched_code": 361456.0,
+"total_data": 0.0,
+"total_functions": 3695.0,
+"matched_functions": 1192.0,
+"total_units": 270.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 65.3979,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 282052.0,
+"matched_code": 184456.0,
+"total_data": 0.0,
+"total_functions": 737.0,
+"matched_functions": 494.0,
+"total_units": 40.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 91.6453,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 107772.0,
+"matched_code": 98768.0,
+"total_data": 0.0,
+"total_functions": 527.0,
+"matched_functions": 498.0,
+"total_units": 175.0,
+"complete_units": 0.0
+},
+"optsub00": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8136.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x00": {
+"matched_code_percent": 10.8255,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 313556.0,
+"matched_code": 33944.0,
+"total_data": 0.0,
+"total_functions": 598.0,
+"matched_functions": 88.0,
+"total_units": 10.0,
+"complete_units": 0.0
+},
+"x01": {
+"matched_code_percent": 11.3514,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 153884.0,
+"matched_code": 17468.0,
+"total_data": 0.0,
+"total_functions": 296.0,
+"matched_functions": 34.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"x02": {
+"matched_code_percent": 11.2253,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 24908.0,
+"matched_code": 2796.0,
+"total_data": 0.0,
+"total_functions": 57.0,
+"matched_functions": 9.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"x03": {
+"matched_code_percent": 9.1557,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 122852.0,
+"matched_code": 11248.0,
+"total_data": 0.0,
+"total_functions": 273.0,
+"matched_functions": 24.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"x04": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 105636.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 254.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x05": {
+"matched_code_percent": 29.7829,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5896.0,
+"matched_code": 1756.0,
+"total_data": 0.0,
+"total_functions": 23.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x06": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 36484.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 92.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x08": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 36.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 1.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x09": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 82532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 198.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x10": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 99628.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 226.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x11": {
+"matched_code_percent": 6.7109,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 15080.0,
+"matched_code": 1012.0,
+"total_data": 0.0,
+"total_functions": 49.0,
+"matched_functions": 3.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"x13": {
+"matched_code_percent": 10.1839,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8484.0,
+"matched_code": 864.0,
+"total_data": 0.0,
+"total_functions": 26.0,
+"matched_functions": 3.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"x14": {
+"matched_code_percent": 3.702,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 62344.0,
+"matched_code": 2308.0,
+"total_data": 0.0,
+"total_functions": 187.0,
+"matched_functions": 5.0,
+"total_units": 9.0,
+"complete_units": 0.0
+},
+"x16": {
+"matched_code_percent": 21.1293,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 10980.0,
+"matched_code": 2320.0,
+"total_data": 0.0,
+"total_functions": 57.0,
+"matched_functions": 9.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"x17": {
+"matched_code_percent": 13.5762,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13288.0,
+"matched_code": 1804.0,
+"total_data": 0.0,
+"total_functions": 43.0,
+"matched_functions": 7.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"x18": {
+"matched_code_percent": 16.7366,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 16204.0,
+"matched_code": 2712.0,
+"total_data": 0.0,
+"total_functions": 48.0,
+"matched_functions": 11.0,
+"total_units": 2.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4459,7 +4726,7 @@
 "x17": "X17 Overlay",
 "x18": "X18 Overlay"
 },
-"units_time": "2026-10-23T15:28:55Z",
+"units_time": "2026-10-23T18:57:17Z",
 "units": [
 [
 "sces_013.30/overlays/x03/x03_5",
@@ -5153,7 +5420,7 @@
 [
 "sces_013.30/exe/main0/main/game/inventory",
 21616,
-82.22,
+100.0,
 0,
 [
 "main"
@@ -5261,7 +5528,7 @@
 [
 "sces_013.30/exe/main0/main/game/collision",
 9796,
-62.11,
+79.42,
 0,
 [
 "main"
@@ -5313,15 +5580,6 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libsn/snmain",
-384,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libetc/intr_dma",
 680,
 100.0,
@@ -5341,8 +5599,8 @@
 ],
 [
 "sces_013.30/exe/main0/psyq/libetc/intr",
-1828,
-51.2,
+1816,
+51.98,
 0,
 [
 "sdk"
@@ -5367,36 +5625,9 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libcard/patch",
-508,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/c171",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libcard/card",
 56,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/a78",
-12,
-0.0,
+100.0,
 0,
 [
 "sdk"
@@ -5405,160 +5636,7 @@
 [
 "sces_013.30/exe/main0/psyq/libcard/init",
 188,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/a80",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/a75",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/c172",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/a74",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcard/a76",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/c112",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a53",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a52",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a25",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/c68",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/l02",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a94",
-8,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a51",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a65",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/l03",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a11",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a10",
-12,
-0.0,
+100.0,
 0,
 [
 "sdk"
@@ -5574,179 +5652,8 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libapi/c57",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a12",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a67",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a16",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/l10",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a54",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a23",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a66",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a09",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a91",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a15",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libapi/func_8005B668",
 256,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a13",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a37",
-16,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a36",
-16,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a14",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a69",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a08",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a50",
-12,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libapi/a24",
-12,
 0.0,
 0,
 [
@@ -6546,27 +6453,9 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libpress/vlc",
-880,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libpress/libpress",
-1892,
-83.72,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libgpu/c73",
-12,
-0.0,
+1888,
+83.9,
 0,
 [
 "sdk"
@@ -6699,15 +6588,6 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libgte/fgo_04",
-408,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libgte/reg10",
 32,
 100.0,
@@ -6726,36 +6606,9 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libgte/fgo_05",
-408,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libgte/geo_00",
 204,
 100.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libgte/msc00",
-128,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libgte/msc01",
-132,
-0.0,
 0,
 [
 "sdk"
@@ -6771,18 +6624,9 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libgte/fgo_06",
-408,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libgte/cor_05",
 504,
-98.41,
+100.0,
 0,
 [
 "sdk"
@@ -6807,27 +6651,9 @@
 ]
 ],
 [
-"sces_013.30/exe/main0/psyq/libgte/patchgte",
-148,
-0.0,
-0,
-[
-"sdk"
-]
-],
-[
 "sces_013.30/exe/main0/psyq/libgte/reg12",
 24,
 100.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libgte/mtx_000",
-1132,
-0.0,
 0,
 [
 "sdk"
@@ -6909,15 +6735,6 @@
 "sces_013.30/exe/main0/psyq/libcd/cdread",
 1524,
 100.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libcd/a07",
-12,
-0.0,
 0,
 [
 "sdk"
@@ -7143,15 +6960,6 @@
 "sces_013.30/exe/main0/psyq/libc2/memmove",
 108,
 100.0,
-0,
-[
-"sdk"
-]
-],
-[
-"sces_013.30/exe/main0/psyq/libc2/setjmp",
-120,
-0.0,
 0,
 [
 "sdk"
