@@ -2538,6 +2538,65 @@
 }
 },
 {
+"sha": "a6fafcb737872c60dde929b6cee190e7bc9e2563",
+"time": "2026-10-23T17:35:05Z",
+"message": "Enemy/tobiPuku: match the generate nerve (#364)",
+"measures": {
+"matched_code_percent": 48.563,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1750064.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9962.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.6244,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1071416.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6165.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "37df46a6ff391dc4728cb34d4ba4f827d5b9c0ba",
 "time": "2026-10-23T17:40:51Z",
 "message": "Enemy/bossManta: match updateMantaEscape and restore copy order (#365)",
@@ -2713,6 +2772,124 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "5504e2a671641eb32dd899cadcf78001c54f4308",
+"time": "2026-10-23T21:42:57Z",
+"message": "beam is closer",
+"measures": {
+"matched_code_percent": 48.5726,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1750408.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9963.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.6365,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1071760.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6166.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "57abeb8d349a87e534124cba07d511ed43b52c5b",
+"time": "2026-10-24T01:05:45Z",
+"message": "Enemy mario stuff",
+"measures": {
+"matched_code_percent": 48.5736,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1750444.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9965.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.6378,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1071796.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6168.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2722,7 +2899,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-23T17:48:58Z",
+"units_time": "2026-10-24T01:05:45Z",
 "units": [
 [
 "mario/main",
@@ -3222,7 +3399,7 @@
 [
 "mario/Enemy/emario",
 3972,
-99.71,
+99.94,
 0,
 [
 "game"
@@ -3267,7 +3444,7 @@
 [
 "mario/Enemy/enemyMario",
 23464,
-96.11,
+98.07,
 0,
 [
 "game"
@@ -3591,7 +3768,7 @@
 [
 "mario/Enemy/beam",
 3704,
-98.05,
+99.75,
 0,
 [
 "game"

@@ -7127,6 +7127,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "61a91dadb22995ff1d2a3e7381646b466db3fb7f",
+"time": "2026-10-24T03:15:52Z",
+"message": "yay microsoft",
+"measures": {
+"matched_code_percent": 52.3096,
+"complete_code_percent": 26.6921,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 20.5344,
+"total_code": 12206380.0,
+"matched_code": 6385104.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29028.0,
+"total_units": 2230.0,
+"complete_units": 660.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.7298,
+"complete_code_percent": 57.3555,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 57.1632,
+"total_code": 1283768.0,
+"matched_code": 1164760.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4604.0,
+"total_units": 158.0,
+"complete_units": 124.0
+},
+"engine": {
+"matched_code_percent": 88.5333,
+"complete_code_percent": 42.8086,
+"matched_data_percent": 18.308,
+"complete_data_percent": 45.9874,
+"total_code": 5888864.0,
+"matched_code": 5213608.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24367.0,
+"total_units": 810.0,
+"complete_units": 534.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "d64c022cb59aa61f2287a2c94be3f436362e73fa",
+"time": "2026-10-24T03:57:07Z",
+"message": "match asyncfilewin",
+"measures": {
+"matched_code_percent": 52.3136,
+"complete_code_percent": 26.7174,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 20.55,
+"total_code": 12206380.0,
+"matched_code": 6385592.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29030.0,
+"total_units": 2230.0,
+"complete_units": 661.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.7298,
+"complete_code_percent": 57.3555,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 57.1632,
+"total_code": 1283768.0,
+"matched_code": 1164760.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4604.0,
+"total_units": 158.0,
+"complete_units": 124.0
+},
+"engine": {
+"matched_code_percent": 88.5416,
+"complete_code_percent": 42.8611,
+"matched_data_percent": 18.308,
+"complete_data_percent": 46.0344,
+"total_code": 5888864.0,
+"matched_code": 5214096.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24369.0,
+"total_units": 810.0,
+"complete_units": 535.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "752383e17b7d35be2a617d2adf36ae642f7d1669",
+"time": "2026-10-24T04:14:05Z",
+"message": "kb context + asyncfile improvements",
+"measures": {
+"matched_code_percent": 52.3215,
+"complete_code_percent": 26.7174,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 20.55,
+"total_code": 12206380.0,
+"matched_code": 6386560.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29032.0,
+"total_units": 2230.0,
+"complete_units": 661.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.7298,
+"complete_code_percent": 57.3555,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 57.1632,
+"total_code": 1283768.0,
+"matched_code": 1164760.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4604.0,
+"total_units": 158.0,
+"complete_units": 124.0
+},
+"engine": {
+"matched_code_percent": 88.5581,
+"complete_code_percent": 42.8611,
+"matched_data_percent": 18.308,
+"complete_data_percent": 46.0344,
+"total_code": 5888864.0,
+"matched_code": 5215064.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24371.0,
+"total_units": 810.0,
+"complete_units": 535.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -7137,7 +7353,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-23T20:00:58Z",
+"units_time": "2026-10-24T04:14:05Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -10508,8 +10724,8 @@
 [
 "default/system/os/HolmesClient",
 15304,
-98.55,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -10535,8 +10751,8 @@
 [
 "default/system/os/Keyboard_Xbox",
 628,
-32.48,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -10562,8 +10778,8 @@
 [
 "default/system/os/BlockMgr",
 6952,
-73.28,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -10571,7 +10787,7 @@
 [
 "default/system/os/AsyncFile",
 4480,
-89.11,
+91.11,
 0,
 [
 "engine"
@@ -10778,8 +10994,8 @@
 [
 "default/system/os/AsyncFile_Win",
 3092,
-92.08,
-0,
+100.0,
+1,
 [
 "engine"
 ]
