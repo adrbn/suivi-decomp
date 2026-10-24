@@ -9618,6 +9618,339 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "391f50db9f0de5cbde2536df4da3eeec56d3b151",
+"time": "2026-10-24T19:04:34Z",
+"message": "Merge branch 'main' of https://github.com/SMGCommunity/Garigari",
+"measures": {
+"matched_code_percent": 18.3819,
+"complete_code_percent": 1.5241,
+"matched_data_percent": 9.4044,
+"complete_data_percent": 1.1984,
+"total_code": 6269260.0,
+"matched_code": 1152408.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7300.0,
+"total_units": 2752.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 54.4979,
+"complete_code_percent": 0.4463,
+"matched_data_percent": 17.0206,
+"complete_data_percent": 0.0954,
+"total_code": 328952.0,
+"matched_code": 179272.0,
+"total_data": 50292.0,
+"total_functions": 3335.0,
+"matched_functions": 1853.0,
+"total_units": 127.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9767,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635644.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "d02c2894b833925ad894c7b9c5643d539ac73816",
+"time": "2026-10-24T19:16:56Z",
+"message": "`MapDemoStateNews`",
+"measures": {
+"matched_code_percent": 18.3819,
+"complete_code_percent": 1.5241,
+"matched_data_percent": 9.4044,
+"complete_data_percent": 1.1984,
+"total_code": 6269260.0,
+"matched_code": 1152408.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7300.0,
+"total_units": 2752.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 54.4979,
+"complete_code_percent": 0.4463,
+"matched_data_percent": 17.0206,
+"complete_data_percent": 0.0954,
+"total_code": 328952.0,
+"matched_code": 179272.0,
+"total_data": 50292.0,
+"total_functions": 3335.0,
+"matched_functions": 1853.0,
+"total_units": 127.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9767,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635644.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "f527ee07da29ff77d184f7fee0c273e80287550d",
+"time": "2026-10-24T19:24:05Z",
+"message": "Small `MapDemoStateWait` fixes",
+"measures": {
+"matched_code_percent": 18.3819,
+"complete_code_percent": 1.5241,
+"matched_data_percent": 9.4044,
+"complete_data_percent": 1.1984,
+"total_code": 6269260.0,
+"matched_code": 1152408.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7300.0,
+"total_units": 2752.0,
+"complete_units": 104.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 53.7373,
+"complete_code_percent": 0.44,
+"matched_data_percent": 16.9492,
+"complete_data_percent": 0.095,
+"total_code": 333608.0,
+"matched_code": 179272.0,
+"total_data": 50504.0,
+"total_functions": 3384.0,
+"matched_functions": 1853.0,
+"total_units": 128.0,
+"complete_units": 2.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9767,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635644.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -9631,7 +9964,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-24T15:34:53Z",
+"units_time": "2026-10-24T19:24:05Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -11022,14 +11355,7 @@
 ],
 [
 "main/Game/Boss/BellyDragon_UNK2",
-13572,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80092E60_text",
-4,
+13576,
 0.0,
 0,
 []
@@ -11134,14 +11460,7 @@
 ],
 [
 "main/Game/Boss/BossBussunStateRecover",
-908,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8009C8A0_text",
-4,
+912,
 0.0,
 0,
 []
@@ -11589,14 +11908,7 @@
 ],
 [
 "main/Game/Boss/KoopaDemoChamber",
-4172,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_800CA770_text",
-184,
+4356,
 0.0,
 0,
 []
@@ -11799,14 +12111,7 @@
 ],
 [
 "main/Game/Boss/KoopaJrRobot_UNK5",
-1176,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_800DF580_text",
-4,
+1180,
 0.0,
 0,
 []
@@ -11869,14 +12174,7 @@
 ],
 [
 "main/Game/Boss/KoopaJrRobot_UNK13",
-3216,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_800E35F0_text",
-64,
+3280,
 0.0,
 0,
 []
@@ -11995,14 +12293,7 @@
 ],
 [
 "main/Game/Boss/Koopa_UNK28",
-632,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_800E9390_text",
-4,
+636,
 0.0,
 0,
 []
@@ -12261,14 +12552,7 @@
 ],
 [
 "main/Game/Boss/Sandy_UNK5",
-3040,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80100B80_text",
-4,
+3044,
 0.0,
 0,
 []
@@ -12345,14 +12629,7 @@
 ],
 [
 "main/Game/Boss/TwoLegs_UNK3",
-980,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80106CC0_text",
-64,
+1044,
 0.0,
 0,
 []
@@ -12429,14 +12706,7 @@
 ],
 [
 "main/Game/Boss/YukkinaGroundSnow",
-1080,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8010BE20_text",
-96,
+1176,
 0.0,
 0,
 []
@@ -12779,14 +13049,7 @@
 ],
 [
 "main/Game/Camera/CameraAnim",
-3540,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8010F5F0_text",
-64,
+3604,
 0.0,
 0,
 []
@@ -13073,14 +13336,7 @@
 ],
 [
 "main/Game/Camera/CameraParamChunkHolder",
-2956,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80126830_text",
-16,
+2972,
 0.0,
 0,
 []
@@ -13304,14 +13560,7 @@
 ],
 [
 "main/Game/Camera/CameraViewInterpolator",
-4240,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80130C00_text",
-304,
+4544,
 0.0,
 0,
 []
@@ -13934,14 +14183,7 @@
 ],
 [
 "main/Game/Enemy/BeeEater",
-5720,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8015D160_text",
-80,
+5800,
 0.0,
 0,
 []
@@ -14033,9 +14275,11 @@
 [
 "main/Game/Enemy/BombTeresa",
 11036,
-0.0,
+100.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Enemy/BoomerangBros",
@@ -14137,14 +14381,7 @@
 ],
 [
 "main/Game/Enemy/FireBallSpreadLava",
-1544,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8017F7F0_text",
-4,
+1548,
 0.0,
 0,
 []
@@ -14354,14 +14591,7 @@
 ],
 [
 "main/Game/Enemy/KameckBeamHolder",
-172,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_801A7C90_text",
-360,
+532,
 0.0,
 0,
 []
@@ -15048,19 +15278,12 @@
 ],
 [
 "main/Game/Gravity/DiskTorusGravity",
-452,
+1124,
 100.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80224A10_text",
-672,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Gravity/GlobalGravityObj",
@@ -15775,14 +15998,7 @@
 ],
 [
 "main/Game/Map/BezierRail",
-4100,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80246660_text",
-368,
+4468,
 0.0,
 0,
 []
@@ -16410,14 +16626,7 @@
 ],
 [
 "main/Game/MapObj/BigRepeatWarpLift",
-1216,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8027A110_text",
-80,
+1296,
 0.0,
 0,
 []
@@ -16585,14 +16794,7 @@
 ],
 [
 "main/Game/MapObj/ClipAreaShape",
-76,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80286EF0_text",
-2084,
+2160,
 0.0,
 0,
 []
@@ -16769,14 +16971,7 @@
 ],
 [
 "main/Game/MapObj/DrillHole",
-800,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80294C50_text",
-588,
+1388,
 0.0,
 0,
 []
@@ -17193,14 +17388,7 @@
 ],
 [
 "main/Game/MapObj/ItemDrill",
-12276,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_802B8990_text",
-92,
+12368,
 0.0,
 0,
 []
@@ -17774,14 +17962,7 @@
 ],
 [
 "main/Game/MapObj/RepeatBlock_UNK1",
-1008,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_802EF3C0_text",
-16,
+1024,
 0.0,
 0,
 []
@@ -18084,14 +18265,7 @@
 ],
 [
 "main/Game/MapObj/SpinCloudItem",
-1436,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8030B820_text",
-96,
+1532,
 0.0,
 0,
 []
@@ -18287,14 +18461,7 @@
 ],
 [
 "main/Game/MapObj/SwitchingMoveBlock",
-1588,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80322CE0_text",
-64,
+1652,
 0.0,
 0,
 []
@@ -18755,14 +18922,7 @@
 ],
 [
 "main/Game/NameObj/NameObjListExecutor",
-1048,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80343DC0_text",
-96,
+1144,
 0.0,
 0,
 []
@@ -18969,14 +19129,7 @@
 ],
 [
 "main/Game/NPC/MiiDatabase",
-132,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80354610_text",
-160,
+292,
 0.0,
 0,
 []
@@ -19894,15 +20047,8 @@
 []
 ],
 [
-"main/auto_03_803F4AF0_text",
-76,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Player/MarioSkate",
-2916,
+2992,
 0.0,
 0,
 []
@@ -20035,13 +20181,83 @@
 ],
 [
 "main/auto_03_804095C0_text",
-8216,
+372,
 0.0,
 0,
 []
 ],
 [
-"main/Game/Player/PLAYER_UNK1",
+"main/Game/Player/PlayerEvent",
+1752,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventAbyss",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventDown",
+4,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventFireDown",
+2220,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventGameOver",
+544,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventGhostRaceDown",
+648,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventKillNoDirector",
+512,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PlayerEventRaceDown",
+856,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/Player_UNK1",
+1248,
+0.0,
+0,
+[]
+],
+[
+"main/auto_03_8040B760_text",
+56,
+0.0,
+0,
+[]
+],
+[
+"main/Game/Player/PLAYER_UNK2",
 268,
 0.0,
 0,
@@ -20056,14 +20272,14 @@
 ],
 [
 "main/Game/Player/Yoshi",
-31284,
+31292,
 0.0,
 0,
 []
 ],
 [
-"main/auto_03_80413C30_text",
-8800,
+"main/auto_03_80413C40_text",
+8792,
 0.0,
 0,
 []
@@ -20105,14 +20321,7 @@
 ],
 [
 "main/Game/RhythmLib/AudRhythmSeqParser",
-3636,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80423890_text",
-64,
+3700,
 0.0,
 0,
 []
@@ -20147,14 +20356,7 @@
 ],
 [
 "main/Game/RhythmLib/AudMeSeqCtrl",
-484,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80425EA0_text",
-16,
+500,
 0.0,
 0,
 []
@@ -20238,14 +20440,7 @@
 ],
 [
 "main/Game/Ride/Fluff",
-6892,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8042E250_text",
-4,
+6896,
 0.0,
 0,
 []
@@ -20322,14 +20517,14 @@
 ],
 [
 "main/Game/Ride/RollingRock",
-2036,
+2112,
 0.0,
 0,
 []
 ],
 [
-"main/auto_03_8043CE60_text",
-1508,
+"main/auto_03_8043CEB0_text",
+1432,
 0.0,
 0,
 []
@@ -20343,14 +20538,7 @@
 ],
 [
 "main/Game/Ride/RIDE_UNK2",
-9188,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804404C0_text",
-4,
+9192,
 0.0,
 0,
 []
@@ -20420,14 +20608,7 @@
 ],
 [
 "main/Game/Ride/Trapeze",
-10316,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8044B8D0_text",
-100,
+10416,
 0.0,
 0,
 []
@@ -20484,14 +20665,7 @@
 ],
 [
 "main/Game/Ride/TubeSliderJumpStep",
-616,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80450FF0_text",
-72,
+688,
 0.0,
 0,
 []
@@ -20526,14 +20700,7 @@
 ],
 [
 "main/Game/Scene/GameSceneScenarioOpeningCameraState",
-1012,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804534A0_text",
-4,
+1016,
 0.0,
 0,
 []
@@ -20688,14 +20855,14 @@
 ],
 [
 "main/auto_03_8045D2D0_text",
-644,
+540,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/BackButton",
-5596,
+5700,
 0.0,
 0,
 []
@@ -20865,14 +21032,7 @@
 ],
 [
 "main/Game/Screen/ErrorMessageWindow",
-1296,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8046CF90_text",
-76,
+1372,
 0.0,
 0,
 []
@@ -20893,14 +21053,7 @@
 ],
 [
 "main/Game/Screen/FileSelectNumber",
-1852,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8046EB00_text",
-172,
+2024,
 0.0,
 0,
 []
@@ -20958,14 +21111,7 @@
 ],
 [
 "main/Game/Screen/GamePauseSequence",
-844,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804715D0_text",
-4,
+848,
 0.0,
 0,
 []
@@ -21037,14 +21183,7 @@
 ],
 [
 "main/Game/Screen/ImageEffectDirector",
-2508,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80476760_text",
-64,
+2572,
 0.0,
 0,
 []
@@ -21058,28 +21197,14 @@
 ],
 [
 "main/Game/Screen/ImageEffectResource",
-1340,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80478200_text",
-352,
+1692,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/ImageEffectState",
-2576,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80478E60_text",
-128,
+2704,
 0.0,
 0,
 []
@@ -21152,14 +21277,7 @@
 ],
 [
 "main/Game/Screen/Layout_UNK1",
-3316,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8047E700_text",
-4,
+3320,
 0.0,
 0,
 []
@@ -21182,14 +21300,7 @@
 ],
 [
 "main/Game/Screen/LogoFader",
-1000,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80480450_text",
-64,
+1064,
 0.0,
 0,
 []
@@ -21252,14 +21363,7 @@
 ],
 [
 "main/Game/Screen/MissLayout",
-688,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_80485750_text",
-4,
+692,
 0.0,
 0,
 []
@@ -21345,14 +21449,7 @@
 ],
 [
 "main/Game/Screen/RaceLayout",
-1564,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8048C700_text",
-4,
+1568,
 0.0,
 0,
 []
@@ -21536,14 +21633,7 @@
 ],
 [
 "main/Game/Screen/StarPointerTarget",
-2360,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_8049FCD0_text",
-156,
+2516,
 0.0,
 0,
 []
@@ -21585,14 +21675,7 @@
 ],
 [
 "main/Game/Screen/SwitchingScreenEffect",
-1276,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A2620_text",
-4,
+1280,
 0.0,
 0,
 []
@@ -21620,14 +21703,7 @@
 ],
 [
 "main/Game/Screen/TimeStopScreenEffect",
-1744,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A4960_text",
-4,
+1748,
 0.0,
 0,
 []
@@ -21676,42 +21752,21 @@
 ],
 [
 "main/Game/Screen/WipeKoopa",
-1004,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A7630_text",
-4,
+1008,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/WipeMario",
-1184,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A7B70_text",
-4,
+1188,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/WipeRing",
-3252,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A88D0_text",
-4,
+3256,
 0.0,
 0,
 []
@@ -21724,64 +21779,36 @@
 []
 ],
 [
-"main/auto_03_804A8D40_text",
-108,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Screen/SCREEN_UNK2",
-1592,
+1700,
 0.0,
 0,
 []
 ],
 [
 "main/auto_03_804A9430_text",
-272,
+4,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/SCREEN_UNK3",
-1352,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A9AE0_text",
-100,
+1620,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/SCREEN_UNK4",
-668,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804A9E30_text",
-108,
+768,
 0.0,
 0,
 []
 ],
 [
 "main/Game/Screen/SCREEN_UNK5",
-2068,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804AA730_text",
-4,
+2180,
 0.0,
 0,
 []
@@ -21923,14 +21950,7 @@
 ],
 [
 "main/Game/System/DrawBufferGroup",
-1728,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804B05B0_text",
-32,
+1760,
 0.0,
 0,
 []
@@ -22254,14 +22274,14 @@
 ],
 [
 "main/Game/System/NANDErrorSequence",
-3808,
+3812,
 0.0,
 0,
 []
 ],
 [
-"main/auto_03_804C4370_text",
-632,
+"main/auto_03_804C4380_text",
+628,
 0.0,
 0,
 []
@@ -22600,14 +22620,7 @@
 ],
 [
 "main/Game/System/SaveDataHandler",
-3828,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804DC310_text",
-4,
+3832,
 0.0,
 0,
 []
@@ -22728,15 +22741,8 @@
 ]
 ],
 [
-"main/auto_03_804E0EB0_text",
-92,
-0.0,
-0,
-[]
-],
-[
-"main/Game/World/MapStateInit",
-492,
+"main/Game/World/MapDemoStateInit",
+584,
 0.0,
 0,
 []
@@ -22749,32 +22755,31 @@
 []
 ],
 [
-"main/Game/World/MapStateMove",
+"main/Game/World/MapDemoStateMove",
 4656,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
-"main/auto_03_804E2550_text",
-112,
-0.0,
+"main/Game/World/MapDemoStateWait",
+684,
+100.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
-"main/Game/World/MapStateWait",
-572,
-0.0,
-0,
-[]
-],
-[
-"main/Game/World/MapStateGrandGalaxyMapNews",
+"main/Game/World/MapDemoStateNews",
 1656,
-0.0,
+99.44,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/World/MapDemoStateWarp",
@@ -22817,14 +22822,7 @@
 ],
 [
 "main/Game/World/MiniPlayerRocket",
-3472,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804E5350_text",
-80,
+3552,
 0.0,
 0,
 []
@@ -22840,28 +22838,14 @@
 ],
 [
 "main/Game/World/MiniStarCheckPoint",
-2268,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804E6260_text",
-144,
+2412,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/MiniStarPieceMine",
-936,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804E66D0_text",
-8,
+944,
 0.0,
 0,
 []
@@ -22875,14 +22859,14 @@
 ],
 [
 "main/Game/World/MiniTicoMaster",
-2372,
+2444,
 0.0,
 0,
 []
 ],
 [
-"main/auto_03_804E7480_text",
-628,
+"main/auto_03_804E74D0_text",
+556,
 0.0,
 0,
 []
@@ -22910,28 +22894,28 @@
 ],
 [
 "main/auto_03_804E8250_text",
-652,
+160,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK1",
-2800,
+3292,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK2",
-8180,
+8356,
 0.0,
 0,
 []
 ],
 [
-"main/auto_03_804EB230_text",
-11372,
+"main/auto_03_804EB2F0_text",
+11196,
 0.0,
 0,
 []
@@ -22972,71 +22956,43 @@
 []
 ],
 [
-"main/auto_03_804F0F90_text",
-92,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK7",
-560,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804F1250_text",
-92,
+652,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK8",
-536,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804F14F0_text",
-108,
+628,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK9",
-1112,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804F1A10_text",
-92,
+1220,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK10",
-1432,
+1524,
 0.0,
 0,
 []
 ],
 [
 "main/auto_03_804F20A0_text",
-6492,
+6384,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK11",
-4028,
+4136,
 0.0,
 0,
 []
@@ -23056,15 +23012,8 @@
 []
 ],
 [
-"main/auto_03_804F5DC0_text",
-92,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK14",
-332,
+424,
 0.0,
 0,
 []
@@ -23084,15 +23033,8 @@
 []
 ],
 [
-"main/auto_03_804F9330_text",
-104,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK17",
-852,
+956,
 0.0,
 0,
 []
@@ -23105,29 +23047,15 @@
 []
 ],
 [
-"main/auto_03_804F99E0_text",
-112,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK19",
-2296,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804FA3D0_text",
-108,
+2408,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK20",
-620,
+728,
 0.0,
 0,
 []
@@ -23140,29 +23068,15 @@
 []
 ],
 [
-"main/auto_03_804FB4D0_text",
-108,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK22",
-512,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804FB770_text",
-92,
+620,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK23",
-796,
+888,
 0.0,
 0,
 []
@@ -23175,43 +23089,22 @@
 []
 ],
 [
-"main/auto_03_804FC9B0_text",
-100,
-0.0,
-0,
-[]
-],
-[
 "main/Game/World/WORLD_UNK25",
-1620,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804FD0D0_text",
-120,
+1720,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK26",
-1136,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804FD620_text",
-108,
+1256,
 0.0,
 0,
 []
 ],
 [
 "main/Game/World/WORLD_UNK27",
-2464,
+2572,
 0.0,
 0,
 []
@@ -23470,19 +23363,12 @@
 ],
 [
 "main/JSystem/JKernel/JKRDecomp",
-1684,
-100.0,
+1764,
+99.97,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_8050D810_text",
-80,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JSupport/JSUList",
@@ -24120,19 +24006,12 @@
 ],
 [
 "main/JSystem/JParticle/JPAFieldBlock",
-2912,
+2976,
 100.0,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_80541AB0_text",
-64,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JParticle/JPAKeyBlock",
@@ -25794,19 +25673,12 @@
 ],
 [
 "main/JSystem/JAudio2/JAUStdSoundInfo",
-1188,
-100.0,
+1196,
+99.33,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_8059CDD0_text",
-8,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JAUStreamFileTable",

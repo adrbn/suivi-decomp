@@ -2159,6 +2159,78 @@
 "complete_units": 64.0
 }
 }
+},
+{
+"sha": "a1f2c322c9c24791ff2483327baf099783c26ec7",
+"time": "2026-10-24T20:46:45Z",
+"message": "Merge pull request #93 from MB60893/tutil-wrap-mathutil-fn",
+"measures": {
+"matched_code_percent": 47.0916,
+"complete_code_percent": 41.9278,
+"matched_data_percent": 24.888,
+"complete_data_percent": 32.4426,
+"total_code": 3222748.0,
+"matched_code": 1517644.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8695.0,
+"total_units": 807.0,
+"complete_units": 518.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.7693,
+"complete_code_percent": 34.9286,
+"matched_data_percent": 40.5593,
+"complete_data_percent": 48.8644,
+"total_code": 2086116.0,
+"matched_code": 808772.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5444.0,
+"total_units": 371.0,
+"complete_units": 225.0
+},
+"jsys": {
+"matched_code_percent": 69.6534,
+"complete_code_percent": 56.9383,
+"matched_data_percent": 50.3991,
+"complete_data_percent": 84.3372,
+"total_code": 695616.0,
+"matched_code": 484520.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2454.0,
+"total_units": 208.0,
+"complete_units": 154.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2169,7 +2241,7 @@
 "sdk": "Dolphin SDK",
 "msl": "MSL"
 },
-"units_time": "2026-10-05T11:46:59Z",
+"units_time": "2026-10-24T20:46:45Z",
 "units": [
 [
 "main/kartLocale",
