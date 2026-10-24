@@ -2538,6 +2538,183 @@
 }
 },
 {
+"sha": "a692ca8c9c2b36fa9fcecef9c880391776c05999",
+"time": "2026-10-23T17:30:28Z",
+"message": "Enemy/TabePuku: match 34 of 48 functions (#359)",
+"measures": {
+"matched_code_percent": 48.48,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1747072.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9954.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.5194,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1068424.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6157.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "47485a550c7b5f2222a22f5aed339fbdf6c49460",
+"time": "2026-10-23T17:31:29Z",
+"message": "Enemy/gesso: match walkBehavior, the turn nerve and getNowGravity (#360)",
+"measures": {
+"matched_code_percent": 48.5044,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1747952.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9957.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.5503,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1069304.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6160.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "02244c9ddb8b080788a1655ce7ee20c243d4923c",
+"time": "2026-10-23T17:32:33Z",
+"message": "Enemy/smallEnemy: match isFindMario and isFindMarioFromParam (#361)",
+"measures": {
+"matched_code_percent": 48.5197,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.0679,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1748504.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9959.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.5697,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.2833,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1069856.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6162.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "e651890fb6bce30b0035c5f5e6fb4b9c478c20b2",
 "time": "2026-10-23T17:33:22Z",
 "message": "Enemy/Kumokun: match TWallAtGraph::init and fix the manager name (#362)",
