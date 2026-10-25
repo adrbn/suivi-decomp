@@ -227,6 +227,234 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "e5a4d369011062fe243aa63f6c2e2853854c395d",
+"time": "2026-10-25T17:32:09Z",
+"message": "Match RPSysPlayerMgr::getSpeakerFlag (#175)",
+"measures": {
+"matched_code_percent": 7.9477,
+"complete_code_percent": 4.0282,
+"matched_data_percent": 6.2867,
+"complete_data_percent": 6.2587,
+"total_code": 3313876.0,
+"matched_code": 263376.0,
+"total_data": 1801067.0,
+"total_functions": 13804.0,
+"matched_functions": 1547.0,
+"total_units": 592.0,
+"complete_units": 108.0
+},
+"categories": {
+"nw4r": {
+"matched_code_percent": 58.456,
+"complete_code_percent": 41.8922,
+"matched_data_percent": 63.1103,
+"complete_data_percent": 63.1502,
+"total_code": 227412.0,
+"matched_code": 132936.0,
+"total_data": 170747.0,
+"total_functions": 1009.0,
+"matched_functions": 794.0,
+"total_units": 85.0,
+"complete_units": 61.0
+},
+"egg": {
+"matched_code_percent": 58.5661,
+"complete_code_percent": 17.7114,
+"matched_data_percent": 34.6067,
+"complete_data_percent": 19.5506,
+"total_code": 31076.0,
+"matched_code": 18200.0,
+"total_data": 3560.0,
+"total_functions": 157.0,
+"matched_functions": 113.0,
+"total_units": 14.0,
+"complete_units": 9.0
+},
+"sdk": {
+"matched_code_percent": 44.2659,
+"complete_code_percent": 21.8765,
+"matched_data_percent": 2.6866,
+"complete_data_percent": 4.172,
+"total_code": 117752.0,
+"matched_code": 52124.0,
+"total_data": 61936.0,
+"total_functions": 423.0,
+"matched_functions": 227.0,
+"total_units": 42.0,
+"complete_units": 24.0
+},
+"rfl": {
+"matched_code_percent": 50.4417,
+"complete_code_percent": 6.9137,
+"matched_data_percent": 13.2497,
+"complete_data_percent": 11.0646,
+"total_code": 60228.0,
+"matched_code": 30380.0,
+"total_data": 8604.0,
+"total_functions": 189.0,
+"matched_functions": 119.0,
+"total_units": 14.0,
+"complete_units": 2.0
+},
+"hbm": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"kernel": {
+"matched_code_percent": 21.5398,
+"complete_code_percent": 6.1925,
+"matched_data_percent": 85.5908,
+"complete_data_percent": 7.4928,
+"total_code": 23900.0,
+"matched_code": 5148.0,
+"total_data": 1388.0,
+"total_functions": 143.0,
+"matched_functions": 52.0,
+"total_units": 16.0,
+"complete_units": 8.0
+},
+"system": {
+"matched_code_percent": 35.4513,
+"complete_code_percent": 2.5635,
+"matched_data_percent": 6.0936,
+"complete_data_percent": 15.234,
+"total_code": 51180.0,
+"matched_code": 18144.0,
+"total_data": 3676.0,
+"total_functions": 355.0,
+"matched_functions": 209.0,
+"total_units": 22.0,
+"complete_units": 4.0
+},
+"graphics": {
+"matched_code_percent": 90.9923,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 5684.0,
+"matched_code": 5172.0,
+"total_data": 136.0,
+"total_functions": 27.0,
+"matched_functions": 22.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"audio": {
+"matched_code_percent": 12.2591,
+"complete_code_percent": 0.0,
+"matched_data_percent": 62.5,
+"complete_data_percent": 0.0,
+"total_code": 10376.0,
+"matched_code": 1272.0,
+"total_data": 32.0,
+"total_functions": 62.0,
+"matched_functions": 11.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"utility": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"sports": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"tennis": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"baseball": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"golf": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"boxing": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"bowling": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "master",
@@ -249,7 +477,7 @@
 "boxing": "RPBoxScene",
 "bowling": "RPBowScene"
 },
-"units_time": "2026-10-15T07:44:15Z",
+"units_time": "2026-10-25T17:32:09Z",
 "units": [
 [
 "main/nw4r/ut/ut_list",
@@ -2664,7 +2892,7 @@
 [
 "main/Pack/RPSystem/RPSysPlayerMgr",
 3712,
-87.77,
+88.31,
 0,
 [
 "system"
@@ -4003,5 +4231,6 @@
 0,
 []
 ]
-]
+],
+"workflow": 138898231
 }

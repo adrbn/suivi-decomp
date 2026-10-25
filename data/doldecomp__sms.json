@@ -3539,6 +3539,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "5c317032fab521f4e1f963c704a8ba4cab34b20b",
+"time": "2026-10-25T17:52:57Z",
+"message": "Get rid of old fake typedef for JMSMesgEntry",
+"measures": {
+"matched_code_percent": 48.8404,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1760060.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10002.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.9755,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1081412.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6205.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "56a1886c32f3020a79d4bc65581e3abda7061213",
+"time": "2026-10-25T18:24:35Z",
+"message": "Handle half-stripped crap better",
+"measures": {
+"matched_code_percent": 48.8638,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1760904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10007.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.0051,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1082256.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6210.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "f77383ccfbbfab2777a835a27437cd4f9e162b38",
+"time": "2026-10-25T19:32:23Z",
+"message": "Proper marcros for J2D colored text",
+"measures": {
+"matched_code_percent": 48.8638,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1760904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10007.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.0051,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1082256.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6210.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3548,7 +3725,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-25T15:03:30Z",
+"units_time": "2026-10-25T19:32:23Z",
 "units": [
 [
 "mario/main",
@@ -4300,7 +4477,7 @@
 [
 "mario/Enemy/tinkoopa",
 16852,
-98.01,
+98.09,
 0,
 [
 "game"
@@ -4363,7 +4540,7 @@
 [
 "mario/Enemy/bosstelesa",
 40152,
-93.78,
+93.93,
 0,
 [
 "game"
@@ -4732,7 +4909,7 @@
 [
 "mario/Enemy/BathtubKiller",
 19236,
-97.47,
+97.88,
 0,
 [
 "game"
@@ -4741,7 +4918,7 @@
 [
 "mario/Enemy/coasterkiller",
 7900,
-98.2,
+98.26,
 0,
 [
 "game"
@@ -4867,7 +5044,7 @@
 [
 "mario/GC2D/MessageLoader",
 880,
-99.75,
+99.77,
 0,
 [
 "game"
@@ -4984,7 +5161,7 @@
 [
 "mario/GC2D/ProgSelect",
 1408,
-99.92,
+99.88,
 0,
 [
 "game"
@@ -5020,7 +5197,7 @@
 [
 "mario/GC2D/MovieRumble",
 988,
-98.6,
+98.96,
 0,
 [
 "game"
@@ -5353,7 +5530,7 @@
 [
 "mario/Map/BathWaterManager",
 32352,
-95.73,
+95.77,
 0,
 [
 "game"
