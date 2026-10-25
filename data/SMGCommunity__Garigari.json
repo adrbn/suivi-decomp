@@ -10617,20 +10617,353 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "cef104e9ddfe59788c78189018f46c3fc01244bf",
+"time": "2026-10-25T14:19:45Z",
+"message": "AttackRock first pass",
+"measures": {
+"matched_code_percent": 18.7239,
+"complete_code_percent": 1.7204,
+"matched_data_percent": 9.4349,
+"complete_data_percent": 1.2729,
+"total_code": 6269260.0,
+"matched_code": 1173852.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7518.0,
+"total_units": 2748.0,
+"complete_units": 107.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2489,
+"complete_code_percent": 0.2915,
+"matched_data_percent": 1.3226,
+"complete_data_percent": 0.1917,
+"total_code": 4723904.0,
+"matched_code": 200716.0,
+"total_data": 686512.0,
+"total_functions": 41737.0,
+"matched_functions": 2071.0,
+"total_units": 1666.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.222,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720468.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2687.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "1394982a0d0e9c87ea33acc6f824089d102e701e",
+"time": "2026-10-25T15:15:05Z",
+"message": "cover some more voids in `.text` splits",
+"measures": {
+"matched_code_percent": 18.7317,
+"complete_code_percent": 1.7204,
+"matched_data_percent": 9.4349,
+"complete_data_percent": 1.2729,
+"total_code": 6269260.0,
+"matched_code": 1174340.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7525.0,
+"total_units": 2719.0,
+"complete_units": 107.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2362,
+"complete_code_percent": 0.29,
+"matched_data_percent": 1.3191,
+"complete_data_percent": 0.1912,
+"total_code": 4749612.0,
+"matched_code": 201204.0,
+"total_data": 688352.0,
+"total_functions": 41956.0,
+"matched_functions": 2078.0,
+"total_units": 1677.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.222,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720468.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2687.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "d259c5328ab16ffef1755e5bef621fe487147b3d",
+"time": "2026-10-25T16:30:17Z",
+"message": "Start `WorldMapPointPartsHolder` and match `MiniWorldWarpPoint`",
+"measures": {
+"matched_code_percent": 18.7431,
+"complete_code_percent": 1.7363,
+"matched_data_percent": 9.4483,
+"complete_data_percent": 1.2961,
+"total_code": 6269264.0,
+"matched_code": 1175056.0,
+"total_data": 1702616.0,
+"total_functions": 50353.0,
+"matched_functions": 7541.0,
+"total_units": 2720.0,
+"complete_units": 109.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2473,
+"complete_code_percent": 0.3107,
+"matched_data_percent": 1.3521,
+"complete_data_percent": 0.2487,
+"total_code": 4754028.0,
+"matched_code": 201920.0,
+"total_data": 688404.0,
+"total_functions": 42002.0,
+"matched_functions": 2094.0,
+"total_units": 1677.0,
+"complete_units": 7.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.222,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720468.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2687.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
 "artifact": "SB4E01_report",
 "category_names": {
 "game": "Game Code",
-"sdk": "SDK Code",
-"nw4r": "NintendoWare Code",
 "jsys": "JSystem",
+"sdk": "SDK Code",
 "rfl": "RVLFaceLib",
+"nw4r": "NintendoWare Code",
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-25T10:46:41Z",
+"units_time": "2026-10-25T16:30:17Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -10668,24 +11001,8 @@
 ],
 [
 "main/Game/Util/ActorInitUtil",
-5656,
-94.21,
-0,
-[
-"game"
-]
-],
-[
-"main/auto_03_8000D620_text",
-612,
-0.0,
-0,
-[]
-],
-[
-"main/Game/Util/ActorMoveParamUtil",
-492,
-0.0,
+5932,
+89.83,
 0,
 [
 "game"
@@ -10693,8 +11010,8 @@
 ],
 [
 "main/Game/Util/ActorMovementUtil",
-26164,
-63.49,
+26992,
+62.79,
 0,
 [
 "game"
@@ -10719,11 +11036,13 @@
 ]
 ],
 [
-"main/auto_03_80019D60_text",
+"main/Game/Util/ActorSoundUtil",
 344,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/ActorStateUtil",
@@ -10780,11 +11099,13 @@
 ]
 ],
 [
-"main/auto_03_8001F0C0_text",
+"main/Game/Util/DataUtil",
 524,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/DemoUtil",
@@ -10833,7 +11154,7 @@
 ],
 [
 "main/Game/Util/FootPrint",
-2912,
+3144,
 0.0,
 0,
 [
@@ -10841,15 +11162,8 @@
 ]
 ],
 [
-"main/auto_03_80026A60_text",
-320,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Util/FurCtrl",
-3944,
+4032,
 0.0,
 0,
 [
@@ -10867,35 +11181,21 @@
 ],
 [
 "main/Game/Util/FurMulti",
-2196,
+5248,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80029170_text",
-3248,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Util/GamePadUtil",
-4340,
+4572,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_8002B150_text",
-36,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Util/GravityUtil",
@@ -10944,19 +11244,12 @@
 ],
 [
 "main/Game/Util/LightUtil",
-256,
+724,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80030F90_text",
-468,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Util/LiveActorUtil",
@@ -11005,7 +11298,7 @@
 ],
 [
 "main/Game/Util/MessageUtil",
-2040,
+3616,
 0.0,
 0,
 [
@@ -11013,11 +11306,13 @@
 ]
 ],
 [
-"main/auto_03_80041BE0_text",
-1816,
+"main/Game/Util/MeUtil",
+240,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/ModelUtil",
@@ -11056,11 +11351,13 @@
 ]
 ],
 [
-"main/auto_03_80048580_text",
+"main/Game/Util/N_UNK1",
 76,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/NPCUtil",
@@ -11091,19 +11388,12 @@
 ],
 [
 "main/Game/Util/PlayerUtil",
-8544,
+8616,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80051910_text",
-72,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Util/RailGraphUtil",
@@ -11124,11 +11414,13 @@
 ]
 ],
 [
-"main/auto_03_80054650_text",
+"main/Game/Util/UTIL_UNK1",
 7444,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/SceneUtil",
@@ -11140,11 +11432,13 @@
 ]
 ],
 [
-"main/auto_03_800583F0_text",
+"main/Game/Util/SchedulerUtil",
 152,
-0.0,
+100.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/ScreenUtil",
@@ -11165,15 +11459,8 @@
 ]
 ],
 [
-"main/auto_03_8005A4E0_text",
+"main/Game/Util/ShareUtil",
 188,
-0.0,
-0,
-[]
-],
-[
-"main/Game/Util/SoundUtil",
-5268,
 0.0,
 0,
 [
@@ -11181,11 +11468,13 @@
 ]
 ],
 [
-"main/auto_03_8005BBE0_text",
-160,
+"main/Game/Util/SoundUtil",
+5428,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/StarPointerUtil",
@@ -11950,15 +12239,17 @@
 ]
 ],
 [
-"main/auto_03_8007C1C0_text",
-396,
+"main/Game/AudioLib/AudAudience",
+264,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/AudioLib/AudSoundInfo",
-1196,
+1328,
 0.0,
 0,
 [
@@ -12057,19 +12348,12 @@
 ],
 [
 "main/Game/AudioLib/AudBgmSetting",
-1204,
+1316,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80083DE0_text",
-112,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/AudioLib/AudBgmVolumeController",
@@ -12099,11 +12383,13 @@
 ]
 ],
 [
-"main/auto_03_80084600_text",
+"main/Game/AudioLib/AudLimitedSound",
 128,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/AudioLib/AudMeNameConverter",
@@ -12160,11 +12446,13 @@
 ]
 ],
 [
-"main/auto_03_80085CF0_text",
+"main/Game/AudioLib/AudS_UNK1",
 484,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/AudioLib/AudSoundNameConverter",
@@ -12212,15 +12500,8 @@
 ]
 ],
 [
-"main/auto_03_80087190_text",
-5096,
-0.0,
-0,
-[]
-],
-[
 "main/Game/AudioLib/OverwriteJAudio",
-2884,
+7980,
 0.0,
 0,
 [
@@ -12237,11 +12518,13 @@
 ]
 ],
 [
-"main/auto_03_80089470_text",
+"main/Game/AudioLib/AUDIOLIB_UNK1",
 4032,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Boss/BattanKing",
@@ -15784,7 +16067,7 @@
 [
 "main/Game/Enemy/AttackRock",
 3548,
-0.0,
+91.79,
 0,
 [
 "game"
@@ -15800,7 +16083,7 @@
 ]
 ],
 [
-"main/Game/Enemy/AttackRock80153940",
+"main/Game/Enemy/AttackRockStateFloat",
 2612,
 0.0,
 0,
@@ -15809,7 +16092,7 @@
 ]
 ],
 [
-"main/Game/Enemy/AttackRock80154530",
+"main/Game/Enemy/AttackRockStateKoopaFall",
 2916,
 0.0,
 0,
@@ -15819,7 +16102,16 @@
 ],
 [
 "main/Game/Enemy/AttackRockTutorial",
-4108,
+3124,
+0.0,
+0,
+[
+"game"
+]
+],
+[
+"main/Game/Enemy/AttackRockUtil",
+984,
 0.0,
 0,
 [
@@ -26426,7 +26718,7 @@
 "main/Game/World/MiniComet",
 444,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -26513,11 +26805,13 @@
 ]
 ],
 [
-"main/auto_03_804E74D0_text",
+"main/Game/World/MiniWorldWarpPoint",
 556,
-0.0,
-0,
-[]
+100.0,
+1,
+[
+"game"
+]
 ],
 [
 "main/Game/World/MiniWorldMapModel",
@@ -26530,23 +26824,21 @@
 ],
 [
 "main/auto_03_804E7790_text",
-1672,
+2608,
 0.0,
 0,
 []
 ],
 [
-"main/Game/World/MiniWorldWarpPoint",
-1012,
+"main/auto_fn_804E8200_text",
+76,
 0.0,
 0,
-[
-"game"
-]
+[]
 ],
 [
-"main/auto_03_804E8250_text",
-160,
+"main/auto_03_804E824C_text",
+164,
 0.0,
 0,
 []
@@ -26571,15 +26863,15 @@
 ],
 [
 "main/auto_03_804EB2F0_text",
-11196,
+6324,
 0.0,
 0,
 []
 ],
 [
-"main/Game/World/WORLD_UNK3",
-24,
-0.0,
+"main/Game/World/WorldMapPointPartsHolder",
+4896,
+16.37,
 0,
 [
 "game"

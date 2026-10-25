@@ -4661,6 +4661,117 @@
 "complete_units": 29.0
 }
 }
+},
+{
+"sha": "470e9cea44760a6c70851207a13c5caa68c4db37",
+"time": "2026-10-25T14:43:01Z",
+"message": "Added AXSetVoicePriority in RVL_SDK (#2159)",
+"measures": {
+"matched_code_percent": 99.8046,
+"complete_code_percent": 55.8773,
+"matched_data_percent": 49.6993,
+"complete_data_percent": 47.125,
+"total_code": 5407992.0,
+"matched_code": 5397424.0,
+"total_data": 1578968.0,
+"total_functions": 41997.0,
+"matched_functions": 41964.0,
+"total_units": 2205.0,
+"complete_units": 1595.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 99.9741,
+"complete_code_percent": 54.3291,
+"matched_data_percent": 42.9989,
+"complete_data_percent": 56.1127,
+"total_code": 4142016.0,
+"matched_code": 4140944.0,
+"total_data": 709572.0,
+"total_functions": 35681.0,
+"matched_functions": 35678.0,
+"total_units": 1605.0,
+"complete_units": 1144.0
+},
+"jsys": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 48.3115,
+"matched_data_percent": 82.8858,
+"complete_data_percent": 18.8474,
+"total_code": 368028.0,
+"matched_code": 368028.0,
+"total_data": 198712.0,
+"total_functions": 2976.0,
+"matched_functions": 2976.0,
+"total_units": 169.0,
+"complete_units": 128.0
+},
+"sdk": {
+"matched_code_percent": 99.2013,
+"complete_code_percent": 61.4781,
+"matched_data_percent": 46.5517,
+"complete_data_percent": 45.2548,
+"total_code": 699156.0,
+"matched_code": 693572.0,
+"total_data": 635972.0,
+"total_functions": 2614.0,
+"matched_functions": 2602.0,
+"total_units": 275.0,
+"complete_units": 204.0
+},
+"nw4r": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 81.1814,
+"matched_data_percent": 13.7022,
+"complete_data_percent": 23.386,
+"total_code": 60876.0,
+"matched_code": 60876.0,
+"total_data": 6072.0,
+"total_functions": 309.0,
+"matched_functions": 309.0,
+"total_units": 28.0,
+"complete_units": 22.0
+},
+"rfl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 53.4304,
+"matched_data_percent": 53.4118,
+"complete_data_percent": 59.1765,
+"total_code": 41220.0,
+"matched_code": 41220.0,
+"total_data": 3400.0,
+"total_functions": 118.0,
+"matched_functions": 118.0,
+"total_units": 13.0,
+"complete_units": 9.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 99.4611,
+"matched_data_percent": 72.9667,
+"complete_data_percent": 67.5445,
+"total_code": 62348.0,
+"matched_code": 62348.0,
+"total_data": 10328.0,
+"total_functions": 130.0,
+"matched_functions": 130.0,
+"total_units": 62.0,
+"complete_units": 59.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 84.6394,
+"complete_data_percent": 100.0,
+"total_code": 30436.0,
+"matched_code": 30436.0,
+"total_data": 10260.0,
+"total_functions": 151.0,
+"matched_functions": 151.0,
+"total_units": 29.0,
+"complete_units": 29.0
+}
+}
 }
 ],
 "branch": "master",
@@ -4674,7 +4785,7 @@
 "msl": "MSL_C",
 "trk": "MetroTRK"
 },
-"units_time": "2026-10-25T09:30:50Z",
+"units_time": "2026-10-25T14:43:01Z",
 "units": [
 [
 "main/nw4r/ut/ut_LinkList",
@@ -22380,7 +22491,7 @@
 [
 "main/RVL_SDK/ax/AXAlloc",
 412,
-62.14,
+100.0,
 0,
 [
 "sdk"

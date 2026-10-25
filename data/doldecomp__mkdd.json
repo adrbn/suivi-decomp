@@ -2231,6 +2231,78 @@
 "complete_units": 64.0
 }
 }
+},
+{
+"sha": "b56cc7677fa23058eff8f38784479c3b4b854060",
+"time": "2026-10-25T11:45:48Z",
+"message": "Merge pull request #80 from joakim-d/reverse_kartsoundmgr",
+"measures": {
+"matched_code_percent": 47.9012,
+"complete_code_percent": 42.7578,
+"matched_data_percent": 25.0773,
+"complete_data_percent": 32.6345,
+"total_code": 3222748.0,
+"matched_code": 1543736.0,
+"total_data": 931828.0,
+"total_functions": 15357.0,
+"matched_functions": 8737.0,
+"total_units": 807.0,
+"complete_units": 519.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.02,
+"complete_code_percent": 36.2108,
+"matched_data_percent": 40.9873,
+"complete_data_percent": 49.2983,
+"total_code": 2086116.0,
+"matched_code": 834864.0,
+"total_data": 412081.0,
+"total_functions": 9938.0,
+"matched_functions": 5486.0,
+"total_units": 371.0,
+"complete_units": 226.0
+},
+"jsys": {
+"matched_code_percent": 69.6534,
+"complete_code_percent": 56.9383,
+"matched_data_percent": 50.3991,
+"complete_data_percent": 84.3372,
+"total_code": 695616.0,
+"matched_code": 484520.0,
+"total_data": 91708.0,
+"total_functions": 3834.0,
+"matched_functions": 2454.0,
+"total_units": 208.0,
+"complete_units": 154.0
+},
+"sdk": {
+"matched_code_percent": 47.8423,
+"complete_code_percent": 48.4502,
+"matched_data_percent": 12.9896,
+"complete_data_percent": 16.5602,
+"total_code": 353988.0,
+"matched_code": 169356.0,
+"total_data": 103960.0,
+"total_functions": 1250.0,
+"matched_functions": 623.0,
+"total_units": 133.0,
+"complete_units": 75.0
+},
+"msl": {
+"matched_code_percent": 63.1934,
+"complete_code_percent": 63.1934,
+"matched_data_percent": 24.8378,
+"complete_data_percent": 31.4061,
+"total_code": 87028.0,
+"matched_code": 54996.0,
+"total_data": 20340.0,
+"total_functions": 335.0,
+"matched_functions": 174.0,
+"total_units": 94.0,
+"complete_units": 64.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2241,7 +2313,7 @@
 "sdk": "Dolphin SDK",
 "msl": "MSL"
 },
-"units_time": "2026-10-24T20:46:45Z",
+"units_time": "2026-10-25T11:45:48Z",
 "units": [
 [
 "main/kartLocale",
@@ -6134,7 +6206,7 @@
 [
 "main/Inagaki/CharacterSoundMgr",
 6716,
-99.93,
+99.92,
 0,
 [
 "game"
@@ -6197,8 +6269,8 @@
 [
 "main/Inagaki/KartSoundMgr",
 26748,
-3.74,
-0,
+100.0,
+1,
 [
 "game"
 ]
