@@ -3244,6 +3244,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "f53ddb97f31b535daf341d1de06c0d8fdbca5740",
+"time": "2026-10-24T21:34:55Z",
+"message": "Watergun closer + some unused stuff + some protected stuff (#352)",
+"measures": {
+"matched_code_percent": 48.7919,
+"complete_code_percent": 17.5627,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6286,
+"total_code": 3603696.0,
+"matched_code": 1758312.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9998.0,
+"total_units": 732.0,
+"complete_units": 389.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.9141,
+"complete_code_percent": 3.1943,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.1571,
+"total_code": 2847660.0,
+"matched_code": 1079664.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6201.0,
+"total_units": 385.0,
+"complete_units": 81.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "f565f4a7bedc4040b90527b704c495780abe5d57",
+"time": "2026-10-24T21:35:28Z",
+"message": "Take default allocator in TVector_pointer + matching MarDirector (#370)",
+"measures": {
+"matched_code_percent": 48.8167,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1759204.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9999.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.9454,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1080556.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6202.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "0808c1ac1ad7b10f3e49b7f5c4fc761e3a134522",
+"time": "2026-10-24T23:46:52Z",
+"message": "Use ACTOR_TYPE_MARIO in TTPHitActor::checkHitActors",
+"measures": {
+"matched_code_percent": 48.8167,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5228,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1759204.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 9999.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 37.9454,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8056,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1080556.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6202.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3253,7 +3430,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-24T10:31:56Z",
+"units_time": "2026-10-24T23:46:52Z",
 "units": [
 [
 "mario/main",
@@ -4437,7 +4614,7 @@
 [
 "mario/Enemy/BathtubKiller",
 19236,
-97.46,
+97.47,
 0,
 [
 "game"
@@ -6102,7 +6279,7 @@
 [
 "mario/Player/MarioMove",
 34216,
-98.25,
+98.33,
 0,
 [
 "game"
@@ -6165,7 +6342,7 @@
 [
 "mario/Player/MarioWait",
 7496,
-98.17,
+98.18,
 0,
 [
 "game"
@@ -6192,7 +6369,7 @@
 [
 "mario/Player/WaterGun",
 21016,
-94.16,
+94.63,
 0,
 [
 "game"
@@ -6346,7 +6523,7 @@
 "mario/System/MarDirector",
 1976,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -6408,7 +6585,7 @@
 [
 "mario/System/MarNameRefGen",
 22672,
-97.73,
+97.74,
 0,
 [
 "game"

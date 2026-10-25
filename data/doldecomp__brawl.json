@@ -827,15 +827,705 @@
 "complete_units": 449.0
 }
 }
+},
+{
+"sha": "af23077265c70b833c8604a51eba9b64b6381c54",
+"time": "2026-10-25T04:14:44Z",
+"message": "Add splits for all(?) of the RVL SDK, and also some matches (#153)",
+"measures": {
+"matched_code_percent": 1.3179,
+"complete_code_percent": 1.0831,
+"matched_data_percent": 14.6199,
+"complete_data_percent": 14.9355,
+"total_code": 15833548.0,
+"matched_code": 208676.0,
+"total_data": 5667488.0,
+"total_functions": 92522.0,
+"matched_functions": 2565.0,
+"total_units": 4625.0,
+"complete_units": 518.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 1.4887,
+"complete_code_percent": 0.9201,
+"matched_data_percent": 0.4018,
+"complete_data_percent": 0.4086,
+"total_code": 4170064.0,
+"matched_code": 62080.0,
+"total_data": 1724104.0,
+"total_functions": 14278.0,
+"matched_functions": 550.0,
+"total_units": 1928.0,
+"complete_units": 69.0
+},
+"modules": {
+"matched_code_percent": 1.2569,
+"complete_code_percent": 1.1414,
+"matched_data_percent": 20.8362,
+"complete_data_percent": 21.2869,
+"total_code": 11663484.0,
+"matched_code": 146596.0,
+"total_data": 3943384.0,
+"total_functions": 78244.0,
+"matched_functions": 2015.0,
+"total_units": 2697.0,
+"complete_units": 449.0
+},
+"rvl": {
+"matched_code_percent": 0.2466,
+"complete_code_percent": 0.0817,
+"matched_data_percent": 11.2971,
+"complete_data_percent": 6.6946,
+"total_code": 1341648.0,
+"matched_code": 3308.0,
+"total_data": 1912.0,
+"total_functions": 4492.0,
+"matched_functions": 36.0,
+"total_units": 287.0,
+"complete_units": 2.0
+},
+"rvl_AI": {
+"matched_code_percent": 95.1429,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 1400.0,
+"matched_code": 1332.0,
+"total_data": 144.0,
+"total_functions": 12.0,
+"matched_functions": 8.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ARC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2424.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_AX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 85.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_AXFX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5880.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 24.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_BASE": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 368.0,
+"matched_code": 368.0,
+"total_data": 56.0,
+"total_functions": 24.0,
+"matched_functions": 24.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_BTE": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 185772.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 733.0,
+"matched_functions": 0.0,
+"total_units": 65.0,
+"complete_units": 0.0
+},
+"rvl_CARD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 620.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 4.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_CX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4928.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 232.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DSP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2912.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_DVD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 36072.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 125.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_DWC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 366092.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 995.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ESP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2476.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EUART": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 880.0,
+"matched_code": 880.0,
+"total_data": 16.0,
+"total_functions": 3.0,
+"matched_functions": 3.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EXI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 7508.0,
+"matched_code": 0.0,
+"total_data": 8.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_FS": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6304.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 30.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_GX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 35204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 198.0,
+"matched_functions": 0.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"rvl_HBM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49212.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 141.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_IPC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8492.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_KPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12136.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MEM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4796.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 31.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_MIX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13588.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MTX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5116.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 32.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NAND": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 15108.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 81.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NCD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2172.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NET": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5032.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 19.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NHTTP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 30204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 150.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NWC24": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59440.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 200.0,
+"matched_functions": 0.0,
+"total_units": 19.0,
+"complete_units": 0.0
+},
+"rvl_NdevExi2AD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2752.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_OS": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 61468.0,
+"matched_code": 0.0,
+"total_data": 16.0,
+"total_functions": 284.0,
+"matched_functions": 0.0,
+"total_units": 32.0,
+"complete_units": 0.0
+},
+"rvl_PAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6296.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_RFL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 38760.0,
+"matched_code": 0.0,
+"total_data": 1600.0,
+"total_functions": 112.0,
+"matched_functions": 0.0,
+"total_units": 12.0,
+"complete_units": 0.0
+},
+"rvl_SC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 9028.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 51.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_SI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5728.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_SO": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 10900.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 44.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_SSL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3416.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_THP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 14436.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_TMCC_JPEG": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 61560.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 144.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_TPL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 3.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_USB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4396.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_VF": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 144504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 490.0,
+"matched_functions": 0.0,
+"total_units": 56.0,
+"complete_units": 0.0
+},
+"rvl_VI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 19144.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 43.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_WENC": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 728.0,
+"matched_code": 728.0,
+"total_data": 72.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_WPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59596.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 102.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_WUD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 20504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 73.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
 "artifact": "RSBE01_02_report",
 "category_names": {
 "dol": "DOL",
-"modules": "Modules"
+"modules": "Modules",
+"rvl": "DOL > RVL SDK",
+"rvl_AI": "DOL > RVL SDK > AI",
+"rvl_ARC": "DOL > RVL SDK > ARC",
+"rvl_AX": "DOL > RVL SDK > AX",
+"rvl_AXFX": "DOL > RVL SDK > AXFX",
+"rvl_BASE": "DOL > RVL SDK > BASE",
+"rvl_BTE": "DOL > RVL SDK > BTE",
+"rvl_CARD": "DOL > RVL SDK > CARD",
+"rvl_CX": "DOL > RVL SDK > CX",
+"rvl_DB": "DOL > RVL SDK > DB",
+"rvl_DSP": "DOL > RVL SDK > DSP",
+"rvl_DVD": "DOL > RVL SDK > DVD",
+"rvl_DWC": "DOL > RVL SDK > DWC",
+"rvl_ESP": "DOL > RVL SDK > ESP",
+"rvl_EUART": "DOL > RVL SDK > EUART",
+"rvl_EXI": "DOL > RVL SDK > EXI",
+"rvl_FS": "DOL > RVL SDK > FS",
+"rvl_GX": "DOL > RVL SDK > GX",
+"rvl_HBM": "DOL > RVL SDK > HBM",
+"rvl_IPC": "DOL > RVL SDK > IPC",
+"rvl_KPAD": "DOL > RVL SDK > KPAD",
+"rvl_MEM": "DOL > RVL SDK > MEM",
+"rvl_MIX": "DOL > RVL SDK > MIX",
+"rvl_MTX": "DOL > RVL SDK > MTX",
+"rvl_NAND": "DOL > RVL SDK > NAND",
+"rvl_NCD": "DOL > RVL SDK > NCD",
+"rvl_NET": "DOL > RVL SDK > NET",
+"rvl_NHTTP": "DOL > RVL SDK > NHTTP",
+"rvl_NWC24": "DOL > RVL SDK > NWC24",
+"rvl_NdevExi2AD": "DOL > RVL SDK > NdevExi2AD",
+"rvl_OS": "DOL > RVL SDK > OS",
+"rvl_PAD": "DOL > RVL SDK > PAD",
+"rvl_RFL": "DOL > RVL SDK > RFL",
+"rvl_SC": "DOL > RVL SDK > SC",
+"rvl_SI": "DOL > RVL SDK > SI",
+"rvl_SO": "DOL > RVL SDK > SO",
+"rvl_SSL": "DOL > RVL SDK > SSL",
+"rvl_THP": "DOL > RVL SDK > THP",
+"rvl_TMCC_JPEG": "DOL > RVL SDK > TMCC_JPEG",
+"rvl_TPL": "DOL > RVL SDK > TPL",
+"rvl_USB": "DOL > RVL SDK > USB",
+"rvl_VF": "DOL > RVL SDK > VF",
+"rvl_VI": "DOL > RVL SDK > VI",
+"rvl_WENC": "DOL > RVL SDK > WENC",
+"rvl_WPAD": "DOL > RVL SDK > WPAD",
+"rvl_WUD": "DOL > RVL SDK > WUD"
 },
-"units_time": "2026-10-24T19:33:44Z",
+"units_time": "2026-10-25T04:14:44Z",
 "units": [
 [
 "main/sora/sr/sr_getappname",
@@ -2765,11 +3455,2145 @@
 ],
 [
 "main/auto_03_801D3C54_text",
-686268,
+5140,
 0.0,
 0,
 [
 "dol"
+]
+],
+[
+"main/revolution/BASE/PPCArch",
+368,
+100.0,
+1,
+[
+"dol",
+"rvl",
+"rvl_BASE"
+]
+],
+[
+"main/revolution/OS/OS",
+5224,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSAlarm",
+2020,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSAlloc",
+776,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSArena",
+200,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSAudioSystem",
+1204,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSCache",
+1744,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSContext",
+2184,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSError",
+1844,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSExec",
+9876,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSFatal",
+3108,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSFont",
+3876,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSInterrupt",
+1924,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSLink",
+2560,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSMessage",
+724,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSMemory",
+2068,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSMutex",
+1000,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSReboot",
+128,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSReset",
+2148,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSRtc",
+2700,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSSemaphore",
+296,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSSync",
+128,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSThread",
+5816,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSTime",
+1716,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSUtf",
+568,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSIpc",
+40,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSStateTM",
+1684,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSPlayRecord",
+1784,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSStateFlags",
+524,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSNet",
+180,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSNandbootInfo",
+1044,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/OSPlayTime",
+2200,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/OS/__ppc_eabi_init",
+180,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_OS"
+]
+],
+[
+"main/revolution/EXI/EXIBios",
+6292,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_EXI"
+]
+],
+[
+"main/revolution/EXI/EXIUart",
+820,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_EXI"
+]
+],
+[
+"main/revolution/EXI/EXICommon",
+396,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_EXI"
+]
+],
+[
+"main/revolution/SI/SIBios",
+5504,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_SI"
+]
+],
+[
+"main/revolution/SI/SISamplingRate",
+224,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_SI"
+]
+],
+[
+"main/revolution/DB/db",
+232,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DB"
+]
+],
+[
+"main/revolution/VI/vi",
+10760,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VI"
+]
+],
+[
+"main/revolution/VI/i2c",
+2588,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VI"
+]
+],
+[
+"main/revolution/VI/vi3in1",
+5796,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VI"
+]
+],
+[
+"main/revolution/MTX/mtx",
+3096,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MTX"
+]
+],
+[
+"main/revolution/MTX/mtxvec",
+84,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MTX"
+]
+],
+[
+"main/revolution/MTX/mtx44",
+544,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MTX"
+]
+],
+[
+"main/revolution/MTX/vec",
+520,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MTX"
+]
+],
+[
+"main/revolution/MTX/quat",
+872,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MTX"
+]
+],
+[
+"main/revolution/GX/GXInit",
+4556,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXFifo",
+2912,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXAttr",
+4644,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXMisc",
+2412,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXGeometry",
+1500,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXFrameBuf",
+3076,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXLight",
+1820,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXTexture",
+4164,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXBump",
+1100,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXTev",
+1664,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXPixel",
+1892,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXDraw",
+976,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXDisplayList",
+464,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXTransform",
+1916,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/GX/GXPerf",
+2108,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_GX"
+]
+],
+[
+"main/revolution/DVD/dvdfs",
+2816,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvd",
+19700,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvdqueue",
+600,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvderror",
+2308,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvdidutils",
+376,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvdFatal",
+316,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvdDeviceError",
+664,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/DVD/dvd_broadway",
+9292,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DVD"
+]
+],
+[
+"main/revolution/AI/ai",
+1400,
+95.14,
+0,
+[
+"dol",
+"rvl",
+"rvl_AI"
+]
+],
+[
+"main/revolution/AX/AX",
+196,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXAlloc",
+1384,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXAux",
+2092,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXCL",
+2696,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXOut",
+2124,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXSPB",
+1060,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXVPB",
+3916,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AX/AXProf",
+64,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AX"
+]
+],
+[
+"main/revolution/AXFX/AXFXReverbHi",
+252,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AXFX"
+]
+],
+[
+"main/revolution/AXFX/AXFXReverbHiExp",
+3888,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AXFX"
+]
+],
+[
+"main/revolution/AXFX/AXFXDelay",
+1684,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AXFX"
+]
+],
+[
+"main/revolution/AXFX/AXFXHooks",
+56,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_AXFX"
+]
+],
+[
+"main/revolution/MEM/mem_heapCommon",
+1132,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MEM"
+]
+],
+[
+"main/revolution/MEM/mem_expHeap",
+2116,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MEM"
+]
+],
+[
+"main/revolution/MEM/mem_frameHeap",
+1140,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MEM"
+]
+],
+[
+"main/revolution/MEM/mem_allocator",
+132,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MEM"
+]
+],
+[
+"main/revolution/MEM/mem_list",
+276,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MEM"
+]
+],
+[
+"main/revolution/CX/CX_unsplit",
+4928,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_CX"
+]
+],
+[
+"main/revolution/MIX/MIX_unsplit",
+13588,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_MIX"
+]
+],
+[
+"main/revolution/DSP/dsp",
+636,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DSP"
+]
+],
+[
+"main/revolution/DSP/dsp_debug",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DSP"
+]
+],
+[
+"main/revolution/DSP/dsp_task",
+2196,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_DSP"
+]
+],
+[
+"main/revolution/CARD/CARD_unsplit",
+620,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_CARD"
+]
+],
+[
+"main/revolution/NAND/nand",
+4800,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NAND"
+]
+],
+[
+"main/revolution/NAND/NANDOpenClose",
+3620,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NAND"
+]
+],
+[
+"main/revolution/NAND/NANDCore",
+4472,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NAND"
+]
+],
+[
+"main/revolution/NAND/NANDCheck",
+728,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NAND"
+]
+],
+[
+"main/revolution/NAND/NANDLogging",
+1488,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NAND"
+]
+],
+[
+"main/revolution/SC/scsystem",
+6756,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_SC"
+]
+],
+[
+"main/revolution/SC/scapi",
+1480,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_SC"
+]
+],
+[
+"main/revolution/SC/scapi_prdinfo",
+792,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_SC"
+]
+],
+[
+"main/revolution/WENC/wenc",
+728,
+100.0,
+1,
+[
+"dol",
+"rvl",
+"rvl_WENC"
+]
+],
+[
+"main/revolution/ARC/arc",
+2424,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_ARC"
+]
+],
+[
+"main/revolution/ESP/esp",
+2476,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_ESP"
+]
+],
+[
+"main/revolution/IPC/ipcMain",
+204,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_IPC"
+]
+],
+[
+"main/revolution/IPC/ipcclt",
+6512,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_IPC"
+]
+],
+[
+"main/revolution/IPC/memory",
+1324,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_IPC"
+]
+],
+[
+"main/revolution/IPC/ipcProfile",
+452,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_IPC"
+]
+],
+[
+"main/revolution/FS/fs",
+6304,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_FS"
+]
+],
+[
+"main/revolution/PAD/Pad",
+6296,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_PAD"
+]
+],
+[
+"main/revolution/WPAD/WPAD",
+30700,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WPAD"
+]
+],
+[
+"main/revolution/WPAD/WPADHIDParser",
+21664,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WPAD"
+]
+],
+[
+"main/revolution/WPAD/WPADEncrypt",
+4264,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WPAD"
+]
+],
+[
+"main/revolution/WPAD/WPADMem",
+2888,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WPAD"
+]
+],
+[
+"main/revolution/WPAD/debug_msg",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WPAD"
+]
+],
+[
+"main/revolution/KPAD/KPAD",
+12136,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_KPAD"
+]
+],
+[
+"main/revolution/EUART/euart",
+880,
+100.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_EUART"
+]
+],
+[
+"main/revolution/USB/usb",
+4396,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_USB"
+]
+],
+[
+"main/revolution/WUD/WUD",
+18892,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WUD"
+]
+],
+[
+"main/revolution/WUD/WUDHidHost",
+1532,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WUD"
+]
+],
+[
+"main/revolution/WUD/debug_msg",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_WUD"
+]
+],
+[
+"main/revolution/BTE/gki_buffer",
+5188,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/gki_time",
+1368,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/gki_ppc",
+656,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hcisu_h2",
+1692,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/uusb_ppc",
+3076,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bte_hcisu",
+184,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bte_init",
+44,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bte_logmsg",
+356,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bte_main",
+344,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btu_task1",
+1104,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bd",
+212,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_sys_conn",
+596,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_sys_main",
+580,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/ptim",
+480,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/utl",
+68,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_dm_act",
+9020,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_dm_api",
+1132,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_dm_main",
+352,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_dm_pm",
+2588,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_hh_act",
+5960,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_hh_api",
+976,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_hh_main",
+1364,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/bta_hh_utils",
+940,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_acl",
+7492,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_dev",
+1740,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_devctl",
+6536,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_discovery",
+308,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_inq",
+6808,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_main",
+92,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_pm",
+3220,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_sco",
+3640,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btm_sec",
+12228,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btu_hcif",
+4700,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/btu_init",
+120,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/wbt_ext",
+224,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/gap_api",
+96,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/gap_conn",
+2876,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/gap_utils",
+1564,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hcicmds",
+10012,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidd_api",
+104,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidd_conn",
+192,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidd_mgmt",
+200,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidd_pm",
+892,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidh_api",
+3456,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/hidh_conn",
+8256,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/l2c_api",
+3020,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/l2c_csm",
+5340,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/l2c_link",
+4492,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/l2c_main",
+4144,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/l2c_utils",
+7876,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/port_api",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/port_rfc",
+5116,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/port_utils",
+1496,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_l2cap_if",
+2356,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_mx_fsm",
+3140,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_port_fsm",
+4512,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_port_if",
+1324,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_ts_frames",
+5704,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/rfc_utils",
+2016,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_api",
+3688,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_db",
+3276,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_discovery",
+4728,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_main",
+2924,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_server",
+3344,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/BTE/sdp_utils",
+4160,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_BTE"
+]
+],
+[
+"main/revolution/TPL/TPL",
+532,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_TPL"
+]
+],
+[
+"main/revolution/THP/THPDec",
+13264,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_THP"
+]
+],
+[
+"main/revolution/THP/THPAudio",
+1172,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_THP"
+]
+],
+[
+"main/revolution/NdevExi2AD/DebuggerDriver",
+820,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NdevExi2AD"
+]
+],
+[
+"main/revolution/NdevExi2AD/exi2",
+1932,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NdevExi2AD"
+]
+],
+[
+"main/revolution/TMCC_JPEG/TMCC_JPEG_unsplit",
+61560,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_TMCC_JPEG"
+]
+],
+[
+"main/revolution/HBM/HBM_unsplit",
+49212,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_HBM"
 ]
 ],
 [
@@ -13817,7 +16641,7 @@
 ],
 [
 "main/auto_03_80334BF8_text",
-622280,
+492,
 0.0,
 0,
 [
@@ -13825,813 +16649,1026 @@
 ]
 ],
 [
-"main/auto_fn_803CCAC0_text",
-860,
+"main/revolution/DWC/DWC_unsplit",
+366092,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_DWC"
 ]
 ],
 [
-"main/auto_fn_803CCE1C_text",
-160,
+"main/revolution/NCD/NCD_unsplit",
+2172,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NCD"
 ]
 ],
 [
-"main/auto_fn_803CCEBC_text",
-392,
+"main/revolution/NET/NET_unsplit",
+5032,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NET"
 ]
 ],
 [
-"main/auto_fn_803CD044_text",
-556,
+"main/revolution/NHTTP/NHTTP_unsplit",
+30204,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NHTTP"
 ]
 ],
 [
-"main/auto_03_803CD270_text",
-188,
+"main/revolution/NWC24/NWC24StdAPI",
+3356,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD32C_text",
-136,
+"main/revolution/NWC24/NWC24FileAPI",
+4812,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_03_803CD3B4_text",
-208,
+"main/revolution/NWC24/NWC24Config",
+1728,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD484_text",
-276,
+"main/revolution/NWC24/NWC24Utils",
+792,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD598_text",
-376,
+"main/revolution/NWC24/NWC24Manage",
+2636,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD710_text",
+"main/revolution/NWC24/NWC24MsgObj",
+1956,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NWC24"
+]
+],
+[
+"main/revolution/NWC24/NWC24MBoxCtrl",
+8524,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NWC24"
+]
+],
+[
+"main/revolution/NWC24/NWC24Mime",
+2028,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_NWC24"
+]
+],
+[
+"main/revolution/NWC24/NWC24Parser",
 288,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_03_803CD830_text",
-4,
+"main/revolution/NWC24/NWC24MsgCommit",
+11028,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD834_text",
-236,
+"main/revolution/NWC24/NWC24Schedule",
+2928,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD920_text",
-164,
+"main/revolution/NWC24/NWC24DateParser",
+1852,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CD9C4_text",
-112,
+"main/revolution/NWC24/NWC24FriendList",
+1276,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803CDA34_text",
-148,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CDAC8_text",
-388,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CDC4C_text",
-364,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CDDB8_text",
-292,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CDEDC_text",
-364,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE048_text",
-292,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE16C_text",
-364,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE2D8_text",
-292,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE3FC_text",
-108,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE468_text",
-72,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE4B0_text",
-124,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE52C_text",
-68,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_03_803CE570_text",
-4,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE574_text",
-80,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE5C4_text",
-124,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE640_text",
-740,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CE924_text",
-752,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CEC14_text",
-744,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CEEFC_text",
-1004,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CF2E8_text",
-632,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CF560_text",
-784,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CF870_text",
-468,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CFA44_text",
-416,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CFBE4_text",
-468,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CFDB8_text",
-408,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803CFF50_text",
-440,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D0108_text",
-220,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D01E4_text",
-108,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D0250_text",
-884,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D05C4_text",
-76,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_03_803D0610_text",
-44,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D063C_text",
-740,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_03_803D0920_text",
-24,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D0938_text",
-192,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D09F8_text",
-1292,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D0F04_text",
-644,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D1188_text",
-1824,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D18A8_text",
-1512,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D1E90_text",
+"main/revolution/NWC24/NWC24SecretFList",
 284,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D1FAC_text",
-304,
+"main/revolution/NWC24/NWC24UserId",
+796,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D20DC_text",
-4232,
+"main/revolution/NWC24/NWC24Time",
+1168,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D3164_text",
-472,
+"main/revolution/NWC24/NWC24Ipc",
+372,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D333C_text",
-584,
+"main/revolution/NWC24/NWC24Download",
+13216,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D3584_text",
-688,
+"main/revolution/NWC24/NWC24System",
+400,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_NWC24"
 ]
 ],
 [
-"main/auto_fn_803D3834_text",
-1288,
+"main/revolution/SO/SO_unsplit",
+10900,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_SO"
 ]
 ],
 [
-"main/auto_fn_803D3D3C_text",
-2156,
+"main/revolution/SSL/SSL_unsplit",
+3416,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_SSL"
 ]
 ],
 [
-"main/auto_fn_803D45A8_text",
-504,
+"main/revolution/VF/pf_clib",
+768,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_03_803D47A0_text",
-168,
+"main/revolution/VF/pf_code",
+28,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4848_text",
-52,
+"main/revolution/VF/pf_service",
+296,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D487C_text",
-100,
+"main/revolution/VF/pf_str",
+1416,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D48E0_text",
-112,
+"main/revolution/VF/pf_w_clib",
+148,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4950_text",
-344,
+"main/revolution/VF/pf_driver",
+2556,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4AA8_text",
-304,
+"main/revolution/VF/pdm_bpb",
+2336,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4BD8_text",
-224,
+"main/revolution/VF/pdm_disk",
+5472,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4CB8_text",
-340,
+"main/revolution/VF/pdm_partition",
+5192,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4E0C_text",
-440,
+"main/revolution/VF/pdm_mbr",
+1472,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D4FC4_text",
+"main/revolution/VF/pdm_dskmng",
+548,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_cache",
+7988,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_cluster",
+1208,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_dir",
+5992,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_entry",
+7076,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_entry_iterator",
+6692,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_fat",
+11988,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_fat12",
+2792,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_fat16",
+1400,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_fat32",
+1600,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_fatfs",
+4,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_file",
+13732,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_path",
+11868,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_sector",
+1776,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_volume",
+7204,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_cp932",
+1296,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_api_util",
+364,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_attach",
+132,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_chdir",
 80,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D5014_text",
-80,
+"main/revolution/VF/pf_create",
+92,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D5064_text",
-96,
+"main/revolution/VF/pf_detach",
+40,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D50C4_text",
-164,
+"main/revolution/VF/pf_errnum",
+36,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D5168_text",
-60,
+"main/revolution/VF/pf_fclose",
+36,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D51A4_text",
-120,
+"main/revolution/VF/pf_finfo",
+36,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_03_803D521C_text",
-292,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D5340_text",
-416,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D54E0_text",
-244,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D55D4_text",
-424,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D577C_text",
-244,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_03_803D5870_text",
-180,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"main/auto_fn_803D5924_text",
+"main/revolution/VF/pf_fopen",
 156,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D59C0_text",
-260,
+"main/revolution/VF/pf_format",
+40,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D5AC4_text",
-144,
+"main/revolution/VF/pf_fread",
+40,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_03_803D5B54_text",
-884,
+"main/revolution/VF/pf_fseek",
+36,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D5EC8_text",
-320,
+"main/revolution/VF/pf_fsfirst",
+116,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D6008_text",
-244,
+"main/revolution/VF/pf_fsnext",
+36,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D60FC_text",
-84,
+"main/revolution/VF/pf_fstat",
+96,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_VF"
 ]
 ],
 [
-"main/auto_fn_803D6150_text",
+"main/revolution/VF/pf_fwrite",
+40,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_getdev",
+40,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_init_prfile2",
+64,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_mkdir",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_remove",
+80,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_unmount",
+40,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_filelock",
+20,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/pf_system",
+120,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/d_vf",
+4688,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/d_vf_sys",
+11072,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/d_hash",
+1664,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/d_time",
+224,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/d_common",
+3224,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/nand_drv",
+12144,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/revolution/VF/sd_drv",
+6820,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_VF"
+]
+],
+[
+"main/RVLFaceLib/RFL_System",
+2528,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_NANDLoader",
+4140,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_NANDAccess",
+7256,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_Model",
+7844,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_MakeTex",
+10396,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_HiddenDatabase",
+52,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_Database",
+3416,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_Controller",
+668,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_MiddleDatabase",
+740,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_DefaultDatabase",
+60,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_DataUtility",
+1472,
+0.0,
+0,
+[
+"dol",
+"rvl",
+"rvl_RFL"
+]
+],
+[
+"main/RVLFaceLib/RFL_Format",
 188,
 0.0,
 0,
 [
-"dol"
+"dol",
+"rvl",
+"rvl_RFL"
 ]
 ],
 [
@@ -15112,7 +18149,7 @@
 ]
 ],
 [
-"main/auto_fn_803F602C_text",
+"main/auto_memmove_text",
 204,
 0.0,
 0,

@@ -607,12 +607,69 @@
 "complete_units": 219.0
 },
 "categories": {}
+},
+{
+"sha": "b81642e59f87e51187b75c5b5b97bd3d18b70308",
+"time": "2026-10-24T21:49:53Z",
+"message": "Add states for CANS & CASE and rename both to Lobarrier and LobarrierShield (#166)",
+"measures": {
+"matched_code_percent": 9.4439,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.1791,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 433392.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5908.0,
+"total_units": 1276.0,
+"complete_units": 219.0
+},
+"categories": {}
+},
+{
+"sha": "d0f5f2c96a0642014760a949cf03947fe56c1abd",
+"time": "2026-10-24T21:50:39Z",
+"message": "Name some other states (#167)",
+"measures": {
+"matched_code_percent": 9.4439,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.1791,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 433392.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5908.0,
+"total_units": 1276.0,
+"complete_units": 219.0
+},
+"categories": {}
+},
+{
+"sha": "55e41ee9a6f4d92a7154d241777bc1066303fdb9",
+"time": "2026-10-24T21:59:08Z",
+"message": "Decompiling actor NSTN (#169)",
+"measures": {
+"matched_code_percent": 9.4655,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.2052,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 434384.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5931.0,
+"total_units": 1277.0,
+"complete_units": 219.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-23T19:38:03Z",
+"units_time": "2026-10-24T21:59:08Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -5223,7 +5280,7 @@
 [
 "src/058_Field/Actor/ActorUnkNSTN",
 1044,
-22.56,
+98.24,
 0,
 []
 ],
@@ -5256,7 +5313,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_2",
+"_dsd_gap@ov058_3",
 32,
 0.0,
 0,
@@ -5277,7 +5334,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_3",
+"_dsd_gap@ov058_4",
 32,
 0.0,
 0,
@@ -5312,7 +5369,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_4",
+"_dsd_gap@ov058_5",
 76,
 0.0,
 0,
@@ -5340,7 +5397,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_5",
+"_dsd_gap@ov058_6",
 424,
 0.0,
 0,
@@ -5396,7 +5453,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_6",
+"_dsd_gap@ov058_7",
 56,
 0.0,
 0,
@@ -5410,7 +5467,7 @@
 []
 ],
 [
-"_dsd_gap@ov058_7",
+"_dsd_gap@ov058_8",
 1358,
 0.0,
 0,
@@ -5900,16 +5957,16 @@
 []
 ],
 [
-"src/063_Shrine/Actor/ActorUnkCANS",
+"src/063_Shrine/Actor/ActorLobarrier",
 11464,
 92.65,
 0,
 []
 ],
 [
-"src/063_Shrine/Actor/ActorUnkCASE",
+"src/063_Shrine/Actor/ActorLobarrierShield",
 4248,
-98.92,
+98.13,
 0,
 []
 ],
