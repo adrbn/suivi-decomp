@@ -7993,6 +7993,78 @@
 }
 },
 {
+"sha": "d7c82211d3fea72f6932dd0a43c3142ada909adb",
+"time": "2026-10-24T21:52:21Z",
+"message": "task context (#351)",
+"measures": {
+"matched_code_percent": 52.3503,
+"complete_code_percent": 26.9977,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 20.7199,
+"total_code": 12206380.0,
+"matched_code": 6390072.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29047.0,
+"total_units": 2230.0,
+"complete_units": 664.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.7298,
+"complete_code_percent": 57.3555,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 57.1632,
+"total_code": 1283768.0,
+"matched_code": 1164760.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4604.0,
+"total_units": 158.0,
+"complete_units": 124.0
+},
+"engine": {
+"matched_code_percent": 88.6177,
+"complete_code_percent": 43.442,
+"matched_data_percent": 18.308,
+"complete_data_percent": 46.5464,
+"total_code": 5888864.0,
+"matched_code": 5218576.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24386.0,
+"total_units": 810.0,
+"complete_units": 538.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
 "sha": "b4db4dbf40bc2cae919c165b67464819f558de9a",
 "time": "2026-10-25T00:10:23Z",
 "message": "match msg",
@@ -8207,6 +8279,78 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "0fb3e617940a20e73760770fe5ef7b4dfd3a42cb",
+"time": "2026-10-25T04:49:52Z",
+"message": "match archive",
+"measures": {
+"matched_code_percent": 52.4007,
+"complete_code_percent": 27.3042,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 20.8956,
+"total_code": 12206380.0,
+"matched_code": 6396232.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29061.0,
+"total_units": 2230.0,
+"complete_units": 667.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 90.7298,
+"complete_code_percent": 57.3555,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 57.1632,
+"total_code": 1283768.0,
+"matched_code": 1164760.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4604.0,
+"total_units": 158.0,
+"complete_units": 124.0
+},
+"engine": {
+"matched_code_percent": 88.7223,
+"complete_code_percent": 44.0774,
+"matched_data_percent": 18.308,
+"complete_data_percent": 47.0759,
+"total_code": 5888864.0,
+"matched_code": 5224736.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24400.0,
+"total_units": 810.0,
+"complete_units": 541.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -8217,7 +8361,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-25T02:49:29Z",
+"units_time": "2026-10-25T04:49:52Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -11462,8 +11606,8 @@
 [
 "default/system/os/Archive",
 11588,
-96.13,
-0,
+100.0,
+1,
 [
 "engine"
 ]

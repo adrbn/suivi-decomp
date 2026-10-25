@@ -609,6 +609,25 @@
 "categories": {}
 },
 {
+"sha": "85f2713cd7279dbe6231737962cd4cd6b02ab6b2",
+"time": "2026-10-24T21:47:17Z",
+"message": "Rename some ZLSL's states (#165)",
+"measures": {
+"matched_code_percent": 9.4439,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.1791,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 433392.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5908.0,
+"total_units": 1276.0,
+"complete_units": 219.0
+},
+"categories": {}
+},
+{
 "sha": "b81642e59f87e51187b75c5b5b97bd3d18b70308",
 "time": "2026-10-24T21:49:53Z",
 "message": "Add states for CANS & CASE and rename both to Lobarrier and LobarrierShield (#166)",
@@ -664,12 +683,31 @@
 "complete_units": 219.0
 },
 "categories": {}
+},
+{
+"sha": "f6a7b43b15fd2fdfd27bcd0b8aaecab2f4ce5704",
+"time": "2026-10-25T09:03:57Z",
+"message": "Decompiling RFCO actor (#168)",
+"measures": {
+"matched_code_percent": 9.5037,
+"complete_code_percent": 4.9709,
+"matched_data_percent": 31.2052,
+"complete_data_percent": 6.8379,
+"total_code": 4589122.0,
+"matched_code": 436136.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 5944.0,
+"total_units": 1278.0,
+"complete_units": 219.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-24T21:59:08Z",
+"units_time": "2026-10-25T09:03:57Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -4046,7 +4084,7 @@
 []
 ],
 [
-"_dsd_gap@ov033_5",
+"_dsd_gap@ov033_4",
 904,
 0.0,
 0,
@@ -4055,7 +4093,7 @@
 [
 "src/033_MapA2/Actor/ActorUnkRCFO",
 2696,
-7.19,
+83.59,
 0,
 []
 ],
