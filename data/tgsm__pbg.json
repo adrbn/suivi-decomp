@@ -2645,6 +2645,104 @@
 "complete_units": 9.0
 }
 }
+},
+{
+"sha": "90372566cb42e56cac75a9fee63c8b57292a5ad4",
+"time": "2026-10-26T02:52:02Z",
+"message": "Finish decompiling engine/sound/CSound3D",
+"measures": {
+"matched_code_percent": 29.106,
+"complete_code_percent": 9.6093,
+"matched_data_percent": 33.4932,
+"complete_data_percent": 8.293,
+"total_code": 2328292.0,
+"matched_code": 677672.0,
+"total_data": 386204.0,
+"total_functions": 8235.0,
+"matched_functions": 2970.0,
+"total_units": 740.0,
+"complete_units": 127.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.7924,
+"complete_code_percent": 0.0,
+"matched_data_percent": 51.6154,
+"complete_data_percent": 0.0,
+"total_code": 759456.0,
+"matched_code": 309800.0,
+"total_data": 57820.0,
+"total_functions": 1718.0,
+"matched_functions": 1100.0,
+"total_units": 113.0,
+"complete_units": 0.0
+},
+"engine": {
+"matched_code_percent": 26.6478,
+"complete_code_percent": 12.1407,
+"matched_data_percent": 68.832,
+"complete_data_percent": 9.6652,
+"total_code": 479544.0,
+"matched_code": 127788.0,
+"total_data": 76232.0,
+"total_functions": 2709.0,
+"matched_functions": 1102.0,
+"total_units": 179.0,
+"complete_units": 64.0
+},
+"sdk": {
+"matched_code_percent": 22.0404,
+"complete_code_percent": 15.1945,
+"matched_data_percent": 18.655,
+"complete_data_percent": 9.7804,
+"total_code": 1089292.0,
+"matched_code": 240084.0,
+"total_data": 252136.0,
+"total_functions": 3808.0,
+"matched_functions": 768.0,
+"total_units": 447.0,
+"complete_units": 63.0
+},
+"dolphin": {
+"matched_code_percent": 32.4984,
+"complete_code_percent": 29.0836,
+"matched_data_percent": 16.058,
+"complete_data_percent": 3.9436,
+"total_code": 213660.0,
+"matched_code": 69436.0,
+"total_data": 156508.0,
+"total_functions": 830.0,
+"matched_functions": 227.0,
+"total_units": 105.0,
+"complete_units": 22.0
+},
+"rw": {
+"matched_code_percent": 25.1598,
+"complete_code_percent": 14.7668,
+"matched_data_percent": 58.077,
+"complete_data_percent": 48.5413,
+"total_code": 627652.0,
+"matched_code": 157916.0,
+"total_data": 35236.0,
+"total_functions": 1837.0,
+"matched_functions": 441.0,
+"total_units": 194.0,
+"complete_units": 32.0
+},
+"rwa": {
+"matched_code_percent": 11.688,
+"complete_code_percent": 9.8116,
+"matched_data_percent": 5.6329,
+"complete_data_percent": 5.4139,
+"total_code": 108932.0,
+"matched_code": 12732.0,
+"total_data": 25564.0,
+"total_functions": 616.0,
+"matched_functions": 100.0,
+"total_units": 58.0,
+"complete_units": 9.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2657,7 +2755,7 @@
 "rw": "Renderware SDK",
 "rwa": "RWA SDK"
 },
-"units_time": "2026-10-07T18:04:36Z",
+"units_time": "2026-10-26T02:52:02Z",
 "units": [
 [
 "main/Piglet/main",
@@ -8790,7 +8888,7 @@
 [
 "main/engine/sound/CSound3D",
 4656,
-61.25,
+99.56,
 0,
 [
 "engine"

@@ -9953,6 +9953,228 @@
 }
 },
 {
+"sha": "518025a5ec560848a5debdcfc3d8f70553606307",
+"time": "2026-10-25T01:20:08Z",
+"message": "AreaObjUtil header",
+"measures": {
+"matched_code_percent": 18.6499,
+"complete_code_percent": 1.7002,
+"matched_data_percent": 9.429,
+"complete_data_percent": 1.2625,
+"total_code": 6269260.0,
+"matched_code": 1169208.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7457.0,
+"total_units": 2751.0,
+"complete_units": 105.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2305,
+"complete_code_percent": 0.2698,
+"matched_data_percent": 1.3328,
+"complete_data_percent": 0.1692,
+"total_code": 4634748.0,
+"matched_code": 196072.0,
+"total_data": 673792.0,
+"total_functions": 40726.0,
+"matched_functions": 2010.0,
+"total_units": 1623.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9767,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635644.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "27b52486f8e9f4032327bf10c1aef7628a34bab5",
+"time": "2026-10-25T01:59:20Z",
+"message": "incomplete fn_800140B0",
+"measures": {
+"matched_code_percent": 18.6611,
+"complete_code_percent": 1.7002,
+"matched_data_percent": 9.429,
+"complete_data_percent": 1.2625,
+"total_code": 6269260.0,
+"matched_code": 1169916.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7461.0,
+"total_units": 2751.0,
+"complete_units": 105.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2458,
+"complete_code_percent": 0.2698,
+"matched_data_percent": 1.3328,
+"complete_data_percent": 0.1692,
+"total_code": 4634748.0,
+"matched_code": 196780.0,
+"total_data": 673792.0,
+"total_functions": 40726.0,
+"matched_functions": 2014.0,
+"total_units": 1623.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.6105,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9767,
+"complete_data_percent": 0.0,
+"total_code": 716560.0,
+"matched_code": 513132.0,
+"total_data": 635644.0,
+"total_functions": 2665.0,
+"matched_functions": 2213.0,
+"total_units": 273.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 49.7902,
+"complete_code_percent": 1.0229,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76256.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 357.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"jsys": {
+"matched_code_percent": 86.6605,
+"complete_code_percent": 0.3227,
+"matched_data_percent": 5.358,
+"complete_data_percent": 0.0,
+"total_code": 355696.0,
+"matched_code": 308248.0,
+"total_data": 177304.0,
+"total_functions": 2896.0,
+"matched_functions": 2619.0,
+"total_units": 164.0,
+"complete_units": 3.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "877d432e192419e284461778a8e29a93318081ca",
 "time": "2026-10-25T02:35:50Z",
 "message": "ActorMovementUtil fn_800140B0 function match",
@@ -11283,20 +11505,131 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "c4b72a63f54de58239c13bddcf43ae6377c70e66",
+"time": "2026-10-25T21:30:08Z",
+"message": "Update splits for `Camera`, `GameAudio`, `JAudio2`",
+"measures": {
+"matched_code_percent": 18.7871,
+"complete_code_percent": 1.7363,
+"matched_data_percent": 9.452,
+"complete_data_percent": 1.2961,
+"total_code": 6269260.0,
+"matched_code": 1177812.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7573.0,
+"total_units": 2685.0,
+"complete_units": 109.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.2423,
+"complete_code_percent": 0.3097,
+"matched_data_percent": 1.3497,
+"complete_data_percent": 0.2483,
+"total_code": 4769640.0,
+"matched_code": 202344.0,
+"total_data": 689624.0,
+"total_functions": 42113.0,
+"matched_functions": 2099.0,
+"total_units": 1687.0,
+"complete_units": 7.0
+},
+"jsys": {
+"matched_code_percent": 85.8867,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.3868,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310580.0,
+"total_data": 177544.0,
+"total_functions": 2952.0,
+"matched_functions": 2646.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 31.7016,
+"complete_data_percent": 14.2191,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3432.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 28.7335,
+"complete_data_percent": 6.0491,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 2116.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
 "artifact": "SB4E01_report",
 "category_names": {
 "game": "Game Code",
-"jsys": "JSystem",
 "sdk": "SDK Code",
-"rfl": "RVLFaceLib",
 "nw4r": "NintendoWare Code",
+"jsys": "JSystem",
+"rfl": "RVLFaceLib",
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-25T17:30:56Z",
+"units_time": "2026-10-25T21:30:08Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -14647,11 +14980,13 @@
 ]
 ],
 [
-"main/auto_03_8010C770_text",
+"main/Game/Camera/CamPoseSphereInterpolator",
 312,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/CamTranslatorAnim",
@@ -15041,11 +15376,13 @@
 ]
 ],
 [
-"main/auto_03_8010E220_text",
+"main/Game/Camera/CamYoshiEffector",
 528,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/Camera",
@@ -15084,11 +15421,13 @@
 ]
 ],
 [
-"main/auto_03_8010FDF0_text",
+"main/Game/Camera/CameraCalc",
 1372,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/CameraCharmedFix",
@@ -15163,24 +15502,8 @@
 ]
 ],
 [
-"main/auto_03_80113540_text",
-808,
-0.0,
-0,
-[]
-],
-[
-"main/Game/Camera/CameraPoseParam",
-360,
-0.0,
-0,
-[
-"game"
-]
-],
-[
 "main/Game/Camera/CameraDirector",
-8828,
+9996,
 0.0,
 0,
 [
@@ -15432,19 +15755,12 @@
 ],
 [
 "main/Game/Camera/CameraParamChunkID",
-1372,
+1380,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80126DF0_text",
-8,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Camera/CameraParamString",
@@ -15456,11 +15772,22 @@
 ]
 ],
 [
-"main/auto_03_80126EA0_text",
-260,
+"main/Game/Camera/CameraPolygonCodeUtil",
+156,
 0.0,
 0,
-[]
+[
+"game"
+]
+],
+[
+"main/Game/Camera/CameraPoseParam",
+104,
+0.0,
+0,
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/CameraRaceFollow",
@@ -15526,11 +15853,13 @@
 ]
 ],
 [
-"main/auto_03_80129070_text",
+"main/Game/Camera/Camera_UNK1",
 1136,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/CameraShakePatternImpl",
@@ -15641,11 +15970,13 @@
 ]
 ],
 [
-"main/auto_03_8012CF60_text",
+"main/Game/Camera/CameraTestObj",
 68,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/CameraTower",
@@ -15747,11 +16078,13 @@
 ]
 ],
 [
-"main/auto_03_80132D10_text",
+"main/Game/Camera/DotCamParams",
 1060,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Camera/GameCameraCreator",
@@ -17770,11 +18103,13 @@
 ]
 ],
 [
-"main/auto_03_8021F080_text",
+"main/Game/GameAudio/AudActionSound",
 6600,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/GameAudio/AudBgmConductor",
@@ -17822,11 +18157,13 @@
 ]
 ],
 [
-"main/auto_03_80222860_text",
+"main/Game/GameAudio/Aud_UNK1",
 616,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Gravity/BarrelGravity",
@@ -27148,7 +27485,7 @@
 ],
 [
 "main/Game/World/MiniWorldMapModel",
-72,
+872,
 0.0,
 0,
 [
@@ -27156,29 +27493,17 @@
 ]
 ],
 [
-"main/auto_03_804E7790_text",
-2608,
+"main/Game/World/WORLD_UNK0",
+1884,
 0.0,
 0,
-[]
-],
 [
-"main/auto_fn_804E8200_text",
-76,
-0.0,
-0,
-[]
-],
-[
-"main/auto_03_804E824C_text",
-164,
-0.0,
-0,
-[]
+"game"
+]
 ],
 [
 "main/Game/World/WORLD_UNK1",
-3292,
+3452,
 0.0,
 0,
 [
@@ -29315,19 +29640,12 @@
 ],
 [
 "main/RVL_SDK/vf/nand_drv",
-7072,
-100.0,
+7076,
+99.94,
 0,
 [
 "sdk"
 ]
-],
-[
-"main/auto_03_805833F0_text",
-4,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JASCalc",
@@ -29574,19 +29892,12 @@
 ],
 [
 "main/JSystem/JAudio2/JASWaveArcLoader",
-132,
-100.0,
+1340,
+83.82,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_8058EAE0_text",
-1208,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JASChannel",
@@ -29653,19 +29964,12 @@
 ],
 [
 "main/JSystem/JAudio2/JASDSPInterface",
-1484,
-100.0,
+1488,
+99.73,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_80592670_text",
-4,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JASDriverIF",
@@ -29686,11 +29990,40 @@
 ]
 ],
 [
-"main/auto_03_805928E0_text",
-2836,
+"main/JSystem/JAudio2/dspproc",
+584,
 0.0,
 0,
-[]
+[
+"jsys"
+]
+],
+[
+"main/JSystem/JAudio2/dsptask",
+904,
+0.0,
+0,
+[
+"jsys"
+]
+],
+[
+"main/JSystem/JAudio2/osdsp",
+124,
+0.0,
+0,
+[
+"jsys"
+]
+],
+[
+"main/JSystem/JAudio2/osdsp_task",
+1224,
+0.0,
+0,
+[
+"jsys"
+]
 ],
 [
 "main/JSystem/JAudio2/JAIAudible",
@@ -29738,15 +30071,8 @@
 ]
 ],
 [
-"main/auto_03_80595AE0_text",
-64,
-0.0,
-0,
-[]
-],
-[
 "main/JSystem/JAudio2/JAISeqDataMgr",
-64,
+128,
 100.0,
 0,
 [
@@ -29763,24 +30089,8 @@
 ]
 ],
 [
-"main/auto_03_805963D0_text",
-96,
-0.0,
-0,
-[]
-],
-[
-"main/JSystem/JAudio2/JAISoundParams",
-120,
-0.0,
-0,
-[
-"jsys"
-]
-],
-[
 "main/JSystem/JAudio2/JAISound",
-924,
+1140,
 100.0,
 0,
 [
@@ -29798,19 +30108,12 @@
 ],
 [
 "main/JSystem/JAudio2/JAISoundHandles",
-156,
-100.0,
+304,
+80.26,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_80596A60_text",
-148,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JAISoundInfo",
@@ -29822,15 +30125,8 @@
 ]
 ],
 [
-"main/auto_03_80596BE0_text",
+"main/JSystem/JAudio2/JAISoundParams",
 180,
-0.0,
-0,
-[]
-],
-[
-"main/JSystem/JAudio2/JAISoundStarter",
-204,
 100.0,
 0,
 [
@@ -29838,11 +30134,13 @@
 ]
 ],
 [
-"main/auto_03_80596D90_text",
-216,
-0.0,
+"main/JSystem/JAudio2/JAISoundStarter",
+420,
+100.0,
 0,
-[]
+[
+"jsys"
+]
 ],
 [
 "main/JSystem/JAudio2/JAIStream",
@@ -29855,19 +30153,12 @@
 ],
 [
 "main/JSystem/JAudio2/JAIStreamDataMgr",
-64,
+128,
 100.0,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_80597860_text",
-64,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JAIStreamMgr",
@@ -29879,15 +30170,8 @@
 ]
 ],
 [
-"main/auto_03_80597EC0_text",
-112,
-0.0,
-0,
-[]
-],
-[
 "main/JSystem/JAudio2/JAUAudience",
-1180,
+1292,
 100.0,
 0,
 [
@@ -29913,31 +30197,17 @@
 ]
 ],
 [
-"main/auto_03_80598B50_text",
-4,
-0.0,
-0,
-[]
-],
-[
 "main/JSystem/JAudio2/JAUBankTable",
-36,
-100.0,
+40,
+90.0,
 0,
 [
 "jsys"
 ]
 ],
 [
-"main/auto_03_80598B90_text",
-260,
-0.0,
-0,
-[]
-],
-[
 "main/JSystem/JAudio2/JAUInitializer",
-364,
+624,
 100.0,
 0,
 [
@@ -30000,19 +30270,12 @@
 ],
 [
 "main/JSystem/JAudio2/JAUSoundTable",
-648,
-100.0,
+1288,
+87.58,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_8059C640_text",
-640,
-0.0,
-0,
-[]
 ],
 [
 "main/JSystem/JAudio2/JAUStdSoundInfo",
@@ -30025,19 +30288,12 @@
 ],
 [
 "main/JSystem/JAudio2/JAUStreamFileTable",
-200,
+288,
 100.0,
 0,
 [
 "jsys"
 ]
-],
-[
-"main/auto_03_8059CEC0_text",
-88,
-0.0,
-0,
-[]
 ],
 [
 "main/RVL_SDK/aralt/aralt",
@@ -30049,16 +30305,9 @@
 ]
 ],
 [
-"main/auto_03_8059D360_text",
-276,
-0.0,
-0,
-[]
-],
-[
 "main/nw4r/ut/ut_LinkList",
-296,
-100.0,
+572,
+51.75,
 0,
 [
 "nw4r"
