@@ -3775,6 +3775,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "1009eeccd222f31e76f916eaa2e4097aaec0c43d",
+"time": "2026-10-26T18:55:43Z",
+"message": "Place the boss wanwan picket with its own model matrix, not the boss body matrix",
+"measures": {
+"matched_code_percent": 49.0281,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1766824.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10055.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.213,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1088176.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6258.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "a484de837b3bdb12dbfff97e157f590526aed2d4",
+"time": "2026-10-26T19:24:26Z",
+"message": "Return the boss wanwan balloon message IDs to hex literals",
+"measures": {
+"matched_code_percent": 49.0747,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1768504.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10059.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.272,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1089856.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6262.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "74df15d8a92e43f6c198e050f1cac9782fea6f54",
+"time": "2026-10-26T21:53:14Z",
+"message": "MarNameRefGen_MapObj closer (#371)",
+"measures": {
+"matched_code_percent": 49.0926,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769148.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10060.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.2946,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090500.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6263.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3784,7 +3961,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-26T00:16:55Z",
+"units_time": "2026-10-26T21:53:14Z",
 "units": [
 [
 "mario/main",
@@ -4554,7 +4731,7 @@
 [
 "mario/Enemy/bosswanwan",
 31708,
-0.0,
+96.73,
 0,
 [
 "game"
@@ -4599,7 +4776,7 @@
 [
 "mario/Enemy/bosstelesa",
 40152,
-93.93,
+95.19,
 0,
 [
 "game"
@@ -5805,7 +5982,7 @@
 [
 "mario/MoveBG/MapObjBall",
 22948,
-97.94,
+97.98,
 0,
 [
 "game"
@@ -7128,7 +7305,7 @@
 [
 "mario/System/MarNameRefGen_BossEnemy",
 3456,
-56.73,
+59.97,
 0,
 [
 "game"
@@ -7155,7 +7332,7 @@
 [
 "mario/System/MarNameRefGen_MapObj",
 14680,
-98.38,
+99.42,
 0,
 [
 "game"
