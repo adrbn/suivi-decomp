@@ -3777,6 +3777,124 @@
 }
 },
 {
+"sha": "c4296510d390fc404bb955765ea8ad0c6b0bd9e6",
+"time": "2026-10-26T18:11:42Z",
+"message": "uncomment boss wanwan in name ref gen",
+"measures": {
+"matched_code_percent": 49.0281,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1766824.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10055.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.213,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1088176.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6258.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "e0e0e91b2fbaad373636c52a8a11c8d44d0d56ed",
+"time": "2026-10-26T18:39:14Z",
+"message": "Add the null end entry to the TBossWanwanManager model data table",
+"measures": {
+"matched_code_percent": 49.0281,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1766824.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10055.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.213,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1088176.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6258.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "04e325d38f3d9ac1b3e88d9f81bb053c8705411e",
 "time": "2026-10-26T18:44:39Z",
 "message": "Remove the recursive TBossWanwan::getSaveParam accessor; the vtable proves it did not exist",
@@ -4129,6 +4247,65 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "cf219ad493540b9c262526c44e128094583faff2",
+"time": "2026-10-27T10:02:56Z",
+"message": "MapMirror a lot closer",
+"measures": {
+"matched_code_percent": 49.0971,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769312.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10062.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3004,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090664.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6265.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4138,7 +4315,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-26T23:09:43Z",
+"units_time": "2026-10-27T10:02:56Z",
 "units": [
 [
 "mario/main",
@@ -5745,7 +5922,7 @@
 [
 "mario/Map/MapMirror",
 6088,
-89.3,
+98.26,
 0,
 [
 "game"
