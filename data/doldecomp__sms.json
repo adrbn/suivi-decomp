@@ -3777,6 +3777,65 @@
 }
 },
 {
+"sha": "04e325d38f3d9ac1b3e88d9f81bb053c8705411e",
+"time": "2026-10-26T18:44:39Z",
+"message": "Remove the recursive TBossWanwan::getSaveParam accessor; the vtable proves it did not exist",
+"measures": {
+"matched_code_percent": 49.0281,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1766824.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10055.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.213,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1088176.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6258.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "1009eeccd222f31e76f916eaa2e4097aaec0c43d",
 "time": "2026-10-26T18:55:43Z",
 "message": "Place the boss wanwan picket with its own model matrix, not the boss body matrix",
@@ -3952,6 +4011,124 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "2778aa9e35c3324858e85d4c941faa1f889fc849",
+"time": "2026-10-26T22:52:36Z",
+"message": "Move NameRefAry / NameRefPtrAry to tpp impls (#372)",
+"measures": {
+"matched_code_percent": 49.0926,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769148.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10060.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.2946,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090500.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6263.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "912aea9dd382d3ca1f1d97701ff48d0ad1e77f1e",
+"time": "2026-10-26T23:09:43Z",
+"message": "Make TVector_pointer to take pointer types as template arguments (#373)",
+"measures": {
+"matched_code_percent": 49.0957,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769260.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10061.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.2985,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090612.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6264.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -3961,7 +4138,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-26T21:53:14Z",
+"units_time": "2026-10-26T23:09:43Z",
 "units": [
 [
 "mario/main",
@@ -4344,7 +4521,7 @@
 [
 "mario/Camera/CubeManagerBase",
 2280,
-97.2,
+97.21,
 0,
 [
 "game"
@@ -7206,7 +7383,7 @@
 [
 "mario/System/Application",
 9848,
-99.68,
+99.69,
 0,
 [
 "game"
