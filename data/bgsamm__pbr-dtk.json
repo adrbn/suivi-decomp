@@ -1153,6 +1153,222 @@
 }
 },
 {
+"sha": "f67bd20b0ab14d99c01e1f84e1bd1f7b1a0bf446",
+"time": "2026-10-26T08:23:55Z",
+"message": "SDK: import NWC24 from ogws (#4)",
+"measures": {
+"matched_code_percent": 21.3587,
+"complete_code_percent": 2.3531,
+"matched_data_percent": 0.4712,
+"complete_data_percent": 0.2155,
+"total_code": 4045240.0,
+"matched_code": 864012.0,
+"total_data": 2495952.0,
+"total_functions": 13890.0,
+"matched_functions": 6462.0,
+"total_units": 771.0,
+"complete_units": 58.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 83.9845,
+"complete_code_percent": 1.9163,
+"matched_data_percent": 98.3437,
+"complete_data_percent": 10.559,
+"total_code": 327508.0,
+"matched_code": 275056.0,
+"total_data": 3864.0,
+"total_functions": 1338.0,
+"matched_functions": 1149.0,
+"total_units": 151.0,
+"complete_units": 5.0
+},
+"unsorted": {
+"matched_code_percent": 8.9286,
+"complete_code_percent": 0.4834,
+"matched_data_percent": 40.7591,
+"complete_data_percent": 16.8317,
+"total_code": 3225640.0,
+"matched_code": 288004.0,
+"total_data": 4848.0,
+"total_functions": 10480.0,
+"matched_functions": 3753.0,
+"total_units": 254.0,
+"complete_units": 20.0
+}
+}
+},
+{
+"sha": "faaa9660ba767d83b2a8a43d3fff054f3a00b249",
+"time": "2026-10-26T08:32:52Z",
+"message": "SDK: import the ISFS client (fs.c) from ogws (#5)",
+"measures": {
+"matched_code_percent": 21.4829,
+"complete_code_percent": 2.3531,
+"matched_data_percent": 0.4726,
+"complete_data_percent": 0.2155,
+"total_code": 4045240.0,
+"matched_code": 869036.0,
+"total_data": 2495952.0,
+"total_functions": 13890.0,
+"matched_functions": 6488.0,
+"total_units": 774.0,
+"complete_units": 58.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.1528,
+"complete_code_percent": 1.8857,
+"matched_data_percent": 98.359,
+"complete_data_percent": 10.4615,
+"total_code": 332828.0,
+"matched_code": 280084.0,
+"total_data": 3900.0,
+"total_functions": 1366.0,
+"matched_functions": 1176.0,
+"total_units": 152.0,
+"complete_units": 5.0
+},
+"unsorted": {
+"matched_code_percent": 8.9432,
+"complete_code_percent": 0.4842,
+"matched_data_percent": 40.7591,
+"complete_data_percent": 16.8317,
+"total_code": 3220320.0,
+"matched_code": 288000.0,
+"total_data": 4848.0,
+"total_functions": 10452.0,
+"matched_functions": 3752.0,
+"total_units": 254.0,
+"complete_units": 20.0
+}
+}
+},
+{
+"sha": "b11d76d610e9c966d8cad7b6c0bc841d602a3cad",
+"time": "2026-10-26T08:42:44Z",
+"message": "SDK: import dsp, dsp_task and dsp_debug from ogws (#6)",
+"measures": {
+"matched_code_percent": 21.5531,
+"complete_code_percent": 2.3531,
+"matched_data_percent": 0.4737,
+"complete_data_percent": 0.2155,
+"total_code": 4045240.0,
+"matched_code": 871876.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6501.0,
+"total_units": 780.0,
+"complete_units": 58.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2872,
+"complete_code_percent": 1.8697,
+"matched_data_percent": 98.2706,
+"complete_data_percent": 10.3764,
+"total_code": 335676.0,
+"matched_code": 282932.0,
+"total_data": 3932.0,
+"total_functions": 1380.0,
+"matched_functions": 1190.0,
+"total_units": 155.0,
+"complete_units": 5.0
+},
+"unsorted": {
+"matched_code_percent": 8.9509,
+"complete_code_percent": 0.4846,
+"matched_data_percent": 40.7591,
+"complete_data_percent": 16.8317,
+"total_code": 3217472.0,
+"matched_code": 287992.0,
+"total_data": 4848.0,
+"total_functions": 10438.0,
+"matched_functions": 3751.0,
+"total_units": 255.0,
+"complete_units": 20.0
+}
+}
+},
+{
 "sha": "dbefbe54cb268c92801f50ee624c27e692421415",
 "time": "2026-10-26T08:47:49Z",
 "message": "SDK: import usb from ogws (#7)",

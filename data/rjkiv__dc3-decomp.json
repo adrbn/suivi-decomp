@@ -9503,6 +9503,78 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "a8a65c16fbb67885305a32edc6a7a1d94e9ca632",
+"time": "2026-10-27T17:33:57Z",
+"message": "LockandDelete (#353)",
+"measures": {
+"matched_code_percent": 52.6208,
+"complete_code_percent": 27.7051,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 21.1601,
+"total_code": 12206380.0,
+"matched_code": 6423092.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29091.0,
+"total_units": 2230.0,
+"complete_units": 675.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 92.1441,
+"complete_code_percent": 58.8686,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 58.4496,
+"total_code": 1283768.0,
+"matched_code": 1182916.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4606.0,
+"total_units": 158.0,
+"complete_units": 125.0
+},
+"engine": {
+"matched_code_percent": 88.8701,
+"complete_code_percent": 44.5786,
+"matched_data_percent": 18.308,
+"complete_data_percent": 47.5154,
+"total_code": 5888864.0,
+"matched_code": 5233440.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24428.0,
+"total_units": 810.0,
+"complete_units": 548.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -9513,7 +9585,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-27T04:19:38Z",
+"units_time": "2026-10-27T17:33:57Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -10364,7 +10436,7 @@
 [
 "default/system/char/CharClip",
 38468,
-96.57,
+96.9,
 0,
 [
 "engine"

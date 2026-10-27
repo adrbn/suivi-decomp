@@ -4306,6 +4306,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "3ed02ea9f3f6429de0a4d3e1ebf3fd6d024f14e3",
+"time": "2026-10-27T21:52:36Z",
+"message": "Pass Map symbol order validation",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "456b4b5ea8f0b9e2073101e26e4962ab643b4fbb",
+"time": "2026-10-27T22:00:50Z",
+"message": "MapWarp closer",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "17d4bdecad489f8d6a73d23e0ad49039e5505529",
+"time": "2026-10-27T22:17:57Z",
+"message": "Move some ctors into cpp files where they should actually be",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4315,7 +4492,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-27T10:02:56Z",
+"units_time": "2026-10-27T22:17:57Z",
 "units": [
 [
 "mario/main",
@@ -5085,7 +5262,7 @@
 [
 "mario/Enemy/bosswanwan",
 31708,
-96.73,
+96.86,
 0,
 [
 "game"
@@ -5922,7 +6099,7 @@
 [
 "mario/Map/MapMirror",
 6088,
-98.26,
+98.54,
 0,
 [
 "game"
@@ -5940,7 +6117,7 @@
 [
 "mario/Map/MapWarp",
 2712,
-89.73,
+99.6,
 0,
 [
 "game"
@@ -7290,8 +7467,8 @@
 [
 "mario/Player/MarioAccess",
 1152,
-99.61,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -8460,7 +8637,7 @@
 [
 "mario/JSystem/JDrama/JDRCamera",
 2664,
-88.27,
+88.3,
 0,
 [
 "jsystem"

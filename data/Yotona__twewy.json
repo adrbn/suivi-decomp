@@ -1887,6 +1887,117 @@
 "complete_units": 35.0
 }
 }
+},
+{
+"sha": "b744ddd3dc80b6a545f64547a20641de93964253",
+"time": "2026-10-27T17:20:48Z",
+"message": "Build optimizations, SoundTest & GrpCheck data 100% (#30)",
+"measures": {
+"matched_code_percent": 28.3039,
+"complete_code_percent": 7.8766,
+"matched_data_percent": 10.4967,
+"complete_data_percent": 3.4472,
+"total_code": 2495426.0,
+"matched_code": 706302.0,
+"total_data": 1271748.0,
+"total_functions": 14265.0,
+"matched_functions": 5745.0,
+"total_units": 684.0,
+"complete_units": 202.0
+},
+"categories": {
+"CriWare": {
+"matched_code_percent": 57.9063,
+"complete_code_percent": 10.022,
+"matched_data_percent": 63.7438,
+"complete_data_percent": 13.0883,
+"total_code": 65416.0,
+"matched_code": 37880.0,
+"total_data": 37224.0,
+"total_functions": 731.0,
+"matched_functions": 509.0,
+"total_units": 44.0,
+"complete_units": 6.0
+},
+"Engine": {
+"matched_code_percent": 48.0453,
+"complete_code_percent": 11.7581,
+"matched_data_percent": 40.0697,
+"complete_data_percent": 5.7491,
+"total_code": 67528.0,
+"matched_code": 32444.0,
+"total_data": 6888.0,
+"total_functions": 426.0,
+"matched_functions": 268.0,
+"total_units": 31.0,
+"complete_units": 10.0
+},
+"Field": {
+"matched_code_percent": 53.3388,
+"complete_code_percent": 3.8557,
+"matched_data_percent": 17.3131,
+"complete_data_percent": 10.8126,
+"total_code": 350964.0,
+"matched_code": 187200.0,
+"total_data": 198324.0,
+"total_functions": 1742.0,
+"matched_functions": 1359.0,
+"total_units": 106.0,
+"complete_units": 17.0
+},
+"Library": {
+"matched_code_percent": 66.6247,
+"complete_code_percent": 19.5319,
+"matched_data_percent": 61.1946,
+"complete_data_percent": 17.6146,
+"total_code": 119118.0,
+"matched_code": 79362.0,
+"total_data": 42056.0,
+"total_functions": 1072.0,
+"matched_functions": 801.0,
+"total_units": 96.0,
+"complete_units": 37.0
+},
+"MSL": {
+"matched_code_percent": 69.5647,
+"complete_code_percent": 25.365,
+"matched_data_percent": 51.9694,
+"complete_data_percent": 61.5974,
+"total_code": 30688.0,
+"matched_code": 21348.0,
+"total_data": 3656.0,
+"total_functions": 108.0,
+"matched_functions": 88.0,
+"total_units": 31.0,
+"complete_units": 20.0
+},
+"NitroSDK": {
+"matched_code_percent": 87.4859,
+"complete_code_percent": 38.7851,
+"matched_data_percent": 9.1837,
+"complete_data_percent": 24.1497,
+"total_code": 23014.0,
+"matched_code": 20134.0,
+"total_data": 1176.0,
+"total_functions": 233.0,
+"matched_functions": 204.0,
+"total_units": 21.0,
+"complete_units": 11.0
+},
+"Tin Pin Slammer": {
+"matched_code_percent": 68.4327,
+"complete_code_percent": 24.8124,
+"matched_data_percent": 57.6301,
+"complete_data_percent": 25.9727,
+"total_code": 154020.0,
+"matched_code": 105400.0,
+"total_data": 15832.0,
+"total_functions": 887.0,
+"matched_functions": 791.0,
+"total_units": 61.0,
+"complete_units": 35.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1900,7 +2011,7 @@
 "NitroSDK": "NitroSDK",
 "Tin Pin Slammer": "Tin Pin Slammer"
 },
-"units_time": "2026-10-18T22:31:35Z",
+"units_time": "2026-10-27T17:20:48Z",
 "units": [
 [
 "_dsd_gap@main_2",
@@ -1964,7 +2075,7 @@
 [
 "src/Engine/Core/HBlank",
 900,
-95.26,
+95.21,
 0,
 [
 "Engine"
@@ -2788,7 +2899,7 @@
 [
 "libs/nitro/src/os/interrupt",
 680,
-97.93,
+97.64,
 0,
 [
 "Library",
@@ -5130,8 +5241,15 @@
 ],
 [
 "src/Debug/Mori/GrpCheck",
-13996,
-34.39,
+12880,
+36.74,
+0,
+[]
+],
+[
+"src/Debug/Mori/GrpCheckDisplay",
+1116,
+99.28,
 0,
 []
 ],
@@ -5747,7 +5865,7 @@
 [
 "src/Interface/Menu/MenuBadge",
 16208,
-92.98,
+93.01,
 0,
 []
 ],
