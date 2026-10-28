@@ -4660,6 +4660,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "6ce6423070358eba002bab74b30260022bd36b59",
+"time": "2026-10-28T09:28:22Z",
+"message": "BoundPane OK",
+"measures": {
+"matched_code_percent": 49.1539,
+"complete_code_percent": 17.6881,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6841,
+"total_code": 3603696.0,
+"matched_code": 1771356.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10068.0,
+"total_units": 732.0,
+"complete_units": 392.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3603,
+"complete_code_percent": 3.3529,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2208,
+"total_code": 2847660.0,
+"matched_code": 1092372.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6269.0,
+"total_units": 385.0,
+"complete_units": 84.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "a2e189a256122d584b14c5ba498eb08d41ee3f8c",
+"time": "2026-10-28T09:53:38Z",
+"message": "ScrnFader closer",
+"measures": {
+"matched_code_percent": 49.1616,
+"complete_code_percent": 17.6881,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6841,
+"total_code": 3603696.0,
+"matched_code": 1771636.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10069.0,
+"total_units": 732.0,
+"complete_units": 392.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3702,
+"complete_code_percent": 3.3529,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2208,
+"total_code": 2847660.0,
+"matched_code": 1092652.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6270.0,
+"total_units": 385.0,
+"complete_units": 84.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "f96a07b3a671325991ae8913bb5471b62439b25e",
+"time": "2026-10-28T10:28:26Z",
+"message": "Tiny symbol validation fixes",
+"measures": {
+"matched_code_percent": 49.1616,
+"complete_code_percent": 17.6881,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6841,
+"total_code": 3603696.0,
+"matched_code": 1771636.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10069.0,
+"total_units": 732.0,
+"complete_units": 392.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3702,
+"complete_code_percent": 3.3529,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2208,
+"total_code": 2847660.0,
+"matched_code": 1092652.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6270.0,
+"total_units": 385.0,
+"complete_units": 84.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4669,7 +4846,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-28T00:20:01Z",
+"units_time": "2026-10-28T10:28:26Z",
 "units": [
 [
 "mario/main",
@@ -5943,7 +6120,7 @@
 [
 "mario/GC2D/ScrnFader",
 4612,
-99.77,
+100.0,
 0,
 [
 "game"
@@ -5970,8 +6147,8 @@
 [
 "mario/GC2D/BoundPane",
 1388,
-95.13,
-0,
+100.0,
+1,
 [
 "game"
 ]
