@@ -100225,6 +100225,702 @@
 }
 },
 {
+"sha": "5b518a6c0363d29d1a9fc0a29984d53333347084",
+"time": "2026-10-28T05:52:45Z",
+"message": "M0S00: Move map messages",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 37.3751,
+"complete_data_percent": 0.0,
+"total_code": 2877980.0,
+"matched_code": 2877980.0,
+"total_data": 395172.0,
+"total_functions": 6527.0,
+"matched_functions": 6527.0,
+"total_units": 146.0,
+"complete_units": 0.0
+},
+"categories": {
+"engine": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 46.2219,
+"complete_data_percent": 0.0,
+"total_code": 445004.0,
+"matched_code": 445004.0,
+"total_data": 143672.0,
+"total_functions": 1236.0,
+"matched_functions": 1236.0,
+"total_units": 88.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.3657,
+"complete_data_percent": 0.0,
+"total_code": 6732.0,
+"matched_code": 6732.0,
+"total_data": 26688.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 23.248,
+"complete_data_percent": 0.0,
+"total_code": 53688.0,
+"matched_code": 53688.0,
+"total_data": 9532.0,
+"total_functions": 107.0,
+"matched_functions": 107.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"screen.b_konami": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 3908.0,
+"matched_code": 3908.0,
+"total_data": 72.0,
+"total_functions": 11.0,
+"matched_functions": 11.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"screen.options": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.0361,
+"complete_data_percent": 0.0,
+"total_code": 17840.0,
+"matched_code": 17840.0,
+"total_data": 2108.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.credits": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 43.1177,
+"complete_data_percent": 0.0,
+"total_code": 10032.0,
+"matched_code": 10032.0,
+"total_data": 4824.0,
+"total_functions": 23.0,
+"matched_functions": 23.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.saveload": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 18204.0,
+"matched_code": 18204.0,
+"total_data": 2492.0,
+"total_functions": 32.0,
+"matched_functions": 32.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.stream": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3704.0,
+"matched_code": 3704.0,
+"total_data": 36.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 36.0647,
+"complete_data_percent": 0.0,
+"total_code": 2372556.0,
+"matched_code": 2372556.0,
+"total_data": 215280.0,
+"total_functions": 5137.0,
+"matched_functions": 5137.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"map.map0_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 72716.0,
+"matched_code": 72716.0,
+"total_data": 4484.0,
+"total_functions": 129.0,
+"matched_functions": 129.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map0_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 67748.0,
+"matched_code": 67748.0,
+"total_data": 9972.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map0_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 32.9167,
+"complete_data_percent": 0.0,
+"total_code": 19612.0,
+"matched_code": 19612.0,
+"total_data": 1920.0,
+"total_functions": 56.0,
+"matched_functions": 56.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map1_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 60580.0,
+"matched_code": 60580.0,
+"total_data": 4736.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.0363,
+"complete_data_percent": 0.0,
+"total_code": 59644.0,
+"matched_code": 59644.0,
+"total_data": 4844.0,
+"total_functions": 88.0,
+"matched_functions": 88.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78604.0,
+"matched_code": 78604.0,
+"total_data": 5472.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78488.0,
+"matched_code": 78488.0,
+"total_data": 6104.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 9556.0,
+"matched_code": 9556.0,
+"total_data": 980.0,
+"total_functions": 39.0,
+"matched_functions": 39.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 43956.0,
+"matched_code": 43956.0,
+"total_data": 1348.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 48508.0,
+"matched_code": 48508.0,
+"total_data": 2680.0,
+"total_functions": 90.0,
+"matched_functions": 90.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.4913,
+"complete_data_percent": 0.0,
+"total_code": 135404.0,
+"matched_code": 135404.0,
+"total_data": 12596.0,
+"total_functions": 266.0,
+"matched_functions": 266.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 19664.0,
+"matched_code": 19664.0,
+"total_data": 2808.0,
+"total_functions": 66.0,
+"matched_functions": 66.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123384.0,
+"matched_code": 123384.0,
+"total_data": 8996.0,
+"total_functions": 261.0,
+"matched_functions": 261.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8760.0,
+"matched_code": 8760.0,
+"total_data": 892.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 12048.0,
+"matched_code": 12048.0,
+"total_data": 1648.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.6058,
+"complete_data_percent": 0.0,
+"total_code": 27068.0,
+"matched_code": 27068.0,
+"total_data": 3856.0,
+"total_functions": 77.0,
+"matched_functions": 77.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 34808.0,
+"matched_code": 34808.0,
+"total_data": 3312.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.4424,
+"complete_data_percent": 0.0,
+"total_code": 26924.0,
+"matched_code": 26924.0,
+"total_data": 1492.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.681,
+"complete_data_percent": 0.0,
+"total_code": 39464.0,
+"matched_code": 39464.0,
+"total_data": 3988.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0987,
+"complete_data_percent": 0.0,
+"total_code": 37004.0,
+"matched_code": 37004.0,
+"total_data": 3728.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 55788.0,
+"matched_code": 55788.0,
+"total_data": 4300.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 26848.0,
+"matched_code": 26848.0,
+"total_data": 3536.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 36120.0,
+"matched_code": 36120.0,
+"total_data": 7596.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123464.0,
+"matched_code": 123464.0,
+"total_data": 8836.0,
+"total_functions": 259.0,
+"matched_functions": 259.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.067,
+"complete_data_percent": 0.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 2864.0,
+"total_functions": 187.0,
+"matched_functions": 187.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29488.0,
+"matched_code": 29488.0,
+"total_data": 6112.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 51504.0,
+"matched_code": 51504.0,
+"total_data": 1828.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.1193,
+"complete_data_percent": 0.0,
+"total_code": 56864.0,
+"matched_code": 56864.0,
+"total_data": 2916.0,
+"total_functions": 113.0,
+"matched_functions": 113.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133204.0,
+"matched_code": 133204.0,
+"total_data": 9492.0,
+"total_functions": 273.0,
+"matched_functions": 273.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 47212.0,
+"matched_code": 47212.0,
+"total_data": 4560.0,
+"total_functions": 94.0,
+"matched_functions": 94.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 30620.0,
+"matched_code": 30620.0,
+"total_data": 5180.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133020.0,
+"matched_code": 133020.0,
+"total_data": 9684.0,
+"total_functions": 260.0,
+"matched_functions": 260.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.8221,
+"complete_data_percent": 0.0,
+"total_code": 30988.0,
+"matched_code": 30988.0,
+"total_data": 5892.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.7343,
+"complete_data_percent": 0.0,
+"total_code": 34940.0,
+"matched_code": 34940.0,
+"total_data": 1596.0,
+"total_functions": 76.0,
+"matched_functions": 76.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.9419,
+"complete_data_percent": 0.0,
+"total_code": 57608.0,
+"matched_code": 57608.0,
+"total_data": 3304.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.6342,
+"complete_data_percent": 0.0,
+"total_code": 111544.0,
+"matched_code": 111544.0,
+"total_data": 9032.0,
+"total_functions": 193.0,
+"matched_functions": 193.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8988.0,
+"matched_code": 8988.0,
+"total_data": 864.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29936.0,
+"matched_code": 29936.0,
+"total_data": 4384.0,
+"total_functions": 68.0,
+"matched_functions": 68.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.9448,
+"complete_data_percent": 0.0,
+"total_code": 75172.0,
+"matched_code": 75172.0,
+"total_data": 9568.0,
+"total_functions": 165.0,
+"matched_functions": 165.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.6486,
+"complete_data_percent": 0.0,
+"total_code": 96972.0,
+"matched_code": 96972.0,
+"total_data": 14616.0,
+"total_functions": 163.0,
+"matched_functions": 163.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 117808.0,
+"matched_code": 117808.0,
+"total_data": 11576.0,
+"total_functions": 347.0,
+"matched_functions": 347.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "264f76905977bde9a5ad649d72bcd90034892dfe",
 "time": "2026-10-28T07:28:20Z",
 "message": "Maps: mass renames",
@@ -102311,6 +103007,1398 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "b5432c2374e124098e4c33cf5a51effef47e50f8",
+"time": "2026-10-28T13:16:08Z",
+"message": "Bodyprog: character collision deobfuscation",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 37.3751,
+"complete_data_percent": 0.0,
+"total_code": 2877980.0,
+"matched_code": 2877980.0,
+"total_data": 395172.0,
+"total_functions": 6527.0,
+"matched_functions": 6527.0,
+"total_units": 146.0,
+"complete_units": 0.0
+},
+"categories": {
+"engine": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 46.2219,
+"complete_data_percent": 0.0,
+"total_code": 445004.0,
+"matched_code": 445004.0,
+"total_data": 143672.0,
+"total_functions": 1236.0,
+"matched_functions": 1236.0,
+"total_units": 88.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.3657,
+"complete_data_percent": 0.0,
+"total_code": 6732.0,
+"matched_code": 6732.0,
+"total_data": 26688.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 23.248,
+"complete_data_percent": 0.0,
+"total_code": 53688.0,
+"matched_code": 53688.0,
+"total_data": 9532.0,
+"total_functions": 107.0,
+"matched_functions": 107.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"screen.b_konami": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 3908.0,
+"matched_code": 3908.0,
+"total_data": 72.0,
+"total_functions": 11.0,
+"matched_functions": 11.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"screen.options": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.0361,
+"complete_data_percent": 0.0,
+"total_code": 17840.0,
+"matched_code": 17840.0,
+"total_data": 2108.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.credits": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 43.1177,
+"complete_data_percent": 0.0,
+"total_code": 10032.0,
+"matched_code": 10032.0,
+"total_data": 4824.0,
+"total_functions": 23.0,
+"matched_functions": 23.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.saveload": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 18204.0,
+"matched_code": 18204.0,
+"total_data": 2492.0,
+"total_functions": 32.0,
+"matched_functions": 32.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.stream": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3704.0,
+"matched_code": 3704.0,
+"total_data": 36.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 36.0647,
+"complete_data_percent": 0.0,
+"total_code": 2372556.0,
+"matched_code": 2372556.0,
+"total_data": 215280.0,
+"total_functions": 5137.0,
+"matched_functions": 5137.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"map.map0_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 72716.0,
+"matched_code": 72716.0,
+"total_data": 4484.0,
+"total_functions": 129.0,
+"matched_functions": 129.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map0_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 67748.0,
+"matched_code": 67748.0,
+"total_data": 9972.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map0_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 32.9167,
+"complete_data_percent": 0.0,
+"total_code": 19612.0,
+"matched_code": 19612.0,
+"total_data": 1920.0,
+"total_functions": 56.0,
+"matched_functions": 56.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map1_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 60580.0,
+"matched_code": 60580.0,
+"total_data": 4736.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.0363,
+"complete_data_percent": 0.0,
+"total_code": 59644.0,
+"matched_code": 59644.0,
+"total_data": 4844.0,
+"total_functions": 88.0,
+"matched_functions": 88.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78604.0,
+"matched_code": 78604.0,
+"total_data": 5472.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78488.0,
+"matched_code": 78488.0,
+"total_data": 6104.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 9556.0,
+"matched_code": 9556.0,
+"total_data": 980.0,
+"total_functions": 39.0,
+"matched_functions": 39.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 43956.0,
+"matched_code": 43956.0,
+"total_data": 1348.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 48508.0,
+"matched_code": 48508.0,
+"total_data": 2680.0,
+"total_functions": 90.0,
+"matched_functions": 90.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.4913,
+"complete_data_percent": 0.0,
+"total_code": 135404.0,
+"matched_code": 135404.0,
+"total_data": 12596.0,
+"total_functions": 266.0,
+"matched_functions": 266.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 19664.0,
+"matched_code": 19664.0,
+"total_data": 2808.0,
+"total_functions": 66.0,
+"matched_functions": 66.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123384.0,
+"matched_code": 123384.0,
+"total_data": 8996.0,
+"total_functions": 261.0,
+"matched_functions": 261.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8760.0,
+"matched_code": 8760.0,
+"total_data": 892.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 12048.0,
+"matched_code": 12048.0,
+"total_data": 1648.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.6058,
+"complete_data_percent": 0.0,
+"total_code": 27068.0,
+"matched_code": 27068.0,
+"total_data": 3856.0,
+"total_functions": 77.0,
+"matched_functions": 77.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 34808.0,
+"matched_code": 34808.0,
+"total_data": 3312.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.4424,
+"complete_data_percent": 0.0,
+"total_code": 26924.0,
+"matched_code": 26924.0,
+"total_data": 1492.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.681,
+"complete_data_percent": 0.0,
+"total_code": 39464.0,
+"matched_code": 39464.0,
+"total_data": 3988.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0987,
+"complete_data_percent": 0.0,
+"total_code": 37004.0,
+"matched_code": 37004.0,
+"total_data": 3728.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 55788.0,
+"matched_code": 55788.0,
+"total_data": 4300.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 26848.0,
+"matched_code": 26848.0,
+"total_data": 3536.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 36120.0,
+"matched_code": 36120.0,
+"total_data": 7596.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123464.0,
+"matched_code": 123464.0,
+"total_data": 8836.0,
+"total_functions": 259.0,
+"matched_functions": 259.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.067,
+"complete_data_percent": 0.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 2864.0,
+"total_functions": 187.0,
+"matched_functions": 187.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29488.0,
+"matched_code": 29488.0,
+"total_data": 6112.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 51504.0,
+"matched_code": 51504.0,
+"total_data": 1828.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.1193,
+"complete_data_percent": 0.0,
+"total_code": 56864.0,
+"matched_code": 56864.0,
+"total_data": 2916.0,
+"total_functions": 113.0,
+"matched_functions": 113.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133204.0,
+"matched_code": 133204.0,
+"total_data": 9492.0,
+"total_functions": 273.0,
+"matched_functions": 273.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 47212.0,
+"matched_code": 47212.0,
+"total_data": 4560.0,
+"total_functions": 94.0,
+"matched_functions": 94.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 30620.0,
+"matched_code": 30620.0,
+"total_data": 5180.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133020.0,
+"matched_code": 133020.0,
+"total_data": 9684.0,
+"total_functions": 260.0,
+"matched_functions": 260.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.8221,
+"complete_data_percent": 0.0,
+"total_code": 30988.0,
+"matched_code": 30988.0,
+"total_data": 5892.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.7343,
+"complete_data_percent": 0.0,
+"total_code": 34940.0,
+"matched_code": 34940.0,
+"total_data": 1596.0,
+"total_functions": 76.0,
+"matched_functions": 76.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.9419,
+"complete_data_percent": 0.0,
+"total_code": 57608.0,
+"matched_code": 57608.0,
+"total_data": 3304.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.6342,
+"complete_data_percent": 0.0,
+"total_code": 111544.0,
+"matched_code": 111544.0,
+"total_data": 9032.0,
+"total_functions": 193.0,
+"matched_functions": 193.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8988.0,
+"matched_code": 8988.0,
+"total_data": 864.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29936.0,
+"matched_code": 29936.0,
+"total_data": 4384.0,
+"total_functions": 68.0,
+"matched_functions": 68.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.9448,
+"complete_data_percent": 0.0,
+"total_code": 75172.0,
+"matched_code": 75172.0,
+"total_data": 9568.0,
+"total_functions": 165.0,
+"matched_functions": 165.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.6486,
+"complete_data_percent": 0.0,
+"total_code": 96972.0,
+"matched_code": 96972.0,
+"total_data": 14616.0,
+"total_functions": 163.0,
+"matched_functions": 163.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 117808.0,
+"matched_code": 117808.0,
+"total_data": 11576.0,
+"total_functions": 347.0,
+"matched_functions": 347.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "e110719a175a30229a0796db588b7187905d32ca",
+"time": "2026-10-28T16:47:56Z",
+"message": "Bodyprog: collision deobfuscation",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 37.3751,
+"complete_data_percent": 0.0,
+"total_code": 2877980.0,
+"matched_code": 2877980.0,
+"total_data": 395172.0,
+"total_functions": 6527.0,
+"matched_functions": 6527.0,
+"total_units": 146.0,
+"complete_units": 0.0
+},
+"categories": {
+"engine": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 46.2219,
+"complete_data_percent": 0.0,
+"total_code": 445004.0,
+"matched_code": 445004.0,
+"total_data": 143672.0,
+"total_functions": 1236.0,
+"matched_functions": 1236.0,
+"total_units": 88.0,
+"complete_units": 0.0
+},
+"main": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 5.3657,
+"complete_data_percent": 0.0,
+"total_code": 6732.0,
+"matched_code": 6732.0,
+"total_data": 26688.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 7.0,
+"complete_units": 0.0
+},
+"screen": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 23.248,
+"complete_data_percent": 0.0,
+"total_code": 53688.0,
+"matched_code": 53688.0,
+"total_data": 9532.0,
+"total_functions": 107.0,
+"matched_functions": 107.0,
+"total_units": 6.0,
+"complete_units": 0.0
+},
+"screen.b_konami": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 3908.0,
+"matched_code": 3908.0,
+"total_data": 72.0,
+"total_functions": 11.0,
+"matched_functions": 11.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"screen.options": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 3.0361,
+"complete_data_percent": 0.0,
+"total_code": 17840.0,
+"matched_code": 17840.0,
+"total_data": 2108.0,
+"total_functions": 26.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.credits": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 43.1177,
+"complete_data_percent": 0.0,
+"total_code": 10032.0,
+"matched_code": 10032.0,
+"total_data": 4824.0,
+"total_functions": 23.0,
+"matched_functions": 23.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.saveload": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 18204.0,
+"matched_code": 18204.0,
+"total_data": 2492.0,
+"total_functions": 32.0,
+"matched_functions": 32.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"screen.stream": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3704.0,
+"matched_code": 3704.0,
+"total_data": 36.0,
+"total_functions": 15.0,
+"matched_functions": 15.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 36.0647,
+"complete_data_percent": 0.0,
+"total_code": 2372556.0,
+"matched_code": 2372556.0,
+"total_data": 215280.0,
+"total_functions": 5137.0,
+"matched_functions": 5137.0,
+"total_units": 45.0,
+"complete_units": 0.0
+},
+"map.map0_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 72716.0,
+"matched_code": 72716.0,
+"total_data": 4484.0,
+"total_functions": 129.0,
+"matched_functions": 129.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map0_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 67748.0,
+"matched_code": 67748.0,
+"total_data": 9972.0,
+"total_functions": 207.0,
+"matched_functions": 207.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map0_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 32.9167,
+"complete_data_percent": 0.0,
+"total_code": 19612.0,
+"matched_code": 19612.0,
+"total_data": 1920.0,
+"total_functions": 56.0,
+"matched_functions": 56.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"map.map1_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 60580.0,
+"matched_code": 60580.0,
+"total_data": 4736.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.0363,
+"complete_data_percent": 0.0,
+"total_code": 59644.0,
+"matched_code": 59644.0,
+"total_data": 4844.0,
+"total_functions": 88.0,
+"matched_functions": 88.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78604.0,
+"matched_code": 78604.0,
+"total_data": 5472.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78488.0,
+"matched_code": 78488.0,
+"total_data": 6104.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 9556.0,
+"matched_code": 9556.0,
+"total_data": 980.0,
+"total_functions": 39.0,
+"matched_functions": 39.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 43956.0,
+"matched_code": 43956.0,
+"total_data": 1348.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map1_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 48508.0,
+"matched_code": 48508.0,
+"total_data": 2680.0,
+"total_functions": 90.0,
+"matched_functions": 90.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.4913,
+"complete_data_percent": 0.0,
+"total_code": 135404.0,
+"matched_code": 135404.0,
+"total_data": 12596.0,
+"total_functions": 266.0,
+"matched_functions": 266.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 19664.0,
+"matched_code": 19664.0,
+"total_data": 2808.0,
+"total_functions": 66.0,
+"matched_functions": 66.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123384.0,
+"matched_code": 123384.0,
+"total_data": 8996.0,
+"total_functions": 261.0,
+"matched_functions": 261.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8760.0,
+"matched_code": 8760.0,
+"total_data": 892.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map2_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 12048.0,
+"matched_code": 12048.0,
+"total_data": 1648.0,
+"total_functions": 47.0,
+"matched_functions": 47.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.6058,
+"complete_data_percent": 0.0,
+"total_code": 27068.0,
+"matched_code": 27068.0,
+"total_data": 3856.0,
+"total_functions": 77.0,
+"matched_functions": 77.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 34808.0,
+"matched_code": 34808.0,
+"total_data": 3312.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.4424,
+"complete_data_percent": 0.0,
+"total_code": 26924.0,
+"matched_code": 26924.0,
+"total_data": 1492.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.681,
+"complete_data_percent": 0.0,
+"total_code": 39464.0,
+"matched_code": 39464.0,
+"total_data": 3988.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 94.0987,
+"complete_data_percent": 0.0,
+"total_code": 37004.0,
+"matched_code": 37004.0,
+"total_data": 3728.0,
+"total_functions": 110.0,
+"matched_functions": 110.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 55788.0,
+"matched_code": 55788.0,
+"total_data": 4300.0,
+"total_functions": 114.0,
+"matched_functions": 114.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map3_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 26848.0,
+"matched_code": 26848.0,
+"total_data": 3536.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 36120.0,
+"matched_code": 36120.0,
+"total_data": 7596.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 123464.0,
+"matched_code": 123464.0,
+"total_data": 8836.0,
+"total_functions": 259.0,
+"matched_functions": 259.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.067,
+"complete_data_percent": 0.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 2864.0,
+"total_functions": 187.0,
+"matched_functions": 187.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29488.0,
+"matched_code": 29488.0,
+"total_data": 6112.0,
+"total_functions": 78.0,
+"matched_functions": 78.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 51504.0,
+"matched_code": 51504.0,
+"total_data": 1828.0,
+"total_functions": 80.0,
+"matched_functions": 80.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map4_s06": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8652.0,
+"matched_code": 8652.0,
+"total_data": 844.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.1193,
+"complete_data_percent": 0.0,
+"total_code": 56864.0,
+"matched_code": 56864.0,
+"total_data": 2916.0,
+"total_functions": 113.0,
+"matched_functions": 113.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133204.0,
+"matched_code": 133204.0,
+"total_data": 9492.0,
+"total_functions": 273.0,
+"matched_functions": 273.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 47212.0,
+"matched_code": 47212.0,
+"total_data": 4560.0,
+"total_functions": 94.0,
+"matched_functions": 94.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map5_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 30620.0,
+"matched_code": 30620.0,
+"total_data": 5180.0,
+"total_functions": 83.0,
+"matched_functions": 83.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 133020.0,
+"matched_code": 133020.0,
+"total_data": 9684.0,
+"total_functions": 260.0,
+"matched_functions": 260.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.8221,
+"complete_data_percent": 0.0,
+"total_code": 30988.0,
+"matched_code": 30988.0,
+"total_data": 5892.0,
+"total_functions": 74.0,
+"matched_functions": 74.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 93.7343,
+"complete_data_percent": 0.0,
+"total_code": 34940.0,
+"matched_code": 34940.0,
+"total_data": 1596.0,
+"total_functions": 76.0,
+"matched_functions": 76.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 97.9419,
+"complete_data_percent": 0.0,
+"total_code": 57608.0,
+"matched_code": 57608.0,
+"total_data": 3304.0,
+"total_functions": 101.0,
+"matched_functions": 101.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s04": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 96.6342,
+"complete_data_percent": 0.0,
+"total_code": 111544.0,
+"matched_code": 111544.0,
+"total_data": 9032.0,
+"total_functions": 193.0,
+"matched_functions": 193.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map6_s05": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8988.0,
+"matched_code": 8988.0,
+"total_data": 864.0,
+"total_functions": 38.0,
+"matched_functions": 38.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s00": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 29936.0,
+"matched_code": 29936.0,
+"total_data": 4384.0,
+"total_functions": 68.0,
+"matched_functions": 68.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s01": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.9448,
+"complete_data_percent": 0.0,
+"total_code": 75172.0,
+"matched_code": 75172.0,
+"total_data": 9568.0,
+"total_functions": 165.0,
+"matched_functions": 165.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s02": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 95.6486,
+"complete_data_percent": 0.0,
+"total_code": 96972.0,
+"matched_code": 96972.0,
+"total_data": 14616.0,
+"total_functions": 163.0,
+"matched_functions": 163.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"map.map7_s03": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 117808.0,
+"matched_code": 117808.0,
+"total_data": 11576.0,
+"total_functions": 347.0,
+"matched_functions": 347.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "master",
@@ -102369,47 +104457,11 @@
 "map.map7_s02": "7_02 - Unknown (Nowever related)",
 "map.map7_s03": "7_03 - Final boss fight"
 },
-"units_time": "2026-10-28T11:53:35Z",
+"units_time": "2026-10-28T16:47:56Z",
 "units": [
-[
-"main/rng",
-132,
-100.0,
-0,
-[
-"main"
-]
-],
 [
 "main/memmove32",
 128,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"main/fileinfo",
-904,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"main/fsmem",
-776,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"main/fsqueue",
-3608,
 100.0,
 0,
 [
@@ -102426,6 +104478,15 @@
 ]
 ],
 [
+"main/fsmem",
+776,
+100.0,
+0,
+[
+"main"
+]
+],
+[
 "main/memcpy",
 320,
 100.0,
@@ -102435,12 +104496,30 @@
 ]
 ],
 [
-"bodyprog/memcard",
-11964,
+"main/fileinfo",
+904,
 100.0,
 0,
 [
-"engine"
+"main"
+]
+],
+[
+"main/fsqueue",
+3608,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"main/rng",
+132,
+100.0,
+0,
+[
+"main"
 ]
 ],
 [
@@ -102453,44 +104532,44 @@
 ]
 ],
 [
+"bodyprog/ranking",
+7724,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/bodyprog_80089090",
+4040,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/bodyprog_math_8005BF38",
+2200,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/dms",
+2684,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
 "bodyprog/demo",
 2604,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/bodyprog_mapscreen_80066EB0",
-288,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/player_control",
-66140,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/bodyprog_npc_8005BF38",
-4252,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/bodyprog_combat_8008A058",
-10568,
 100.0,
 0,
 [
@@ -102516,8 +104595,8 @@
 ]
 ],
 [
-"bodyprog/bodyprog_math_8005BF38",
-2200,
+"bodyprog/memcard",
+11964,
 100.0,
 0,
 [
@@ -102525,8 +104604,8 @@
 ]
 ],
 [
-"bodyprog/bodyprog_80089090",
-4040,
+"bodyprog/player_control",
+66140,
 100.0,
 0,
 [
@@ -102534,8 +104613,8 @@
 ]
 ],
 [
-"bodyprog/dms",
-2684,
+"bodyprog/bodyprog_combat_8008A058",
+10568,
 100.0,
 0,
 [
@@ -102543,8 +104622,8 @@
 ]
 ],
 [
-"bodyprog/ranking",
-7724,
+"bodyprog/bodyprog_mapscreen_80066EB0",
+288,
 100.0,
 0,
 [
@@ -102552,8 +104631,8 @@
 ]
 ],
 [
-"bodyprog/events/bgm_utils",
-784,
+"bodyprog/bodyprog_npc_8005BF38",
+4252,
 100.0,
 0,
 [
@@ -102561,8 +104640,518 @@
 ]
 ],
 [
-"bodyprog/events/player_pos_update",
-416,
+"maps/map5_s00/map5_s00",
+56864,
+100.0,
+0,
+[
+"map",
+"map.map5_s00"
+]
+],
+[
+"maps/map3_s04/map3_s04_2",
+37004,
+100.0,
+0,
+[
+"map",
+"map.map3_s04"
+]
+],
+[
+"maps/map6_s01/map6_s01_2",
+30988,
+100.0,
+0,
+[
+"map",
+"map.map6_s01"
+]
+],
+[
+"maps/map4_s02/map4_s02",
+123464,
+100.0,
+0,
+[
+"map",
+"map.map4_s02"
+]
+],
+[
+"maps/map0_s02/map0_s02_events",
+3524,
+100.0,
+0,
+[
+"map",
+"map.map0_s02"
+]
+],
+[
+"maps/map0_s02/map0_s02",
+16088,
+100.0,
+0,
+[
+"map",
+"map.map0_s02"
+]
+],
+[
+"maps/map1_s04/map1_s04",
+9556,
+100.0,
+0,
+[
+"map",
+"map.map1_s04"
+]
+],
+[
+"maps/map1_s06/map1_s06",
+48508,
+100.0,
+0,
+[
+"map",
+"map.map1_s06"
+]
+],
+[
+"maps/map1_s01/map1_s01",
+59644,
+100.0,
+0,
+[
+"map",
+"map.map1_s01"
+]
+],
+[
+"maps/map1_s05/map1_s05",
+43956,
+100.0,
+0,
+[
+"map",
+"map.map1_s05"
+]
+],
+[
+"maps/map2_s00/map2_s00",
+135404,
+100.0,
+0,
+[
+"map",
+"map.map2_s00"
+]
+],
+[
+"maps/map3_s01/map3_s01",
+34808,
+100.0,
+0,
+[
+"map",
+"map.map3_s01"
+]
+],
+[
+"maps/map5_s01/map5_s01",
+133204,
+100.0,
+0,
+[
+"map",
+"map.map5_s01"
+]
+],
+[
+"maps/map0_s00/map0_s00_2",
+72716,
+100.0,
+0,
+[
+"map",
+"map.map0_s00"
+]
+],
+[
+"maps/map4_s01/map4_s01_2",
+36120,
+100.0,
+0,
+[
+"map",
+"map.map4_s01"
+]
+],
+[
+"maps/map7_s03/map7_s03_3",
+117808,
+100.0,
+0,
+[
+"map",
+"map.map7_s03"
+]
+],
+[
+"maps/map6_s05/map6_s05",
+8988,
+100.0,
+0,
+[
+"map",
+"map.map6_s05"
+]
+],
+[
+"maps/map4_s04/map4_s04_2",
+29488,
+100.0,
+0,
+[
+"map",
+"map.map4_s04"
+]
+],
+[
+"maps/map5_s02/map5_s02_2",
+47212,
+100.0,
+0,
+[
+"map",
+"map.map5_s02"
+]
+],
+[
+"maps/map3_s00/map3_s00_2",
+27068,
+100.0,
+0,
+[
+"map",
+"map.map3_s00"
+]
+],
+[
+"maps/map2_s02/map2_s02",
+123384,
+100.0,
+0,
+[
+"map",
+"map.map2_s02"
+]
+],
+[
+"maps/map7_s01/map7_s01_2",
+75172,
+100.0,
+0,
+[
+"map",
+"map.map7_s01"
+]
+],
+[
+"maps/map6_s02/map6_s02_2",
+34940,
+100.0,
+0,
+[
+"map",
+"map.map6_s02"
+]
+],
+[
+"maps/map2_s03/map2_s03",
+8760,
+100.0,
+0,
+[
+"map",
+"map.map2_s03"
+]
+],
+[
+"maps/map4_s03/map4_s03",
+63224,
+100.0,
+0,
+[
+"map",
+"map.map4_s03"
+]
+],
+[
+"maps/map6_s03/map6_s03",
+57608,
+100.0,
+0,
+[
+"map",
+"map.map6_s03"
+]
+],
+[
+"maps/map1_s03/map1_s03",
+78488,
+100.0,
+0,
+[
+"map",
+"map.map1_s03"
+]
+],
+[
+"maps/map1_s00/map1_s00",
+60580,
+100.0,
+0,
+[
+"map",
+"map.map1_s00"
+]
+],
+[
+"maps/map2_s04/map2_s04",
+12048,
+100.0,
+0,
+[
+"map",
+"map.map2_s04"
+]
+],
+[
+"maps/map3_s06/map3_s06_2",
+26848,
+100.0,
+0,
+[
+"map",
+"map.map3_s06"
+]
+],
+[
+"maps/map3_s02/map3_s02_2",
+26924,
+100.0,
+0,
+[
+"map",
+"map.map3_s02"
+]
+],
+[
+"maps/map0_s01/map0_s01_2",
+56820,
+100.0,
+0,
+[
+"map",
+"map.map0_s01"
+]
+],
+[
+"maps/map0_s01/map0_s01_events",
+10928,
+100.0,
+0,
+[
+"map",
+"map.map0_s01"
+]
+],
+[
+"maps/map4_s05/map4_s05",
+51504,
+100.0,
+0,
+[
+"map",
+"map.map4_s05"
+]
+],
+[
+"maps/map6_s04/map6_s04_2",
+111544,
+100.0,
+0,
+[
+"map",
+"map.map6_s04"
+]
+],
+[
+"maps/map3_s05/map3_s05",
+55788,
+100.0,
+0,
+[
+"map",
+"map.map3_s05"
+]
+],
+[
+"maps/map4_s00/map4_s00",
+8652,
+100.0,
+0,
+[
+"map",
+"map.map4_s00"
+]
+],
+[
+"maps/map7_s02/map7_s02_2",
+96972,
+100.0,
+0,
+[
+"map",
+"map.map7_s02"
+]
+],
+[
+"maps/map4_s06/map4_s06",
+8652,
+100.0,
+0,
+[
+"map",
+"map.map4_s06"
+]
+],
+[
+"maps/map5_s03/map5_s03_2",
+30620,
+100.0,
+0,
+[
+"map",
+"map.map5_s03"
+]
+],
+[
+"maps/map2_s01/map2_s01_2",
+19664,
+100.0,
+0,
+[
+"map",
+"map.map2_s01"
+]
+],
+[
+"maps/map7_s00/map7_s00_2",
+29936,
+100.0,
+0,
+[
+"map",
+"map.map7_s00"
+]
+],
+[
+"maps/map3_s03/map3_s03",
+39464,
+100.0,
+0,
+[
+"map",
+"map.map3_s03"
+]
+],
+[
+"maps/map1_s02/map1_s02",
+78604,
+100.0,
+0,
+[
+"map",
+"map.map1_s02"
+]
+],
+[
+"maps/map6_s00/map6_s00",
+133020,
+100.0,
+0,
+[
+"map",
+"map.map6_s00"
+]
+],
+[
+"screens/b_konami/lzss",
+700,
+100.0,
+0,
+[
+"screen",
+"screen.b_konami"
+]
+],
+[
+"screens/b_konami/b_konami",
+3208,
+100.0,
+0,
+[
+"screen",
+"screen.b_konami"
+]
+],
+[
+"screens/options/options",
+17840,
+100.0,
+0,
+[
+"screen",
+"screen.options"
+]
+],
+[
+"screens/stream/stream",
+3704,
+100.0,
+0,
+[
+"screen",
+"screen.stream"
+]
+],
+[
+"screens/saveload/saveload",
+18204,
+100.0,
+0,
+[
+"screen",
+"screen.saveload"
+]
+],
+[
+"screens/credits/credits",
+10032,
+100.0,
+0,
+[
+"screen",
+"screen.credits"
+]
+],
+[
+"bodyprog/sound/sfx",
+2160,
 100.0,
 0,
 [
@@ -102570,8 +105159,8 @@
 ]
 ],
 [
-"bodyprog/events/events_util",
-8496,
+"bodyprog/sound/sd_call",
+12220,
 100.0,
 0,
 [
@@ -102579,8 +105168,8 @@
 ]
 ],
 [
-"bodyprog/events/npc_main",
-3600,
+"bodyprog/libsd/smf_main",
+672,
 100.0,
 0,
 [
@@ -102588,8 +105177,8 @@
 ]
 ],
 [
-"bodyprog/events/title",
-4612,
+"bodyprog/libsd/smf_snd",
+13752,
 100.0,
 0,
 [
@@ -102597,8 +105186,8 @@
 ]
 ],
 [
-"bodyprog/events/radio",
-148,
+"bodyprog/libsd/smf_mid",
+7648,
 100.0,
 0,
 [
@@ -102606,8 +105195,8 @@
 ]
 ],
 [
-"bodyprog/events/events_main",
-2620,
+"bodyprog/libsd/smf_io",
+13116,
 100.0,
 0,
 [
@@ -102615,8 +105204,8 @@
 ]
 ],
 [
-"bodyprog/events/chara_spawn",
-1044,
+"bodyprog/text/bodyprog_8004B45C",
+780,
 100.0,
 0,
 [
@@ -102624,8 +105213,8 @@
 ]
 ],
 [
-"bodyprog/events/bgm_update",
-1912,
+"bodyprog/text/bodyprog_8003652C",
+140,
 100.0,
 0,
 [
@@ -102633,8 +105222,8 @@
 ]
 ],
 [
-"bodyprog/events/events_2d_draw_utils",
-2756,
+"bodyprog/text/text_draw",
+4756,
 100.0,
 0,
 [
@@ -102642,8 +105231,8 @@
 ]
 ],
 [
-"bodyprog/events/game_sys_states",
-8020,
+"bodyprog/text/map_msg_display",
+2192,
 100.0,
 0,
 [
@@ -102651,44 +105240,8 @@
 ]
 ],
 [
-"bodyprog/game_boot/load_screen",
-688,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/game_boot/fs_chara_anim",
-1268,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/game_boot/game_boot",
-2468,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/game_boot/background_sound_init",
-900,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/sys/game_main",
-1712,
+"bodyprog/text/text_debug_draw",
+1116,
 100.0,
 0,
 [
@@ -102698,6 +105251,24 @@
 [
 "bodyprog/sys/fs_screens",
 332,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/sys/vsync",
+80,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/sys/game_main",
+1712,
 100.0,
 0,
 [
@@ -102723,15 +105294,6 @@
 ]
 ],
 [
-"bodyprog/sys/settings_reset",
-268,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
 "bodyprog/sys/memcard_2",
 3080,
 100.0,
@@ -102741,8 +105303,8 @@
 ]
 ],
 [
-"bodyprog/sys/vsync",
-80,
+"bodyprog/sys/settings_reset",
+268,
 100.0,
 0,
 [
@@ -102752,6 +105314,78 @@
 [
 "bodyprog/sys/warm_boot",
 828,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/bodyprog_80056D8C",
+17428,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/bodyprog_800652F4",
+6812,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/bodyprog_effects_8005E0DC",
+29208,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/bodyprog_80055028",
+4636,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/texture_utils",
+956,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/materials",
+2888,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/option_brightness_line",
+296,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/gfx/billboard_draw",
+2524,
 100.0,
 0,
 [
@@ -102770,6 +105404,96 @@
 [
 "bodyprog/chara/anim",
 2416,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/libkpad/libkpad",
+3084,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/collision/collision",
+16672,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/collision/chara",
+964,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/collision/los",
+2436,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/collision/trigger",
+1868,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/collision/ray",
+6468,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/items/item_screens_2",
+11700,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/items/item_utils",
+2344,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/items/item_screens_cam",
+1400,
+100.0,
+0,
+[
+"engine"
+]
+],
+[
+"bodyprog/items/item_screens_3",
+22724,
 100.0,
 0,
 [
@@ -102813,8 +105537,8 @@
 ]
 ],
 [
-"bodyprog/libkpad/libkpad",
-3084,
+"bodyprog/world/world_draw",
+10428,
 100.0,
 0,
 [
@@ -102822,224 +105546,8 @@
 ]
 ],
 [
-"bodyprog/items/item_screens_3",
-22724,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/items/item_utils",
-2344,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/items/item_screens_cam",
-1400,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/items/item_screens_2",
-11700,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/bodyprog_80056D8C",
-17428,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/option_brightness_line",
-296,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/materials",
-2888,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/bodyprog_80055028",
-4636,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/billboard_draw",
-2524,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/bodyprog_800652F4",
-6812,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/bodyprog_effects_8005E0DC",
-29208,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/gfx/texture_utils",
-956,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/libsd/smf_io",
-13116,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/libsd/smf_mid",
-7648,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/libsd/smf_main",
-672,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/libsd/smf_snd",
-13752,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/collision/los",
-2436,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/collision/trigger",
-1868,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/collision/ray",
-6468,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/collision/collision",
-16672,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/collision/chara",
-964,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/screen/screen_fade",
-760,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/screen/screen_draw",
-588,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/screen/cutscene_border",
-740,
-100.0,
-0,
-[
-"engine"
-]
-],
-[
-"bodyprog/screen/background_draw",
-2576,
+"bodyprog/world/world_map",
+10952,
 100.0,
 0,
 [
@@ -103074,8 +105582,8 @@
 ]
 ],
 [
-"bodyprog/world/world_draw",
-10428,
+"bodyprog/game_boot/game_boot",
+2468,
 100.0,
 0,
 [
@@ -103083,8 +105591,8 @@
 ]
 ],
 [
-"bodyprog/world/world_map",
-10952,
+"bodyprog/game_boot/fs_chara_anim",
+1268,
 100.0,
 0,
 [
@@ -103092,8 +105600,8 @@
 ]
 ],
 [
-"bodyprog/text/bodyprog_8004B45C",
-780,
+"bodyprog/game_boot/background_sound_init",
+900,
 100.0,
 0,
 [
@@ -103101,8 +105609,8 @@
 ]
 ],
 [
-"bodyprog/text/map_msg_display",
-2192,
+"bodyprog/game_boot/load_screen",
+688,
 100.0,
 0,
 [
@@ -103110,8 +105618,8 @@
 ]
 ],
 [
-"bodyprog/text/bodyprog_8003652C",
-140,
+"bodyprog/events/npc_main",
+3600,
 100.0,
 0,
 [
@@ -103119,8 +105627,8 @@
 ]
 ],
 [
-"bodyprog/text/text_debug_draw",
-1116,
+"bodyprog/events/game_sys_states",
+8020,
 100.0,
 0,
 [
@@ -103128,8 +105636,8 @@
 ]
 ],
 [
-"bodyprog/text/text_draw",
-4756,
+"bodyprog/events/player_pos_update",
+416,
 100.0,
 0,
 [
@@ -103137,8 +105645,8 @@
 ]
 ],
 [
-"bodyprog/sound/sfx",
-2160,
+"bodyprog/events/bgm_update",
+1912,
 100.0,
 0,
 [
@@ -103146,8 +105654,8 @@
 ]
 ],
 [
-"bodyprog/sound/sd_call",
-12220,
+"bodyprog/events/events_util",
+8496,
 100.0,
 0,
 [
@@ -103155,513 +105663,93 @@
 ]
 ],
 [
-"maps/map3_s03/map3_s03",
-39464,
+"bodyprog/events/events_2d_draw_utils",
+2756,
 100.0,
 0,
 [
-"map",
-"map.map3_s03"
+"engine"
 ]
 ],
 [
-"maps/map2_s03/map2_s03",
-8760,
+"bodyprog/events/events_main",
+2620,
 100.0,
 0,
 [
-"map",
-"map.map2_s03"
+"engine"
 ]
 ],
 [
-"maps/map4_s05/map4_s05",
-51504,
+"bodyprog/events/title",
+4612,
 100.0,
 0,
 [
-"map",
-"map.map4_s05"
+"engine"
 ]
 ],
 [
-"maps/map2_s02/map2_s02",
-123384,
+"bodyprog/events/chara_spawn",
+1044,
 100.0,
 0,
 [
-"map",
-"map.map2_s02"
+"engine"
 ]
 ],
 [
-"maps/map3_s02/map3_s02_2",
-26924,
+"bodyprog/events/bgm_utils",
+784,
 100.0,
 0,
 [
-"map",
-"map.map3_s02"
+"engine"
 ]
 ],
 [
-"maps/map1_s01/map1_s01",
-59644,
+"bodyprog/events/radio",
+148,
 100.0,
 0,
 [
-"map",
-"map.map1_s01"
+"engine"
 ]
 ],
 [
-"maps/map6_s01/map6_s01_2",
-30988,
+"bodyprog/screen/screen_draw",
+588,
 100.0,
 0,
 [
-"map",
-"map.map6_s01"
+"engine"
 ]
 ],
 [
-"maps/map4_s06/map4_s06",
-8652,
+"bodyprog/screen/background_draw",
+2576,
 100.0,
 0,
 [
-"map",
-"map.map4_s06"
+"engine"
 ]
 ],
 [
-"maps/map1_s02/map1_s02",
-78604,
+"bodyprog/screen/cutscene_border",
+740,
 100.0,
 0,
 [
-"map",
-"map.map1_s02"
+"engine"
 ]
 ],
 [
-"maps/map6_s02/map6_s02_2",
-34940,
+"bodyprog/screen/screen_fade",
+760,
 100.0,
 0,
 [
-"map",
-"map.map6_s02"
-]
-],
-[
-"maps/map6_s05/map6_s05",
-8988,
-100.0,
-0,
-[
-"map",
-"map.map6_s05"
-]
-],
-[
-"maps/map4_s03/map4_s03",
-63224,
-100.0,
-0,
-[
-"map",
-"map.map4_s03"
-]
-],
-[
-"maps/map7_s03/map7_s03_3",
-117808,
-100.0,
-0,
-[
-"map",
-"map.map7_s03"
-]
-],
-[
-"maps/map1_s04/map1_s04",
-9556,
-100.0,
-0,
-[
-"map",
-"map.map1_s04"
-]
-],
-[
-"maps/map5_s03/map5_s03_2",
-30620,
-100.0,
-0,
-[
-"map",
-"map.map5_s03"
-]
-],
-[
-"maps/map5_s01/map5_s01",
-133204,
-100.0,
-0,
-[
-"map",
-"map.map5_s01"
-]
-],
-[
-"maps/map3_s00/map3_s00_2",
-27068,
-100.0,
-0,
-[
-"map",
-"map.map3_s00"
-]
-],
-[
-"maps/map6_s04/map6_s04_2",
-111544,
-100.0,
-0,
-[
-"map",
-"map.map6_s04"
-]
-],
-[
-"maps/map7_s02/map7_s02_2",
-96972,
-100.0,
-0,
-[
-"map",
-"map.map7_s02"
-]
-],
-[
-"maps/map5_s00/map5_s00",
-56864,
-100.0,
-0,
-[
-"map",
-"map.map5_s00"
-]
-],
-[
-"maps/map1_s06/map1_s06",
-48508,
-100.0,
-0,
-[
-"map",
-"map.map1_s06"
-]
-],
-[
-"maps/map0_s02/map0_s02",
-16088,
-100.0,
-0,
-[
-"map",
-"map.map0_s02"
-]
-],
-[
-"maps/map0_s02/map0_s02_events",
-3524,
-100.0,
-0,
-[
-"map",
-"map.map0_s02"
-]
-],
-[
-"maps/map5_s02/map5_s02_2",
-47212,
-100.0,
-0,
-[
-"map",
-"map.map5_s02"
-]
-],
-[
-"maps/map3_s05/map3_s05",
-55788,
-100.0,
-0,
-[
-"map",
-"map.map3_s05"
-]
-],
-[
-"maps/map4_s00/map4_s00",
-8652,
-100.0,
-0,
-[
-"map",
-"map.map4_s00"
-]
-],
-[
-"maps/map3_s06/map3_s06_2",
-26848,
-100.0,
-0,
-[
-"map",
-"map.map3_s06"
-]
-],
-[
-"maps/map1_s00/map1_s00",
-60580,
-100.0,
-0,
-[
-"map",
-"map.map1_s00"
-]
-],
-[
-"maps/map2_s00/map2_s00",
-135404,
-100.0,
-0,
-[
-"map",
-"map.map2_s00"
-]
-],
-[
-"maps/map4_s02/map4_s02",
-123464,
-100.0,
-0,
-[
-"map",
-"map.map4_s02"
-]
-],
-[
-"maps/map7_s01/map7_s01_2",
-75172,
-100.0,
-0,
-[
-"map",
-"map.map7_s01"
-]
-],
-[
-"maps/map6_s00/map6_s00",
-133020,
-100.0,
-0,
-[
-"map",
-"map.map6_s00"
-]
-],
-[
-"maps/map0_s00/map0_s00_2",
-72716,
-100.0,
-0,
-[
-"map",
-"map.map0_s00"
-]
-],
-[
-"maps/map3_s01/map3_s01",
-34808,
-100.0,
-0,
-[
-"map",
-"map.map3_s01"
-]
-],
-[
-"maps/map2_s01/map2_s01_2",
-19664,
-100.0,
-0,
-[
-"map",
-"map.map2_s01"
-]
-],
-[
-"maps/map0_s01/map0_s01_events",
-10928,
-100.0,
-0,
-[
-"map",
-"map.map0_s01"
-]
-],
-[
-"maps/map0_s01/map0_s01_2",
-56820,
-100.0,
-0,
-[
-"map",
-"map.map0_s01"
-]
-],
-[
-"maps/map4_s04/map4_s04_2",
-29488,
-100.0,
-0,
-[
-"map",
-"map.map4_s04"
-]
-],
-[
-"maps/map6_s03/map6_s03",
-57608,
-100.0,
-0,
-[
-"map",
-"map.map6_s03"
-]
-],
-[
-"maps/map1_s05/map1_s05",
-43956,
-100.0,
-0,
-[
-"map",
-"map.map1_s05"
-]
-],
-[
-"maps/map7_s00/map7_s00_2",
-29936,
-100.0,
-0,
-[
-"map",
-"map.map7_s00"
-]
-],
-[
-"maps/map1_s03/map1_s03",
-78488,
-100.0,
-0,
-[
-"map",
-"map.map1_s03"
-]
-],
-[
-"maps/map4_s01/map4_s01_2",
-36120,
-100.0,
-0,
-[
-"map",
-"map.map4_s01"
-]
-],
-[
-"maps/map2_s04/map2_s04",
-12048,
-100.0,
-0,
-[
-"map",
-"map.map2_s04"
-]
-],
-[
-"maps/map3_s04/map3_s04_2",
-37004,
-100.0,
-0,
-[
-"map",
-"map.map3_s04"
-]
-],
-[
-"screens/options/options",
-17840,
-100.0,
-0,
-[
-"screen",
-"screen.options"
-]
-],
-[
-"screens/b_konami/lzss",
-700,
-100.0,
-0,
-[
-"screen",
-"screen.b_konami"
-]
-],
-[
-"screens/b_konami/b_konami",
-3208,
-100.0,
-0,
-[
-"screen",
-"screen.b_konami"
-]
-],
-[
-"screens/saveload/saveload",
-18204,
-100.0,
-0,
-[
-"screen",
-"screen.saveload"
-]
-],
-[
-"screens/stream/stream",
-3704,
-100.0,
-0,
-[
-"screen",
-"screen.stream"
-]
-],
-[
-"screens/credits/credits",
-10032,
-100.0,
-0,
-[
-"screen",
-"screen.credits"
+"engine"
 ]
 ]
 ],

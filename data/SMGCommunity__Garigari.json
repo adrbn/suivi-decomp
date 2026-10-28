@@ -13614,20 +13614,353 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "55494a59928d61b832c3f66eb6a8720425dfe49a",
+"time": "2026-10-28T17:12:52Z",
+"message": "BossJugemPlanetCloud 100% (#22)",
+"measures": {
+"matched_code_percent": 18.9021,
+"complete_code_percent": 1.8037,
+"matched_data_percent": 9.5566,
+"complete_data_percent": 1.36,
+"total_code": 6269260.0,
+"matched_code": 1185020.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7661.0,
+"total_units": 2648.0,
+"complete_units": 114.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.3074,
+"complete_code_percent": 0.3905,
+"matched_data_percent": 1.481,
+"complete_data_percent": 0.3978,
+"total_code": 4864740.0,
+"matched_code": 209544.0,
+"total_data": 703840.0,
+"total_functions": 42805.0,
+"matched_functions": 2186.0,
+"total_units": 1722.0,
+"complete_units": 12.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "3df1b069b6edac2ab7ff2fa6ab3399ee4d4f0280",
+"time": "2026-10-28T17:16:02Z",
+"message": "StarPieceSpotEruption 100% (#20)",
+"measures": {
+"matched_code_percent": 18.9153,
+"complete_code_percent": 1.817,
+"matched_data_percent": 9.5686,
+"complete_data_percent": 1.3729,
+"total_code": 6269260.0,
+"matched_code": 1185852.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7671.0,
+"total_units": 2648.0,
+"complete_units": 115.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.3245,
+"complete_code_percent": 0.4076,
+"matched_data_percent": 1.51,
+"complete_data_percent": 0.4291,
+"total_code": 4864740.0,
+"matched_code": 210376.0,
+"total_data": 703840.0,
+"total_functions": 42805.0,
+"matched_functions": 2196.0,
+"total_units": 1722.0,
+"complete_units": 13.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "28731f73717d05c627465b5d4cf7d0f374e417dc",
+"time": "2026-10-28T17:16:48Z",
+"message": "GhostMazePlanetMask 100% (#19)",
+"measures": {
+"matched_code_percent": 18.9264,
+"complete_code_percent": 1.8281,
+"matched_data_percent": 9.5806,
+"complete_data_percent": 1.3849,
+"total_code": 6269260.0,
+"matched_code": 1186548.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7684.0,
+"total_units": 2648.0,
+"complete_units": 116.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.3388,
+"complete_code_percent": 0.4219,
+"matched_data_percent": 1.539,
+"complete_data_percent": 0.4581,
+"total_code": 4864740.0,
+"matched_code": 211072.0,
+"total_data": 703840.0,
+"total_functions": 42805.0,
+"matched_functions": 2209.0,
+"total_units": 1722.0,
+"complete_units": 14.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
 "artifact": "SB4E01_report",
 "category_names": {
 "game": "Game Code",
-"sdk": "SDK Code",
-"nw4r": "NintendoWare Code",
 "jsys": "JSystem",
+"sdk": "SDK Code",
 "rfl": "RVLFaceLib",
+"nw4r": "NintendoWare Code",
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-27T12:32:37Z",
+"units_time": "2026-10-28T17:16:48Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -20828,7 +21161,7 @@
 [
 "main/Game/LiveActor/ShadowDrawer",
 84,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -21745,8 +22078,8 @@
 [
 "main/Game/MapObj/BendSwanpPlanet",
 1096,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -21853,7 +22186,7 @@
 [
 "main/Game/MapObj/BossJugemPlanetCloud",
 904,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -22558,8 +22891,8 @@
 [
 "main/Game/MapObj/GemCageS",
 1144,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -22567,8 +22900,8 @@
 [
 "main/Game/MapObj/GhostMazePlanetMask",
 696,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -22576,8 +22909,8 @@
 [
 "main/Game/MapObj/GliderCometMedalCage",
 524,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -22594,8 +22927,8 @@
 [
 "main/Game/MapObj/GliderTree",
 588,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -24106,8 +24439,8 @@
 [
 "main/Game/MapObj/StarPieceSpotEruption",
 832,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
