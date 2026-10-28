@@ -9575,6 +9575,78 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "219f9d52acf15acd7d0e86e5e721ba62160d0927",
+"time": "2026-10-28T03:08:16Z",
+"message": "cache money",
+"measures": {
+"matched_code_percent": 52.6318,
+"complete_code_percent": 27.7912,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 21.2254,
+"total_code": 12206380.0,
+"matched_code": 6424436.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29093.0,
+"total_units": 2230.0,
+"complete_units": 676.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 92.1441,
+"complete_code_percent": 58.8686,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 58.4496,
+"total_code": 1283768.0,
+"matched_code": 1182916.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4606.0,
+"total_units": 158.0,
+"complete_units": 125.0
+},
+"engine": {
+"matched_code_percent": 88.8929,
+"complete_code_percent": 44.757,
+"matched_data_percent": 18.308,
+"complete_data_percent": 47.7121,
+"total_code": 5888864.0,
+"matched_code": 5234784.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24430.0,
+"total_units": 810.0,
+"complete_units": 549.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -9585,7 +9657,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-10-27T17:33:57Z",
+"units_time": "2026-10-28T03:08:16Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -15458,8 +15530,8 @@
 [
 "default/system/utl/NetCacheMgr",
 10504,
-99.66,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -15575,7 +15647,7 @@
 [
 "default/system/utl/CacheMgr_Xbox",
 6424,
-96.04,
+97.69,
 0,
 [
 "engine"

@@ -4483,6 +4483,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "aa8caf57b29e34c419451a7804ae6e13b856e568",
+"time": "2026-10-27T22:42:11Z",
+"message": "Fix weak func ordering & vtable ordering in pollution stuff",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "b3e326d8285d419705cdabaa0d60fc65c62625a1",
+"time": "2026-10-27T23:30:44Z",
+"message": "hx_wiper different versions",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "61c84d8d6ed46702e9c9eb32289132bb0adecb74",
+"time": "2026-10-28T00:20:01Z",
+"message": "hx_wiper only stack frames left",
+"measures": {
+"matched_code_percent": 49.129,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.602,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1770460.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10067.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3289,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8966,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1091476.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6268.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -4492,7 +4669,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-27T22:17:57Z",
+"units_time": "2026-10-28T00:20:01Z",
 "units": [
 [
 "mario/main",
@@ -5937,7 +6114,7 @@
 [
 "mario/GC2D/hx_wiper",
 20416,
-97.68,
+99.82,
 0,
 [
 "game"
