@@ -2379,6 +2379,91 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "fa9a0ee69f41b9ce884b2d93cfccbae55130bc17",
+"time": "2026-10-29T01:16:13Z",
+"message": "Cleanup some raw pointer math (#790)",
+"measures": {
+"matched_code_percent": 38.0614,
+"complete_code_percent": 10.9861,
+"matched_data_percent": 66.7053,
+"complete_data_percent": 15.6685,
+"total_code": 2419016.0,
+"matched_code": 920712.0,
+"total_data": 1280684.0,
+"total_functions": 10147.0,
+"matched_functions": 6420.0,
+"total_units": 543.0,
+"complete_units": 195.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 43.7779,
+"complete_code_percent": 5.3894,
+"matched_data_percent": 68.7837,
+"complete_data_percent": 5.8749,
+"total_code": 1642400.0,
+"matched_code": 719008.0,
+"total_data": 1021300.0,
+"total_functions": 7673.0,
+"matched_functions": 5474.0,
+"total_units": 224.0,
+"complete_units": 72.0
+},
+"sdk": {
+"matched_code_percent": 98.6835,
+"complete_code_percent": 99.3924,
+"matched_data_percent": 100.0,
+"complete_data_percent": 99.9942,
+"total_code": 165892.0,
+"matched_code": 163708.0,
+"total_data": 139048.0,
+"total_functions": 775.0,
+"matched_functions": 765.0,
+"total_units": 90.0,
+"complete_units": 88.0
+},
+"msl": {
+"matched_code_percent": 31.3776,
+"complete_code_percent": 10.8722,
+"matched_data_percent": 43.6589,
+"complete_data_percent": 6.2946,
+"total_code": 113648.0,
+"matched_code": 35660.0,
+"total_data": 25800.0,
+"total_functions": 324.0,
+"matched_functions": 138.0,
+"total_units": 94.0,
+"complete_units": 35.0
+},
+"RW": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 371428.0,
+"matched_code": 0.0,
+"total_data": 11764.0,
+"total_functions": 1039.0,
+"matched_functions": 0.0,
+"total_units": 120.0,
+"complete_units": 0.0
+},
+"bink": {
+"matched_code_percent": 1.8592,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.7929,
+"complete_data_percent": 0.0,
+"total_code": 125648.0,
+"matched_code": 2336.0,
+"total_data": 82772.0,
+"total_functions": 336.0,
+"matched_functions": 43.0,
+"total_units": 15.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2390,7 +2475,7 @@
 "RW": "Renderware SDK",
 "bink": "Bink SDK"
 },
-"units_time": "2026-10-21T16:18:45Z",
+"units_time": "2026-10-29T01:16:13Z",
 "units": [
 [
 "main/SB/Core/x/xAnim",

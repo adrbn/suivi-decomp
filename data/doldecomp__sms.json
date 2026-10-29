@@ -4308,6 +4308,124 @@
 }
 },
 {
+"sha": "4b4d0305bbf271f236e27d44091c9a6b95e9d676",
+"time": "2026-10-27T20:31:48Z",
+"message": "MapMirror better",
+"measures": {
+"matched_code_percent": 49.1116,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769832.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10065.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3068,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090848.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6266.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "09e06f65c3ca71b381a5f50dc8144411c9f637a8",
+"time": "2026-10-27T20:53:30Z",
+"message": "MarioAccess matching (#376)",
+"measures": {
+"matched_code_percent": 49.1136,
+"complete_code_percent": 17.6495,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6791,
+"total_code": 3603696.0,
+"matched_code": 1769904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10066.0,
+"total_units": 732.0,
+"complete_units": 391.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3094,
+"complete_code_percent": 3.3042,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2151,
+"total_code": 2847660.0,
+"matched_code": 1090920.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6267.0,
+"total_units": 385.0,
+"complete_units": 83.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "3ed02ea9f3f6429de0a4d3e1ebf3fd6d024f14e3",
 "time": "2026-10-27T21:52:36Z",
 "message": "Pass Map symbol order validation",
@@ -5014,6 +5132,65 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "27b8ecf11bf359324cf75c0bcb0357a4f1350fce",
+"time": "2026-10-28T23:22:00Z",
+"message": "Menu naming",
+"measures": {
+"matched_code_percent": 49.1793,
+"complete_code_percent": 17.719,
+"matched_data_percent": 74.7056,
+"complete_data_percent": 18.7789,
+"total_code": 3603696.0,
+"matched_code": 1772272.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10072.0,
+"total_units": 732.0,
+"complete_units": 393.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3925,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.0156,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1093288.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6273.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5023,7 +5200,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-28T21:49:50Z",
+"units_time": "2026-10-28T23:22:00Z",
 "units": [
 [
 "mario/main",
@@ -6288,7 +6465,7 @@
 [
 "mario/GC2D/Menu",
 1564,
-98.57,
+99.91,
 0,
 [
 "game"
@@ -6378,7 +6555,7 @@
 [
 "mario/GC2D/CardLoad",
 50156,
-99.23,
+99.43,
 0,
 [
 "game"
