@@ -3777,6 +3777,65 @@
 }
 },
 {
+"sha": "56e6e5b87cdc73ee8762ed3d9722d8a2e1a24d3d",
+"time": "2026-10-26T18:07:12Z",
+"message": "Formatting",
+"measures": {
+"matched_code_percent": 49.0281,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1766824.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10055.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.213,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1088176.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6258.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
 "sha": "c4296510d390fc404bb955765ea8ad0c6b0bd9e6",
 "time": "2026-10-26T18:11:42Z",
 "message": "uncomment boss wanwan in name ref gen",
@@ -4252,6 +4311,65 @@
 "sha": "cf219ad493540b9c262526c44e128094583faff2",
 "time": "2026-10-27T10:02:56Z",
 "message": "MapMirror a lot closer",
+"measures": {
+"matched_code_percent": 49.0971,
+"complete_code_percent": 17.6176,
+"matched_data_percent": 74.5921,
+"complete_data_percent": 18.6704,
+"total_code": 3603696.0,
+"matched_code": 1769312.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10062.0,
+"total_units": 732.0,
+"complete_units": 390.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.3004,
+"complete_code_percent": 3.2637,
+"matched_data_percent": 72.8852,
+"complete_data_percent": 12.2051,
+"total_code": 2847660.0,
+"matched_code": 1090664.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6265.0,
+"total_units": 385.0,
+"complete_units": 82.0
+},
+"jsystem": {
+"matched_code_percent": 87.1073,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439296.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2792.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "2a17a0a13f7baac9094e8115342f2309c0d8b817",
+"time": "2026-10-27T18:57:41Z",
+"message": "fix: finding solutions for unused func in wanwan (#375)",
 "measures": {
 "matched_code_percent": 49.0971,
 "complete_code_percent": 17.6176,
@@ -5191,6 +5309,65 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "d44dfc69496032a9b36a43c80839ae7ca4918865",
+"time": "2026-10-29T10:36:45Z",
+"message": "Beehive stack frame only remaining",
+"measures": {
+"matched_code_percent": 49.3345,
+"complete_code_percent": 17.719,
+"matched_data_percent": 74.9608,
+"complete_data_percent": 18.7789,
+"total_code": 3603696.0,
+"matched_code": 1777864.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10108.0,
+"total_units": 732.0,
+"complete_units": 393.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 38.5889,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.3086,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1098880.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6309.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5200,7 +5377,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-28T23:22:00Z",
+"units_time": "2026-10-29T10:36:45Z",
 "units": [
 [
 "mario/main",
@@ -5277,7 +5454,7 @@
 [
 "mario/Animal/BeeHive",
 14856,
-0.0,
+99.81,
 0,
 [
 "game"
@@ -6294,7 +6471,7 @@
 [
 "mario/Enemy/Kazekun",
 12640,
-97.98,
+98.07,
 0,
 [
 "game"
@@ -6411,7 +6588,7 @@
 [
 "mario/Enemy/TabePuku",
 13592,
-96.41,
+96.9,
 0,
 [
 "game"
@@ -7356,7 +7533,7 @@
 [
 "mario/MoveBG/MapObjCorona",
 18968,
-93.24,
+93.44,
 0,
 [
 "game"
@@ -8553,7 +8730,7 @@
 [
 "mario/System/MarNameRefGen_Enemy",
 8832,
-92.36,
+93.81,
 0,
 [
 "game"
