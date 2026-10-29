@@ -14613,6 +14613,339 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "2c4126f8ca260a481447bd8fc0f40e143caae929",
+"time": "2026-10-29T21:40:56Z",
+"message": "MiiFaceRecipe is 77% matching (#24)",
+"measures": {
+"matched_code_percent": 19.1746,
+"complete_code_percent": 2.0018,
+"matched_data_percent": 9.76,
+"complete_data_percent": 1.5348,
+"total_code": 6269260.0,
+"matched_code": 1202108.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7913.0,
+"total_units": 2648.0,
+"complete_units": 131.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.6536,
+"complete_code_percent": 0.645,
+"matched_data_percent": 1.9731,
+"complete_data_percent": 0.8206,
+"total_code": 4870060.0,
+"matched_code": 226632.0,
+"total_data": 703860.0,
+"total_functions": 42870.0,
+"matched_functions": 2438.0,
+"total_units": 1725.0,
+"complete_units": 29.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "feea6fc022dc62677bee61aee8e23665d2745b8c",
+"time": "2026-10-29T21:48:06Z",
+"message": "Sun is 100% matching (#33)",
+"measures": {
+"matched_code_percent": 19.1785,
+"complete_code_percent": 2.0056,
+"matched_data_percent": 9.7671,
+"complete_data_percent": 1.5419,
+"total_code": 6269260.0,
+"matched_code": 1202348.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7916.0,
+"total_units": 2648.0,
+"complete_units": 132.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.6585,
+"complete_code_percent": 0.6499,
+"matched_data_percent": 1.9902,
+"complete_data_percent": 0.8377,
+"total_code": 4870060.0,
+"matched_code": 226872.0,
+"total_data": 703860.0,
+"total_functions": 42870.0,
+"matched_functions": 2441.0,
+"total_units": 1725.0,
+"complete_units": 30.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "066d038760d904e587468bd1b9a0931d45926fdd",
+"time": "2026-10-29T21:50:38Z",
+"message": "LiveActorUtil (#37)",
+"measures": {
+"matched_code_percent": 19.371,
+"complete_code_percent": 2.0056,
+"matched_data_percent": 9.7676,
+"complete_data_percent": 1.5419,
+"total_code": 6269260.0,
+"matched_code": 1214420.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 8082.0,
+"total_units": 2648.0,
+"complete_units": 132.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.9064,
+"complete_code_percent": 0.6499,
+"matched_data_percent": 1.9913,
+"complete_data_percent": 0.8377,
+"total_code": 4870060.0,
+"matched_code": 238944.0,
+"total_data": 703860.0,
+"total_functions": 42870.0,
+"matched_functions": 2607.0,
+"total_units": 1725.0,
+"complete_units": 30.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -14626,7 +14959,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-29T06:20:07Z",
+"units_time": "2026-10-29T21:50:38Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -14917,7 +15250,7 @@
 [
 "main/Game/Util/LiveActorUtil",
 22860,
-1.38,
+55.48,
 0,
 [
 "game"
@@ -19989,19 +20322,12 @@
 ],
 [
 "main/Game/Enemy/Cactus",
-380,
-0.0,
-0,
+384,
+100.0,
+1,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80176A30_text",
-4,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Enemy/Chorobon",
@@ -20105,7 +20431,7 @@
 [
 "main/Game/Enemy/Foomin",
 1592,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -20848,8 +21174,8 @@
 [
 "main/Game/Enemy/SupportTicoStop",
 1092,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -23176,7 +23502,7 @@
 [
 "main/Game/MapObj/ConstructionLight",
 948,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -23503,8 +23829,8 @@
 [
 "main/Game/MapObj/FlowerBlossomRellayPlanet",
 608,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -23868,8 +24194,8 @@
 [
 "main/Game/MapObj/KoopaJrCastleGate",
 788,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -24027,19 +24353,12 @@
 ],
 [
 "main/Game/MapObj/MarioFacePlanet",
-516,
-0.0,
-0,
+520,
+100.0,
+1,
 [
 "game"
 ]
-],
-[
-"main/auto_03_802C78A0_text",
-4,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/MapObj/MarioFacePlanetPrevious",
@@ -24213,7 +24532,7 @@
 [
 "main/Game/MapObj/MysteryMountainPlanet",
 840,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -24258,8 +24577,8 @@
 [
 "main/Game/MapObj/OldFortressCover",
 648,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -24418,8 +24737,8 @@
 [
 "main/Game/MapObj/PurpleCoinCompleteWatcher",
 440,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -24586,7 +24905,7 @@
 ],
 [
 "main/Game/MapObj/Rock",
-10960,
+10176,
 0.0,
 0,
 [
@@ -24595,9 +24914,9 @@
 ],
 [
 "main/Game/MapObj/RockBreakCage",
-184,
-0.0,
-0,
+968,
+100.0,
+1,
 [
 "game"
 ]
@@ -24614,8 +24933,8 @@
 [
 "main/Game/MapObj/RockReflector",
 592,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25123,8 +25442,8 @@
 [
 "main/Game/MapObj/Sun",
 240,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25141,8 +25460,8 @@
 [
 "main/Game/MapObj/SupportFlushPoint",
 1264,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25538,8 +25857,8 @@
 [
 "main/Game/MapObj/MapPartsFunction",
 756,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25547,8 +25866,8 @@
 [
 "main/Game/MapObj/MapPartsRailGuideDrawer",
 1508,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25556,8 +25875,8 @@
 [
 "main/Game/MapObj/MapPartsRailGuideHolder",
 460,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25565,8 +25884,8 @@
 [
 "main/Game/MapObj/MapPartsRailGuidePoint",
 508,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -25583,8 +25902,8 @@
 [
 "main/Game/MapObj/MapPartsRailPointPassChecker",
 352,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -26034,7 +26353,7 @@
 [
 "main/Game/NPC/MiiFaceRecipe",
 328,
-0.0,
+76.38,
 0,
 [
 "game"
@@ -28904,8 +29223,17 @@
 ]
 ],
 [
+"main/Game/Screen/PostFog",
+2532,
+99.18,
+0,
+[
+"game"
+]
+],
+[
 "main/Game/Screen/PostManLetter",
-8200,
+5668,
 0.0,
 0,
 [

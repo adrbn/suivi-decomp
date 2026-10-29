@@ -2375,6 +2375,78 @@
 "complete_units": 21.0
 }
 }
+},
+{
+"sha": "77bb8c1171072463e9859b8d8c2c15c8cf7528d5",
+"time": "2026-10-29T14:48:54Z",
+"message": "tools: skip weak copies and stripped library refs in the symbols check (#33)",
+"measures": {
+"matched_code_percent": 21.8611,
+"complete_code_percent": 2.3824,
+"matched_data_percent": 0.5474,
+"complete_data_percent": 0.2332,
+"total_code": 4045240.0,
+"matched_code": 884336.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6536.0,
+"total_units": 791.0,
+"complete_units": 60.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 83.2753,
+"complete_code_percent": 1.992,
+"matched_data_percent": 98.8194,
+"complete_data_percent": 14.4444,
+"total_code": 353824.0,
+"matched_code": 294648.0,
+"total_data": 5760.0,
+"total_functions": 1428.0,
+"matched_functions": 1224.0,
+"total_units": 161.0,
+"complete_units": 6.0
+},
+"unsorted": {
+"matched_code_percent": 9.0249,
+"complete_code_percent": 0.5002,
+"matched_data_percent": 40.9053,
+"complete_data_percent": 17.1193,
+"total_code": 3199324.0,
+"matched_code": 288736.0,
+"total_data": 4860.0,
+"total_functions": 10390.0,
+"matched_functions": 3752.0,
+"total_units": 255.0,
+"complete_units": 21.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2385,7 +2457,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-10-26T11:25:59Z",
+"units_time": "2026-10-29T14:48:54Z",
 "units": [
 [
 "main/src/main",

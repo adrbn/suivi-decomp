@@ -740,12 +740,31 @@
 "complete_units": 219.0
 },
 "categories": {}
+},
+{
+"sha": "ddd240794133b5f60f47c233f596aa8512baf2b3",
+"time": "2026-10-29T19:08:07Z",
+"message": "Match actors 6 (#175)",
+"measures": {
+"matched_code_percent": 9.9609,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3068,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 457116.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6048.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-28T23:56:01Z",
+"units_time": "2026-10-29T19:08:07Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -1394,7 +1413,7 @@
 [
 "src/000_Second/Actor/Actor_Derived1",
 4060,
-37.86,
+38.06,
 0,
 []
 ],
@@ -4089,29 +4108,29 @@
 [
 "src/032_MapA1/Actor/ActorSpinut",
 10104,
-89.41,
-0,
+100.0,
+1,
 []
 ],
 [
 "src/032_MapA1/Actor/ActorFleeingSpinut",
 9460,
-74.51,
-0,
+100.0,
+1,
 []
 ],
 [
 "src/032_MapA1/Actor/ActorKeese",
 8876,
-66.83,
-0,
+100.0,
+1,
 []
 ],
 [
 "src/032_MapA1/Actor/ActorUnkNSSW",
 4572,
-96.29,
-0,
+100.0,
+1,
 []
 ],
 [
@@ -8954,7 +8973,7 @@
 [
 "src/110_PlayerGet/PlayerGet",
 5038,
-95.59,
+95.55,
 0,
 []
 ],
