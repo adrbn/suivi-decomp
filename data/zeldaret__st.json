@@ -778,12 +778,50 @@
 "complete_units": 223.0
 },
 "categories": {}
+},
+{
+"sha": "c1fe41657e490db2eb0c61ac2f7704f76dbf85dd",
+"time": "2026-10-30T16:52:08Z",
+"message": "Name WLMS functions for EUR1 and USA (#180)",
+"measures": {
+"matched_code_percent": 10.048,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3068,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 461116.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6068.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
+},
+{
+"sha": "9d8459930d183084017752d4b025a2e623366738",
+"time": "2026-10-30T16:54:53Z",
+"message": "Decompiling MapObjectUnkSWCR (#173)",
+"measures": {
+"matched_code_percent": 10.0851,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3033,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 462816.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6083.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-29T23:25:25Z",
+"units_time": "2026-10-30T16:54:53Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -6150,7 +6188,7 @@
 [
 "src/063_Shrine/MapObject/MapObjectUnkWLMS",
 3684,
-36.07,
+86.59,
 0,
 []
 ],
@@ -6178,7 +6216,7 @@
 [
 "src/063_Shrine/MapObject/MapObjectUnkSWCR",
 3432,
-8.43,
+94.59,
 0,
 []
 ],
