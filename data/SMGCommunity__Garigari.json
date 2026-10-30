@@ -14615,6 +14615,117 @@
 }
 },
 {
+"sha": "786923d3c63735a94082467f243fb673a17954db",
+"time": "2026-10-29T20:35:22Z",
+"message": "Cactus, Foomin, and SupportTicoStop (#25)",
+"measures": {
+"matched_code_percent": 19.1715,
+"complete_code_percent": 2.0018,
+"matched_data_percent": 9.76,
+"complete_data_percent": 1.5348,
+"total_code": 6269260.0,
+"matched_code": 1201912.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 7907.0,
+"total_units": 2648.0,
+"complete_units": 131.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.6496,
+"complete_code_percent": 0.645,
+"matched_data_percent": 1.9731,
+"complete_data_percent": 0.8206,
+"total_code": 4870060.0,
+"matched_code": 226436.0,
+"total_data": 703860.0,
+"total_functions": 42870.0,
+"matched_functions": 2432.0,
+"total_units": 1725.0,
+"complete_units": 29.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
 "sha": "2c4126f8ca260a481447bd8fc0f40e143caae929",
 "time": "2026-10-29T21:40:56Z",
 "message": "MiiFaceRecipe is 77% matching (#24)",
@@ -14866,6 +14977,117 @@
 "matched_functions": 2607.0,
 "total_units": 1725.0,
 "complete_units": 30.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "fed14cb9773c28c3047a6d17ab9ef04d29df4634",
+"time": "2026-10-29T23:10:26Z",
+"message": "StationedFileInfo 100% (#39)",
+"measures": {
+"matched_code_percent": 19.3712,
+"complete_code_percent": 2.0058,
+"matched_data_percent": 10.4752,
+"complete_data_percent": 2.2495,
+"total_code": 6269260.0,
+"matched_code": 1214432.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 8083.0,
+"total_units": 2647.0,
+"complete_units": 133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.9066,
+"complete_code_percent": 0.6502,
+"matched_data_percent": 3.6574,
+"complete_data_percent": 2.5179,
+"total_code": 4870060.0,
+"matched_code": 238956.0,
+"total_data": 712644.0,
+"total_functions": 42870.0,
+"matched_functions": 2608.0,
+"total_units": 1725.0,
+"complete_units": 31.0
 },
 "jsys": {
 "matched_code_percent": 85.8889,
@@ -15279,6 +15501,117 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "ca34e82d741b7db3a82f89e15c2410c87de4dcbb",
+"time": "2026-10-30T09:33:11Z",
+"message": "two tiny MapObj files",
+"measures": {
+"matched_code_percent": 19.3965,
+"complete_code_percent": 2.0058,
+"matched_data_percent": 10.4935,
+"complete_data_percent": 2.2497,
+"total_code": 6269260.0,
+"matched_code": 1216020.0,
+"total_data": 1702616.0,
+"total_functions": 50352.0,
+"matched_functions": 8094.0,
+"total_units": 2637.0,
+"complete_units": 133.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 4.9235,
+"complete_code_percent": 0.6481,
+"matched_data_percent": 3.6865,
+"complete_data_percent": 2.5085,
+"total_code": 4885648.0,
+"matched_code": 240544.0,
+"total_data": 715480.0,
+"total_functions": 42998.0,
+"matched_functions": 2619.0,
+"total_units": 1738.0,
+"complete_units": 31.0
+},
+"jsys": {
+"matched_code_percent": 85.8889,
+"complete_code_percent": 0.3175,
+"matched_data_percent": 5.664,
+"complete_data_percent": 0.0,
+"total_code": 361616.0,
+"matched_code": 310588.0,
+"total_data": 180296.0,
+"total_functions": 2952.0,
+"matched_functions": 2647.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -15292,7 +15625,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-10-30T05:48:30Z",
+"units_time": "2026-10-30T09:33:11Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -25949,7 +26282,7 @@
 [
 "main/Game/MapObj/VsOtaRockTankIcePlanetFence",
 220,
-0.0,
+100.0,
 0,
 [
 "game"
@@ -26019,7 +26352,7 @@
 [
 "main/Game/MapObj/WhiteSnowTree",
 228,
-0.0,
+100.0,
 0,
 [
 "game"
