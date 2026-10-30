@@ -5486,6 +5486,65 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "567811c8556b8bdca084a86d58f9523a0ab217b9",
+"time": "2026-10-29T23:41:03Z",
+"message": "ConsoleStr non-JP versions closer",
+"measures": {
+"matched_code_percent": 49.7415,
+"complete_code_percent": 17.719,
+"matched_data_percent": 75.3196,
+"complete_data_percent": 18.7789,
+"total_code": 3603696.0,
+"matched_code": 1792532.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10155.0,
+"total_units": 732.0,
+"complete_units": 393.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 39.104,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.7206,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1113548.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6356.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5495,7 +5554,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-29T21:01:12Z",
+"units_time": "2026-10-29T23:41:03Z",
 "units": [
 [
 "mario/main",
@@ -6859,7 +6918,7 @@
 [
 "mario/GC2D/ConsoleStr",
 11012,
-96.76,
+97.73,
 0,
 [
 "game"
@@ -8596,7 +8655,7 @@
 [
 "mario/System/MarDirectorDirect",
 11188,
-98.83,
+98.84,
 0,
 [
 "game"

@@ -759,12 +759,31 @@
 "complete_units": 223.0
 },
 "categories": {}
+},
+{
+"sha": "09b732a9c6f2235cfdfe484945cb43258d05f5f4",
+"time": "2026-10-29T23:25:25Z",
+"message": "Address FX todos (#179)",
+"measures": {
+"matched_code_percent": 10.0053,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3068,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 459156.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6052.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-29T19:08:07Z",
+"units_time": "2026-10-29T23:25:25Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -1994,7 +2013,7 @@
 [
 "src/017_CourseExec/UnkStruct_027e0ce0_30_017",
 1732,
-97.47,
+97.54,
 0,
 []
 ],
@@ -2106,7 +2125,7 @@
 [
 "src/017_CourseExec/UnkStackStruct_ov017_020c1104_017",
 1884,
-68.57,
+69.0,
 0,
 []
 ],
@@ -6054,7 +6073,7 @@
 [
 "src/063_Shrine/Actor/ActorLobarrier",
 11464,
-92.65,
+96.51,
 0,
 []
 ],
