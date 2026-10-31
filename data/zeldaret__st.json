@@ -816,12 +816,50 @@
 "complete_units": 223.0
 },
 "categories": {}
+},
+{
+"sha": "f36fa92f830ef133b3bfba84d80adc42a769f604",
+"time": "2026-10-30T22:39:13Z",
+"message": "Decompiling ActorUnkKOTA (start of ov094) (#177)",
+"measures": {
+"matched_code_percent": 10.1191,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3033,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 464376.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6094.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
+},
+{
+"sha": "2b90386e97a8004ad1b230b873f2842064b52ca5",
+"time": "2026-10-30T23:02:10Z",
+"message": "Run `ninja format` (#181)",
+"measures": {
+"matched_code_percent": 10.1191,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3033,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 464376.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6094.0,
+"total_units": 1282.0,
+"complete_units": 223.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-30T16:54:53Z",
+"units_time": "2026-10-30T23:02:10Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -8631,7 +8669,7 @@
 [
 "src/094_Land2/Actor/ActorUnkKOTA",
 2752,
-7.44,
+98.41,
 0,
 []
 ],
