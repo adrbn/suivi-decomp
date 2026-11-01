@@ -5781,6 +5781,124 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "d9521bbb35a7e1e7d3d7be491cece13dd43db73d",
+"time": "2026-11-01T14:09:52Z",
+"message": "TVec3 but no UB (#382)",
+"measures": {
+"matched_code_percent": 49.8386,
+"complete_code_percent": 17.719,
+"matched_data_percent": 75.3196,
+"complete_data_percent": 18.7789,
+"total_code": 3603696.0,
+"matched_code": 1796032.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10163.0,
+"total_units": 732.0,
+"complete_units": 393.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 39.2269,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.7206,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1117048.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6364.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
+},
+{
+"sha": "8052d8a2230c707bf463e0f37d5ac1b30bb5b35c",
+"time": "2026-11-01T14:10:08Z",
+"message": "Bathtubpeach (#380)",
+"measures": {
+"matched_code_percent": 49.9174,
+"complete_code_percent": 17.719,
+"matched_data_percent": 75.5111,
+"complete_data_percent": 18.7789,
+"total_code": 3603696.0,
+"matched_code": 1798872.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10183.0,
+"total_units": 732.0,
+"complete_units": 393.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 39.3266,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.9405,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1119888.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6384.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 95.0866,
+"complete_code_percent": 91.8576,
+"matched_data_percent": 100.0,
+"complete_data_percent": 88.3492,
+"total_code": 251720.0,
+"matched_code": 239352.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1005.0,
+"total_units": 149.0,
+"complete_units": 141.0
+}
+}
 }
 ],
 "branch": "main",
@@ -5790,7 +5908,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-31T19:04:37Z",
+"units_time": "2026-11-01T14:10:08Z",
 "units": [
 [
 "mario/main",
@@ -6074,7 +6192,7 @@
 [
 "mario/Camera/cameralib",
 6376,
-85.64,
+85.9,
 0,
 [
 "game"
@@ -6299,7 +6417,7 @@
 [
 "mario/Enemy/enemy",
 11600,
-99.1,
+99.45,
 0,
 [
 "game"
@@ -6308,7 +6426,7 @@
 [
 "mario/Enemy/enemyAttachment",
 3720,
-99.05,
+99.25,
 0,
 [
 "game"
@@ -6452,7 +6570,7 @@
 [
 "mario/Enemy/walker",
 4152,
-98.5,
+99.64,
 0,
 [
 "game"
@@ -6569,7 +6687,7 @@
 [
 "mario/Enemy/chuuhana",
 21056,
-94.83,
+94.82,
 0,
 [
 "game"
@@ -6587,7 +6705,7 @@
 [
 "mario/Enemy/poihana",
 13244,
-99.45,
+99.46,
 0,
 [
 "game"
@@ -6650,7 +6768,7 @@
 [
 "mario/Enemy/killer",
 13416,
-99.65,
+99.66,
 0,
 [
 "game"
@@ -6713,7 +6831,7 @@
 [
 "mario/Enemy/BossHanachanSub",
 3124,
-93.46,
+93.56,
 0,
 [
 "game"
@@ -6839,7 +6957,7 @@
 [
 "mario/Enemy/hauntLeg",
 5704,
-99.12,
+99.11,
 0,
 [
 "game"
@@ -6902,7 +7020,7 @@
 [
 "mario/Enemy/wireBinder",
 1712,
-99.74,
+99.76,
 0,
 [
 "game"
@@ -6956,7 +7074,7 @@
 [
 "mario/Enemy/Amenbo",
 10200,
-98.98,
+98.97,
 0,
 [
 "game"
@@ -6965,7 +7083,7 @@
 [
 "mario/Enemy/BathtubPeach",
 4164,
-0.0,
+98.64,
 0,
 [
 "game"
@@ -6983,7 +7101,7 @@
 [
 "mario/Enemy/coasterkiller",
 7900,
-98.26,
+98.25,
 0,
 [
 "game"
@@ -7181,7 +7299,7 @@
 [
 "mario/GC2D/SelectShine2",
 5768,
-96.39,
+96.84,
 0,
 [
 "game"
@@ -7793,7 +7911,7 @@
 [
 "mario/MoveBG/MapObjPlane",
 5924,
-89.87,
+99.03,
 0,
 [
 "game"
@@ -8000,7 +8118,7 @@
 [
 "mario/NPC/NpcCallback",
 1312,
-95.34,
+96.49,
 0,
 [
 "game"
@@ -8171,7 +8289,7 @@
 [
 "mario/NPC/NpcWalkTurn",
 2164,
-95.55,
+99.63,
 0,
 [
 "game"
@@ -8189,7 +8307,7 @@
 [
 "mario/Strategic/liveactor",
 6480,
-99.95,
+99.94,
 0,
 [
 "game"
@@ -8603,7 +8721,7 @@
 [
 "mario/Player/MarioCollision",
 5976,
-97.14,
+99.42,
 0,
 [
 "game"
@@ -8648,7 +8766,7 @@
 [
 "mario/Player/MarioPhysics",
 6932,
-99.6,
+99.59,
 0,
 [
 "game"
@@ -8675,7 +8793,7 @@
 [
 "mario/Player/MarioSpecial",
 21060,
-89.97,
+90.96,
 0,
 [
 "game"
@@ -8720,7 +8838,7 @@
 [
 "mario/Player/Tongue",
 6304,
-95.63,
+96.57,
 0,
 [
 "game"
@@ -8819,7 +8937,7 @@
 [
 "mario/Player/MarioSound",
 9324,
-98.68,
+98.69,
 0,
 [
 "game"
@@ -8846,7 +8964,7 @@
 [
 "mario/System/EventWatcher",
 42064,
-98.2,
+98.41,
 0,
 [
 "game"
