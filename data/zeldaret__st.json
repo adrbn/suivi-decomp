@@ -854,12 +854,31 @@
 "complete_units": 223.0
 },
 "categories": {}
+},
+{
+"sha": "959043d7d3dd86c3db58a3fecb34f5e0d2b763fc",
+"time": "2026-11-01T01:34:34Z",
+"message": "Decompile `ActorUnkVCFT` (#182)",
+"measures": {
+"matched_code_percent": 10.3735,
+"complete_code_percent": 5.6903,
+"matched_data_percent": 31.3336,
+"complete_data_percent": 7.0018,
+"total_code": 4589122.0,
+"matched_code": 476052.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6118.0,
+"total_units": 1283.0,
+"complete_units": 223.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-10-30T23:02:10Z",
+"units_time": "2026-11-01T01:34:34Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -5484,7 +5503,7 @@
 [
 "src/058_Field/Actor/ActorKenzo",
 3404,
-98.74,
+99.31,
 0,
 []
 ],
@@ -6436,7 +6455,7 @@
 [
 "src/066_FldWater/Actor/ActorUnkVCFT",
 11544,
-1.81,
+100.0,
 0,
 []
 ],
@@ -6497,7 +6516,7 @@
 []
 ],
 [
-"_dsd_gap@ov066_0",
+"_dsd_gap@ov066_2",
 128,
 0.0,
 0,
