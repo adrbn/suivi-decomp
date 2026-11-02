@@ -2447,6 +2447,222 @@
 "complete_units": 21.0
 }
 }
+},
+{
+"sha": "c0fb1e78675f6b3d1bb7ed71259966a7a23a6654",
+"time": "2026-11-02T10:58:44Z",
+"message": "nw4r/ut: import ut from ogws and link it (#38)",
+"measures": {
+"matched_code_percent": 22.3976,
+"complete_code_percent": 2.9255,
+"matched_data_percent": 0.5785,
+"complete_data_percent": 0.2651,
+"total_code": 4045240.0,
+"matched_code": 906036.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6626.0,
+"total_units": 806.0,
+"complete_units": 75.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2532,
+"complete_code_percent": 7.7223,
+"matched_data_percent": 98.9628,
+"complete_data_percent": 24.8322,
+"total_code": 375796.0,
+"matched_code": 316620.0,
+"total_data": 6556.0,
+"total_functions": 1547.0,
+"matched_functions": 1343.0,
+"total_units": 176.0,
+"complete_units": 21.0
+},
+"unsorted": {
+"matched_code_percent": 9.0788,
+"complete_code_percent": 0.5037,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3177352.0,
+"matched_code": 288464.0,
+"total_data": 4840.0,
+"total_functions": 10271.0,
+"matched_functions": 3723.0,
+"total_units": 251.0,
+"complete_units": 21.0
+}
+}
+},
+{
+"sha": "c2fa2600888e31e5b72ea91cc8fd9aa83bc0aa7e",
+"time": "2026-11-02T11:03:59Z",
+"message": "nw4r/math: import math_triangular from ogws and link it (#39)",
+"measures": {
+"matched_code_percent": 22.413,
+"complete_code_percent": 2.9409,
+"matched_data_percent": 0.7551,
+"complete_data_percent": 0.4417,
+"total_code": 4045240.0,
+"matched_code": 906660.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6629.0,
+"total_units": 810.0,
+"complete_units": 76.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2793,
+"complete_code_percent": 7.8752,
+"matched_data_percent": 99.3798,
+"complete_data_percent": 55.0529,
+"total_code": 376420.0,
+"matched_code": 317244.0,
+"total_data": 10964.0,
+"total_functions": 1550.0,
+"matched_functions": 1346.0,
+"total_units": 177.0,
+"complete_units": 22.0
+},
+"unsorted": {
+"matched_code_percent": 9.0805,
+"complete_code_percent": 0.5038,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3176728.0,
+"matched_code": 288464.0,
+"total_data": 4840.0,
+"total_functions": 10268.0,
+"matched_functions": 3723.0,
+"total_units": 252.0,
+"complete_units": 21.0
+}
+}
+},
+{
+"sha": "20b4d71a453fc99979624db2fb395dd00c52318f",
+"time": "2026-11-02T14:53:50Z",
+"message": "tools: check function order across same-named sections in section index order (#36)",
+"measures": {
+"matched_code_percent": 22.413,
+"complete_code_percent": 2.9409,
+"matched_data_percent": 0.7551,
+"complete_data_percent": 0.4417,
+"total_code": 4045240.0,
+"matched_code": 906660.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6629.0,
+"total_units": 810.0,
+"complete_units": 76.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2793,
+"complete_code_percent": 7.8752,
+"matched_data_percent": 99.3798,
+"complete_data_percent": 55.0529,
+"total_code": 376420.0,
+"matched_code": 317244.0,
+"total_data": 10964.0,
+"total_functions": 1550.0,
+"matched_functions": 1346.0,
+"total_units": 177.0,
+"complete_units": 22.0
+},
+"unsorted": {
+"matched_code_percent": 9.0805,
+"complete_code_percent": 0.5038,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3176728.0,
+"matched_code": 288464.0,
+"total_data": 4840.0,
+"total_functions": 10268.0,
+"matched_functions": 3723.0,
+"total_units": 252.0,
+"complete_units": 21.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2457,7 +2673,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-10-29T14:48:54Z",
+"units_time": "2026-11-02T14:53:50Z",
 "units": [
 [
 "main/src/main",
@@ -7129,47 +7345,146 @@
 ],
 [
 "main/src/.unsorted/8031C124",
-291820,
-0.17,
+288948,
+0.15,
 0,
 [
 "unsorted"
 ]
 ],
 [
-"main/src/.unsorted/80363510",
+"main/libs/nw4r/src/ut/ut_list",
+352,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_LinkList",
+364,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_binaryFileFormat",
+116,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_CharStrmReader",
+272,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_TagProcessorBase",
+1744,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_IOStream",
+24,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_FileStream",
 264,
-4.55,
-0,
+100.0,
+1,
 [
-"unsorted"
+"sdk"
 ]
 ],
 [
-"main/src/.unsorted/80363618",
+"main/libs/nw4r/src/ut/ut_DvdFileStream",
 1560,
-6.67,
-0,
+100.0,
+1,
 [
-"unsorted"
+"sdk"
 ]
 ],
 [
-"main/src/.unsorted/80363C30",
+"main/libs/nw4r/src/ut/ut_DvdLockedFileStream",
 596,
-5.37,
-0,
+100.0,
+1,
 [
-"unsorted"
+"sdk"
 ]
 ],
 [
-"main/src/.unsorted/80363E84",
-16680,
-0.41,
-0,
+"main/libs/nw4r/src/ut/ut_Font",
+168,
+100.0,
+1,
 [
-"unsorted"
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_RomFont",
+64,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_ResFontBase",
+1488,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_ResFont",
+772,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_CharWriter",
+5928,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/ut/ut_TextWriterBase",
+8260,
+100.0,
+1,
+[
+"sdk"
 ]
 ],
 [
@@ -7219,8 +7534,26 @@
 ],
 [
 "main/src/.unsorted/803839A4",
-9340,
-1.16,
+4920,
+0.81,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/math/math_triangular",
+624,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/80384F4C",
+3796,
+1.79,
 0,
 [
 "unsorted"

@@ -6076,6 +6076,183 @@
 "complete_units": 141.0
 }
 }
+},
+{
+"sha": "fbfd41152527b55021d2bd257f9204eb812503ed",
+"time": "2026-11-02T11:25:14Z",
+"message": "Use member functions for operator overloads in TVec3 (#383)",
+"measures": {
+"matched_code_percent": 50.507,
+"complete_code_percent": 18.1717,
+"matched_data_percent": 75.5111,
+"complete_data_percent": 19.2781,
+"total_code": 3603696.0,
+"matched_code": 1820120.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10225.0,
+"total_units": 732.0,
+"complete_units": 398.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 39.7373,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.9405,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1131584.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6419.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.8813,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 248904.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1012.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
+"sha": "84e8af33251be03e8fed69b8c07f3828b969e1c8",
+"time": "2026-11-02T19:22:07Z",
+"message": "Match more things across ROM variants (#385)",
+"measures": {
+"matched_code_percent": 50.9081,
+"complete_code_percent": 18.5887,
+"matched_data_percent": 77.1134,
+"complete_data_percent": 20.2827,
+"total_code": 3603696.0,
+"matched_code": 1834572.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10232.0,
+"total_units": 732.0,
+"complete_units": 401.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.2448,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 75.7804,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1146036.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6426.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.8813,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 248904.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1012.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
+"sha": "eaf1091872b63ad5028df8fa048061c79e4c840e",
+"time": "2026-11-02T20:02:48Z",
+"message": "Remove fake TVec3 copy ctor (#386)",
+"measures": {
+"matched_code_percent": 50.9517,
+"complete_code_percent": 18.5887,
+"matched_data_percent": 77.1134,
+"complete_data_percent": 20.2827,
+"total_code": 3603696.0,
+"matched_code": 1836144.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10234.0,
+"total_units": 732.0,
+"complete_units": 401.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.3,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 75.7804,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1147608.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6428.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.8813,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 248904.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1012.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
 }
 ],
 "branch": "main",
@@ -6085,7 +6262,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-01T23:19:55Z",
+"units_time": "2026-11-02T20:02:48Z",
 "units": [
 [
 "mario/main",
@@ -6099,7 +6276,7 @@
 [
 "mario/Animal/boid",
 5364,
-98.05,
+99.38,
 0,
 [
 "game"
@@ -7116,7 +7293,7 @@
 [
 "mario/Enemy/bgtentacle",
 22684,
-97.92,
+98.03,
 0,
 [
 "game"
@@ -7719,7 +7896,7 @@
 [
 "mario/Map/MapStaticObject",
 5104,
-94.26,
+99.34,
 0,
 [
 "game"
@@ -8025,7 +8202,7 @@
 [
 "mario/MoveBG/MapObjMamma",
 20480,
-98.47,
+99.24,
 0,
 [
 "game"
@@ -8295,7 +8472,7 @@
 [
 "mario/NPC/NpcCallback",
 1312,
-96.49,
+97.16,
 0,
 [
 "game"
@@ -8646,7 +8823,7 @@
 [
 "mario/MarioUtil/MtxUtil",
 8224,
-96.37,
+97.49,
 0,
 [
 "game"
@@ -8871,7 +9048,7 @@
 [
 "mario/Player/MarioAutodemo",
 6696,
-99.49,
+99.7,
 0,
 [
 "game"
@@ -9015,7 +9192,7 @@
 [
 "mario/Player/Tongue",
 6304,
-96.57,
+97.21,
 0,
 [
 "game"
@@ -9078,7 +9255,7 @@
 [
 "mario/Player/ModelWaterManager",
 20448,
-97.91,
+98.27,
 0,
 [
 "game"
@@ -9232,7 +9409,7 @@
 "mario/System/marerr",
 284,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -9393,8 +9570,8 @@
 [
 "mario/System/ProcessMeter",
 64,
-99.94,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -9429,7 +9606,7 @@
 [
 "mario/System/MarNameRefGen_BossEnemy",
 3456,
-59.97,
+63.21,
 0,
 [
 "game"
@@ -9438,7 +9615,7 @@
 [
 "mario/System/MarNameRefGen_Enemy",
 8832,
-95.05,
+97.84,
 0,
 [
 "game"
@@ -9456,8 +9633,8 @@
 [
 "mario/System/MarNameRefGen_MapObj",
 14680,
-99.42,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -9915,7 +10092,7 @@
 [
 "mario/JSystem/J3D/J3DGraphAnimator/J3DModel",
 10912,
-99.97,
+99.99,
 0,
 [
 "jsystem"
@@ -11706,8 +11883,8 @@
 [
 "mario/TRK_MINNOW_DOLPHIN/__exception",
 7936,
-99.98,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -11715,8 +11892,8 @@
 [
 "mario/TRK_MINNOW_DOLPHIN/debugger/embedded/MetroTRK/Os/dolphin/dolphin_trk",
 608,
-99.99,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -11778,8 +11955,8 @@
 [
 "mario/dolphin/os/OS",
 2396,
-99.99,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -11959,7 +12136,7 @@
 "mario/dolphin/os/OSThread",
 4776,
 100.0,
-0,
+1,
 [
 "sdk"
 ]
@@ -11976,8 +12153,8 @@
 [
 "mario/dolphin/os/__start",
 596,
-67.78,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
