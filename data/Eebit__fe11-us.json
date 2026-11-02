@@ -208,12 +208,31 @@
 "complete_units": 2.0
 },
 "categories": {}
+},
+{
+"sha": "be854842fb6f59e964f104e03f10fd0fb99891f5",
+"time": "2026-11-02T06:10:34Z",
+"message": "Merge pull request #69 from Eebit/sjiswrap",
+"measures": {
+"matched_code_percent": 7.3336,
+"complete_code_percent": 0.3411,
+"matched_data_percent": 0.6653,
+"complete_data_percent": 0.0,
+"total_code": 1808272.0,
+"matched_code": 132612.0,
+"total_data": 1139312.0,
+"total_functions": 12330.0,
+"matched_functions": 1600.0,
+"total_units": 97.0,
+"complete_units": 2.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "YFEE01_report",
 "category_names": {},
-"units_time": "2026-09-08T02:01:03Z",
+"units_time": "2026-11-02T06:10:34Z",
 "units": [
 [
 "_dsd_gap@main_37",
@@ -400,7 +419,7 @@
 [
 "src/database",
 2372,
-96.5,
+97.29,
 0,
 []
 ],
@@ -435,7 +454,7 @@
 [
 "src/map_sprite",
 6364,
-96.39,
+96.35,
 0,
 []
 ],
@@ -512,7 +531,7 @@
 [
 "src/ov000/map_state",
 9884,
-97.65,
+97.63,
 0,
 []
 ],
