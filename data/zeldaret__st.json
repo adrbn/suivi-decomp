@@ -873,12 +873,31 @@
 "complete_units": 223.0
 },
 "categories": {}
+},
+{
+"sha": "2dc3e72dcbf851e2129e751dd904364a2930e466",
+"time": "2026-11-02T22:39:55Z",
+"message": "Match actors 7 (#183)",
+"measures": {
+"matched_code_percent": 10.479,
+"complete_code_percent": 6.0823,
+"matched_data_percent": 31.4233,
+"complete_data_percent": 7.2196,
+"total_code": 4589122.0,
+"matched_code": 480896.0,
+"total_data": 1346588.0,
+"total_functions": 32532.0,
+"matched_functions": 6133.0,
+"total_units": 1281.0,
+"complete_units": 228.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-11-01T01:34:34Z",
+"units_time": "2026-11-02T22:39:55Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -4250,7 +4269,7 @@
 [
 "src/032_MapA1/MapObject/MapObjectUnkSWSW",
 4240,
-94.72,
+95.12,
 0,
 []
 ],
@@ -6168,15 +6187,15 @@
 [
 "src/063_Shrine/Actor/ActorLobarrier",
 11464,
-96.51,
-0,
+100.0,
+1,
 []
 ],
 [
 "src/063_Shrine/Actor/ActorLobarrierShield",
 4248,
-98.13,
-0,
+100.0,
+1,
 []
 ],
 [
@@ -6190,14 +6209,14 @@
 "src/063_Shrine/Actor/ActorUnkRMSV",
 948,
 100.0,
-0,
+1,
 []
 ],
 [
 "src/063_Shrine/Actor/ActorUnkRMSW",
 664,
 100.0,
-0,
+1,
 []
 ],
 [
@@ -6211,7 +6230,7 @@
 "src/063_Shrine/Actor/ActorUnkRMSD",
 664,
 100.0,
-0,
+1,
 []
 ],
 [
@@ -6222,7 +6241,7 @@
 []
 ],
 [
-"_dsd_gap@ov063_1",
+"_dsd_gap@ov063_0",
 11576,
 0.0,
 0,
@@ -6250,7 +6269,7 @@
 []
 ],
 [
-"_dsd_gap@ov063_6",
+"_dsd_gap@ov063_5",
 112,
 0.0,
 0,
@@ -6278,7 +6297,7 @@
 []
 ],
 [
-"_dsd_gap@ov063_8",
+"_dsd_gap@ov063_7",
 988,
 0.0,
 0,
