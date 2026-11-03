@@ -6430,6 +6430,183 @@
 "complete_units": 146.0
 }
 }
+},
+{
+"sha": "7f7d179e080a284ff355d719c29367cf2caea562",
+"time": "2026-11-03T18:31:25Z",
+"message": "Match expf (#390)",
+"measures": {
+"matched_code_percent": 51.0688,
+"complete_code_percent": 18.5887,
+"matched_data_percent": 77.3399,
+"complete_data_percent": 20.2827,
+"total_code": 3603696.0,
+"matched_code": 1840364.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10263.0,
+"total_units": 732.0,
+"complete_units": 401.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4401,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1151596.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6456.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.9735,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 249136.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1013.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
+"sha": "2158c99ec0de5f0b0d9a1a9b99b0c0032a7681c8",
+"time": "2026-11-03T18:38:14Z",
+"message": "Match JAIGlobalParameter (#389)",
+"measures": {
+"matched_code_percent": 51.0727,
+"complete_code_percent": 18.5989,
+"matched_data_percent": 77.3399,
+"complete_data_percent": 20.3288,
+"total_code": 3603696.0,
+"matched_code": 1840504.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10264.0,
+"total_units": 732.0,
+"complete_units": 402.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4401,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1151596.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6456.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.2017,
+"complete_code_percent": 61.6851,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 44.1548,
+"total_code": 504316.0,
+"matched_code": 439772.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2795.0,
+"total_units": 198.0,
+"complete_units": 168.0
+},
+"sdk": {
+"matched_code_percent": 98.9735,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 249136.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1013.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
+"sha": "7cdd94b7ce09e95405118981d537170a4f243bf5",
+"time": "2026-11-03T18:38:45Z",
+"message": "Add J3DSysDrawBuf and J3DMaterialMode enums (#388)",
+"measures": {
+"matched_code_percent": 51.0727,
+"complete_code_percent": 18.5989,
+"matched_data_percent": 77.3399,
+"complete_data_percent": 20.3288,
+"total_code": 3603696.0,
+"matched_code": 1840504.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10264.0,
+"total_units": 732.0,
+"complete_units": 402.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4401,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1151596.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6456.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.2017,
+"complete_code_percent": 61.6851,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 44.1548,
+"total_code": 504316.0,
+"matched_code": 439772.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2795.0,
+"total_units": 198.0,
+"complete_units": 168.0
+},
+"sdk": {
+"matched_code_percent": 98.9735,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 249136.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1013.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
 }
 ],
 "branch": "main",
@@ -6439,7 +6616,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-03T00:40:22Z",
+"units_time": "2026-11-03T18:38:45Z",
 "units": [
 [
 "mario/main",
@@ -7596,7 +7773,7 @@
 [
 "mario/Enemy/Kukku",
 10464,
-0.0,
+97.6,
 0,
 [
 "game"
@@ -8064,7 +8241,7 @@
 [
 "mario/Map/MapWarp",
 2712,
-99.68,
+99.66,
 0,
 [
 "game"
@@ -9792,7 +9969,7 @@
 [
 "mario/System/MarNameRefGen_Enemy",
 8832,
-97.84,
+99.08,
 0,
 [
 "game"
@@ -10917,8 +11094,8 @@
 [
 "mario/JSystem/JAudio/JAInterface/JAIGlobalParameter",
 368,
-99.95,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -11907,7 +12084,7 @@
 [
 "mario/PowerPC_EABI_Support/Msl/MSL_C/MSL_Common_Embedded/Math/Single_precision/exponentialsf",
 2088,
-96.12,
+99.97,
 0,
 [
 "sdk"
