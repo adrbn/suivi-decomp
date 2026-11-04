@@ -6784,6 +6784,183 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "61daf3040669e5018093d9b6986fa8494582dd7b",
+"time": "2026-11-04T11:55:06Z",
+"message": "ADPCM filter table more readable",
+"measures": {
+"matched_code_percent": 51.1285,
+"complete_code_percent": 18.6832,
+"matched_data_percent": 77.3399,
+"complete_data_percent": 20.4586,
+"total_code": 3603696.0,
+"matched_code": 1842516.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10266.0,
+"total_units": 732.0,
+"complete_units": 404.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4456,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1151752.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6457.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.2017,
+"complete_code_percent": 61.6851,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 44.1548,
+"total_code": 504316.0,
+"matched_code": 439772.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2795.0,
+"total_units": 198.0,
+"complete_units": 168.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "359c91d537f5ea5439ee8315c9c2e9315c9d68c3",
+"time": "2026-11-04T12:45:51Z",
+"message": "More JSystem matches (#392)",
+"measures": {
+"matched_code_percent": 51.1378,
+"complete_code_percent": 19.1068,
+"matched_data_percent": 79.1232,
+"complete_data_percent": 23.5047,
+"total_code": 3603696.0,
+"matched_code": 1842852.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10268.0,
+"total_units": 732.0,
+"complete_units": 410.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4456,
+"complete_code_percent": 3.9206,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.7412,
+"total_code": 2847660.0,
+"matched_code": 1151752.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6457.0,
+"total_units": 385.0,
+"complete_units": 89.0
+},
+"jsystem": {
+"matched_code_percent": 87.2683,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 440108.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2797.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "86500c3107c7a0427585a1d42c57e068e370ac53",
+"time": "2026-11-04T16:34:34Z",
+"message": "PollutionEvent OK",
+"measures": {
+"matched_code_percent": 51.1378,
+"complete_code_percent": 19.1322,
+"matched_data_percent": 79.1232,
+"complete_data_percent": 23.5403,
+"total_code": 3603696.0,
+"matched_code": 1842852.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10268.0,
+"total_units": 732.0,
+"complete_units": 411.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4456,
+"complete_code_percent": 3.9527,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.782,
+"total_code": 2847660.0,
+"matched_code": 1151752.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6457.0,
+"total_units": 385.0,
+"complete_units": 90.0
+},
+"jsystem": {
+"matched_code_percent": 87.2683,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 440108.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2797.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -6793,7 +6970,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-04T00:54:54Z",
+"units_time": "2026-11-04T16:34:34Z",
 "units": [
 [
 "mario/main",
@@ -7870,7 +8047,7 @@
 "mario/Enemy/BossHanachanSound",
 20,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -8418,7 +8595,7 @@
 [
 "mario/Map/MapWarp",
 2712,
-99.66,
+99.67,
 0,
 [
 "game"
@@ -8545,7 +8722,7 @@
 "mario/Map/PollutionEvent",
 916,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -10453,7 +10630,7 @@
 "mario/JSystem/JUtility/JUTDirectPrint",
 1384,
 100.0,
-0,
+1,
 [
 "jsystem"
 ]
@@ -10686,8 +10863,8 @@
 [
 "mario/JSystem/J3D/J3DGraphLoader/J3DMaterialFactory",
 7348,
-99.99,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -11641,7 +11818,7 @@
 "mario/JSystem/JAudio/JASystem/JASPlayer_impl",
 292,
 100.0,
-0,
+1,
 [
 "jsystem"
 ]
@@ -11712,8 +11889,8 @@
 [
 "mario/JSystem/J3D/J3DGraphLoader/J3DMaterialFactory_v21",
 5560,
-99.99,
-0,
+100.0,
+1,
 [
 "jsystem"
 ]
@@ -11947,7 +12124,7 @@
 "mario/JSystem/dsptask",
 664,
 100.0,
-0,
+1,
 [
 "jsystem"
 ]

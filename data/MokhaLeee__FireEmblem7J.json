@@ -265,12 +265,31 @@
 "complete_units": 0.0
 },
 "categories": {}
+},
+{
+"sha": "8649d1fed3b1a63a1451542b6a065dedbd53248f",
+"time": "2026-11-04T09:13:27Z",
+"message": "Merge pull request #67 from kagnusdev/fix-ci",
+"measures": {
+"matched_code_percent": 19.0141,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 788364.0,
+"matched_code": 149900.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "jp_report",
 "category_names": {},
-"units_time": "2026-10-27T01:34:04Z",
+"units_time": "2026-11-04T09:13:27Z",
 "units": [],
 "workflow": 59083474
 }
