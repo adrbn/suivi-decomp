@@ -6078,6 +6078,65 @@
 }
 },
 {
+"sha": "f8a13659140ea30be87ebaa630c70380a71d759f",
+"time": "2026-11-02T11:23:49Z",
+"message": "ROM matching improvements (#384)",
+"measures": {
+"matched_code_percent": 50.507,
+"complete_code_percent": 18.1717,
+"matched_data_percent": 75.5111,
+"complete_data_percent": 19.2781,
+"total_code": 3603696.0,
+"matched_code": 1820120.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10225.0,
+"total_units": 732.0,
+"complete_units": 398.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 39.7373,
+"complete_code_percent": 3.3921,
+"matched_data_percent": 73.9405,
+"complete_data_percent": 12.3297,
+"total_code": 2847660.0,
+"matched_code": 1131584.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6419.0,
+"total_units": 385.0,
+"complete_units": 85.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.8813,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 248904.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1012.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
 "sha": "fbfd41152527b55021d2bd257f9204eb812503ed",
 "time": "2026-11-02T11:25:14Z",
 "message": "Use member functions for operator overloads in TVec3 (#383)",
@@ -6376,6 +6435,65 @@
 "sha": "5c303605d5dead950f2518e1474eca02ff4e0df2",
 "time": "2026-11-03T00:40:22Z",
 "message": "MapWarp naming",
+"measures": {
+"matched_code_percent": 50.9788,
+"complete_code_percent": 18.5887,
+"matched_data_percent": 77.1134,
+"complete_data_percent": 20.2827,
+"total_code": 3603696.0,
+"matched_code": 1837120.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10238.0,
+"total_units": 732.0,
+"complete_units": 401.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.3343,
+"complete_code_percent": 3.9198,
+"matched_data_percent": 75.7804,
+"complete_data_percent": 13.4833,
+"total_code": 2847660.0,
+"matched_code": 1148584.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6432.0,
+"total_units": 385.0,
+"complete_units": 88.0
+},
+"jsystem": {
+"matched_code_percent": 87.1739,
+"complete_code_percent": 61.6122,
+"matched_data_percent": 76.1209,
+"complete_data_percent": 43.5403,
+"total_code": 504316.0,
+"matched_code": 439632.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2794.0,
+"total_units": 198.0,
+"complete_units": 167.0
+},
+"sdk": {
+"matched_code_percent": 98.8813,
+"complete_code_percent": 98.3378,
+"matched_data_percent": 100.0,
+"complete_data_percent": 97.5959,
+"total_code": 251720.0,
+"matched_code": 248904.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1012.0,
+"total_units": 149.0,
+"complete_units": 146.0
+}
+}
+},
+{
+"sha": "0153ca2152fcbd7582b11a70072db77b0f50e997",
+"time": "2026-11-03T10:04:05Z",
+"message": "MapObjLib cleanup",
 "measures": {
 "matched_code_percent": 50.9788,
 "complete_code_percent": 18.5887,
@@ -6961,6 +7079,65 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "f9d3d7a7ebae38d59f07ec85b780c0bc7f85ef38",
+"time": "2026-11-04T23:34:24Z",
+"message": "MapEvent naming",
+"measures": {
+"matched_code_percent": 51.1378,
+"complete_code_percent": 19.1322,
+"matched_data_percent": 79.1232,
+"complete_data_percent": 23.5403,
+"total_code": 3603696.0,
+"matched_code": 1842852.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10268.0,
+"total_units": 732.0,
+"complete_units": 411.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4456,
+"complete_code_percent": 3.9527,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.782,
+"total_code": 2847660.0,
+"matched_code": 1151752.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6457.0,
+"total_units": 385.0,
+"complete_units": 90.0
+},
+"jsystem": {
+"matched_code_percent": 87.2683,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 440108.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2797.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -6970,7 +7147,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-04T16:34:34Z",
+"units_time": "2026-11-04T23:34:24Z",
 "units": [
 [
 "mario/main",

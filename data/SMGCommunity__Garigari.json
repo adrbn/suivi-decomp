@@ -19941,6 +19941,339 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "25dfe41a4d2c750498c30dcf7a5d61eb43feec37",
+"time": "2026-11-05T00:29:46Z",
+"message": "Retype `get...Ctrl`",
+"measures": {
+"matched_code_percent": 19.6861,
+"complete_code_percent": 2.4015,
+"matched_data_percent": 11.0209,
+"complete_data_percent": 2.3533,
+"total_code": 6269260.0,
+"matched_code": 1234172.0,
+"total_data": 1702616.0,
+"total_functions": 50350.0,
+"matched_functions": 8283.0,
+"total_units": 2504.0,
+"complete_units": 154.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.217,
+"complete_code_percent": 1.1407,
+"matched_data_percent": 3.9628,
+"complete_data_percent": 2.7225,
+"total_code": 4950552.0,
+"matched_code": 258268.0,
+"total_data": 724036.0,
+"total_functions": 43686.0,
+"matched_functions": 2801.0,
+"total_units": 1769.0,
+"complete_units": 52.0
+},
+"jsys": {
+"matched_code_percent": 86.2104,
+"complete_code_percent": 0.3182,
+"matched_data_percent": 9.3679,
+"complete_data_percent": 0.0,
+"total_code": 360764.0,
+"matched_code": 311016.0,
+"total_data": 180148.0,
+"total_functions": 2939.0,
+"matched_functions": 2654.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "fc40d9811df6ecf67c96ca57d9d9630a182893bf",
+"time": "2026-11-05T01:27:54Z",
+"message": "Import `FootPrint` from Petari and `DirectDraw` header from Petari and link `ActionFootPrintCtrl`",
+"measures": {
+"matched_code_percent": 19.7142,
+"complete_code_percent": 2.4157,
+"matched_data_percent": 11.0214,
+"complete_data_percent": 2.359,
+"total_code": 6269260.0,
+"matched_code": 1235932.0,
+"total_data": 1702616.0,
+"total_functions": 50350.0,
+"matched_functions": 8300.0,
+"total_units": 2504.0,
+"complete_units": 155.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.2525,
+"complete_code_percent": 1.1587,
+"matched_data_percent": 3.9639,
+"complete_data_percent": 2.7358,
+"total_code": 4950552.0,
+"matched_code": 260028.0,
+"total_data": 724036.0,
+"total_functions": 43686.0,
+"matched_functions": 2818.0,
+"total_units": 1769.0,
+"complete_units": 53.0
+},
+"jsys": {
+"matched_code_percent": 86.2104,
+"complete_code_percent": 0.3182,
+"matched_data_percent": 9.3679,
+"complete_data_percent": 0.0,
+"total_code": 360764.0,
+"matched_code": 311016.0,
+"total_data": 180148.0,
+"total_functions": 2939.0,
+"matched_functions": 2654.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "d969f2ca7f0c296574c53c0c6d6b64efcf86e647",
+"time": "2026-11-05T02:33:57Z",
+"message": "Link and import `ActorPadAndCameraCtrl`",
+"measures": {
+"matched_code_percent": 19.7342,
+"complete_code_percent": 2.4358,
+"matched_data_percent": 11.0214,
+"complete_data_percent": 2.3735,
+"total_code": 6269260.0,
+"matched_code": 1237188.0,
+"total_data": 1702616.0,
+"total_functions": 50350.0,
+"matched_functions": 8306.0,
+"total_units": 2504.0,
+"complete_units": 156.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.2779,
+"complete_code_percent": 1.1841,
+"matched_data_percent": 3.9639,
+"complete_data_percent": 2.77,
+"total_code": 4950552.0,
+"matched_code": 261284.0,
+"total_data": 724036.0,
+"total_functions": 43686.0,
+"matched_functions": 2824.0,
+"total_units": 1769.0,
+"complete_units": 54.0
+},
+"jsys": {
+"matched_code_percent": 86.2104,
+"complete_code_percent": 0.3182,
+"matched_data_percent": 9.3679,
+"complete_data_percent": 0.0,
+"total_code": 360764.0,
+"matched_code": 311016.0,
+"total_data": 180148.0,
+"total_functions": 2939.0,
+"matched_functions": 2654.0,
+"total_units": 168.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -19954,7 +20287,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-11-04T18:37:56Z",
+"units_time": "2026-11-05T02:33:57Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -20139,7 +20472,7 @@
 [
 "main/Game/Util/FootPrint",
 3144,
-0.0,
+82.88,
 0,
 [
 "game"
@@ -20533,11 +20866,13 @@
 ]
 ],
 [
-"main/auto_03_80063510_text",
+"main/Game/Util/BothDirList",
 680,
-0.0,
+99.93,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/CollisionPartsFilter",
@@ -20576,11 +20911,13 @@
 ]
 ],
 [
-"main/auto_03_800662A0_text",
+"main/Game/Util/GeometryBindUtil",
 2964,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Util/IKJoint",
@@ -20637,27 +20974,13 @@
 ]
 ],
 [
-"main/auto_03_800681D0_text",
-428,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Util/PadRecorder",
-240,
+2276,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80068490_text",
-1608,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Util/RumbleCalculator",
@@ -20706,35 +21029,21 @@
 ],
 [
 "main/Game/Animation/AnmPlayer",
-100,
+764,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_800692B0_text",
-664,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Animation/BckCtrl",
-1800,
+1960,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80069CD0_text",
-160,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Animation/BpkPlayer",
@@ -21142,15 +21451,8 @@
 ]
 ],
 [
-"main/auto_03_80076D80_text",
-304,
-0.0,
-0,
-[]
-],
-[
 "main/Game/AreaObj/WarpCube",
-832,
+1136,
 0.0,
 0,
 [
@@ -24542,15 +24844,8 @@
 ]
 ],
 [
-"main/auto_03_801392F0_text",
+"main/Game/Demo/DemoParamCommonData",
 332,
-0.0,
-0,
-[]
-],
-[
-"main/Game/Demo/DemoPlayerKeeper",
-328,
 0.0,
 0,
 [
@@ -24558,11 +24853,13 @@
 ]
 ],
 [
-"main/auto_03_801395D0_text",
-620,
+"main/Game/Demo/DemoPlayerKeeper",
+948,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Demo/DemoPositionController",
@@ -24575,19 +24872,12 @@
 ],
 [
 "main/Game/Demo/DemoSimpleCastHolder",
-416,
+692,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_80139C20_text",
-276,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Demo/DemoSoundKeeper",
@@ -24618,19 +24908,12 @@
 ],
 [
 "main/Game/Demo/DemoSubPartKeeper",
-496,
+764,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_8013B980_text",
-268,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Demo/DemoTalkAnimCtrl",
@@ -24850,23 +25133,16 @@
 ],
 [
 "main/Game/Effect/EffectSystemUtil",
-276,
+3308,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_801493B0_text",
-184,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Effect/MultiEmitter",
-2296,
+4640,
 0.0,
 0,
 [
@@ -24874,15 +25150,17 @@
 ]
 ],
 [
-"main/auto_03_80149E10_text",
-552,
+"main/Game/Effect/MultiEmitterAccess",
+2920,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Effect/MultiEmitterCallBack",
-11080,
+3520,
 0.0,
 0,
 [
@@ -24918,7 +25196,7 @@
 ],
 [
 "main/Game/Effect/ParticleEmitter",
-284,
+168,
 0.0,
 0,
 [
@@ -24926,15 +25204,8 @@
 ]
 ],
 [
-"main/auto_03_8014E100_text",
-244,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Effect/ParticleEmitterHolder",
-820,
+1180,
 0.0,
 0,
 [
@@ -25140,11 +25411,13 @@
 ]
 ],
 [
-"main/auto_03_80162700_text",
+"main/Game/Enemy/BegomanFunction",
 292,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Enemy/BegomanLauncher",
@@ -25444,7 +25717,7 @@
 ]
 ],
 [
-"main/Game/Enemy/HammerBros_UNK1",
+"main/Game/Enemy/HammerBros_UNK0",
 7272,
 0.0,
 0,
@@ -25453,11 +25726,13 @@
 ]
 ],
 [
-"main/auto_03_8018B620_text",
+"main/Game/Enemy/HammerBros_UNK1",
 1920,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Enemy/HammerHeadPackun",
@@ -26560,8 +26835,8 @@
 [
 "main/Game/LiveActor/ActorAnimKeeper",
 2468,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -26569,6 +26844,15 @@
 [
 "main/Game/LiveActor/ActionBgmCtrl",
 1208,
+100.0,
+1,
+[
+"game"
+]
+],
+[
+"main/Game/LiveActor/ActionFlagCtrl",
+2600,
 0.0,
 0,
 [
@@ -26576,17 +26860,19 @@
 ]
 ],
 [
-"main/auto_03_80229200_text",
-3492,
-0.0,
-0,
-[]
+"main/Game/LiveActor/ActionFootPrintCtrl",
+892,
+100.0,
+1,
+[
+"game"
+]
 ],
 [
 "main/Game/LiveActor/ActorPadAndCameraCtrl",
 1256,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -26758,19 +27044,12 @@
 ],
 [
 "main/Game/LiveActor/ClippingActorInfo",
-492,
+968,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_802303B0_text",
-476,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/LiveActor/ClippingDirector",
@@ -27314,19 +27593,12 @@
 ],
 [
 "main/Game/Map/CollisionParts",
-5192,
+6328,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_8024B4A0_text",
-1136,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Map/FileSelectCameraController",
@@ -27536,11 +27808,13 @@
 ]
 ],
 [
-"main/auto_03_8025BCE0_text",
+"main/Game/Map/MAP_UNK1",
 832,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Map/NamePosHolder",
@@ -29218,19 +29492,12 @@
 ],
 [
 "main/Game/MapObj/MarioFaceShipNpcHolder",
-256,
+1224,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_802C8CF0_text",
-968,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/MapObj/MarioFaceShipNormalConversationExecutor",
@@ -29675,7 +29942,7 @@
 ],
 [
 "main/Game/MapObj/RepeatBlock",
-10616,
+10328,
 0.0,
 0,
 [
@@ -29683,11 +29950,13 @@
 ]
 ],
 [
-"main/auto_03_802EEEB0_text",
-260,
+"main/Game/MapObj/RepeatBlock_UNK0",
+548,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/MapObj/RepeatBlock_UNK1",
@@ -30122,11 +30391,13 @@
 ]
 ],
 [
-"main/auto_03_8030FB40_text",
+"main/Game/MapObj/SpinDriverUtil",
 472,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/MapObj/SpinLeverSwitch",
@@ -30138,11 +30409,13 @@
 ]
 ],
 [
-"main/auto_03_803105A0_text",
+"main/Game/MapObj/StageEffectDataHolder",
 1540,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/MapObj/StarLightAreaHolder",
@@ -30766,11 +31039,13 @@
 ]
 ],
 [
-"main/auto_03_80339390_text",
+"main/Game/NameObj/MarinePlantObjFactory",
 464,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/NameObj/MovementOnOffGroupHolder",
@@ -31430,11 +31705,13 @@
 ]
 ],
 [
-"main/auto_03_80365290_text",
+"main/Game/NPC/SupportTicoUtil",
 1736,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/NPC/Tico",
@@ -31626,11 +31903,22 @@
 ]
 ],
 [
-"main/auto_03_803755F0_text",
-3712,
+"main/Game/NPC/NPCParameter",
+2804,
 0.0,
 0,
-[]
+[
+"game"
+]
+],
+[
+"main/Game/NPC/RaceDataReader",
+908,
+0.0,
+0,
+[
+"game"
+]
 ],
 [
 "main/Game/NPC/ScoreAttackCounter",
@@ -32638,7 +32926,7 @@
 ],
 [
 "main/Game/Player/YoshiTongueAction",
-15600,
+15468,
 0.0,
 0,
 [
@@ -32646,11 +32934,13 @@
 ]
 ],
 [
-"main/auto_03_80421DA0_text",
-2892,
+"main/Game/Player/YoshiUtil",
+3024,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/RhythmLib/AudRhythmSeqParser",
@@ -33139,17 +33429,8 @@
 ]
 ],
 [
-"main/Game/Scene/MultiSceneActor",
-3292,
-0.0,
-0,
-[
-"game"
-]
-],
-[
 "main/Game/Scene/ModelWipeScene",
-212,
+3532,
 0.0,
 0,
 [
@@ -33157,27 +33438,22 @@
 ]
 ],
 [
-"main/auto_03_80454D40_text",
-572,
+"main/Game/Scene/MultiSceneActor",
+2592,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/Scene/MultiSceneEffectKeeper",
-184,
+1192,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_804550B0_text",
-3056,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/Scene/PlacementInfoOrdered",
@@ -33261,15 +33537,8 @@
 ]
 ],
 [
-"main/auto_03_8045A9E0_text",
-1020,
-0.0,
-0,
-[]
-],
-[
 "main/Game/Scene/StageDataHolder",
-7584,
+8604,
 0.0,
 0,
 [
@@ -34564,11 +34833,13 @@
 ]
 ],
 [
-"main/auto_03_804AD660_text",
+"main/Game/System/AlreadyDoneInfo",
 1220,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/System/ArchiveHolder",
@@ -34598,15 +34869,8 @@
 ]
 ],
 [
-"main/auto_03_804AEBA0_text",
-548,
-0.0,
-0,
-[]
-],
-[
 "main/Game/System/BinaryDataContentAccessor",
-384,
+932,
 0.0,
 0,
 [
@@ -34902,11 +35166,13 @@
 ]
 ],
 [
-"main/auto_03_804BD040_text",
+"main/Game/System/HomeButtonMenuWrapper",
 376,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/System/Language",
@@ -34972,11 +35238,13 @@
 ]
 ],
 [
-"main/auto_03_804C26B0_text",
+"main/Game/System/UNK_1",
 3120,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/System/NANDErrorSequence",
@@ -34988,15 +35256,8 @@
 ]
 ],
 [
-"main/auto_03_804C4380_text",
-628,
-0.0,
-0,
-[]
-],
-[
 "main/Game/System/NANDManager",
-432,
+1060,
 0.0,
 0,
 [
@@ -35049,20 +35310,13 @@
 ]
 ],
 [
-"main/Game/System/P_UNK1",
-420,
+"main/Game/System/PlayerHeapHolder",
+856,
 0.0,
 0,
 [
 "game"
 ]
-],
-[
-"main/auto_03_804C8A20_text",
-436,
-0.0,
-0,
-[]
 ],
 [
 "main/Game/System/PlayResultInStageHolder",
@@ -35146,11 +35400,13 @@
 ]
 ],
 [
-"main/auto_03_804CC4F0_text",
+"main/Game/System/StageEffect",
 1044,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/System/StarPointerOnOffController",
@@ -35468,11 +35724,13 @@
 ]
 ],
 [
-"main/auto_03_804DF2B0_text",
+"main/Game/System/MessageSystem",
 1784,
 0.0,
 0,
-[]
+[
+"game"
+]
 ],
 [
 "main/Game/World/GrandGalaxyMap",
