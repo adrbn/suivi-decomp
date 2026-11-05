@@ -13177,6 +13177,150 @@
 }
 },
 {
+"sha": "3b6537a6aa1fade7eaa0663834707ad113f9f9d7",
+"time": "2026-11-05T01:30:12Z",
+"message": "Match some JsonUtils (#362)",
+"measures": {
+"matched_code_percent": 53.3429,
+"complete_code_percent": 30.088,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 23.0012,
+"total_code": 12206380.0,
+"matched_code": 6511240.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29253.0,
+"total_units": 2230.0,
+"complete_units": 706.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 92.8965,
+"complete_code_percent": 62.7587,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 62.4722,
+"total_code": 1283768.0,
+"matched_code": 1192576.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4619.0,
+"total_units": 158.0,
+"complete_units": 129.0
+},
+"engine": {
+"matched_code_percent": 90.2029,
+"complete_code_percent": 48.6697,
+"matched_data_percent": 18.308,
+"complete_data_percent": 51.9449,
+"total_code": 5888864.0,
+"matched_code": 5311928.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24577.0,
+"total_units": 810.0,
+"complete_units": 575.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "a0237c925bbf100c80dc63142c86399301889c6d",
+"time": "2026-11-05T01:39:17Z",
+"message": "bampanel onbeat is so close it hurts",
+"measures": {
+"matched_code_percent": 53.3429,
+"complete_code_percent": 30.088,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 23.0012,
+"total_code": 12206380.0,
+"matched_code": 6511240.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29253.0,
+"total_units": 2230.0,
+"complete_units": 706.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 92.8965,
+"complete_code_percent": 62.7587,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 62.4722,
+"total_code": 1283768.0,
+"matched_code": 1192576.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4619.0,
+"total_units": 158.0,
+"complete_units": 129.0
+},
+"engine": {
+"matched_code_percent": 90.2029,
+"complete_code_percent": 48.6697,
+"matched_data_percent": 18.308,
+"complete_data_percent": 51.9449,
+"total_code": 5888864.0,
+"matched_code": 5311928.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24577.0,
+"total_units": 810.0,
+"complete_units": 575.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
 "sha": "8e1425114f4635cde89ff98bec3f437f7221132e",
 "time": "2026-11-05T01:40:25Z",
 "message": "mark jsonutils as matching",
@@ -13391,6 +13535,78 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "c390957b3c464c9a84b4a0c07f3f53af2edd6fc8",
+"time": "2026-11-05T16:29:51Z",
+"message": "SongSort, CampaignPerformer, FitnessCalorieSortByCalorie, ChallengeSortNode, NavListSort MQSongSortMgr, SongSortMgr matched (#364)",
+"measures": {
+"matched_code_percent": 53.4584,
+"complete_code_percent": 30.7603,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 23.549,
+"total_code": 12206380.0,
+"matched_code": 6525336.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29289.0,
+"total_units": 2230.0,
+"complete_units": 720.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 93.6216,
+"complete_code_percent": 67.572,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 67.1588,
+"total_code": 1283768.0,
+"matched_code": 1201884.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4637.0,
+"total_units": 158.0,
+"complete_units": 136.0
+},
+"engine": {
+"matched_code_percent": 90.2842,
+"complete_code_percent": 49.0139,
+"matched_data_percent": 18.308,
+"complete_data_percent": 52.2933,
+"total_code": 5888864.0,
+"matched_code": 5316716.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24595.0,
+"total_units": 810.0,
+"complete_units": 582.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -13401,7 +13617,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-05T04:33:49Z",
+"units_time": "2026-11-05T16:29:51Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -20067,7 +20283,7 @@
 "default/lazer/meta_ham/CampaignPerformer",
 29060,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -20273,7 +20489,7 @@
 [
 "default/lazer/meta_ham/Campaign",
 19804,
-99.69,
+99.96,
 0,
 [
 "game"
@@ -20597,8 +20813,8 @@
 [
 "default/lazer/meta_ham/SongSortMgr",
 10748,
-98.53,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -20651,8 +20867,8 @@
 [
 "default/lazer/meta_ham/MQSongSortMgr",
 3032,
-99.69,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -20732,8 +20948,8 @@
 [
 "default/lazer/meta_ham/NavListSort",
 4632,
-88.83,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -20741,8 +20957,8 @@
 [
 "default/lazer/meta_ham/ChallengeSortNode",
 9292,
-94.23,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -20894,8 +21110,8 @@
 [
 "default/lazer/meta_ham/FitnessCalorieSortByCalorie",
 728,
-99.98,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -20912,8 +21128,8 @@
 [
 "default/lazer/meta_ham/SongSort",
 4300,
-99.14,
-0,
+100.0,
+1,
 [
 "game"
 ]

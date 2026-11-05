@@ -7138,6 +7138,124 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "7d5cacad3171de0cda87d88d89345851036b0373",
+"time": "2026-11-05T09:55:31Z",
+"message": "ModelUtil OK",
+"measures": {
+"matched_code_percent": 51.149,
+"complete_code_percent": 19.1692,
+"matched_data_percent": 79.1232,
+"complete_data_percent": 23.5428,
+"total_code": 3603696.0,
+"matched_code": 1843256.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10269.0,
+"total_units": 732.0,
+"complete_units": 412.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4597,
+"complete_code_percent": 3.9995,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.7849,
+"total_code": 2847660.0,
+"matched_code": 1152156.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6458.0,
+"total_units": 385.0,
+"complete_units": 91.0
+},
+"jsystem": {
+"matched_code_percent": 87.2683,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 440108.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2797.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "ab8740490631b7d487c13d6b8377622cd6f61142",
+"time": "2026-11-05T17:44:16Z",
+"message": "PacketUtil marked as matching",
+"measures": {
+"matched_code_percent": 51.149,
+"complete_code_percent": 19.297,
+"matched_data_percent": 79.1232,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1843256.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10269.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 40.4597,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 76.0405,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1152156.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6458.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.2683,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 440108.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2797.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -7147,7 +7265,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-04T23:34:24Z",
+"units_time": "2026-11-05T17:44:16Z",
 "units": [
 [
 "mario/main",
@@ -9753,8 +9871,8 @@
 [
 "mario/MarioUtil/ModelUtil",
 1332,
-99.95,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -9781,7 +9899,7 @@
 "mario/MarioUtil/PacketUtil",
 4604,
 100.0,
-0,
+1,
 [
 "game"
 ]
