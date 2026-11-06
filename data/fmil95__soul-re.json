@@ -566,6 +566,195 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "6291521459105109285ace27f217665db6488161",
+"time": "2026-11-06T18:30:48Z",
+"message": "Update README with Soul Reaver 2 project link",
+"measures": {
+"matched_code_percent": 85.0505,
+"complete_code_percent": 0.0,
+"matched_data_percent": 15.597,
+"complete_data_percent": 0.0,
+"total_code": 751836.0,
+"matched_code": 639440.0,
+"total_data": 156620.0,
+"total_functions": 2693.0,
+"matched_functions": 2449.0,
+"total_units": 106.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 90.0369,
+"complete_code_percent": 0.0,
+"matched_data_percent": 30.8075,
+"complete_data_percent": 0.0,
+"total_code": 653008.0,
+"matched_code": 587948.0,
+"total_data": 76384.0,
+"total_functions": 2274.0,
+"matched_functions": 2210.0,
+"total_units": 85.0,
+"complete_units": 0.0
+},
+"cinemax": {
+"matched_code_percent": 34.7074,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3008.0,
+"matched_code": 1044.0,
+"total_data": 70132.0,
+"total_functions": 13.0,
+"matched_functions": 8.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"mcardx": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8008.0,
+"matched_code": 0.0,
+"total_data": 1852.0,
+"total_functions": 60.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"hunter": {
+"matched_code_percent": 57.3984,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2460.0,
+"matched_code": 1412.0,
+"total_data": 104.0,
+"total_functions": 7.0,
+"matched_functions": 6.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"skinner": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2928.0,
+"matched_code": 2928.0,
+"total_data": 92.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"wallcr": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 11456.0,
+"matched_code": 0.0,
+"total_data": 252.0,
+"total_functions": 52.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"aluka": {
+"matched_code_percent": 68.0103,
+"complete_code_percent": 0.0,
+"matched_data_percent": 33.6538,
+"complete_data_percent": 0.0,
+"total_code": 23220.0,
+"matched_code": 15792.0,
+"total_data": 416.0,
+"total_functions": 95.0,
+"matched_functions": 81.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"skinbos": {
+"matched_code_percent": 74.7654,
+"complete_code_percent": 0.0,
+"matched_data_percent": 48.0,
+"complete_data_percent": 0.0,
+"total_code": 11508.0,
+"matched_code": 8604.0,
+"total_data": 300.0,
+"total_functions": 38.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"kain": {
+"matched_code_percent": 61.7112,
+"complete_code_percent": 0.0,
+"matched_data_percent": 42.8571,
+"complete_data_percent": 0.0,
+"total_code": 10332.0,
+"matched_code": 6376.0,
+"total_data": 224.0,
+"total_functions": 30.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walboss": {
+"matched_code_percent": 0.0949,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8428.0,
+"matched_code": 8.0,
+"total_data": 548.0,
+"total_functions": 39.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walbosb": {
+"matched_code_percent": 95.6925,
+"complete_code_percent": 0.0,
+"matched_data_percent": 60.0,
+"complete_data_percent": 0.0,
+"total_code": 7336.0,
+"matched_code": 7020.0,
+"total_data": 260.0,
+"total_functions": 35.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"alukabss": {
+"matched_code_percent": 78.3724,
+"complete_code_percent": 0.0,
+"matched_data_percent": 76.087,
+"complete_data_percent": 0.0,
+"total_code": 5456.0,
+"matched_code": 4276.0,
+"total_data": 184.0,
+"total_functions": 29.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"roninbss": {
+"matched_code_percent": 81.9006,
+"complete_code_percent": 0.0,
+"matched_data_percent": 63.0769,
+"complete_data_percent": 0.0,
+"total_code": 10144.0,
+"matched_code": 8308.0,
+"total_data": 260.0,
+"total_functions": 34.0,
+"matched_functions": 33.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -585,21 +774,21 @@
 "alukabss": "Rahab Overlay",
 "roninbss": "Dumah Overlay"
 },
-"units_time": "2026-09-21T23:11:30Z",
+"units_time": "2026-11-06T18:30:48Z",
 "units": [
 [
-"Game/GAMEPAD",
-3952,
-75.81,
+"Game/FONT",
+3156,
+42.97,
 0,
 [
 "main"
 ]
 ],
 [
-"Game/COLLIDE",
-27028,
-76.75,
+"Game/GAMELOOP",
+14108,
+96.97,
 0,
 [
 "main"
@@ -615,89 +804,8 @@
 ]
 ],
 [
-"Game/BSP",
-132,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/SPLINE",
-4924,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PIPE3D",
-9396,
-84.21,
-0,
-[
-"main"
-]
-],
-[
-"Game/RAZCNTRL",
-136,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/FONT",
-3156,
-42.97,
-0,
-[
-"main"
-]
-],
-[
-"Game/LOAD3D",
-4656,
-99.35,
-0,
-[
-"main"
-]
-],
-[
-"Game/INSTANCE",
-14616,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/EVENT",
-33048,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/CAMERA",
-37204,
-90.28,
-0,
-[
-"main"
-]
-],
-[
-"Game/LIST",
-208,
+"Game/OBTABLE",
+2024,
 100.0,
 0,
 [
@@ -714,116 +822,8 @@
 ]
 ],
 [
-"Game/SAVEINFO",
-6144,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/DEBUG",
-7148,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MATH3D",
-3448,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/VRAM",
-5588,
-91.2,
-0,
-[
-"main"
-]
-],
-[
-"Game/LIGHT3D",
-6140,
-69.51,
-0,
-[
-"main"
-]
-],
-[
 "Game/GENERIC",
 1208,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/SIGNAL",
-3104,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/TIMER",
-376,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/STRMLOAD",
-2940,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/REAVER",
-2932,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/FX",
-54772,
-70.93,
-0,
-[
-"main"
-]
-],
-[
-"Game/OBTABLE",
-2024,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MEMPACK",
-6656,
 100.0,
 0,
 [
@@ -840,8 +840,8 @@
 ]
 ],
 [
-"Game/PHYSICS",
-14612,
+"Game/STRMLOAD",
+2940,
 100.0,
 0,
 [
@@ -849,8 +849,8 @@
 ]
 ],
 [
-"Game/SOUND",
-9676,
+"Game/SPLINE",
+4924,
 100.0,
 0,
 [
@@ -858,26 +858,8 @@
 ]
 ],
 [
-"Game/DRAW",
-9668,
-56.64,
-0,
-[
-"main"
-]
-],
-[
-"Game/GAMELOOP",
-14108,
-96.97,
-0,
-[
-"main"
-]
-],
-[
-"Game/STATE",
-8628,
+"Game/EVENT",
+33048,
 100.0,
 0,
 [
@@ -885,44 +867,17 @@
 ]
 ],
 [
-"Game/PHYSOBS",
-32612,
-82.2,
+"Game/LIST",
+208,
+100.0,
 0,
 [
 "main"
 ]
 ],
 [
-"Game/STREAM",
-30080,
-97.74,
-0,
-[
-"main"
-]
-],
-[
-"Game/VOICEXA",
-2388,
-85.59,
-0,
-[
-"main"
-]
-],
-[
-"Game/GLYPH",
-8256,
-77.91,
-0,
-[
-"main"
-]
-],
-[
-"Game/RESOLVE",
-56,
+"Game/SCRIPT",
+4352,
 100.0,
 0,
 [
@@ -939,6 +894,51 @@
 ]
 ],
 [
+"Game/PHYSOBS",
+32612,
+82.2,
+0,
+[
+"main"
+]
+],
+[
+"Game/BSP",
+132,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/GAMEPAD",
+3952,
+75.81,
+0,
+[
+"main"
+]
+],
+[
+"Game/LIGHT3D",
+6140,
+69.51,
+0,
+[
+"main"
+]
+],
+[
+"Game/CAMERA",
+37204,
+90.28,
+0,
+[
+"main"
+]
+],
+[
 "Game/UNDRWRLD",
 2496,
 84.94,
@@ -948,8 +948,8 @@
 ]
 ],
 [
-"Game/SCRIPT",
-4352,
+"Game/INSTANCE",
+14616,
 100.0,
 0,
 [
@@ -957,21 +957,228 @@
 ]
 ],
 [
-"Overlays/kain/kain",
-10332,
-61.95,
+"Game/GLYPH",
+8256,
+77.91,
 0,
 [
-"kain"
+"main"
 ]
 ],
 [
-"Overlays/roninbss/roninbss",
-10144,
-81.96,
+"Game/FX",
+54772,
+70.93,
 0,
 [
-"roninbss"
+"main"
+]
+],
+[
+"Game/DEBUG",
+7148,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MEMPACK",
+6656,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/STATE",
+8628,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/SIGNAL",
+3104,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/DRAW",
+9668,
+56.64,
+0,
+[
+"main"
+]
+],
+[
+"Game/PIPE3D",
+9396,
+84.21,
+0,
+[
+"main"
+]
+],
+[
+"Game/SAVEINFO",
+6144,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PHYSICS",
+14612,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/COLLIDE",
+27028,
+76.75,
+0,
+[
+"main"
+]
+],
+[
+"Game/SOUND",
+9676,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/RAZCNTRL",
+136,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/REAVER",
+2932,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/VOICEXA",
+2388,
+85.59,
+0,
+[
+"main"
+]
+],
+[
+"Game/LOAD3D",
+4656,
+99.35,
+0,
+[
+"main"
+]
+],
+[
+"Game/TIMER",
+376,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/VRAM",
+5588,
+91.2,
+0,
+[
+"main"
+]
+],
+[
+"Game/MATH3D",
+3448,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/RESOLVE",
+56,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/STREAM",
+30080,
+97.74,
+0,
+[
+"main"
+]
+],
+[
+"Overlays/mcardx/mcardx",
+8008,
+4.34,
+0,
+[
+"mcardx"
+]
+],
+[
+"Overlays/skinbos/skinbos",
+11508,
+75.0,
+0,
+[
+"skinbos"
+]
+],
+[
+"Overlays/cinemax/cinemax",
+3008,
+35.72,
+0,
+[
+"cinemax"
+]
+],
+[
+"Overlays/walboss/walboss",
+8428,
+2.65,
+0,
+[
+"walboss"
 ]
 ],
 [
@@ -985,39 +1192,12 @@
 ]
 ],
 [
-"Overlays/hunter/hunter",
-2460,
-57.63,
+"Overlays/roninbss/roninbss",
+10144,
+81.96,
 0,
 [
-"hunter"
-]
-],
-[
-"Overlays/skinbos/skinbos",
-11508,
-75.0,
-0,
-[
-"skinbos"
-]
-],
-[
-"Overlays/walboss/walboss",
-8428,
-2.65,
-0,
-[
-"walboss"
-]
-],
-[
-"Overlays/wallcr/wallcr",
-11456,
-2.54,
-0,
-[
-"wallcr"
+"roninbss"
 ]
 ],
 [
@@ -1030,24 +1210,6 @@
 ]
 ],
 [
-"Overlays/walbosb/walbosb",
-7336,
-95.77,
-0,
-[
-"walbosb"
-]
-],
-[
-"Overlays/mcardx/mcardx",
-8008,
-4.34,
-0,
-[
-"mcardx"
-]
-],
-[
 "Overlays/skinner/skinner",
 2928,
 100.0,
@@ -1057,12 +1219,57 @@
 ]
 ],
 [
-"Overlays/cinemax/cinemax",
-3008,
-35.72,
+"Overlays/kain/kain",
+10332,
+61.95,
 0,
 [
-"cinemax"
+"kain"
+]
+],
+[
+"Overlays/hunter/hunter",
+2460,
+57.63,
+0,
+[
+"hunter"
+]
+],
+[
+"Overlays/wallcr/wallcr",
+11456,
+2.54,
+0,
+[
+"wallcr"
+]
+],
+[
+"Overlays/walbosb/walbosb",
+7336,
+95.77,
+0,
+[
+"walbosb"
+]
+],
+[
+"Game/LOCAL/LOCALSTR",
+200,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/G2/QUATG2",
+936,
+100.0,
+0,
+[
+"main"
 ]
 ],
 [
@@ -1075,17 +1282,8 @@
 ]
 ],
 [
-"Game/G2/MAING2",
-16,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/G2/QUATG2",
-936,
+"Game/G2/ANIMG2",
+21376,
 100.0,
 0,
 [
@@ -1111,8 +1309,8 @@
 ]
 ],
 [
-"Game/G2/ANIMG2",
-21376,
+"Game/G2/MAING2",
+16,
 100.0,
 0,
 [
@@ -1120,8 +1318,8 @@
 ]
 ],
 [
-"Game/RAZIEL/CONTROL",
-2004,
+"Game/CINEMA/CINEPSX",
+508,
 100.0,
 0,
 [
@@ -1129,17 +1327,26 @@
 ]
 ],
 [
-"Game/RAZIEL/RAZIEL",
-106284,
-96.94,
+"Game/PSX/AADSEQEV",
+4160,
+68.94,
 0,
 [
 "main"
 ]
 ],
 [
-"Game/PLAN/PLANPOOL",
-2980,
+"Game/PSX/AADLIB",
+13192,
+85.2,
+0,
+[
+"main"
+]
+],
+[
+"Game/PSX/MAIN",
+5472,
 100.0,
 0,
 [
@@ -1147,8 +1354,8 @@
 ]
 ],
 [
-"Game/PLAN/PLAN",
-2564,
+"Game/PSX/AADSQCMD",
+4256,
 100.0,
 0,
 [
@@ -1156,8 +1363,8 @@
 ]
 ],
 [
-"Game/PLAN/ENMYPLAN",
-3044,
+"Game/PSX/AADSFX",
+4284,
 100.0,
 0,
 [
@@ -1165,8 +1372,8 @@
 ]
 ],
 [
-"Game/PLAN/PLANAPI",
-3604,
+"Game/PSX/AADVOICE",
+2636,
 100.0,
 0,
 [
@@ -1174,8 +1381,17 @@
 ]
 ],
 [
-"Game/PLAN/PLANCOLL",
-1780,
+"Game/PSX/SUPPORT",
+1208,
+47.35,
+0,
+[
+"main"
+]
+],
+[
+"Game/MENU/MENUDEFS",
+3008,
 100.0,
 0,
 [
@@ -1183,35 +1399,8 @@
 ]
 ],
 [
-"Game/PLAN/PLANSRCH",
-960,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MCARD/MCASSERT",
-68,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MCARD/MEMCARD",
-1180,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/LOCAL/LOCALSTR",
-200,
+"Game/MENU/MENUFACE",
+1004,
 100.0,
 0,
 [
@@ -1237,8 +1426,8 @@
 ]
 ],
 [
-"Game/MENU/MENUDEFS",
-3008,
+"Game/RAZIEL/CONTROL",
+2004,
 100.0,
 0,
 [
@@ -1246,8 +1435,17 @@
 ]
 ],
 [
-"Game/MENU/MENUFACE",
-1004,
+"Game/RAZIEL/RAZIEL",
+106284,
+96.94,
+0,
+[
+"main"
+]
+],
+[
+"Game/MCARD/MCASSERT",
+68,
 100.0,
 0,
 [
@@ -1255,161 +1453,8 @@
 ]
 ],
 [
-"Game/CINEMA/CINEPSX",
-508,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/SUPPORT",
-1208,
-47.35,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/AADVOICE",
-2636,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/MAIN",
-5472,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/AADSEQEV",
-4160,
-68.94,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/AADSFX",
-4284,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/AADSQCMD",
-4256,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/PSX/AADLIB",
-13192,
-85.2,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONSTER",
-23692,
-82.36,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONTABLE",
-452,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONLIB",
-21420,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MBMISS",
-2664,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONAPI",
-6440,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/HUMAN",
-3196,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/SOUL",
-4516,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/VWRAITH",
-1300,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONMSG",
-4844,
-100.0,
-0,
-[
-"main"
-]
-],
-[
-"Game/MONSTER/MONSENSE",
-5960,
+"Game/MCARD/MEMCARD",
+1180,
 100.0,
 0,
 [
@@ -1426,6 +1471,15 @@
 ]
 ],
 [
+"Game/MONSTER/VWRAITH",
+1300,
+100.0,
+0,
+[
+"main"
+]
+],
+[
 "Game/MONSTER/SLUAGH",
 1672,
 100.0,
@@ -1435,8 +1489,143 @@
 ]
 ],
 [
+"Game/MONSTER/MBMISS",
+2664,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONLIB",
+21420,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONAPI",
+6440,
+100.0,
+0,
+[
+"main"
+]
+],
+[
 "Game/MONSTER/MISSILE",
 708,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/SOUL",
+4516,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONTABLE",
+452,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONMSG",
+4844,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/HUMAN",
+3196,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONSTER",
+23692,
+82.36,
+0,
+[
+"main"
+]
+],
+[
+"Game/MONSTER/MONSENSE",
+5960,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/ENMYPLAN",
+3044,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/PLANCOLL",
+1780,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/PLANPOOL",
+2980,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/PLAN",
+2564,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/PLANAPI",
+3604,
+100.0,
+0,
+[
+"main"
+]
+],
+[
+"Game/PLAN/PLANSRCH",
+960,
 100.0,
 0,
 [
@@ -1461,5 +1650,6 @@
 "main"
 ]
 ]
-]
+],
+"workflow": 187227776
 }
