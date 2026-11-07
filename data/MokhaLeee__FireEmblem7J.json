@@ -284,12 +284,31 @@
 "complete_units": 0.0
 },
 "categories": {}
+},
+{
+"sha": "4f86d4c42bd9c9b80bdd81ff6857b9b454db0b94",
+"time": "2026-11-06T19:47:48Z",
+"message": "Merge pull request #68 from kagnusdev/contrib/AnimDisplayPrivate",
+"measures": {
+"matched_code_percent": 19.0521,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 788364.0,
+"matched_code": 150200.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "jp_report",
 "category_names": {},
-"units_time": "2026-11-04T09:13:27Z",
+"units_time": "2026-11-06T19:47:48Z",
 "units": [],
 "workflow": 59083474
 }

@@ -1781,6 +1781,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "da23cdd3d063dc88768478adecba1a84b3208ec9",
+"time": "2026-11-06T19:54:01Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/menu/item_get.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1788,7 +1821,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-11-04T22:01:09Z",
+"units_time": "2026-11-06T19:54:01Z",
 "units": [
 [
 "main/main",
