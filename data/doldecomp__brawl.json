@@ -7267,6 +7267,1385 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "622fec8fc4c8b42dbd7e4cea0782c9d78613775c",
+"time": "2026-11-07T22:08:34Z",
+"message": "Match ac_cmd_interpreter.cpp (#166)",
+"measures": {
+"matched_code_percent": 1.7284,
+"complete_code_percent": 1.5828,
+"matched_data_percent": 15.7308,
+"complete_data_percent": 16.0454,
+"total_code": 15833548.0,
+"matched_code": 273672.0,
+"total_data": 5667452.0,
+"total_functions": 92522.0,
+"matched_functions": 2879.0,
+"total_units": 4634.0,
+"complete_units": 556.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 3.0268,
+"complete_code_percent": 2.7857,
+"matched_data_percent": 4.0066,
+"complete_data_percent": 4.0467,
+"total_code": 4170064.0,
+"matched_code": 126220.0,
+"total_data": 1724068.0,
+"total_functions": 14278.0,
+"matched_functions": 848.0,
+"total_units": 1934.0,
+"complete_units": 105.0
+},
+"modules": {
+"matched_code_percent": 1.2642,
+"complete_code_percent": 1.1527,
+"matched_data_percent": 20.8567,
+"complete_data_percent": 21.2914,
+"total_code": 11663484.0,
+"matched_code": 147452.0,
+"total_data": 3943384.0,
+"total_functions": 78244.0,
+"matched_functions": 2031.0,
+"total_units": 2700.0,
+"complete_units": 451.0
+},
+"rvl": {
+"matched_code_percent": 4.8343,
+"complete_code_percent": 4.6695,
+"matched_data_percent": 97.3755,
+"complete_data_percent": 97.238,
+"total_code": 1341736.0,
+"matched_code": 64864.0,
+"total_data": 64012.0,
+"total_functions": 4494.0,
+"matched_functions": 322.0,
+"total_units": 287.0,
+"complete_units": 34.0
+},
+"rvl_AI": {
+"matched_code_percent": 95.1429,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 1400.0,
+"matched_code": 1332.0,
+"total_data": 144.0,
+"total_functions": 12.0,
+"matched_functions": 8.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ARC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2424.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_AX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 85.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_AXFX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5880.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 24.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_BASE": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 368.0,
+"matched_code": 368.0,
+"total_data": 56.0,
+"total_functions": 24.0,
+"matched_functions": 24.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_BTE": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 185772.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 733.0,
+"matched_functions": 0.0,
+"total_units": 65.0,
+"complete_units": 0.0
+},
+"rvl_CARD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 620.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 4.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_CX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4928.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 232.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DSP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2912.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_DVD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 36072.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 125.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_DWC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 366092.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 995.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ESP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2476.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EUART": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 880.0,
+"matched_code": 880.0,
+"total_data": 16.0,
+"total_functions": 3.0,
+"matched_functions": 3.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EXI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 7508.0,
+"matched_code": 0.0,
+"total_data": 8.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_FS": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6304.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 30.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_GX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 35204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 198.0,
+"matched_functions": 0.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"rvl_HBM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49212.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 141.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_IPC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8492.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_KPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12136.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MEM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4796.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 31.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_MIX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13588.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MTX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5116.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 32.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NAND": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 15108.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 81.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NCD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2172.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NET": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5032.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 19.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NHTTP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 30204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 150.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NWC24": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59440.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 200.0,
+"matched_functions": 0.0,
+"total_units": 19.0,
+"complete_units": 0.0
+},
+"rvl_NdevExi2AD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2752.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_OS": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 61556.0,
+"matched_code": 61556.0,
+"total_data": 62116.0,
+"total_functions": 286.0,
+"matched_functions": 286.0,
+"total_units": 32.0,
+"complete_units": 32.0
+},
+"rvl_PAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6296.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_RFL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 38760.0,
+"matched_code": 0.0,
+"total_data": 1600.0,
+"total_functions": 112.0,
+"matched_functions": 0.0,
+"total_units": 12.0,
+"complete_units": 0.0
+},
+"rvl_SC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 9028.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 51.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_SI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5728.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_SO": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 10900.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 44.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_SSL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3416.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_THP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 14436.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_TMCC_JPEG": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 61560.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 144.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_TPL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 3.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_USB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4396.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_VF": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 144504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 490.0,
+"matched_functions": 0.0,
+"total_units": 56.0,
+"complete_units": 0.0
+},
+"rvl_VI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 19144.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 43.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_WENC": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 728.0,
+"matched_code": 728.0,
+"total_data": 72.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_WPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59596.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 102.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_WUD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 20504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 73.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "70744045f8ceba62d5a77c052c8f7bcb76fc21d1",
+"time": "2026-11-08T02:35:12Z",
+"message": "NW4R header migration (no `ef` or `g3d`) (#167)",
+"measures": {
+"matched_code_percent": 1.7284,
+"complete_code_percent": 1.5828,
+"matched_data_percent": 15.7308,
+"complete_data_percent": 16.0454,
+"total_code": 15833548.0,
+"matched_code": 273672.0,
+"total_data": 5667452.0,
+"total_functions": 92522.0,
+"matched_functions": 2879.0,
+"total_units": 4768.0,
+"complete_units": 556.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 3.0268,
+"complete_code_percent": 2.7857,
+"matched_data_percent": 4.0066,
+"complete_data_percent": 4.0467,
+"total_code": 4170064.0,
+"matched_code": 126220.0,
+"total_data": 1724068.0,
+"total_functions": 14278.0,
+"matched_functions": 848.0,
+"total_units": 2068.0,
+"complete_units": 105.0
+},
+"modules": {
+"matched_code_percent": 1.2642,
+"complete_code_percent": 1.1527,
+"matched_data_percent": 20.8567,
+"complete_data_percent": 21.2914,
+"total_code": 11663484.0,
+"matched_code": 147452.0,
+"total_data": 3943384.0,
+"total_functions": 78244.0,
+"matched_functions": 2031.0,
+"total_units": 2700.0,
+"complete_units": 451.0
+},
+"rvl": {
+"matched_code_percent": 4.8343,
+"complete_code_percent": 4.6695,
+"matched_data_percent": 97.3755,
+"complete_data_percent": 97.238,
+"total_code": 1341736.0,
+"matched_code": 64864.0,
+"total_data": 64012.0,
+"total_functions": 4494.0,
+"matched_functions": 322.0,
+"total_units": 287.0,
+"complete_units": 34.0
+},
+"rvl_AI": {
+"matched_code_percent": 95.1429,
+"complete_code_percent": 0.0,
+"matched_data_percent": 50.0,
+"complete_data_percent": 0.0,
+"total_code": 1400.0,
+"matched_code": 1332.0,
+"total_data": 144.0,
+"total_functions": 12.0,
+"matched_functions": 8.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ARC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2424.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_AX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 85.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_AXFX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5880.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 24.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_BASE": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 368.0,
+"matched_code": 368.0,
+"total_data": 56.0,
+"total_functions": 24.0,
+"matched_functions": 24.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_BTE": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 185772.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 733.0,
+"matched_functions": 0.0,
+"total_units": 65.0,
+"complete_units": 0.0
+},
+"rvl_CARD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 620.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 4.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_CX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4928.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 12.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 232.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 5.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_DSP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2912.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_DVD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 36072.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 125.0,
+"matched_functions": 0.0,
+"total_units": 8.0,
+"complete_units": 0.0
+},
+"rvl_DWC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 366092.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 995.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_ESP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2476.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EUART": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 880.0,
+"matched_code": 880.0,
+"total_data": 16.0,
+"total_functions": 3.0,
+"matched_functions": 3.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_EXI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 7508.0,
+"matched_code": 0.0,
+"total_data": 8.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_FS": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6304.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 30.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_GX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 35204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 198.0,
+"matched_functions": 0.0,
+"total_units": 15.0,
+"complete_units": 0.0
+},
+"rvl_HBM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 49212.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 141.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_IPC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 8492.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 38.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"rvl_KPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 12136.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MEM": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4796.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 31.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_MIX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 13588.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 14.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_MTX": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5116.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 32.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NAND": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 15108.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 81.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_NCD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2172.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 7.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NET": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5032.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 19.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NHTTP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 30204.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 150.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_NWC24": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59440.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 200.0,
+"matched_functions": 0.0,
+"total_units": 19.0,
+"complete_units": 0.0
+},
+"rvl_NdevExi2AD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 2752.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 15.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_OS": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 61556.0,
+"matched_code": 61556.0,
+"total_data": 62116.0,
+"total_functions": 286.0,
+"matched_functions": 286.0,
+"total_units": 32.0,
+"complete_units": 32.0
+},
+"rvl_PAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 6296.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_RFL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 38760.0,
+"matched_code": 0.0,
+"total_data": 1600.0,
+"total_functions": 112.0,
+"matched_functions": 0.0,
+"total_units": 12.0,
+"complete_units": 0.0
+},
+"rvl_SC": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 9028.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 51.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_SI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5728.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 22.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_SO": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 10900.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 44.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_SSL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 3416.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_THP": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 14436.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 17.0,
+"matched_functions": 0.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"rvl_TMCC_JPEG": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 61560.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 144.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_TPL": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 532.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 3.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_USB": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 4396.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 13.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"rvl_VF": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 144504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 490.0,
+"matched_functions": 0.0,
+"total_units": 56.0,
+"complete_units": 0.0
+},
+"rvl_VI": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 19144.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 43.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"rvl_WENC": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 728.0,
+"matched_code": 728.0,
+"total_data": 72.0,
+"total_functions": 1.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 1.0
+},
+"rvl_WPAD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 59596.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 102.0,
+"matched_functions": 0.0,
+"total_units": 5.0,
+"complete_units": 0.0
+},
+"rvl_WUD": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 20504.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 73.0,
+"matched_functions": 0.0,
+"total_units": 3.0,
+"complete_units": 0.0
+},
+"nw4r": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 495820.0,
+"matched_code": 0.0,
+"total_data": 88.0,
+"total_functions": 2158.0,
+"matched_functions": 0.0,
+"total_units": 179.0,
+"complete_units": 0.0
+},
+"nw4r_ef": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 126608.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 250.0,
+"matched_functions": 0.0,
+"total_units": 29.0,
+"complete_units": 0.0
+},
+"nw4r_g3d": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 173804.0,
+"matched_code": 0.0,
+"total_data": 4.0,
+"total_functions": 862.0,
+"matched_functions": 0.0,
+"total_units": 56.0,
+"complete_units": 0.0
+},
+"nw4r_lyt": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 42132.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 168.0,
+"matched_functions": 0.0,
+"total_units": 14.0,
+"complete_units": 0.0
+},
+"nw4r_math": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 5960.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 29.0,
+"matched_functions": 0.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"nw4r_snd": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 122248.0,
+"matched_code": 0.0,
+"total_data": 20.0,
+"total_functions": 686.0,
+"matched_functions": 0.0,
+"total_units": 60.0,
+"complete_units": 0.0
+},
+"nw4r_ut": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 25068.0,
+"matched_code": 0.0,
+"total_data": 24.0,
+"total_functions": 163.0,
+"matched_functions": 0.0,
+"total_units": 16.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -7321,7 +8700,7 @@
 "rvl_WPAD": "DOL > RVL SDK > WPAD",
 "rvl_WUD": "DOL > RVL SDK > WUD"
 },
-"units_time": "2026-11-04T13:10:17Z",
+"units_time": "2026-11-08T02:35:12Z",
 "units": [
 [
 "main/sora/sr/sr_getappname",
@@ -8613,8 +9992,8 @@
 [
 "main/sora/ac/ac_cmd_interpreter",
 13252,
-99.97,
-0,
+100.0,
+1,
 [
 "dol"
 ]
@@ -8863,408 +10242,1972 @@
 ]
 ],
 [
-"main/auto_03_8015BF9C_text",
-3216,
+"main/nw4r/ut/ut_list",
+668,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8015CC2C_text",
-12,
+"main/nw4r/ut/ut_LinkList",
+364,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_8015CC38_text",
+"main/nw4r/ut/ut_binaryFileFormat",
+116,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ut"
+]
+],
+[
+"main/nw4r/ut/ut_CharStrmReader",
 272,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8015CD48_text",
-12,
+"main/nw4r/ut/ut_TagProcessorBase",
+1744,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_8015CD54_text",
-1548,
+"main/nw4r/ut/ut_IOStream",
+64,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8015D360_text",
-12,
+"main/nw4r/ut/ut_FileStream",
+284,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_8015D36C_text",
-948,
+"main/nw4r/ut/ut_DvdFileStream",
+1560,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8015D720_text",
-12,
+"main/nw4r/ut/ut_DvdLockedFileStream",
+960,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_8015D72C_text",
-408,
+"main/nw4r/ut/ut_LockedCache",
+432,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8015D8C4_text",
-24,
+"main/nw4r/ut/ut_Font",
+168,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_8015D8DC_text",
-18472,
+"main/nw4r/ut/ut_RomFont",
+1544,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_80162104_text",
-132,
+"main/nw4r/ut/ut_ResFontBase",
+1632,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_80162188_text",
-11008,
+"main/nw4r/ut/ut_ResFont",
+776,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_80164C88_text",
-152,
+"main/nw4r/ut/ut_CharWriter",
+6280,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_03_80164D20_text",
-38852,
+"main/nw4r/ut/ut_TextWriterBase",
+8204,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ut"
 ]
 ],
 [
-"main/auto_fn_8016E4E4_text",
-4,
+"main/nw4r/math/math_arithmetic",
+316,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_math"
 ]
 ],
 [
-"main/auto_03_8016E4E8_text",
-3168,
+"main/nw4r/math/math_triangular",
+1200,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_math"
 ]
 ],
 [
-"main/auto_fn_8016F148_text",
-80,
+"main/nw4r/math/math_types",
+1480,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_math"
 ]
 ],
 [
-"main/auto_03_8016F198_text",
-5028,
+"main/nw4r/math/math_geometry",
+2964,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_math"
 ]
 ],
 [
-"main/auto_fn_8017053C_text",
-88,
+"main/nw4r/ef/ef_draworder",
+268,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ef"
 ]
 ],
 [
-"main/auto_03_80170594_text",
-24104,
+"main/nw4r/ef/ef_effect",
+3420,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_ef"
 ]
 ],
 [
-"main/auto_fn_801763BC_text",
+"main/nw4r/ef/ef_effectsystem",
+1512,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_emitter",
+8668,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_animcurve",
+18308,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_particle",
+3480,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_particlemanager",
+8400,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_resource",
+3248,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_util",
+2532,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_handle",
+184,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_emitterform",
+1520,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/ef_creationqueue",
+696,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_emform",
+184,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_point",
+852,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_line",
+924,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_disc",
+1320,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_sphere",
+2292,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_cylinder",
+1972,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_torus",
+1696,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/emform/ef_cube",
+6976,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawstrategybuilder",
+932,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawstrategyimpl",
+7276,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawbillboardstrategy",
+8108,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawdirectionalstrategy",
+8372,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawfreestrategy",
+1932,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawlinestrategy",
+1244,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawpointstrategy",
+756,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawstripestrategy",
+11852,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/ef/drawstrategy/ef_drawsmoothstripestrategy",
+17684,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_ef"
+]
+],
+[
+"main/nw4r/lyt/lyt_pane",
+3796,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_group",
+1216,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_layout",
+2772,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_picture",
+1500,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_textBox",
+2852,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_window",
+9784,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_bounding",
+944,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_material",
+11436,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_texMap",
+768,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_drawInfo",
+856,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_animation",
+2300,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_resourceAccessor",
+612,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_arcResourceAccessor",
+512,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/lyt/lyt_common",
+2784,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_lyt"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_rescommon",
+400,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resdict",
+900,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resfile",
+7108,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resmdl",
+3596,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resshp",
+1488,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_restev",
+2392,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resmat",
+7384,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resvtx",
+852,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_restex",
+412,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resnode",
+1208,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanm",
+556,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmvis",
+288,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmclr",
+536,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmtexpat",
+1168,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmtexsrt",
+7128,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmchr",
+1816,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_reslightset",
+420,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmamblight",
+208,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmlight",
+1016,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmfog",
+352,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmcamera",
+792,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmscn",
+3132,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/res/g3d_resanmshp",
+360,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmvis",
+1808,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmclr",
+3272,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmtexpat",
+2416,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmtexsrt",
+2500,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmchr",
+7764,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmshp",
+2844,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmscn",
+4644,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_obj",
+344,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_anmobj",
+184,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/platform/g3d_gpu",
+1296,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/platform/g3d_cpu",
+548,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_state",
+14456,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_draw1mat1shp",
+8188,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_calcview",
+4804,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_g3d"
+]
+],
+[
+"main/nw4r/g3d/g3d_dcc",
 136,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_80176444_text",
-53732,
+"main/nw4r/g3d/g3d_workmem",
+192,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_80183628_text",
-12,
+"main/nw4r/g3d/g3d_calcworld",
+2208,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_80183634_text",
-5296,
+"main/nw4r/g3d/g3d_draw",
+7776,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_80184AE4_text",
-12,
+"main/nw4r/g3d/g3d_camera",
+4232,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_80184AF0_text",
-3020,
+"main/nw4r/g3d/g3d_basic",
+3064,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_801856BC_text",
-12,
+"main/nw4r/g3d/g3d_maya",
+2976,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_801856C8_text",
-9772,
+"main/nw4r/g3d/g3d_xsi",
+3172,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_80187CF4_text",
-12,
+"main/nw4r/g3d/g3d_3dsmax",
+156,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_80187D00_text",
-160,
+"main/nw4r/g3d/g3d_scnobj",
+6400,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_80187DA0_text",
-12,
+"main/nw4r/g3d/g3d_scnroot",
+7048,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_80187DAC_text",
-104864,
+"main/nw4r/g3d/g3d_scnmdlsmpl",
+8276,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_801A174C_text",
-660,
+"main/nw4r/g3d/g3d_scnmdl",
+22136,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_801A19E0_text",
-113844,
+"main/nw4r/g3d/g3d_calcmaterial",
+1040,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_801BD694_text",
-12,
+"main/nw4r/g3d/g3d_init",
+252,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_801BD6A0_text",
-29460,
+"main/nw4r/g3d/g3d_scnproc",
+752,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_801C49B4_text",
-12,
+"main/nw4r/g3d/g3d_fog",
+584,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_801C49C0_text",
-30940,
+"main/nw4r/g3d/g3d_light",
+2784,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_fn_801CC29C_text",
-72,
+"main/nw4r/g3d/g3d_calcvtx",
+2040,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_g3d"
 ]
 ],
 [
-"main/auto_03_801CC2E4_text",
-13996,
+"main/nw4r/snd/snd_AxManager",
+5432,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_snd"
 ]
 ],
 [
-"main/auto_fn_801CF990_text",
-12,
+"main/nw4r/snd/snd_AxVoice",
+10608,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_snd"
 ]
 ],
 [
-"main/auto_03_801CF99C_text",
-17068,
+"main/nw4r/snd/snd_AxVoiceManager",
+2616,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_snd"
 ]
 ],
 [
-"main/auto_fn_801D3C48_text",
-12,
+"main/nw4r/snd/snd_AxfxImpl",
+368,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_snd"
 ]
 ],
 [
-"main/auto_03_801D3C54_text",
-5140,
+"main/nw4r/snd/snd_Bank",
+552,
 0.0,
 0,
 [
-"dol"
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_BankFile",
+1032,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_BasicPlayer",
+352,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_BasicSound",
+4576,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Channel",
+4380,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_DisposeCallbackManager",
+912,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_DvdSoundArchive",
+1456,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_EnvGenerator",
+836,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_ExternalSoundPlayer",
+600,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_FrameHeap",
+2256,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_FxDelay",
+1140,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_FxReverbHi",
+1052,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_InstancePool",
+696,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Lfo",
+496,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_MemorySoundArchive",
+1068,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_MidiSeqPlayer",
+84,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_MmlParser",
+3820,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_MmlSeqTrack",
+192,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_MmlSeqTrackAllocator",
+300,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_NandSoundArchive",
+76,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_RemoteSpeaker",
+2496,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_RemoteSpeakerManager",
+640,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SeqFile",
+124,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SeqPlayer",
+4988,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SeqSound",
+1860,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SeqSoundHandle",
+320,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SeqTrack",
+4616,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Sound3DActor",
+932,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Sound3DListener",
+20,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Sound3DManager",
+2612,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundActor",
+32,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundArchive",
+1528,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundArchiveFile",
+4088,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundArchiveLoader",
+1616,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundArchivePlayer",
+8140,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundHandle",
+280,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundHeap",
+716,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundPlayer",
+5292,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundStartable",
+132,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundSystem",
+688,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_SoundThread",
+1780,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_StrmChannel",
+544,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_StrmFile",
+1484,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_StrmPlayer",
+9376,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_StrmSound",
+880,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Task",
+64,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_TaskManager",
+1900,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_TaskThread",
+540,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Voice",
+10036,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_VoiceManager",
+1928,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_Util",
+1124,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_WaveFile",
+576,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_WaveSound",
+912,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_WsdFile",
+840,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_WsdPlayer",
+4104,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
+]
+],
+[
+"main/nw4r/snd/snd_adpcm",
+140,
+0.0,
+0,
+[
+"dol",
+"nw4r",
+"nw4r_snd"
 ]
 ],
 [

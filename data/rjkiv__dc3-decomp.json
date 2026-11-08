@@ -14687,6 +14687,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "b204cc0422a86d1b56de68db68edb77f4cbfe255",
+"time": "2026-11-08T00:19:59Z",
+"message": "match clipdistmap",
+"measures": {
+"matched_code_percent": 53.6339,
+"complete_code_percent": 31.5873,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.006,
+"total_code": 12206380.0,
+"matched_code": 6546752.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29357.0,
+"total_units": 2230.0,
+"complete_units": 730.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 93.6216,
+"complete_code_percent": 67.572,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 67.1588,
+"total_code": 1283768.0,
+"matched_code": 1201884.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4637.0,
+"total_units": 158.0,
+"complete_units": 136.0
+},
+"engine": {
+"matched_code_percent": 90.6479,
+"complete_code_percent": 50.7281,
+"matched_data_percent": 18.308,
+"complete_data_percent": 53.6704,
+"total_code": 5888864.0,
+"matched_code": 5338132.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24663.0,
+"total_units": 810.0,
+"complete_units": 592.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "6724682411eb8282552fedcd487e9ce6c17f78af",
+"time": "2026-11-08T02:01:26Z",
+"message": "charlipsyncdriver context",
+"measures": {
+"matched_code_percent": 53.6383,
+"complete_code_percent": 31.5873,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.006,
+"total_code": 12206380.0,
+"matched_code": 6547300.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29358.0,
+"total_units": 2230.0,
+"complete_units": 730.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 93.6216,
+"complete_code_percent": 67.572,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 67.1588,
+"total_code": 1283768.0,
+"matched_code": 1201884.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4637.0,
+"total_units": 158.0,
+"complete_units": 136.0
+},
+"engine": {
+"matched_code_percent": 90.6572,
+"complete_code_percent": 50.7281,
+"matched_data_percent": 18.308,
+"complete_data_percent": 53.6704,
+"total_code": 5888864.0,
+"matched_code": 5338680.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24664.0,
+"total_units": 810.0,
+"complete_units": 592.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "fee4bdc3f3db182a4a1b37637378a78c6d02ec8f",
+"time": "2026-11-08T03:21:30Z",
+"message": "charlipsyncdriver matched",
+"measures": {
+"matched_code_percent": 53.6567,
+"complete_code_percent": 31.699,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.0741,
+"total_code": 12206380.0,
+"matched_code": 6549536.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29360.0,
+"total_units": 2230.0,
+"complete_units": 731.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 93.6216,
+"complete_code_percent": 67.572,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 67.1588,
+"total_code": 1283768.0,
+"matched_code": 1201884.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4637.0,
+"total_units": 158.0,
+"complete_units": 136.0
+},
+"engine": {
+"matched_code_percent": 90.6952,
+"complete_code_percent": 50.9596,
+"matched_data_percent": 18.308,
+"complete_data_percent": 53.8757,
+"total_code": 5888864.0,
+"matched_code": 5340916.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24666.0,
+"total_units": 810.0,
+"complete_units": 593.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -14697,7 +14913,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-07T21:14:24Z",
+"units_time": "2026-11-08T03:21:30Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -15449,8 +15665,8 @@
 [
 "default/system/char/CharLipSyncDriver",
 13636,
-98.2,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -15593,8 +15809,8 @@
 [
 "default/system/char/ClipDistMap",
 16568,
-87.8,
-0,
+100.0,
+1,
 [
 "engine"
 ]
