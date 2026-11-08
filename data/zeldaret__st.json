@@ -968,12 +968,50 @@
 "complete_units": 228.0
 },
 "categories": {}
+},
+{
+"sha": "8ec403d2a20e18ccf9eccf0c5a2b5cd8ebd38e2d",
+"time": "2026-11-08T15:27:52Z",
+"message": "Match OverlayManager (#188)",
+"measures": {
+"matched_code_percent": 10.7857,
+"complete_code_percent": 6.0957,
+"matched_data_percent": 31.5739,
+"complete_data_percent": 7.2196,
+"total_code": 4589102.0,
+"matched_code": 494966.0,
+"total_data": 1346588.0,
+"total_functions": 32531.0,
+"matched_functions": 6241.0,
+"total_units": 1278.0,
+"complete_units": 229.0
+},
+"categories": {}
+},
+{
+"sha": "236b5cac82e90b004ebd44ababb66c424b703bac",
+"time": "2026-11-08T21:08:17Z",
+"message": "Link Game and TouchControl (#190)",
+"measures": {
+"matched_code_percent": 10.8121,
+"complete_code_percent": 6.1363,
+"matched_data_percent": 31.5739,
+"complete_data_percent": 7.2196,
+"total_code": 4589102.0,
+"matched_code": 496178.0,
+"total_data": 1346588.0,
+"total_functions": 32531.0,
+"matched_functions": 6243.0,
+"total_units": 1278.0,
+"complete_units": 231.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-11-08T02:41:49Z",
+"units_time": "2026-11-08T21:08:17Z",
 "units": [
 [
 "_dsd_gap@main_29",
@@ -1041,8 +1079,8 @@
 [
 "src/Main/Game/Game",
 972,
-99.47,
-0,
+100.0,
+1,
 []
 ],
 [
@@ -1055,27 +1093,27 @@
 [
 "src/Main/Player/TouchControl",
 892,
-98.65,
-0,
+100.0,
+1,
 []
 ],
 [
 "_dsd_gap@main_7",
-860,
+776,
 0.0,
 0,
 []
 ],
 [
 "src/Main/System/OverlayManager",
-326,
-38.0,
-0,
+614,
+99.98,
+1,
 []
 ],
 [
 "_dsd_gap@main_8",
-3024,
+2820,
 0.0,
 0,
 []

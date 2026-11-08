@@ -2663,6 +2663,150 @@
 "complete_units": 21.0
 }
 }
+},
+{
+"sha": "e5412954bbd13f7b48ec114c083b134103fd38e4",
+"time": "2026-11-08T17:41:10Z",
+"message": "tools: count placeholder lines moved on a split as inherited (#34)",
+"measures": {
+"matched_code_percent": 22.413,
+"complete_code_percent": 2.9409,
+"matched_data_percent": 0.7551,
+"complete_data_percent": 0.4417,
+"total_code": 4045240.0,
+"matched_code": 906660.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6629.0,
+"total_units": 810.0,
+"complete_units": 76.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.2793,
+"complete_code_percent": 7.8752,
+"matched_data_percent": 99.3798,
+"complete_data_percent": 55.0529,
+"total_code": 376420.0,
+"matched_code": 317244.0,
+"total_data": 10964.0,
+"total_functions": 1550.0,
+"matched_functions": 1346.0,
+"total_units": 177.0,
+"complete_units": 22.0
+},
+"unsorted": {
+"matched_code_percent": 9.0805,
+"complete_code_percent": 0.5038,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3176728.0,
+"matched_code": 288464.0,
+"total_data": 4840.0,
+"total_functions": 10268.0,
+"matched_functions": 3723.0,
+"total_units": 252.0,
+"complete_units": 21.0
+}
+}
+},
+{
+"sha": "bc8ac653c98eb146d793b7a024bfa48045194592",
+"time": "2026-11-08T17:56:19Z",
+"message": "nw4r/lyt: import 5 lyt units from ogws and link them (#40)",
+"measures": {
+"matched_code_percent": 22.5303,
+"complete_code_percent": 3.0588,
+"matched_data_percent": 0.7612,
+"complete_data_percent": 0.4478,
+"total_code": 4045240.0,
+"matched_code": 911404.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6656.0,
+"total_units": 824.0,
+"complete_units": 81.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.4759,
+"complete_code_percent": 9.0276,
+"matched_data_percent": 99.3883,
+"complete_data_percent": 55.6675,
+"total_code": 381188.0,
+"matched_code": 322012.0,
+"total_data": 11116.0,
+"total_functions": 1579.0,
+"matched_functions": 1375.0,
+"total_units": 182.0,
+"complete_units": 27.0
+},
+"unsorted": {
+"matched_code_percent": 9.0934,
+"complete_code_percent": 0.5045,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3171960.0,
+"matched_code": 288440.0,
+"total_data": 4840.0,
+"total_functions": 10239.0,
+"matched_functions": 3721.0,
+"total_units": 254.0,
+"complete_units": 21.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2673,7 +2817,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-11-02T14:53:50Z",
+"units_time": "2026-11-08T17:56:19Z",
 "units": [
 [
 "main/src/main",
@@ -7597,8 +7741,71 @@
 ],
 [
 "main/src/.unsorted/8038A3D8",
-20556,
-0.25,
+12208,
+0.13,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/lyt/lyt_texMap",
+768,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/lyt/lyt_drawInfo",
+180,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8038D73C",
+2980,
+0.4,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/lyt/lyt_resourceAccessor",
+88,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/lyt/lyt_arcResourceAccessor",
+992,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/lyt/lyt_common",
+2740,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8038F1CC",
+600,
+0.0,
 0,
 [
 "unsorted"

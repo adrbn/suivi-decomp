@@ -15119,6 +15119,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "f1f62635863bcdb0bfef93a975b569035e42b173",
+"time": "2026-11-08T21:36:30Z",
+"message": "match PartyModeMgr (#367)",
+"measures": {
+"matched_code_percent": 53.7012,
+"complete_code_percent": 32.1599,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.4359,
+"total_code": 12206380.0,
+"matched_code": 6554968.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29373.0,
+"total_units": 2230.0,
+"complete_units": 732.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.0447,
+"complete_code_percent": 71.9547,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 71.0817,
+"total_code": 1283768.0,
+"matched_code": 1207316.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4650.0,
+"total_units": 158.0,
+"complete_units": 137.0
+},
+"engine": {
+"matched_code_percent": 90.6952,
+"complete_code_percent": 50.9596,
+"matched_data_percent": 18.308,
+"complete_data_percent": 53.8757,
+"total_code": 5888864.0,
+"matched_code": 5340916.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24666.0,
+"total_units": 810.0,
+"complete_units": 593.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "38356a6bd7876c7c4f7b709c69105b20a3d59956",
+"time": "2026-11-08T21:45:37Z",
+"message": "thanks rb3",
+"measures": {
+"matched_code_percent": 53.716,
+"complete_code_percent": 32.3813,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.5774,
+"total_code": 12206380.0,
+"matched_code": 6556776.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29380.0,
+"total_units": 2230.0,
+"complete_units": 733.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.0447,
+"complete_code_percent": 71.9547,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 71.0817,
+"total_code": 1283768.0,
+"matched_code": 1207316.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4650.0,
+"total_units": 158.0,
+"complete_units": 137.0
+},
+"engine": {
+"matched_code_percent": 90.7259,
+"complete_code_percent": 51.4185,
+"matched_data_percent": 18.308,
+"complete_data_percent": 54.3022,
+"total_code": 5888864.0,
+"matched_code": 5342724.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24673.0,
+"total_units": 810.0,
+"complete_units": 594.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "c005d93b20cf73cdb7e45e1403818655642b8c02",
+"time": "2026-11-08T22:06:23Z",
+"message": " metagamerank stuff a bit of skeleton chooser yea (#368)",
+"measures": {
+"matched_code_percent": 53.7335,
+"complete_code_percent": 32.3813,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 24.5774,
+"total_code": 12206380.0,
+"matched_code": 6558912.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29384.0,
+"total_units": 2230.0,
+"complete_units": 733.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.2111,
+"complete_code_percent": 71.9547,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 71.0817,
+"total_code": 1283768.0,
+"matched_code": 1209452.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4654.0,
+"total_units": 158.0,
+"complete_units": 137.0
+},
+"engine": {
+"matched_code_percent": 90.7259,
+"complete_code_percent": 51.4185,
+"matched_data_percent": 18.308,
+"complete_data_percent": 54.3022,
+"total_code": 5888864.0,
+"matched_code": 5342724.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24673.0,
+"total_units": 810.0,
+"complete_units": 594.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -15129,7 +15345,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-08T03:21:30Z",
+"units_time": "2026-11-08T22:06:23Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -15593,8 +15809,8 @@
 [
 "default/system/char/CharDriver",
 27024,
-93.31,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -21506,7 +21722,7 @@
 [
 "default/lazer/game/Game",
 23956,
-91.74,
+93.57,
 0,
 [
 "game"
@@ -21515,8 +21731,8 @@
 [
 "default/lazer/game/PartyModeMgr",
 56264,
-98.76,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -21542,7 +21758,7 @@
 [
 "default/lazer/game/GamePanel",
 21828,
-85.33,
+89.83,
 0,
 [
 "game"
@@ -21596,7 +21812,7 @@
 [
 "default/lazer/game/SongSequence",
 14616,
-97.09,
+98.17,
 0,
 [
 "game"
@@ -21659,7 +21875,7 @@
 [
 "default/lazer/meta_ham/MetagameRank",
 36344,
-99.39,
+100.0,
 0,
 [
 "game"
@@ -21695,7 +21911,7 @@
 [
 "default/lazer/meta_ham/MetaPerformer",
 50420,
-99.31,
+99.52,
 0,
 [
 "game"
@@ -21848,7 +22064,7 @@
 [
 "default/lazer/meta_ham/SkeletonChooser",
 23416,
-95.53,
+95.61,
 0,
 [
 "game"

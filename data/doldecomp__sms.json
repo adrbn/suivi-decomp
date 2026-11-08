@@ -7433,6 +7433,183 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "aa0d7e3ca007e1527efea7cfc026bf8cd3867c9e",
+"time": "2026-11-08T14:03:32Z",
+"message": "Initial pass on koopa and limitkoopa (#395)",
+"measures": {
+"matched_code_percent": 51.6918,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.431,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1862816.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10382.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.0689,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.5422,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1169504.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6568.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "bc3c57e88a9c40b4823dbcf68e1ac3a67df95a15",
+"time": "2026-11-08T14:04:17Z",
+"message": "more kukku matching + naming (#394)",
+"measures": {
+"matched_code_percent": 51.7019,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.431,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1863180.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10383.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.0817,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.5422,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1169868.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6569.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "b849cef8f8c5b5adbe8a831c138389b5ebfe4dbb",
+"time": "2026-11-08T15:07:42Z",
+"message": "Assemble DSP microcode as a build step",
+"measures": {
+"matched_code_percent": 51.7019,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.431,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1863180.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10383.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.0817,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.5422,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1169868.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6569.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -7442,7 +7619,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-07T22:38:12Z",
+"units_time": "2026-11-08T15:07:42Z",
 "units": [
 [
 "mario/main",
@@ -8590,7 +8767,7 @@
 [
 "mario/Enemy/Koopa",
 28628,
-0.0,
+97.7,
 0,
 [
 "game"
@@ -8599,7 +8776,7 @@
 [
 "mario/Enemy/Kukku",
 10464,
-97.6,
+98.42,
 0,
 [
 "game"
@@ -8671,7 +8848,7 @@
 [
 "mario/Enemy/limitkoopa",
 12308,
-0.0,
+96.87,
 0,
 [
 "game"
@@ -10786,7 +10963,7 @@
 [
 "mario/System/MarNameRefGen_BossEnemy",
 3456,
-63.21,
+69.62,
 0,
 [
 "game"
