@@ -7610,6 +7610,183 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "185e4c9af024619a411e235ffe8c682fe9ea7ae2",
+"time": "2026-11-09T19:55:28Z",
+"message": "Small improvements on MarioMove + enum for flutterstate + name + enum for water type (#397)",
+"measures": {
+"matched_code_percent": 51.7498,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1864904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10388.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1423,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1171592.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6574.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "fec3db827f6c73933c8d9cd14d427ff85eae2d81",
+"time": "2026-11-09T20:22:36Z",
+"message": "More JASystem naming",
+"measures": {
+"matched_code_percent": 51.7498,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1864904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10388.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1423,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1171592.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6574.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "4b2fd238058bf70822ca226e17f02879a7a46eb4",
+"time": "2026-11-09T21:52:45Z",
+"message": "More DSP microcode secrets documented",
+"measures": {
+"matched_code_percent": 51.7498,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1864904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10388.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1423,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1171592.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6574.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -7619,7 +7796,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-08T15:07:42Z",
+"units_time": "2026-11-09T21:52:45Z",
 "units": [
 [
 "mario/main",
@@ -8245,7 +8422,7 @@
 [
 "mario/Enemy/smallEnemy",
 17608,
-99.56,
+99.57,
 0,
 [
 "game"
@@ -8686,7 +8863,7 @@
 [
 "mario/Enemy/wireTrap",
 10016,
-96.05,
+96.58,
 0,
 [
 "game"
@@ -10441,7 +10618,7 @@
 [
 "mario/Player/MarioDraw",
 21692,
-94.9,
+96.01,
 0,
 [
 "game"
@@ -10450,7 +10627,7 @@
 [
 "mario/Player/MarioJump",
 16208,
-96.67,
+99.06,
 0,
 [
 "game"
@@ -10468,7 +10645,7 @@
 [
 "mario/Player/MarioMove",
 34216,
-98.33,
+98.37,
 0,
 [
 "game"
@@ -10495,7 +10672,7 @@
 [
 "mario/Player/MarioRun",
 19804,
-98.55,
+99.22,
 0,
 [
 "game"
@@ -10504,7 +10681,7 @@
 [
 "mario/Player/MarioSpecial",
 21060,
-90.96,
+92.05,
 0,
 [
 "game"
@@ -10531,7 +10708,7 @@
 [
 "mario/Player/MarioWait",
 7496,
-98.18,
+99.92,
 0,
 [
 "game"
@@ -10558,7 +10735,7 @@
 [
 "mario/Player/WaterGun",
 21016,
-94.63,
+97.96,
 0,
 [
 "game"
@@ -10567,7 +10744,7 @@
 [
 "mario/Player/Yoshi",
 14832,
-96.09,
+96.95,
 0,
 [
 "game"
@@ -10648,7 +10825,7 @@
 [
 "mario/Player/MarioSound",
 9324,
-98.69,
+99.98,
 0,
 [
 "game"
@@ -11449,7 +11626,7 @@
 [
 "mario/JSystem/J3D/J3DGraphAnimator/J3DModel",
 10912,
-99.99,
+100.0,
 0,
 [
 "jsystem"
