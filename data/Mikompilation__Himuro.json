@@ -1814,6 +1814,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "139b9c2cd109f971e477f8f3a98ff7ea2d405fd6",
+"time": "2026-11-10T21:00:26Z",
+"message": "Removed ig_camera asm patches (thanks to @Mc-muffin)",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1821,7 +1854,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-11-06T19:54:01Z",
+"units_time": "2026-11-10T21:00:26Z",
 "units": [
 [
 "main/main",
