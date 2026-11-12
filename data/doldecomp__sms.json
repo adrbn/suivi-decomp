@@ -8082,6 +8082,65 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "009a6b4377bd1759e3641ca78f12a0d79ccc7dfe",
+"time": "2026-11-11T21:09:59Z",
+"message": "Final cleanup of JASystem below logical channels",
+"measures": {
+"matched_code_percent": 51.7498,
+"complete_code_percent": 19.297,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.559,
+"total_code": 3603696.0,
+"matched_code": 1864904.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10388.0,
+"total_units": 732.0,
+"complete_units": 413.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1423,
+"complete_code_percent": 4.1612,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 13.8035,
+"total_code": 2847660.0,
+"matched_code": 1171592.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6574.0,
+"total_units": 385.0,
+"complete_units": 92.0
+},
+"jsystem": {
+"matched_code_percent": 87.7069,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 442320.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2800.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -8091,7 +8150,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-11T01:28:01Z",
+"units_time": "2026-11-11T21:09:59Z",
 "units": [
 [
 "mario/main",
