@@ -16343,6 +16343,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "2f23cc2f8ab9024bb3d0af9e702edbc04df328fa",
+"time": "2026-11-13T03:42:09Z",
+"message": "mark checksumdata as matching",
+"measures": {
+"matched_code_percent": 53.8202,
+"complete_code_percent": 32.8661,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 25.2432,
+"total_code": 12206380.0,
+"matched_code": 6569504.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29404.0,
+"total_units": 2230.0,
+"complete_units": 741.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.2111,
+"complete_code_percent": 74.787,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 76.8237,
+"total_code": 1283768.0,
+"matched_code": 1209452.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4654.0,
+"total_units": 158.0,
+"complete_units": 139.0
+},
+"engine": {
+"matched_code_percent": 90.9057,
+"complete_code_percent": 51.806,
+"matched_data_percent": 18.308,
+"complete_data_percent": 54.7128,
+"total_code": 5888864.0,
+"matched_code": 5353316.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24693.0,
+"total_units": 810.0,
+"complete_units": 600.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "1bf7935608a04621f7a460c710246e677b3d1e0e",
+"time": "2026-11-13T04:31:04Z",
+"message": "match wavreader",
+"measures": {
+"matched_code_percent": 53.8252,
+"complete_code_percent": 32.8857,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 25.2581,
+"total_code": 12206380.0,
+"matched_code": 6570108.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29405.0,
+"total_units": 2230.0,
+"complete_units": 742.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.2111,
+"complete_code_percent": 74.787,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 76.8237,
+"total_code": 1283768.0,
+"matched_code": 1209452.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4654.0,
+"total_units": 158.0,
+"complete_units": 139.0
+},
+"engine": {
+"matched_code_percent": 90.916,
+"complete_code_percent": 51.8465,
+"matched_data_percent": 18.308,
+"complete_data_percent": 54.7577,
+"total_code": 5888864.0,
+"matched_code": 5353920.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24694.0,
+"total_units": 810.0,
+"complete_units": 601.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "e4730715b7a3c26a1ab904ac7b285d09a6f43bd0",
+"time": "2026-11-13T04:56:24Z",
+"message": "simplify objptr loading",
+"measures": {
+"matched_code_percent": 53.8252,
+"complete_code_percent": 32.8857,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 25.2581,
+"total_code": 12206380.0,
+"matched_code": 6570108.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29405.0,
+"total_units": 2230.0,
+"complete_units": 742.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.2111,
+"complete_code_percent": 74.787,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 76.8237,
+"total_code": 1283768.0,
+"matched_code": 1209452.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4654.0,
+"total_units": 158.0,
+"complete_units": 139.0
+},
+"engine": {
+"matched_code_percent": 90.916,
+"complete_code_percent": 51.8465,
+"matched_data_percent": 18.308,
+"complete_data_percent": 54.7577,
+"total_code": 5888864.0,
+"matched_code": 5353920.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24694.0,
+"total_units": 810.0,
+"complete_units": 601.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -16353,7 +16569,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-12T01:08:01Z",
+"units_time": "2026-11-13T04:56:24Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -16404,7 +16620,7 @@
 "default/ChecksumData_xbox",
 16,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -22235,7 +22451,7 @@
 [
 "default/system/utl/GlitchFinder",
 6432,
-99.92,
+99.97,
 0,
 [
 "engine"
@@ -32457,7 +32673,7 @@
 [
 "default/system/moviebink/BinkMovieImpl",
 20452,
-86.62,
+99.22,
 0,
 [
 "engine"
@@ -32934,8 +33150,8 @@
 [
 "default/system/synth/WavReader",
 2388,
-73.19,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -32952,8 +33168,8 @@
 [
 "default/system/synth/BinkReader",
 2516,
-93.22,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -33087,8 +33303,8 @@
 [
 "default/system/utl/BinkIntegration",
 3920,
-75.0,
-0,
+100.0,
+1,
 [
 "engine"
 ]

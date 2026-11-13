@@ -965,6 +965,52 @@
 "complete_units": 28.0
 }
 }
+},
+{
+"sha": "e7a5838fd7d574e936886ce8a26d6c945295703a",
+"time": "2026-11-12T22:03:27Z",
+"message": "Decompile ``daEnDoor_c`` (#143)",
+"measures": {
+"matched_code_percent": 9.0874,
+"complete_code_percent": 9.1009,
+"matched_data_percent": 2.3054,
+"complete_data_percent": 4.115,
+"total_code": 6263156.0,
+"matched_code": 569160.0,
+"total_data": 2210852.0,
+"total_functions": 39965.0,
+"matched_functions": 4157.0,
+"total_units": 1809.0,
+"complete_units": 148.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 17.3378,
+"complete_code_percent": 17.3664,
+"matched_data_percent": 2.9554,
+"complete_data_percent": 5.4873,
+"total_code": 2953388.0,
+"matched_code": 512052.0,
+"total_data": 1319472.0,
+"total_functions": 16462.0,
+"matched_functions": 3708.0,
+"total_units": 724.0,
+"complete_units": 120.0
+},
+"modules": {
+"matched_code_percent": 1.7254,
+"complete_code_percent": 1.7254,
+"matched_data_percent": 1.3431,
+"complete_data_percent": 2.0835,
+"total_code": 3309768.0,
+"matched_code": 57108.0,
+"total_data": 891380.0,
+"total_functions": 23503.0,
+"matched_functions": 449.0,
+"total_units": 1085.0,
+"complete_units": 28.0
+}
+}
 }
 ],
 "branch": "master",
@@ -973,7 +1019,7 @@
 "dol": "DOL",
 "modules": "Modules"
 },
-"units_time": "2026-09-24T09:29:35Z",
+"units_time": "2026-11-12T22:03:27Z",
 "units": [
 [
 "auto_03_80006780_text",
@@ -1310,7 +1356,7 @@
 ],
 [
 "auto_03_8002A740_text",
-4088,
+976,
 0.0,
 0,
 [
@@ -1318,17 +1364,17 @@
 ]
 ],
 [
-"auto_sinit__d_a_en_door_c_text",
-1012,
-0.0,
-0,
+"dol/bases/d_a_en_door.cpp",
+4492,
+100.0,
+1,
 [
 "dol"
 ]
 ],
 [
-"auto_03_8002BCB4_text",
-1736,
+"auto_03_8002BE40_text",
+1356,
 0.0,
 0,
 [
