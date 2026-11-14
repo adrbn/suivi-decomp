@@ -1011,6 +1011,52 @@
 "complete_units": 28.0
 }
 }
+},
+{
+"sha": "7599d6a112d0601ec7565600b32b3d64a7bdd69c",
+"time": "2026-11-13T20:20:37Z",
+"message": "Decompile `dEnCastleDoor_c`, `dEnTorideDoor_c`, `dEnDoor_c`, `dEnSwitchDoor_c`, `dEnObakeDoor_c` (#144)",
+"measures": {
+"matched_code_percent": 9.1737,
+"complete_code_percent": 9.1872,
+"matched_data_percent": 2.4128,
+"complete_data_percent": 4.2955,
+"total_code": 6263156.0,
+"matched_code": 574564.0,
+"total_data": 2210852.0,
+"total_functions": 39964.0,
+"matched_functions": 4217.0,
+"total_units": 1826.0,
+"complete_units": 153.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 17.3378,
+"complete_code_percent": 17.3664,
+"matched_data_percent": 2.9554,
+"complete_data_percent": 5.4873,
+"total_code": 2953388.0,
+"matched_code": 512052.0,
+"total_data": 1319472.0,
+"total_functions": 16462.0,
+"matched_functions": 3708.0,
+"total_units": 724.0,
+"complete_units": 120.0
+},
+"modules": {
+"matched_code_percent": 1.8887,
+"complete_code_percent": 1.8887,
+"matched_data_percent": 1.6096,
+"complete_data_percent": 2.5314,
+"total_code": 3309768.0,
+"matched_code": 62512.0,
+"total_data": 891380.0,
+"total_functions": 23502.0,
+"matched_functions": 509.0,
+"total_units": 1102.0,
+"complete_units": 33.0
+}
+}
 }
 ],
 "branch": "master",
@@ -1019,7 +1065,7 @@
 "dol": "DOL",
 "modules": "Modules"
 },
-"units_time": "2026-11-12T22:03:27Z",
+"units_time": "2026-11-13T20:20:37Z",
 "units": [
 [
 "auto_03_80006780_text",
@@ -11562,7 +11608,25 @@
 ],
 [
 "auto_00_0003170C_text",
-4632,
+372,
+0.0,
+0,
+[
+"modules"
+]
+],
+[
+"d_enemiesNP/bases/d_en_castle_door.cpp",
+1304,
+100.0,
+1,
+[
+"modules"
+]
+],
+[
+"auto_00_00031DF0_text",
+2956,
 0.0,
 0,
 [
@@ -11976,7 +12040,25 @@
 ],
 [
 "auto_00_000524D4_text",
-7464,
+928,
+0.0,
+0,
+[
+"modules"
+]
+],
+[
+"d_enemiesNP/bases/d_en_door.cpp",
+1080,
+100.0,
+1,
+[
+"modules"
+]
+],
+[
+"auto_00_00052D00_text",
+5456,
 0.0,
 0,
 [
@@ -13037,8 +13119,17 @@
 ]
 ],
 [
-"auto_00_000D2930_text",
-7952,
+"d_enemiesNP/bases/d_en_obake_door.cpp",
+1108,
+100.0,
+1,
+[
+"modules"
+]
+],
+[
+"auto_00_000D2DB0_text",
+6844,
 0.0,
 0,
 [
@@ -13614,7 +13705,25 @@
 ],
 [
 "auto_00_00109F60_text",
-4180,
+928,
+0.0,
+0,
+[
+"modules"
+]
+],
+[
+"d_enemiesNP/bases/d_en_switch_door.cpp",
+628,
+100.0,
+1,
+[
+"modules"
+]
+],
+[
+"auto_00_0010A5B0_text",
+2624,
 0.0,
 0,
 [
@@ -13740,7 +13849,25 @@
 ],
 [
 "auto_00_001150BC_text",
-11560,
+372,
+0.0,
+0,
+[
+"modules"
+]
+],
+[
+"d_enemiesNP/bases/d_en_toride_door.cpp",
+1284,
+100.0,
+1,
+[
+"modules"
+]
+],
+[
+"auto_00_00115770_text",
+9904,
 0.0,
 0,
 [

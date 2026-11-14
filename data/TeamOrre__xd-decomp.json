@@ -183,6 +183,52 @@
 "complete_units": 113.0
 }
 }
+},
+{
+"sha": "39bd9a2212ada10ec91cd15b4f7f613144631cca",
+"time": "2026-11-14T06:36:16Z",
+"message": "match msl and runtime (#14)",
+"measures": {
+"matched_code_percent": 13.2346,
+"complete_code_percent": 11.4519,
+"matched_data_percent": 8.4926,
+"complete_data_percent": 8.3267,
+"total_code": 3042576.0,
+"matched_code": 402672.0,
+"total_data": 2121188.0,
+"total_functions": 13181.0,
+"matched_functions": 1870.0,
+"total_units": 737.0,
+"complete_units": 180.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 0.857,
+"complete_code_percent": 0.0082,
+"matched_data_percent": 0.0052,
+"complete_data_percent": 0.0048,
+"total_code": 2386440.0,
+"matched_code": 20452.0,
+"total_data": 1850212.0,
+"total_functions": 11095.0,
+"matched_functions": 530.0,
+"total_units": 480.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 58.2532,
+"complete_code_percent": 53.0738,
+"matched_data_percent": 66.4443,
+"complete_data_percent": 65.1482,
+"total_code": 656136.0,
+"matched_code": 382220.0,
+"total_data": 270976.0,
+"total_functions": 2086.0,
+"matched_functions": 1340.0,
+"total_units": 257.0,
+"complete_units": 177.0
+}
+}
 }
 ],
 "branch": "main",
@@ -191,7 +237,7 @@
 "game": "Game Code",
 "sdk": "SDK Code"
 },
-"units_time": "2026-10-31T02:40:40Z",
+"units_time": "2026-11-14T06:36:16Z",
 "units": [
 [
 "main/game/character",
@@ -430,8 +476,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/global_destructor_chain",
 72,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2149,8 +2195,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/__va_arg",
 200,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2158,8 +2204,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/CPlusLibPPC",
 48,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2167,8 +2213,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/NMWException",
 820,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2176,8 +2222,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/runtime",
 2096,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2185,8 +2231,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/__init_cpp_exceptions",
 112,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2194,8 +2240,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/Gecko_ExceptionPPC",
 104,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2203,8 +2249,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/GCN_mem_alloc",
 184,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2212,8 +2258,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/abort_exit",
 240,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2221,8 +2267,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/alloc",
 1204,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2230,8 +2276,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/ansi_files",
 280,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2239,7 +2285,7 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Src/ansi_fp",
 13788,
-0.0,
+99.34,
 0,
 [
 "sdk"
@@ -2248,8 +2294,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/arith",
 16,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2257,8 +2303,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/buffer_io",
 248,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2266,8 +2312,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/PPC_EABI/Src/critical_regions.gamecube",
 12,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2275,8 +2321,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/ctype",
 36,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2284,8 +2330,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/direct_io",
 904,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2293,8 +2339,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/file_io",
 756,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2302,8 +2348,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/FILE_POS",
 960,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2311,8 +2357,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mbstring",
 280,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2320,8 +2366,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem",
 368,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2329,8 +2375,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/mem_funcs",
 720,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2338,8 +2384,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/misc_io",
 16,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2347,8 +2393,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/printf",
 8448,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2365,8 +2411,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/scanf",
 144,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2374,8 +2420,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/string",
 732,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2383,7 +2429,7 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/strtold",
 4248,
-0.0,
+100.0,
 0,
 [
 "sdk"
@@ -2392,8 +2438,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/strtoul",
 1080,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2401,8 +2447,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/wchar_io",
 136,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2410,8 +2456,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/PPC_EABI/Src/uart_console_io_gcn",
 208,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2419,8 +2465,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_acos",
 572,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2428,8 +2474,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_asin",
 568,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2437,8 +2483,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_atan2",
 656,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2446,8 +2492,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_exp",
 548,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2455,8 +2501,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_fmod",
 828,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2464,8 +2510,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_log",
 636,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2473,8 +2519,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_pow",
 2096,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2482,8 +2528,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_rem_pio2",
 928,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2491,8 +2537,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_cos",
 244,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2500,8 +2546,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_rem_pio2",
 3668,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2509,8 +2555,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_sin",
 160,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2518,8 +2564,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/k_tan",
 532,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2527,8 +2573,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_atan",
 536,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2536,8 +2582,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ceil",
 324,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2545,8 +2591,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_copysign",
 40,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2554,8 +2600,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_cos",
 212,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2563,8 +2609,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_floor",
 328,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2572,8 +2618,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_frexp",
 140,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2581,8 +2627,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_ldexp",
 452,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2590,8 +2636,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_modf",
 252,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2599,8 +2645,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_sin",
 216,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2608,8 +2654,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/s_tan",
 120,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2617,8 +2663,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_acos",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2626,8 +2672,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_asin",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2635,8 +2681,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_atan2",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2644,8 +2690,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_exp",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2653,8 +2699,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_fmod",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2662,8 +2708,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_log",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2671,8 +2717,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_pow",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2680,8 +2726,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/e_sqrt",
 548,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2689,7 +2735,7 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/PPC_EABI/Src/math_ppc",
 480,
-0.0,
+50.83,
 0,
 [
 "sdk"
@@ -2698,8 +2744,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common_Embedded/Math/Double_precision/w_sqrt",
 32,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -2707,8 +2753,8 @@
 [
 "main/PowerPC_EABI_Support/MSL_C/MSL_Common/Src/extras",
 140,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
@@ -6190,8 +6236,8 @@
 [
 "main/PowerPC_EABI_Support/Runtime/Src/__mem",
 312,
-0.0,
-0,
+100.0,
+1,
 [
 "sdk"
 ]
