@@ -2807,6 +2807,78 @@
 "complete_units": 21.0
 }
 }
+},
+{
+"sha": "513270a640b3f43252612e653d39dc6186ed2055",
+"time": "2026-11-14T10:51:27Z",
+"message": "github: add CODEOWNERS so only non-decomp paths need review (#42)",
+"measures": {
+"matched_code_percent": 22.5303,
+"complete_code_percent": 3.0588,
+"matched_data_percent": 0.7612,
+"complete_data_percent": 0.4478,
+"total_code": 4045240.0,
+"matched_code": 911404.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6656.0,
+"total_units": 824.0,
+"complete_units": 81.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.4759,
+"complete_code_percent": 9.0276,
+"matched_data_percent": 99.3883,
+"complete_data_percent": 55.6675,
+"total_code": 381188.0,
+"matched_code": 322012.0,
+"total_data": 11116.0,
+"total_functions": 1579.0,
+"matched_functions": 1375.0,
+"total_units": 182.0,
+"complete_units": 27.0
+},
+"unsorted": {
+"matched_code_percent": 9.0934,
+"complete_code_percent": 0.5045,
+"matched_data_percent": 40.6612,
+"complete_data_percent": 17.1901,
+"total_code": 3171960.0,
+"matched_code": 288440.0,
+"total_data": 4840.0,
+"total_functions": 10239.0,
+"matched_functions": 3721.0,
+"total_units": 254.0,
+"complete_units": 21.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2817,7 +2889,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-11-08T17:56:19Z",
+"units_time": "2026-11-14T10:51:27Z",
 "units": [
 [
 "main/src/main",
