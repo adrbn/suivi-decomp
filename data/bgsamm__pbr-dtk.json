@@ -2879,6 +2879,78 @@
 "complete_units": 21.0
 }
 }
+},
+{
+"sha": "1d15ad0ddc5e0293cc43509078f4dc237dd13c3e",
+"time": "2026-11-14T20:48:32Z",
+"message": "nw4r/snd: import 17 snd units from ogws and link them (#43)",
+"measures": {
+"matched_code_percent": 22.8243,
+"complete_code_percent": 3.3532,
+"matched_data_percent": 4.9501,
+"complete_data_percent": 4.6368,
+"total_code": 4045240.0,
+"matched_code": 923296.0,
+"total_data": 2495948.0,
+"total_functions": 13890.0,
+"matched_functions": 6734.0,
+"total_units": 865.0,
+"complete_units": 98.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 55.7087,
+"complete_code_percent": 17.7432,
+"matched_data_percent": 88.0499,
+"complete_data_percent": 68.2206,
+"total_code": 413228.0,
+"matched_code": 230204.0,
+"total_data": 6092.0,
+"total_functions": 1775.0,
+"matched_functions": 1307.0,
+"total_units": 66.0,
+"complete_units": 33.0
+},
+"runtime": {
+"matched_code_percent": 95.4661,
+"complete_code_percent": 0.0,
+"matched_data_percent": 65.9574,
+"complete_data_percent": 0.0,
+"total_code": 74108.0,
+"matched_code": 70748.0,
+"total_data": 940.0,
+"total_functions": 257.0,
+"matched_functions": 253.0,
+"total_units": 76.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 84.9462,
+"complete_code_percent": 11.7834,
+"matched_data_percent": 99.9412,
+"complete_data_percent": 95.7397,
+"total_code": 393096.0,
+"matched_code": 333920.0,
+"total_data": 115672.0,
+"total_functions": 1659.0,
+"matched_functions": 1455.0,
+"total_units": 199.0,
+"complete_units": 44.0
+},
+"unsorted": {
+"matched_code_percent": 9.1272,
+"complete_code_percent": 0.5064,
+"matched_data_percent": 40.6121,
+"complete_data_percent": 17.2043,
+"total_code": 3160052.0,
+"matched_code": 288424.0,
+"total_data": 4836.0,
+"total_functions": 10159.0,
+"matched_functions": 3719.0,
+"total_units": 263.0,
+"complete_units": 21.0
+}
+}
 }
 ],
 "branch": "main",
@@ -2889,7 +2961,7 @@
 "sdk": "RVL SDK",
 "unsorted": "Unsorted"
 },
-"units_time": "2026-11-14T10:51:27Z",
+"units_time": "2026-11-14T20:48:32Z",
 "units": [
 [
 "main/src/main",
@@ -7705,8 +7777,44 @@
 ],
 [
 "main/src/.unsorted/80367FAC",
-25068,
-0.49,
+18232,
+0.09,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_AxfxImpl",
+368,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8036C854",
+552,
+0.0,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_BankFile",
+1032,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8036CE84",
+4884,
+2.21,
 0,
 [
 "unsorted"
@@ -7714,8 +7822,80 @@
 ],
 [
 "main/src/.unsorted/8036E198",
-29140,
-0.89,
+6816,
+0.47,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_EnvGenerator",
+836,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_ExternalSoundPlayer",
+224,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8037005C",
+6376,
+1.25,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_InstancePool",
+696,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_Lfo",
+496,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/80371DEC",
+6588,
+0.67,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_RemoteSpeakerManager",
+572,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/803739E4",
+6536,
+1.47,
 0,
 [
 "unsorted"
@@ -7723,17 +7903,62 @@
 ],
 [
 "main/src/.unsorted/8037536C",
-28900,
-0.86,
+28080,
+0.88,
 0,
 [
 "unsorted"
 ]
 ],
 [
+"main/libs/nw4r/src/snd/snd_SoundStartable",
+132,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_SoundSystem",
+688,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
 "main/src/.unsorted/8037C450",
-13496,
-0.83,
+1652,
+0.0,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_StrmChannel",
+544,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_StrmFile",
+1484,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8037D2B0",
+9816,
+1.14,
 0,
 [
 "unsorted"
@@ -7741,8 +7966,62 @@
 ],
 [
 "main/src/.unsorted/8037F908",
-16540,
-0.53,
+1792,
+0.0,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_TaskThread",
+452,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/803801CC",
+10036,
+0.04,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_VoiceManager",
+1704,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_Util",
+1124,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_WaveFile",
+576,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/8038364C",
+856,
+8.88,
 0,
 [
 "unsorted"
@@ -7750,11 +8029,38 @@
 ],
 [
 "main/src/.unsorted/803839A4",
-4920,
-0.81,
+56,
+0.0,
 0,
 [
 "unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_WsdFile",
+840,
+100.0,
+1,
+[
+"sdk"
+]
+],
+[
+"main/src/.unsorted/80383D24",
+3884,
+1.03,
+0,
+[
+"unsorted"
+]
+],
+[
+"main/libs/nw4r/src/snd/snd_adpcm",
+140,
+100.0,
+1,
+[
+"sdk"
 ]
 ],
 [

@@ -1880,6 +1880,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "e82916f4f7eef532a6ffff4ef13d2522a91d303c",
+"time": "2026-11-14T18:54:49Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/menu/ig_rank.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1887,7 +1920,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-11-11T10:12:55Z",
+"units_time": "2026-11-14T18:54:49Z",
 "units": [
 [
 "main/main",
