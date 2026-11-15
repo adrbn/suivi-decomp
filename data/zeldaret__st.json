@@ -1006,12 +1006,31 @@
 "complete_units": 231.0
 },
 "categories": {}
+},
+{
+"sha": "648076ccdff6edcaac69599c1728f5a34553c4a1",
+"time": "2026-11-15T01:54:01Z",
+"message": "Document library stuff (Part 4) (#193)",
+"measures": {
+"matched_code_percent": 10.8121,
+"complete_code_percent": 6.1363,
+"matched_data_percent": 31.5739,
+"complete_data_percent": 7.2196,
+"total_code": 4589102.0,
+"matched_code": 496178.0,
+"total_data": 1346588.0,
+"total_functions": 32531.0,
+"matched_functions": 6243.0,
+"total_units": 1278.0,
+"complete_units": 231.0
+},
+"categories": {}
 }
 ],
 "branch": "main",
 "artifact": "eur1_report",
 "category_names": {},
-"units_time": "2026-11-08T21:08:17Z",
+"units_time": "2026-11-15T01:54:01Z",
 "units": [
 [
 "_dsd_gap@main_29",
