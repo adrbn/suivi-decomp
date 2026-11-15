@@ -229,6 +229,52 @@
 "complete_units": 177.0
 }
 }
+},
+{
+"sha": "48b6deae4fc5158bdbc5dc83f9235dd1fc706699",
+"time": "2026-11-15T08:53:48Z",
+"message": "enforce c++03 standard with NULL instead of nullptr macro",
+"measures": {
+"matched_code_percent": 13.2346,
+"complete_code_percent": 11.4519,
+"matched_data_percent": 8.4926,
+"complete_data_percent": 8.3267,
+"total_code": 3042576.0,
+"matched_code": 402672.0,
+"total_data": 2121188.0,
+"total_functions": 13181.0,
+"matched_functions": 1870.0,
+"total_units": 737.0,
+"complete_units": 180.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 0.857,
+"complete_code_percent": 0.0082,
+"matched_data_percent": 0.0052,
+"complete_data_percent": 0.0048,
+"total_code": 2386440.0,
+"matched_code": 20452.0,
+"total_data": 1850212.0,
+"total_functions": 11095.0,
+"matched_functions": 530.0,
+"total_units": 480.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 58.2532,
+"complete_code_percent": 53.0738,
+"matched_data_percent": 66.4443,
+"complete_data_percent": 65.1482,
+"total_code": 656136.0,
+"matched_code": 382220.0,
+"total_data": 270976.0,
+"total_functions": 2086.0,
+"matched_functions": 1340.0,
+"total_units": 257.0,
+"complete_units": 177.0
+}
+}
 }
 ],
 "branch": "main",
@@ -237,7 +283,7 @@
 "game": "Game Code",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-14T06:36:16Z",
+"units_time": "2026-11-15T08:53:48Z",
 "units": [
 [
 "main/game/character",
