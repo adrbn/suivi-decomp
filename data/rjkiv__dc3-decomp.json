@@ -17855,6 +17855,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "f7bf0ec573d599e879a837b233e43ffda41fbe0a",
+"time": "2026-11-16T01:42:22Z",
+"message": "mark synapseapo as matching",
+"measures": {
+"matched_code_percent": 54.0212,
+"complete_code_percent": 34.2782,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.3422,
+"total_code": 12206380.0,
+"matched_code": 6594036.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29489.0,
+"total_units": 2230.0,
+"complete_units": 757.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.2656,
+"complete_code_percent": 54.5058,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.736,
+"total_code": 5888864.0,
+"matched_code": 5374508.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24765.0,
+"total_units": 810.0,
+"complete_units": 615.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "512c4cfe22c1ab5eb69bbc2578c03f13be478aae",
+"time": "2026-11-16T02:53:43Z",
+"message": "misc synapse apo",
+"measures": {
+"matched_code_percent": 54.0272,
+"complete_code_percent": 34.2782,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.3422,
+"total_code": 12206380.0,
+"matched_code": 6594768.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29490.0,
+"total_units": 2230.0,
+"complete_units": 757.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.278,
+"complete_code_percent": 54.5058,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.736,
+"total_code": 5888864.0,
+"matched_code": 5375240.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24766.0,
+"total_units": 810.0,
+"complete_units": 615.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "8b54d9c6c04a0f7bcc3c580eff3a3d280a26ebf9",
+"time": "2026-11-16T03:28:30Z",
+"message": "metereffect is so close it hurts",
+"measures": {
+"matched_code_percent": 54.0272,
+"complete_code_percent": 34.2782,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.3422,
+"total_code": 12206380.0,
+"matched_code": 6594768.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29490.0,
+"total_units": 2230.0,
+"complete_units": 757.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.278,
+"complete_code_percent": 54.5058,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.736,
+"total_code": 5888864.0,
+"matched_code": 5375240.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24766.0,
+"total_units": 810.0,
+"complete_units": 615.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -17865,7 +18081,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-15T18:09:44Z",
+"units_time": "2026-11-16T03:28:30Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -34149,8 +34365,8 @@
 [
 "default/system/synth360/ExternalMic",
 7416,
-96.18,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -34194,7 +34410,7 @@
 [
 "default/system/synth360/MeterEffect",
 896,
-57.59,
+82.1,
 0,
 [
 "engine"
@@ -34212,8 +34428,8 @@
 [
 "default/system/synth360/StreamReceiver",
 3496,
-93.12,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -34248,8 +34464,8 @@
 [
 "default/system/synth360/synapse_apo/SynapseAPO",
 1476,
-88.08,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -34266,8 +34482,8 @@
 [
 "default/system/synth360/HeadsetPlaybackEffect",
 744,
-70.23,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -34275,8 +34491,8 @@
 [
 "default/system/synth360/SampleInst",
 1252,
-85.62,
-0,
+100.0,
+1,
 [
 "engine"
 ]
@@ -34293,7 +34509,7 @@
 [
 "default/system/synth360/synapse_apo/Synapse_dsp",
 9756,
-88.19,
+88.95,
 0,
 [
 "engine"
@@ -34410,7 +34626,7 @@
 [
 "default/system/synth360/synapse_apo/SpectralAnalysis",
 2044,
-73.41,
+75.73,
 0,
 [
 "engine"

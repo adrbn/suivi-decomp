@@ -1057,6 +1057,52 @@
 "complete_units": 33.0
 }
 }
+},
+{
+"sha": "131a4d08c4d47fc1ef87e83b43db96e09cbfa531",
+"time": "2026-11-15T19:37:02Z",
+"message": "Decompile `daIce_c` (#145)",
+"measures": {
+"matched_code_percent": 9.6717,
+"complete_code_percent": 9.6852,
+"matched_data_percent": 2.5226,
+"complete_data_percent": 4.4719,
+"total_code": 6263156.0,
+"matched_code": 605756.0,
+"total_data": 2210852.0,
+"total_functions": 39964.0,
+"matched_functions": 4368.0,
+"total_units": 1822.0,
+"complete_units": 154.0
+},
+"categories": {
+"dol": {
+"matched_code_percent": 18.3939,
+"complete_code_percent": 18.4225,
+"matched_data_percent": 3.1394,
+"complete_data_percent": 5.7829,
+"total_code": 2953388.0,
+"matched_code": 543244.0,
+"total_data": 1319472.0,
+"total_functions": 16462.0,
+"matched_functions": 3859.0,
+"total_units": 720.0,
+"complete_units": 121.0
+},
+"modules": {
+"matched_code_percent": 1.8887,
+"complete_code_percent": 1.8887,
+"matched_data_percent": 1.6096,
+"complete_data_percent": 2.5314,
+"total_code": 3309768.0,
+"matched_code": 62512.0,
+"total_data": 891380.0,
+"total_functions": 23502.0,
+"matched_functions": 509.0,
+"total_units": 1102.0,
+"complete_units": 33.0
+}
+}
 }
 ],
 "branch": "master",
@@ -1065,7 +1111,7 @@
 "dol": "DOL",
 "modules": "Modules"
 },
-"units_time": "2026-11-13T20:20:37Z",
+"units_time": "2026-11-15T19:37:02Z",
 "units": [
 [
 "auto_03_80006780_text",
@@ -3508,7 +3554,7 @@
 ],
 [
 "auto_03_8011B284_text",
-27848,
+928,
 0.0,
 0,
 [
@@ -3516,19 +3562,10 @@
 ]
 ],
 [
-"auto_sinit__d_a_ice_cpp_text",
-3904,
-0.0,
-0,
-[
-"dol"
-]
-],
-[
-"auto_03_80123270_text",
-368,
-0.0,
-0,
+"dol/bases/d_a_ice.cpp",
+31192,
+100.0,
+1,
 [
 "dol"
 ]
