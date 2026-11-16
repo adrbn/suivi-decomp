@@ -8790,6 +8790,183 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "d131ac262d5775c28b9cec574b893b42d4fdd4e7",
+"time": "2026-11-16T08:20:18Z",
+"message": "JASVload naming",
+"measures": {
+"matched_code_percent": 51.8341,
+"complete_code_percent": 19.306,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.5628,
+"total_code": 3603696.0,
+"matched_code": 1867944.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10393.0,
+"total_units": 732.0,
+"complete_units": 414.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1831,
+"complete_code_percent": 4.1725,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 13.8078,
+"total_code": 2847660.0,
+"matched_code": 1172756.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6578.0,
+"total_units": 385.0,
+"complete_units": 93.0
+},
+"jsystem": {
+"matched_code_percent": 88.0789,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 444196.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2801.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "8a09ba54b6cb7a62041ed8c8a8443d248df8af78",
+"time": "2026-11-16T19:17:06Z",
+"message": "MoveBG/MapObjFloat: mark as Matching (#408)",
+"measures": {
+"matched_code_percent": 51.8341,
+"complete_code_percent": 19.3526,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.8005,
+"total_code": 3603696.0,
+"matched_code": 1867944.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10393.0,
+"total_units": 732.0,
+"complete_units": 415.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1831,
+"complete_code_percent": 4.2315,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 14.0808,
+"total_code": 2847660.0,
+"matched_code": 1172756.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6578.0,
+"total_units": 385.0,
+"complete_units": 94.0
+},
+"jsystem": {
+"matched_code_percent": 88.0789,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 444196.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2801.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
+},
+{
+"sha": "4b5027ad8dbde2b197cfdb9c5148e0ff94351c50",
+"time": "2026-11-16T19:20:22Z",
+"message": "fix(BWanwan): naming + using proper enums + more matching (#404)",
+"measures": {
+"matched_code_percent": 51.8341,
+"complete_code_percent": 19.3526,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.8005,
+"total_code": 3603696.0,
+"matched_code": 1867944.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10393.0,
+"total_units": 732.0,
+"complete_units": 415.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1831,
+"complete_code_percent": 4.2315,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 14.0808,
+"total_code": 2847660.0,
+"matched_code": 1172756.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6578.0,
+"total_units": 385.0,
+"complete_units": 94.0
+},
+"jsystem": {
+"matched_code_percent": 88.0789,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 444196.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2801.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -8799,7 +8976,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-15T23:18:21Z",
+"units_time": "2026-11-16T19:20:22Z",
 "units": [
 [
 "mario/main",
@@ -9569,7 +9746,7 @@
 [
 "mario/Enemy/bosswanwan",
 31708,
-97.53,
+98.24,
 0,
 [
 "game"
@@ -10794,7 +10971,7 @@
 "mario/MoveBG/MapObjFloat",
 1680,
 100.0,
-0,
+1,
 [
 "game"
 ]
@@ -11117,8 +11294,8 @@
 [
 "mario/NPC/NpcThrow",
 324,
-99.81,
-0,
+100.0,
+1,
 [
 "game"
 ]

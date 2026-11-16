@@ -21384,6 +21384,339 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "92d025116509c4430f7f5a3359031c636d4988e9",
+"time": "2026-11-16T19:29:41Z",
+"message": "`StageSwitch` improvements",
+"measures": {
+"matched_code_percent": 19.8299,
+"complete_code_percent": 2.4744,
+"matched_data_percent": 11.0721,
+"complete_data_percent": 2.3801,
+"total_code": 6269260.0,
+"matched_code": 1243188.0,
+"total_data": 1702616.0,
+"total_functions": 50348.0,
+"matched_functions": 8359.0,
+"total_units": 2487.0,
+"complete_units": 158.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.3865,
+"complete_code_percent": 1.2301,
+"matched_data_percent": 4.0802,
+"complete_data_percent": 2.7834,
+"total_code": 4962092.0,
+"matched_code": 267284.0,
+"total_data": 724572.0,
+"total_functions": 43818.0,
+"matched_functions": 2877.0,
+"total_units": 1774.0,
+"complete_units": 56.0
+},
+"jsys": {
+"matched_code_percent": 86.1674,
+"complete_code_percent": 0.3181,
+"matched_data_percent": 9.3666,
+"complete_data_percent": 0.0,
+"total_code": 360944.0,
+"matched_code": 311016.0,
+"total_data": 180172.0,
+"total_functions": 2942.0,
+"matched_functions": 2654.0,
+"total_units": 169.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "60c8db97c70893ec5896b9c45306adac3f799a5b",
+"time": "2026-11-16T22:00:42Z",
+"message": "Merge pull request #60 from not-aoyama/ShareUtil",
+"measures": {
+"matched_code_percent": 19.8329,
+"complete_code_percent": 2.4774,
+"matched_data_percent": 11.0757,
+"complete_data_percent": 2.3836,
+"total_code": 6269260.0,
+"matched_code": 1243376.0,
+"total_data": 1702612.0,
+"total_functions": 50348.0,
+"matched_functions": 8361.0,
+"total_units": 2487.0,
+"complete_units": 159.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.3903,
+"complete_code_percent": 1.2339,
+"matched_data_percent": 4.0885,
+"complete_data_percent": 2.7917,
+"total_code": 4962092.0,
+"matched_code": 267472.0,
+"total_data": 724568.0,
+"total_functions": 43818.0,
+"matched_functions": 2879.0,
+"total_units": 1774.0,
+"complete_units": 57.0
+},
+"jsys": {
+"matched_code_percent": 86.1674,
+"complete_code_percent": 0.3181,
+"matched_data_percent": 9.3666,
+"complete_data_percent": 0.0,
+"total_code": 360944.0,
+"matched_code": 311016.0,
+"total_data": 180172.0,
+"total_functions": 2942.0,
+"matched_functions": 2654.0,
+"total_units": 169.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "df4a2585c466f8b294f9dfe6811a7182740d2f88",
+"time": "2026-11-16T22:04:34Z",
+"message": "Merge pull request #59 from not-aoyama/QuestionCoin",
+"measures": {
+"matched_code_percent": 19.8946,
+"complete_code_percent": 2.4774,
+"matched_data_percent": 11.0973,
+"complete_data_percent": 2.3836,
+"total_code": 6269260.0,
+"matched_code": 1247244.0,
+"total_data": 1702608.0,
+"total_functions": 50348.0,
+"matched_functions": 8389.0,
+"total_units": 2487.0,
+"complete_units": 159.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.4683,
+"complete_code_percent": 1.2339,
+"matched_data_percent": 4.1393,
+"complete_data_percent": 2.7917,
+"total_code": 4962092.0,
+"matched_code": 271340.0,
+"total_data": 724564.0,
+"total_functions": 43818.0,
+"matched_functions": 2907.0,
+"total_units": 1774.0,
+"complete_units": 57.0
+},
+"jsys": {
+"matched_code_percent": 86.1674,
+"complete_code_percent": 0.3181,
+"matched_data_percent": 9.3666,
+"complete_data_percent": 0.0,
+"total_code": 360944.0,
+"matched_code": 311016.0,
+"total_data": 180172.0,
+"total_functions": 2942.0,
+"matched_functions": 2654.0,
+"total_units": 169.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -21397,7 +21730,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-11-10T19:46:13Z",
+"units_time": "2026-11-16T22:04:34Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -21888,8 +22221,8 @@
 [
 "main/Game/Util/ShareUtil",
 188,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -22041,8 +22374,8 @@
 [
 "main/Game/Util/JMapIdInfo",
 304,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -28296,7 +28629,7 @@
 [
 "main/Game/LiveActor/LiveActorGroupArray",
 1312,
-69.6,
+70.43,
 0,
 [
 "game"
@@ -29124,8 +29457,8 @@
 [
 "main/Game/Map/StageSwitch",
 2116,
-97.06,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -30951,7 +31284,7 @@
 [
 "main/Game/MapObj/QuestionCoin",
 3868,
-0.0,
+100.0,
 0,
 [
 "game"
