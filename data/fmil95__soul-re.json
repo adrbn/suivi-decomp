@@ -3970,6 +3970,384 @@
 }
 },
 {
+"sha": "646d7f73f72155f60cce9bd799d31327ad969808",
+"time": "2026-11-13T18:00:16Z",
+"message": "Match func_88000B90",
+"measures": {
+"matched_code_percent": 91.4588,
+"complete_code_percent": 0.0,
+"matched_data_percent": 29.4641,
+"complete_data_percent": 0.0,
+"total_code": 751836.0,
+"matched_code": 687620.0,
+"total_data": 152745.0,
+"total_functions": 2693.0,
+"matched_functions": 2528.0,
+"total_units": 98.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 97.015,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.3297,
+"complete_data_percent": 0.0,
+"total_code": 653008.0,
+"matched_code": 633516.0,
+"total_data": 78305.0,
+"total_functions": 2274.0,
+"matched_functions": 2256.0,
+"total_units": 86.0,
+"complete_units": 0.0
+},
+"cinemax": {
+"matched_code_percent": 57.5798,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3008.0,
+"matched_code": 1732.0,
+"total_data": 70132.0,
+"total_functions": 13.0,
+"matched_functions": 12.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"mcardx": {
+"matched_code_percent": 24.026,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8008.0,
+"matched_code": 1924.0,
+"total_data": 1852.0,
+"total_functions": 60.0,
+"matched_functions": 29.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"hunter": {
+"matched_code_percent": 57.3984,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2460.0,
+"matched_code": 1412.0,
+"total_data": 104.0,
+"total_functions": 7.0,
+"matched_functions": 6.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"skinner": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2928.0,
+"matched_code": 2928.0,
+"total_data": 92.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"wallcr": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 11456.0,
+"matched_code": 0.0,
+"total_data": 252.0,
+"total_functions": 52.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"aluka": {
+"matched_code_percent": 68.0103,
+"complete_code_percent": 0.0,
+"matched_data_percent": 33.6538,
+"complete_data_percent": 0.0,
+"total_code": 23220.0,
+"matched_code": 15792.0,
+"total_data": 416.0,
+"total_functions": 95.0,
+"matched_functions": 81.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"skinbos": {
+"matched_code_percent": 74.7654,
+"complete_code_percent": 0.0,
+"matched_data_percent": 48.0,
+"complete_data_percent": 0.0,
+"total_code": 11508.0,
+"matched_code": 8604.0,
+"total_data": 300.0,
+"total_functions": 38.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"kain": {
+"matched_code_percent": 61.7112,
+"complete_code_percent": 0.0,
+"matched_data_percent": 42.8571,
+"complete_data_percent": 0.0,
+"total_code": 10332.0,
+"matched_code": 6376.0,
+"total_data": 224.0,
+"total_functions": 30.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walboss": {
+"matched_code_percent": 0.0949,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8428.0,
+"matched_code": 8.0,
+"total_data": 548.0,
+"total_functions": 39.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walbosb": {
+"matched_code_percent": 95.6925,
+"complete_code_percent": 0.0,
+"matched_data_percent": 60.0,
+"complete_data_percent": 0.0,
+"total_code": 7336.0,
+"matched_code": 7020.0,
+"total_data": 260.0,
+"total_functions": 35.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"alukabss": {
+"matched_code_percent": 78.3724,
+"complete_code_percent": 0.0,
+"matched_data_percent": 76.087,
+"complete_data_percent": 0.0,
+"total_code": 5456.0,
+"matched_code": 4276.0,
+"total_data": 184.0,
+"total_functions": 29.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"roninbss": {
+"matched_code_percent": 81.9006,
+"complete_code_percent": 0.0,
+"matched_data_percent": 63.0769,
+"complete_data_percent": 0.0,
+"total_code": 10144.0,
+"matched_code": 8308.0,
+"total_data": 260.0,
+"total_functions": 34.0,
+"matched_functions": 33.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
+"sha": "115df08b3bb0a8334834a7381cde9104bc17a4b0",
+"time": "2026-11-13T18:02:06Z",
+"message": "Match func_88000C34",
+"measures": {
+"matched_code_percent": 91.4705,
+"complete_code_percent": 0.0,
+"matched_data_percent": 29.4641,
+"complete_data_percent": 0.0,
+"total_code": 751836.0,
+"matched_code": 687708.0,
+"total_data": 152745.0,
+"total_functions": 2693.0,
+"matched_functions": 2530.0,
+"total_units": 98.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 97.015,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.3297,
+"complete_data_percent": 0.0,
+"total_code": 653008.0,
+"matched_code": 633516.0,
+"total_data": 78305.0,
+"total_functions": 2274.0,
+"matched_functions": 2256.0,
+"total_units": 86.0,
+"complete_units": 0.0
+},
+"cinemax": {
+"matched_code_percent": 57.5798,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 3008.0,
+"matched_code": 1732.0,
+"total_data": 70132.0,
+"total_functions": 13.0,
+"matched_functions": 12.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"mcardx": {
+"matched_code_percent": 25.1249,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8008.0,
+"matched_code": 2012.0,
+"total_data": 1852.0,
+"total_functions": 60.0,
+"matched_functions": 31.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"hunter": {
+"matched_code_percent": 57.3984,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2460.0,
+"matched_code": 1412.0,
+"total_data": 104.0,
+"total_functions": 7.0,
+"matched_functions": 6.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"skinner": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2928.0,
+"matched_code": 2928.0,
+"total_data": 92.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"wallcr": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 11456.0,
+"matched_code": 0.0,
+"total_data": 252.0,
+"total_functions": 52.0,
+"matched_functions": 0.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"aluka": {
+"matched_code_percent": 68.0103,
+"complete_code_percent": 0.0,
+"matched_data_percent": 33.6538,
+"complete_data_percent": 0.0,
+"total_code": 23220.0,
+"matched_code": 15792.0,
+"total_data": 416.0,
+"total_functions": 95.0,
+"matched_functions": 81.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"skinbos": {
+"matched_code_percent": 74.7654,
+"complete_code_percent": 0.0,
+"matched_data_percent": 48.0,
+"complete_data_percent": 0.0,
+"total_code": 11508.0,
+"matched_code": 8604.0,
+"total_data": 300.0,
+"total_functions": 38.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"kain": {
+"matched_code_percent": 61.7112,
+"complete_code_percent": 0.0,
+"matched_data_percent": 42.8571,
+"complete_data_percent": 0.0,
+"total_code": 10332.0,
+"matched_code": 6376.0,
+"total_data": 224.0,
+"total_functions": 30.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walboss": {
+"matched_code_percent": 0.0949,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 8428.0,
+"matched_code": 8.0,
+"total_data": 548.0,
+"total_functions": 39.0,
+"matched_functions": 1.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walbosb": {
+"matched_code_percent": 95.6925,
+"complete_code_percent": 0.0,
+"matched_data_percent": 60.0,
+"complete_data_percent": 0.0,
+"total_code": 7336.0,
+"matched_code": 7020.0,
+"total_data": 260.0,
+"total_functions": 35.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"alukabss": {
+"matched_code_percent": 78.3724,
+"complete_code_percent": 0.0,
+"matched_data_percent": 76.087,
+"complete_data_percent": 0.0,
+"total_code": 5456.0,
+"matched_code": 4276.0,
+"total_data": 184.0,
+"total_functions": 29.0,
+"matched_functions": 26.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"roninbss": {
+"matched_code_percent": 81.9006,
+"complete_code_percent": 0.0,
+"matched_data_percent": 63.0769,
+"complete_data_percent": 0.0,
+"total_code": 10144.0,
+"matched_code": 8308.0,
+"total_data": 260.0,
+"total_functions": 34.0,
+"matched_functions": 33.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
+},
+{
 "sha": "b0f14c5172b3768b7fb754e4269203e3ab923e34",
 "time": "2026-11-13T18:02:36Z",
 "message": "Match func_88000C68",
@@ -9071,6 +9449,195 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "45b432858e11dbe560d9c94e6fce739900e13eed",
+"time": "2026-11-17T08:15:33Z",
+"message": "Migrate aluka, walboss and wallcr data to C + decompile rest of the overlays",
+"measures": {
+"matched_code_percent": 95.0791,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.8173,
+"complete_data_percent": 0.0,
+"total_code": 752144.0,
+"matched_code": 715132.0,
+"total_data": 81301.0,
+"total_functions": 2694.0,
+"matched_functions": 2651.0,
+"total_units": 99.0,
+"complete_units": 0.0
+},
+"categories": {
+"main": {
+"matched_code_percent": 97.015,
+"complete_code_percent": 0.0,
+"matched_data_percent": 56.3297,
+"complete_data_percent": 0.0,
+"total_code": 653008.0,
+"matched_code": 633516.0,
+"total_data": 78305.0,
+"total_functions": 2274.0,
+"matched_functions": 2256.0,
+"total_units": 86.0,
+"complete_units": 0.0
+},
+"cinemax": {
+"matched_code_percent": 57.5798,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 3008.0,
+"matched_code": 1732.0,
+"total_data": 116.0,
+"total_functions": 13.0,
+"matched_functions": 12.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"mcardx": {
+"matched_code_percent": 69.7802,
+"complete_code_percent": 0.0,
+"matched_data_percent": 72.1311,
+"complete_data_percent": 0.0,
+"total_code": 8008.0,
+"matched_code": 5588.0,
+"total_data": 732.0,
+"total_functions": 60.0,
+"matched_functions": 59.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"hunter": {
+"matched_code_percent": 57.3984,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2460.0,
+"matched_code": 1412.0,
+"total_data": 104.0,
+"total_functions": 7.0,
+"matched_functions": 6.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"skinner": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 0.0,
+"total_code": 2928.0,
+"matched_code": 2928.0,
+"total_data": 92.0,
+"total_functions": 16.0,
+"matched_functions": 16.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"wallcr": {
+"matched_code_percent": 63.0237,
+"complete_code_percent": 0.0,
+"matched_data_percent": 66.6667,
+"complete_data_percent": 0.0,
+"total_code": 11456.0,
+"matched_code": 7220.0,
+"total_data": 252.0,
+"total_functions": 52.0,
+"matched_functions": 46.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"aluka": {
+"matched_code_percent": 90.7494,
+"complete_code_percent": 0.0,
+"matched_data_percent": 89.4231,
+"complete_data_percent": 0.0,
+"total_code": 23220.0,
+"matched_code": 21072.0,
+"total_data": 416.0,
+"total_functions": 95.0,
+"matched_functions": 90.0,
+"total_units": 2.0,
+"complete_units": 0.0
+},
+"skinbos": {
+"matched_code_percent": 88.0779,
+"complete_code_percent": 0.0,
+"matched_data_percent": 48.0,
+"complete_data_percent": 0.0,
+"total_code": 11508.0,
+"matched_code": 10136.0,
+"total_data": 300.0,
+"total_functions": 38.0,
+"matched_functions": 37.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"kain": {
+"matched_code_percent": 96.5931,
+"complete_code_percent": 0.0,
+"matched_data_percent": 42.8571,
+"complete_data_percent": 0.0,
+"total_code": 10332.0,
+"matched_code": 9980.0,
+"total_data": 224.0,
+"total_functions": 30.0,
+"matched_functions": 29.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walboss": {
+"matched_code_percent": 71.1996,
+"complete_code_percent": 0.0,
+"matched_data_percent": 60.0,
+"complete_data_percent": 0.0,
+"total_code": 8736.0,
+"matched_code": 6220.0,
+"total_data": 240.0,
+"total_functions": 40.0,
+"matched_functions": 33.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"walbosb": {
+"matched_code_percent": 95.6925,
+"complete_code_percent": 0.0,
+"matched_data_percent": 60.0,
+"complete_data_percent": 0.0,
+"total_code": 7336.0,
+"matched_code": 7020.0,
+"total_data": 260.0,
+"total_functions": 35.0,
+"matched_functions": 34.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"alukabss": {
+"matched_code_percent": 91.4223,
+"complete_code_percent": 0.0,
+"matched_data_percent": 76.087,
+"complete_data_percent": 0.0,
+"total_code": 5456.0,
+"matched_code": 4988.0,
+"total_data": 184.0,
+"total_functions": 29.0,
+"matched_functions": 28.0,
+"total_units": 1.0,
+"complete_units": 0.0
+},
+"roninbss": {
+"matched_code_percent": 81.9006,
+"complete_code_percent": 0.0,
+"matched_data_percent": 63.0769,
+"complete_data_percent": 0.0,
+"total_code": 10144.0,
+"matched_code": 8308.0,
+"total_data": 260.0,
+"total_functions": 34.0,
+"matched_functions": 33.0,
+"total_units": 1.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -9090,7 +9657,7 @@
 "alukabss": "Rahab Overlay",
 "roninbss": "Dumah Overlay"
 },
-"units_time": "2026-11-17T07:20:13Z",
+"units_time": "2026-11-17T08:15:33Z",
 "units": [
 [
 "Game/FONT",
@@ -9473,7 +10040,7 @@
 [
 "Overlays/skinbos/skinbos",
 11508,
-75.0,
+99.76,
 0,
 [
 "skinbos"
@@ -9491,7 +10058,7 @@
 [
 "Overlays/walboss/walboss",
 8736,
-71.65,
+97.82,
 0,
 [
 "walboss"
@@ -9500,7 +10067,7 @@
 [
 "Overlays/alukabss/alukabss",
 5456,
-78.68,
+99.97,
 0,
 [
 "aluka",
@@ -9510,7 +10077,7 @@
 [
 "Overlays/roninbss/roninbss",
 10144,
-81.96,
+99.15,
 0,
 [
 "roninbss"
@@ -9519,7 +10086,7 @@
 [
 "Overlays/aluka/aluka",
 17764,
-65.17,
+99.71,
 0,
 [
 "aluka"
@@ -9537,7 +10104,7 @@
 [
 "Overlays/kain/kain",
 10332,
-61.95,
+99.67,
 0,
 [
 "kain"
@@ -9546,7 +10113,7 @@
 [
 "Overlays/hunter/hunter",
 2460,
-57.63,
+98.94,
 0,
 [
 "hunter"
@@ -9555,7 +10122,7 @@
 [
 "Overlays/wallcr/wallcr",
 11456,
-63.32,
+95.56,
 0,
 [
 "wallcr"
@@ -9564,7 +10131,7 @@
 [
 "Overlays/walbosb/walbosb",
 7336,
-95.77,
+99.55,
 0,
 [
 "walbosb"
