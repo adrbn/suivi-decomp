@@ -17857,6 +17857,78 @@
 }
 },
 {
+"sha": "91b9d5fa48293b5b96948f1586a9548a66fddca3",
+"time": "2026-11-15T19:10:16Z",
+"message": "match externalmic",
+"measures": {
+"matched_code_percent": 54.0035,
+"complete_code_percent": 34.2212,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.2372,
+"total_code": 12206380.0,
+"matched_code": 6591868.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29478.0,
+"total_units": 2230.0,
+"complete_units": 753.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.2288,
+"complete_code_percent": 54.3875,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.4197,
+"total_code": 5888864.0,
+"matched_code": 5372340.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24754.0,
+"total_units": 810.0,
+"complete_units": 611.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
 "sha": "56b085d786b2616dde6ac09e569e8a8d53b90ada",
 "time": "2026-11-15T19:46:19Z",
 "message": "voice context",
@@ -18719,6 +18791,150 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "bb6357fce6ab70f0b2b0323f8bef80e003d326ac",
+"time": "2026-11-18T01:49:54Z",
+"message": "more voice360 yay",
+"measures": {
+"matched_code_percent": 54.0739,
+"complete_code_percent": 34.2782,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.3422,
+"total_code": 12206380.0,
+"matched_code": 6600464.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29507.0,
+"total_units": 2230.0,
+"complete_units": 757.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.3748,
+"complete_code_percent": 54.5058,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.736,
+"total_code": 5888864.0,
+"matched_code": 5380936.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24783.0,
+"total_units": 810.0,
+"complete_units": 615.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "cec42aa803a472d4703e5a7e63b0ce554fa488b5",
+"time": "2026-11-18T02:42:37Z",
+"message": "voice thread entry work",
+"measures": {
+"matched_code_percent": 54.0839,
+"complete_code_percent": 34.2782,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 26.3422,
+"total_code": 12206380.0,
+"matched_code": 6601692.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29517.0,
+"total_units": 2230.0,
+"complete_units": 757.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.4713,
+"complete_code_percent": 75.8293,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 77.8606,
+"total_code": 1283768.0,
+"matched_code": 1212792.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4667.0,
+"total_units": 158.0,
+"complete_units": 140.0
+},
+"engine": {
+"matched_code_percent": 91.3956,
+"complete_code_percent": 54.5058,
+"matched_data_percent": 18.308,
+"complete_data_percent": 57.736,
+"total_code": 5888864.0,
+"matched_code": 5382164.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24793.0,
+"total_units": 810.0,
+"complete_units": 615.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -18729,7 +18945,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-17T03:58:46Z",
+"units_time": "2026-11-18T02:42:37Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -35004,7 +35220,7 @@
 [
 "default/system/synth360/Voice",
 14652,
-58.56,
+87.69,
 0,
 [
 "engine"
