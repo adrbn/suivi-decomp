@@ -22272,6 +22272,228 @@
 "complete_units": 26.0
 }
 }
+},
+{
+"sha": "4b2a52616938a4805dade352803da14354b27b4f",
+"time": "2026-11-19T15:54:15Z",
+"message": "More Ride symbols (#65)",
+"measures": {
+"matched_code_percent": 20.0488,
+"complete_code_percent": 2.5743,
+"matched_data_percent": 11.1359,
+"complete_data_percent": 2.4254,
+"total_code": 6269260.0,
+"matched_code": 1256912.0,
+"total_data": 1702599.0,
+"total_functions": 50348.0,
+"matched_functions": 8480.0,
+"total_units": 2487.0,
+"complete_units": 162.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.6631,
+"complete_code_percent": 1.3564,
+"matched_data_percent": 4.2298,
+"complete_data_percent": 2.8899,
+"total_code": 4962092.0,
+"matched_code": 281008.0,
+"total_data": 724555.0,
+"total_functions": 43818.0,
+"matched_functions": 2998.0,
+"total_units": 1774.0,
+"complete_units": 60.0
+},
+"jsys": {
+"matched_code_percent": 86.1674,
+"complete_code_percent": 0.3181,
+"matched_data_percent": 9.3666,
+"complete_data_percent": 0.0,
+"total_code": 360944.0,
+"matched_code": 311016.0,
+"total_data": 180172.0,
+"total_functions": 2942.0,
+"matched_functions": 2654.0,
+"total_units": 169.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
+},
+{
+"sha": "7c4c9dbff5fa1e17b70160eb41f6cbfad68183e4",
+"time": "2026-11-19T18:25:08Z",
+"message": "Move `SledRopePoint` from Petari",
+"measures": {
+"matched_code_percent": 20.2562,
+"complete_code_percent": 2.7817,
+"matched_data_percent": 11.177,
+"complete_data_percent": 2.4769,
+"total_code": 6269260.0,
+"matched_code": 1269912.0,
+"total_data": 1702599.0,
+"total_functions": 50348.0,
+"matched_functions": 8550.0,
+"total_units": 2487.0,
+"complete_units": 165.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 5.9251,
+"complete_code_percent": 1.6184,
+"matched_data_percent": 4.3264,
+"complete_data_percent": 3.0108,
+"total_code": 4962092.0,
+"matched_code": 294008.0,
+"total_data": 724555.0,
+"total_functions": 43818.0,
+"matched_functions": 3068.0,
+"total_units": 1774.0,
+"complete_units": 63.0
+},
+"jsys": {
+"matched_code_percent": 86.1674,
+"complete_code_percent": 0.3181,
+"matched_data_percent": 9.3666,
+"complete_data_percent": 0.0,
+"total_code": 360944.0,
+"matched_code": 311016.0,
+"total_data": 180172.0,
+"total_functions": 2942.0,
+"matched_functions": 2654.0,
+"total_units": 169.0,
+"complete_units": 3.0
+},
+"sdk": {
+"matched_code_percent": 71.2216,
+"complete_code_percent": 0.0,
+"matched_data_percent": 18.9694,
+"complete_data_percent": 0.0,
+"total_code": 720472.0,
+"matched_code": 513132.0,
+"total_data": 635888.0,
+"total_functions": 2688.0,
+"matched_functions": 2213.0,
+"total_units": 277.0,
+"complete_units": 0.0
+},
+"rfl": {
+"matched_code_percent": 55.3656,
+"complete_code_percent": 0.6675,
+"matched_data_percent": 32.0186,
+"complete_data_percent": 14.1531,
+"total_code": 39548.0,
+"matched_code": 21896.0,
+"total_data": 3448.0,
+"total_functions": 119.0,
+"matched_functions": 70.0,
+"total_units": 13.0,
+"complete_units": 3.0
+},
+"nw4r": {
+"matched_code_percent": 49.6106,
+"complete_code_percent": 1.0192,
+"matched_data_percent": 9.7624,
+"complete_data_percent": 2.0552,
+"total_code": 76532.0,
+"matched_code": 37968.0,
+"total_data": 6228.0,
+"total_functions": 361.0,
+"matched_functions": 269.0,
+"total_units": 27.0,
+"complete_units": 5.0
+},
+"msl": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 63224.0,
+"matched_code": 63224.0,
+"total_data": 9368.0,
+"total_functions": 134.0,
+"matched_functions": 134.0,
+"total_units": 65.0,
+"complete_units": 65.0
+},
+"trk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 28668.0,
+"matched_code": 28668.0,
+"total_data": 10372.0,
+"total_functions": 142.0,
+"matched_functions": 142.0,
+"total_units": 26.0,
+"complete_units": 26.0
+}
+}
 }
 ],
 "branch": "main",
@@ -22285,7 +22507,7 @@
 "msl": "MSL_C Code",
 "trk": "MetroTRK Code"
 },
-"units_time": "2026-11-18T17:13:08Z",
+"units_time": "2026-11-19T18:25:08Z",
 "units": [
 [
 "main/Game/Util/ActionSoundUtil",
@@ -35204,8 +35426,8 @@
 [
 "main/Game/Ride/SledRopePoint",
 564,
-0.0,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -35239,18 +35461,18 @@
 ],
 [
 "main/Game/Ride/SwingRope",
-11536,
-0.0,
-0,
+10684,
+100.0,
+1,
 [
 "game"
 ]
 ],
 [
 "main/Game/Ride/SwingRopePoint",
-900,
-0.0,
-0,
+1752,
+100.0,
+1,
 [
 "game"
 ]
@@ -35285,7 +35507,7 @@
 [
 "main/Game/Ride/TubeSlider",
 11200,
-30.66,
+90.72,
 0,
 [
 "game"
@@ -35330,7 +35552,7 @@
 [
 "main/Game/Ride/TubeSliderFunction",
 3400,
-40.55,
+94.91,
 0,
 [
 "game"

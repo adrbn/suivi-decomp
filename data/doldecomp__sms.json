@@ -9262,6 +9262,65 @@
 "complete_units": 148.0
 }
 }
+},
+{
+"sha": "b3d1a2237e297be68b916db8c5fbadd01df141a4",
+"time": "2026-11-19T09:19:10Z",
+"message": "Kukku inlining figured out",
+"measures": {
+"matched_code_percent": 51.8155,
+"complete_code_percent": 19.3526,
+"matched_data_percent": 80.4834,
+"complete_data_percent": 23.8005,
+"total_code": 3603696.0,
+"matched_code": 1867272.0,
+"total_data": 641075.0,
+"total_functions": 12905.0,
+"matched_functions": 10392.0,
+"total_units": 732.0,
+"complete_units": 415.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 41.1596,
+"complete_code_percent": 4.2315,
+"matched_data_percent": 77.6024,
+"complete_data_percent": 14.0808,
+"total_code": 2847660.0,
+"matched_code": 1172084.0,
+"total_data": 558292.0,
+"total_functions": 9012.0,
+"matched_functions": 6577.0,
+"total_units": 385.0,
+"complete_units": 94.0
+},
+"jsystem": {
+"matched_code_percent": 88.0789,
+"complete_code_percent": 64.7086,
+"matched_data_percent": 99.8505,
+"complete_data_percent": 81.7004,
+"total_code": 504316.0,
+"matched_code": 444196.0,
+"total_data": 48176.0,
+"total_functions": 2878.0,
+"matched_functions": 2801.0,
+"total_units": 198.0,
+"complete_units": 173.0
+},
+"sdk": {
+"matched_code_percent": 99.7108,
+"complete_code_percent": 99.5439,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 251720.0,
+"matched_code": 250992.0,
+"total_data": 34607.0,
+"total_functions": 1015.0,
+"matched_functions": 1014.0,
+"total_units": 149.0,
+"complete_units": 148.0
+}
+}
 }
 ],
 "branch": "main",
@@ -9271,7 +9330,7 @@
 "jsystem": "JSystem Middleware",
 "sdk": "SDK Code"
 },
-"units_time": "2026-11-18T22:53:01Z",
+"units_time": "2026-11-19T09:19:10Z",
 "units": [
 [
 "mario/main",
@@ -10428,7 +10487,7 @@
 [
 "mario/Enemy/Kukku",
 10464,
-99.41,
+99.77,
 0,
 [
 "game"
