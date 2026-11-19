@@ -1913,6 +1913,39 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "44b98218c34ea7af66208d473f5547f26df3fa92",
+"time": "2026-11-18T20:48:03Z",
+"message": "decompiled (jp) and revisited (us,eu) ingame/menu/ig_glst.c",
+"measures": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+},
+"categories": {
+"eu": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 1193488.0,
+"matched_code": 1193488.0,
+"total_data": 0.0,
+"total_functions": 3464.0,
+"matched_functions": 3464.0,
+"total_units": 155.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -1920,7 +1953,7 @@
 "category_names": {
 "eu": "Project Zero"
 },
-"units_time": "2026-11-14T18:54:49Z",
+"units_time": "2026-11-18T20:48:03Z",
 "units": [
 [
 "main/main",
