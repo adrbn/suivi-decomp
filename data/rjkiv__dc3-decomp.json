@@ -19583,6 +19583,222 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "a0e0e276bd7f39b8e266fafe114b908f546ad1e0",
+"time": "2026-11-20T02:34:45Z",
+"message": "match helpbarpanel",
+"measures": {
+"matched_code_percent": 54.3985,
+"complete_code_percent": 35.9077,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.3282,
+"total_code": 12206380.0,
+"matched_code": 6640092.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29609.0,
+"total_units": 2230.0,
+"complete_units": 765.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.962,
+"complete_code_percent": 78.7476,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 80.0403,
+"total_code": 1283768.0,
+"matched_code": 1219092.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4675.0,
+"total_units": 158.0,
+"complete_units": 143.0
+},
+"engine": {
+"matched_code_percent": 91.9407,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414264.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24877.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "17cb5f38864571c062439a7cdcb1334646b4dfc9",
+"time": "2026-11-20T03:18:45Z",
+"message": "match campaign",
+"measures": {
+"matched_code_percent": 54.4173,
+"complete_code_percent": 36.0699,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.4607,
+"total_code": 12206380.0,
+"matched_code": 6642384.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29610.0,
+"total_units": 2230.0,
+"complete_units": 766.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 95.1406,
+"complete_code_percent": 80.2902,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 81.4767,
+"total_code": 1283768.0,
+"matched_code": 1221384.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4676.0,
+"total_units": 158.0,
+"complete_units": 144.0
+},
+"engine": {
+"matched_code_percent": 91.9407,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414264.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24877.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "cb7cf63d1ad6871e71a1076cdddc9531042d7038",
+"time": "2026-11-20T04:38:30Z",
+"message": "some improvement to PlatformMgr::UpdateSigninState (#378)",
+"measures": {
+"matched_code_percent": 54.4173,
+"complete_code_percent": 36.0699,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.4607,
+"total_code": 12206380.0,
+"matched_code": 6642384.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29610.0,
+"total_units": 2230.0,
+"complete_units": 766.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 95.1406,
+"complete_code_percent": 80.2902,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 81.4767,
+"total_code": 1283768.0,
+"matched_code": 1221384.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4676.0,
+"total_units": 158.0,
+"complete_units": 144.0
+},
+"engine": {
+"matched_code_percent": 91.9407,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414264.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24877.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -19593,7 +19809,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-19T19:52:56Z",
+"units_time": "2026-11-20T04:38:30Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -22829,7 +23045,7 @@
 [
 "default/system/os/PlatformMgr_Xbox",
 32044,
-95.25,
+95.29,
 0,
 [
 "engine"
@@ -26150,8 +26366,8 @@
 [
 "default/lazer/meta_ham/HamSongMgr",
 23716,
-99.99,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -26159,7 +26375,7 @@
 [
 "default/lazer/meta_ham/MetaPerformer",
 50420,
-99.52,
+99.62,
 0,
 [
 "game"
@@ -26276,8 +26492,8 @@
 [
 "default/lazer/meta_ham/HelpBarPanel",
 11176,
-99.93,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -26465,8 +26681,8 @@
 [
 "default/lazer/meta_ham/Campaign",
 19804,
-99.96,
-0,
+100.0,
+1,
 [
 "game"
 ]
@@ -27068,8 +27284,8 @@
 [
 "default/lazer/meta_ham/PlaylistSongProvider",
 2572,
-92.11,
-0,
+100.0,
+1,
 [
 "game"
 ]

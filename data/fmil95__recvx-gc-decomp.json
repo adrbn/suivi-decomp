@@ -176,6 +176,65 @@
 "complete_units": 0.0
 }
 }
+},
+{
+"sha": "095089bd1a6d377abf24250d5b3fe75a4a175e53",
+"time": "2026-11-19T20:54:14Z",
+"message": "Update License",
+"measures": {
+"matched_code_percent": 0.6837,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0142,
+"complete_data_percent": 0.0,
+"total_code": 2353064.0,
+"matched_code": 16088.0,
+"total_data": 2796050.0,
+"total_functions": 6450.0,
+"matched_functions": 186.0,
+"total_units": 1816.0,
+"complete_units": 0.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 1.8089,
+"complete_code_percent": 0.0,
+"matched_data_percent": 1.4313,
+"complete_data_percent": 0.0,
+"total_code": 841164.0,
+"matched_code": 15216.0,
+"total_data": 27108.0,
+"total_functions": 1753.0,
+"matched_functions": 164.0,
+"total_units": 68.0,
+"complete_units": 0.0
+},
+"criware": {
+"matched_code_percent": 9.7539,
+"complete_code_percent": 0.0,
+"matched_data_percent": 33.3333,
+"complete_data_percent": 0.0,
+"total_code": 8940.0,
+"matched_code": 872.0,
+"total_data": 24.0,
+"total_functions": 59.0,
+"matched_functions": 22.0,
+"total_units": 4.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 100.0,
+"complete_code_percent": 100.0,
+"matched_data_percent": 100.0,
+"complete_data_percent": 100.0,
+"total_code": 0.0,
+"matched_code": 0.0,
+"total_data": 0.0,
+"total_functions": 0.0,
+"matched_functions": 0.0,
+"total_units": 0.0,
+"complete_units": 0.0
+}
+}
 }
 ],
 "branch": "main",
@@ -185,7 +244,7 @@
 "criware": "Criware Code",
 "sdk": "SDK Code"
 },
-"units_time": "2026-08-05T12:36:10Z",
+"units_time": "2026-11-19T20:54:14Z",
 "units": [
 [
 "main/ngc/veronica/prog/ngc_NaMem",
@@ -12945,5 +13004,6 @@
 0,
 []
 ]
-]
+],
+"workflow": 193657249
 }
