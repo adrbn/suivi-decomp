@@ -19585,6 +19585,78 @@
 }
 },
 {
+"sha": "62018c55d6c97d7a6154cb899bc0253943a8271e",
+"time": "2026-11-20T02:31:01Z",
+"message": "metaperformer improvement",
+"measures": {
+"matched_code_percent": 54.3892,
+"complete_code_percent": 35.8161,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.2626,
+"total_code": 12206380.0,
+"matched_code": 6638948.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29608.0,
+"total_units": 2230.0,
+"complete_units": 764.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 94.8729,
+"complete_code_percent": 77.877,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 79.3288,
+"total_code": 1283768.0,
+"matched_code": 1217948.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4674.0,
+"total_units": 158.0,
+"complete_units": 142.0
+},
+"engine": {
+"matched_code_percent": 91.9407,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414264.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24877.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
 "sha": "a0e0e276bd7f39b8e266fafe114b908f546ad1e0",
 "time": "2026-11-20T02:34:45Z",
 "message": "match helpbarpanel",
@@ -19758,6 +19830,78 @@
 "matched_functions": 4676.0,
 "total_units": 158.0,
 "complete_units": 144.0
+},
+"engine": {
+"matched_code_percent": 91.9407,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414264.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24877.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
+},
+{
+"sha": "967ff44d1d2d553780df599f7371652c528795bf",
+"time": "2026-11-20T15:19:44Z",
+"message": "kinectsharepanel matched (#377)",
+"measures": {
+"matched_code_percent": 54.4503,
+"complete_code_percent": 36.1527,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.5492,
+"total_code": 12206380.0,
+"matched_code": 6646412.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29614.0,
+"total_units": 2230.0,
+"complete_units": 767.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 95.4543,
+"complete_code_percent": 81.077,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 82.4361,
+"total_code": 1283768.0,
+"matched_code": 1225412.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4680.0,
+"total_units": 158.0,
+"complete_units": 145.0
 },
 "engine": {
 "matched_code_percent": 91.9407,
@@ -20015,6 +20159,78 @@
 "complete_units": 2.0
 }
 }
+},
+{
+"sha": "263a0036e8a9ec5f4f40cd0313560853767372e2",
+"time": "2026-11-20T23:09:07Z",
+"message": "match PlatformMgr::UpdateSigninState(void) (#379)",
+"measures": {
+"matched_code_percent": 54.4682,
+"complete_code_percent": 36.2391,
+"matched_data_percent": 7.6553,
+"complete_data_percent": 27.6241,
+"total_code": 12206380.0,
+"matched_code": 6648596.0,
+"total_data": 4919416.0,
+"total_functions": 46590.0,
+"matched_functions": 29620.0,
+"total_units": 2230.0,
+"complete_units": 768.0
+},
+"categories": {
+"game": {
+"matched_code_percent": 95.598,
+"complete_code_percent": 81.8986,
+"matched_data_percent": 16.8565,
+"complete_data_percent": 83.2491,
+"total_code": 1283768.0,
+"matched_code": 1227256.0,
+"total_data": 453640.0,
+"total_functions": 4782.0,
+"matched_functions": 4685.0,
+"total_units": 158.0,
+"complete_units": 146.0
+},
+"engine": {
+"matched_code_percent": 91.9465,
+"complete_code_percent": 57.2471,
+"matched_data_percent": 18.308,
+"complete_data_percent": 60.1014,
+"total_code": 5888864.0,
+"matched_code": 5414604.0,
+"total_data": 1632692.0,
+"total_functions": 26009.0,
+"matched_functions": 24878.0,
+"total_units": 810.0,
+"complete_units": 620.0
+},
+"lib": {
+"matched_code_percent": 0.0,
+"complete_code_percent": 0.0,
+"matched_data_percent": 0.0,
+"complete_data_percent": 0.0,
+"total_code": 78568.0,
+"matched_code": 0.0,
+"total_data": 3728.0,
+"total_functions": 184.0,
+"matched_functions": 0.0,
+"total_units": 18.0,
+"complete_units": 0.0
+},
+"sdk": {
+"matched_code_percent": 0.136,
+"complete_code_percent": 0.0179,
+"matched_data_percent": 0.0783,
+"complete_data_percent": 0.0015,
+"total_code": 4953668.0,
+"matched_code": 6736.0,
+"total_data": 1552308.0,
+"total_functions": 15603.0,
+"matched_functions": 57.0,
+"total_units": 1223.0,
+"complete_units": 2.0
+}
+}
 }
 ],
 "branch": "main",
@@ -20025,7 +20241,7 @@
 "lib": "Third-Party Libraries",
 "sdk": "XDK Code"
 },
-"units_time": "2026-11-20T18:55:55Z",
+"units_time": "2026-11-20T23:09:07Z",
 "units": [
 [
 "default/xdk/xapilibi/xam",
@@ -23261,7 +23477,7 @@
 [
 "default/system/os/PlatformMgr_Xbox",
 32044,
-95.29,
+95.58,
 0,
 [
 "engine"
